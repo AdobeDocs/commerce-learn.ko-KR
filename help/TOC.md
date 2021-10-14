@@ -1,9 +1,9 @@
 ---
 user-guide-title: 비디오 및 Tutorials
 user-guide-description: Adobe Commerce 및 Magento Open Source을 위한 비디오 및 자습서 모음입니다.
-source-git-commit: 84481eda6064560e7aeedef3899f07a8d3a75fd4
+source-git-commit: fe3f7c31f35435eb8e131e84b3028cb9faa1e9c9
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Adobe Commerce 비디오 및 Tutorials {#tutorials}
 
-+ [[!DNL Commerce] 비디오 및 Tutorials](overview.md) {#overview}
++ [[!DNL Commerce] 비디오 및 Tutorials](overview.md)
 
 + 시작하기 {#getting-started}
    + [!DNL Commerce] 클라우드 인프라  {#cloud}
@@ -74,7 +74,7 @@ ht-degree: 0%
    + [페이지 만들기](developer/create-new-page.md)
 
 + PWA Studio {#pwa-studio}
-   + PWA Studio {#introduction}s 소개
+   + PWA Studio {#introduction} 소개
       + [1 - 개요](./pwa/introduction/1-overview.md)
       + [2 - PWA Studio 도구](./pwa/introduction/2-pwa-studio-tools.md)
       + [3 - 시작](pwa/introduction/3-launch.md)
