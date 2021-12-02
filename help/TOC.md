@@ -1,9 +1,9 @@
 ---
 user-guide-title: 비디오 및 Tutorials
 user-guide-description: Adobe Commerce 및 Magento Open Source을 위한 비디오 및 자습서 모음입니다.
-source-git-commit: fe3f7c31f35435eb8e131e84b3028cb9faa1e9c9
+source-git-commit: fb684287e45698251e501cfc4efdaa7a187417b5
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -14,14 +14,14 @@ ht-degree: 0%
 + [[!DNL Commerce] 비디오 및 Tutorials](overview.md)
 
 + 시작하기 {#getting-started}
-   + [!DNL Commerce] 클라우드 인프라  {#cloud}
+   + [!DNL Commerce] 클라우드 인프라 {#cloud}
       + [1 - 개요](./cloud/1-overview.md)
       + [2 - 호스팅된 계정](./cloud/2-accounts.md)
       + [3 - 클라우드 프로젝트](./cloud/3-projects.md)
       + [4 - 배포](./cloud/4-deployment.md)
       + [5 - 개발](./cloud/5-dev-config.md)
       + [6 - 서비스 및 DNS](./cloud/6-launch.md)
-   + [!DNL Commerce] 개발자용  {#development}
+   + [!DNL Commerce] 개발자용 {#development}
       + [1.1 - 개요](./developer/backend-1-1-overview.md)
       + [1.2 - 개발 워크플로우](./developer/backend-1-2-workflow.md)
       + [2 - 설치](./developer/backend-2-install.md)
@@ -30,9 +30,9 @@ ht-degree: 0%
       + [5.1 - 개발 기본 사항](./developer/backend-5-1-dev-basics.md)
       + [5.2 - 선언적 스키마](./developer/backend-5-2-declarative-schema.md)
       + [5.3 - 라우팅](./developer/backend-5-3-routing.md)
-      + [5.4 - [!DNL Admin] 페이지 만들기](./developer/backend-5-4-admin-page.md)
+      + [5.4 - 만들기 [!DNL Admin] 페이지](./developer/backend-5-4-admin-page.md)
       + [6 - 연습](./developer/backend-6-practice.md)
-   + [!DNL Commerce] 비즈니스 사용자  {#merchants}
+   + [!DNL Commerce] 비즈니스 사용자 {#merchants}
       + [1.1 - [!DNL Admin] 메뉴](./merchant/introduction/1-1-menus.md)
       + [1.2 - 데이터 그리드](./merchant/introduction/1-2-data-grids.md)
       + [1.3 - 범위, 사이트 및 저장소](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
@@ -55,6 +55,19 @@ ht-degree: 0%
       + [5.1 - Storefront 경험](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2 - 고객 관리](./merchant/introduction/5-2-customer-management.md)
       + [5.3 - 이메일 통신](./merchant/introduction/5-3-store-communications.md)
+   + [!DNL Business Intelligence] {#business-intelligence}
+      + [1 - 개요](./merchant/business-intelligence/1-overview.md)
+      + [2 - 데이터 웨어하우징](./merchant/business-intelligence/2-data-warehousing.md)
+      + [3 - 보고서 작성](./merchant/business-intelligence/3-build-reports.md)
+      + [4 - 지표](./merchant/business-intelligence/4-metrics.md)
+      + [5 - 표준 보고서](./merchant/business-intelligence/5-standard-reports.md)
+      + [6 - 요약](./merchant/business-intelligence/6-executive-summary-dashboard.md)
+      + [7 - 주문 대시보드](./merchant/business-intelligence/7-orders-dashboard.md)
+      + [8 - 고객 중심의 대시보드](./merchant/business-intelligence/8-customer-focused-dashboards.md)
+      + [9 - 카테고리 분석](./merchant/business-intelligence/9-category-analysis.md)
+      + [10 - 투자 추적 수익률](./merchant/business-intelligence/10-roi-tracking.md)
+      + [11 - 결과 공유 및 데이터 내보내기](./merchant/business-intelligence/11-share-results-export-data.md)
+      + [12 - 고객 성공 사례](./merchant/business-intelligence/12-customer-success.md)
 
 + 백엔드 개발 {#backend-development}
    + [데이터베이스에 새 테이블 추가](./developer/add-new-db-table.md)
@@ -62,7 +75,7 @@ ht-degree: 0%
    + [새 제품 속성 추가](./developer/add-product-attribute.md)
    + [종속성 삽입 예](./developer/dependency-injection.md)
 
-+ 프런트 엔드 개발 {#frontend-development}
++ 프론트엔드 개발 {#frontend-development}
    + 페이지 빌더 {#page-builder}
       + [1 - 소개](./developer/page-builder/1-intro-case-studies.md)
       + [2 - 구성 및 컨텐츠](./developer/page-builder/2-config-create-content.md)
@@ -74,7 +87,7 @@ ht-degree: 0%
    + [페이지 만들기](developer/create-new-page.md)
 
 + PWA Studio {#pwa-studio}
-   + PWA Studio {#introduction} 소개
+   + PWA Studio 소개 {#introduction}
       + [1 - 개요](./pwa/introduction/1-overview.md)
       + [2 - PWA Studio 도구](./pwa/introduction/2-pwa-studio-tools.md)
       + [3 - 시작](pwa/introduction/3-launch.md)

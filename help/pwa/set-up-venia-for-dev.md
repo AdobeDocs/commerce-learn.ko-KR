@@ -6,9 +6,9 @@ kt: 5564
 doc-type: video
 activity: use
 exl-id: 208d096a-139b-4e08-85c9-fad181dc8cdb
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: de19943b401343664da468d65844ec10ee8670fb
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
@@ -26,4 +26,4 @@ ht-degree: 0%
 
 ## 유용한 리소스
 
-[PWA Studio 안내서 - Venia 설정](https://magento.github.io/pwa-studio/venia-pwa-concept/setup/)
+[PWA Studio 안내서 - Venia 설정](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)
