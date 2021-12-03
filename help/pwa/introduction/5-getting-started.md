@@ -1,12 +1,12 @@
 ---
 title: 개발자를 위한 PWA Studio - 프로젝트 설정
-description: 로컬 SSL 인증서 생성, 빌드 ​ 팩 CLI 명령 등 새로운 PWA Studio 프로젝트를 시작합니다.
+description: 로컬 SSL 인증서 생성, 빌드 팩 CLI 명령 등 새로운 PWA Studio 프로젝트를 시작합니다.
 topic: Development
 kt: 5648
 doc-type: video
 activity: use
 exl-id: 92d3dae7-1b3d-4c07-985f-f0c5cafda1a5
-source-git-commit: 1b08cf80f56295aaec6a84f529e4da63fdc232e2
+source-git-commit: 52fb9a6617ca5107de7fd4d78b96c358a1514947
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -18,8 +18,8 @@ ht-degree: 0%
 이 비디오에서는:
 
 - PWA Studio 시작
-- 초기 프로젝트 &#x200B; 설정
-- 로컬 SSL 인증서 &#x200B; 생성
+- 초기 프로젝트 설정
+- 로컬 SSL 인증서 생성
 - [!DNL Buildpack] CLI 명령
 
 ## 이 비디오 누구?
