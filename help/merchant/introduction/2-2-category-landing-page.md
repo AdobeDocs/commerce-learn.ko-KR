@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: c38aa97e-4688-42fa-b39f-1702ef1469be
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 6bde407baafa262a5f82d7780e993c90463e62c5
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -30,12 +30,14 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 및 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 릴리스 노트를 참조하십시오.
+>비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 및 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 릴리스 노트.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36388/?quality=12&learn=on)
 
 ## 추가 리소스
 
-[카테고리 컨텐츠 -  [!DNL Commerce] 사용 ](https://docs.magento.com/user-guide/catalog/categories-content-settings.html)
-[안내서디스플레이 설정 -  [!DNL Commerce] 사용 ](https://docs.magento.com/user-guide/catalog/categories-display-settings.html)
-[안내서디자인 설정 -  [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/catalog/categories-custom-design.html)
+[카테고리 컨텐츠 - [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/catalog/categories-content-settings.html)
+
+[표시 설정 - [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/catalog/categories-display-settings.html)
+
+[디자인 설정 - [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/catalog/categories-custom-design.html)

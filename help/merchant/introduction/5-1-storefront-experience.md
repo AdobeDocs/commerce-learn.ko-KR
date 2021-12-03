@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: d2498d42-fc51-48e0-8239-2ad199003961
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: aab81d4383df3a077a67aec3f73341af9f08c028
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -31,11 +31,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 및 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 릴리스 노트를 참조하십시오.
+>비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 및 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 릴리스 노트.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 
 ## 추가 리소스
 
-[고객 계정 -  [!DNL Commerce] 사용 ](https://docs.magento.com/user-guide/customers/customer-account.html)
-[안내서내 위시 목록 -  [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/customers/account-dashboard-my-wish-list.html)
+[고객 계정 - [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/customers/customer-account.html)
+
+[내 소망 목록 - [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/customers/account-dashboard-my-wish-list.html)

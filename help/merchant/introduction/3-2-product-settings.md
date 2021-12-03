@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 9022b101-91e1-44a0-819b-507f2c915d95
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 247830fab6383ad4805fc3e165f622407f2027fe
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -30,12 +30,14 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 및 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 릴리스 노트를 참조하십시오.
+>비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 및 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 릴리스 노트.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35953?quality=12&learn=on)
 
 ## 추가 리소스
 
-[제품 만들기 -  [!DNL Commerce] 사용 ](https://docs.magento.com/user-guide/catalog/product-create.html)
-[안내서제품 설정 -  [!DNL Commerce] 사용 ](https://docs.magento.com/user-guide/catalog/settings.html)
-[안내서제품 속성 -  [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/catalog/product-attributes.html)
+[제품 만들기 - [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/catalog/product-create.html)
+
+[제품 설정 - [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/catalog/settings.html)
+
+[제품 속성 - [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/catalog/product-attributes.html)

@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 53c35861-6ad9-4a22-a3e5-6fa2165c26ca
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 3963514c5613d7c12f284dcd41ec42ea38c3a8ea
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -31,5 +31,6 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-[웹 사이트, 저장소 및 보기 -  [!DNL Commerce] 사용 ](https://docs.magento.com/user-guide/stores/websites-stores-views.html)
-[안내서캐시 관리 -  [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/system/cache-management.html)
+[웹 사이트, 저장소 및 보기 - [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/stores/websites-stores-views.html)
+
+[캐시 관리 - [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/system/cache-management.html)

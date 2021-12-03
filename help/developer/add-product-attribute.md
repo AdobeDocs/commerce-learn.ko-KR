@@ -6,7 +6,7 @@ kt: 5602
 doc-type: video
 activity: use
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: c672d2685a9f1cd3412435912508891df5b8bd87
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # 제품 속성 만들기
 
-제품 속성을 추가하는 것은 [!DNL Commerce]에서 가장 많이 사용하는 작업 중 하나입니다. 속성은 제품과 관련된 많은 실용적인 작업을 해결하는 강력한 방법입니다. 제품에 드롭다운 유형 속성을 추가하는 간단한 프로세스가 있습니다.
+제품 속성을 추가는에서 가장 많이 사용되는 작업 중 하나입니다 [!DNL Commerce]. 속성은 제품과 관련된 많은 실용적인 작업을 해결하는 강력한 방법입니다. 제품에 드롭다운 유형 속성을 추가하는 간단한 프로세스가 있습니다.
 
 이 비디오에서는:
 
@@ -34,5 +34,6 @@ ht-degree: 0%
 
 ## 유용한 리소스
 
-[새 제품 AttributeCustom ](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/)
-[특성 추가](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html)
+[새 제품 속성 추가](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/)
+
+[사용자 지정 속성](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html)
