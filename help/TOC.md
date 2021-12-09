@@ -1,9 +1,9 @@
 ---
 user-guide-title: 비디오 및 Tutorials
 user-guide-description: Adobe Commerce 및 Magento Open Source을 위한 비디오 및 자습서 모음입니다.
-source-git-commit: fb684287e45698251e501cfc4efdaa7a187417b5
+source-git-commit: 493b06415253fa1e79e18001c8c9f35efcec630d
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -68,6 +68,15 @@ ht-degree: 0%
       + [10 - 투자 추적 수익률](./merchant/business-intelligence/10-roi-tracking.md)
       + [11 - 결과 공유 및 데이터 내보내기](./merchant/business-intelligence/11-share-results-export-data.md)
       + [12 - 고객 성공 사례](./merchant/business-intelligence/12-customer-success.md)
+
++ 관리자에서 작업 {#admin}
+   + [사용자, 역할 및 권한](./merchant/users-roles-permissions.md)
+   + [이중 인증](./merchant/two-factor-authentication.md)
+   + [웹 사이트, 저장소 및 저장소 보기 추가](./merchant/add-websites-stores-views.md)
+   + [저장소 URL 변경](./merchant/change-store-url.md)
+   + [사이트 맵 설정 저장](./merchant/site-map-setup.md)
+   + [프로모션 가격 규칙](./merchant/promotions-price-rules.md)
+   + [페이지 빌더 개요](./merchant/page-builder-overview.md)
 
 + 백엔드 개발 {#backend-development}
    + [데이터베이스에 새 테이블 추가](./developer/add-new-db-table.md)

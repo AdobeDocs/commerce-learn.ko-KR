@@ -1,0 +1,35 @@
+---
+title: 사용자, 역할 및 권한
+description: 액세스를 제어하는 데 사용되는 사용자 계정 및 권한에 대해 알아봅니다. [!DNL Commerce] 웹 사이트를 통해 데이터를 관리하고 관리자에게 저장합니다.
+kt: 5610
+doc-type: feature video
+audience: all
+activity: use
+source-git-commit: fbafe35c45ff36d847d4db05cc29aea115ba1125
+workflow-type: tm+mt
+source-wordcount: '186'
+ht-degree: 0%
+
+---
+
+
+# 사용자, 역할 및 권한
+
+액세스해야 하는 팀이나 서비스 공급자에 다른 사용자가 있는 경우, 각 사용자마다 별도의 사용자 계정을 만들고 비즈니스 요구 사항에 따라 제한된 액세스를 할당할 수 있습니다. 관리자가 액세스할 수 있는 웹 사이트 또는 저장소를 제한하려면 먼저 제한된 범위와 필요한 리소스만 선택한 역할을 만들어야 합니다. 그런 다음 특정 사용자 계정에 역할을 할당할 수 있습니다. 제한된 역할에 지정된 관리자는 역할과 연관된 웹 사이트 또는 스토어에 대해서만 데이터를 보고 변경할 수 있지만 전역 설정이나 데이터는 변경할 수 없습니다.
+
+## 이 비디오 누구?
+
+- 저장소 관리자
+
+## 비디오 컨텐츠
+
+>[!NOTE]
+>
+>비디오의 콘텐츠는 2.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 및 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 릴리스 노트.
+
+>[!VIDEO](https://video.tv.adobe.com/v/35788?quality=12&learn=on)
+
+## 추가 리소스
+
+- [사용자 추가](https://docs.magento.com/user-guide/system/permissions-users-all.html)
+- [사용자 역할](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
