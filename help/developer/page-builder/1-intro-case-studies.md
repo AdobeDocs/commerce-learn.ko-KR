@@ -1,14 +1,15 @@
 ---
 title: 개발자를 위한 Page Builder - 소개
 description: Page Builder 소개, Page Builder 기능 이해
+landing-page-description: 이 비디오 시리즈를 시청하여 페이지 빌더에 대해 알아보고, 페이지 빌더를 확장하여 최적의 페이지를 만드는 방법을 알아봅니다 [!DNL Commerce] storefront 경험.
 topic: Commerce, Development
 kt: 5650
 doc-type: video
 activity: use
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
-source-git-commit: 4f50dfb3ab23fcc9212e7810210b15840b634c2c
+source-git-commit: 74301d48821db74c67167096ba01699181feed8a
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -35,6 +36,5 @@ ht-degree: 0%
 
 ## 유용한 리소스
 
-[Page Builder 개발자 설명서](https://devdocs.magento.com/page-builder/docs/index.html)
-
-[Page Builder 사용자 설명서](https://docs.magento.com/user-guide/cms/page-builder.html)
+- [Page Builder 개발자 설명서](https://devdocs.magento.com/page-builder/docs/index.html)
+- [Page Builder 사용자 설명서](https://docs.magento.com/user-guide/cms/page-builder.html)

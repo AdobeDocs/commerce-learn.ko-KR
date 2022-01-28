@@ -1,14 +1,16 @@
 ---
 title: Adobe Commerce 2.4 업그레이드 워크숍
-description: 학습하려면 이 녹음된 웨비나를 시청하고, 2.4.4 이상에 대한 업그레이드 단계 및 우수 사례를 살펴보십시오.
+description: 2.4.4 이상에 대한 Adobe Commerce 업그레이드 단계 및 우수 사례를 살펴보려면 이 기록된 웨비나를 시청하십시오.
+landing-page-description: Adobe Commerce 2.4 업그레이드 단계 및 모범 사례에 대해 알아보려면 이 기록된 웨비나를 확인하십시오.
 kt: 9620
 doc-type: technical video
 role: Admin, Leader, Developer
 audience: all
 activity: use
-source-git-commit: 4b95e23e63895f52a5437eb7ce58146e91f23ebf
+exl-id: fba4a08b-5633-433b-bf87-fa85457e4578
+source-git-commit: 7b29026613fc14ba1f2db1bbd21d3ebff51d4377
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
