@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 비즈니스 사용자 - 사이트, 저장소 및 보기'
+title: '"[!DNL Commerce] 비즈니스 사용자 - 사이트, 저장소 및 보기"'
 description: 의 기본 사항을 알아봅니다 [!DNL Commerce] 아키텍처(웹 사이트, 저장소, 저장소 보기 및 응용 프로그램 범위 간의 차이점을 포함). 색인 지정 및 캐싱을 이해합니다.
 topic: Commerce
 kt: 5760
@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 858451cc-cbc3-471e-a2f1-148f879aba82
-source-git-commit: ada811496b7fa5a25f3a3deefaf1dcfa259ec4fe
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%

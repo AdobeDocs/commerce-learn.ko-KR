@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 비즈니스 사용자 - 고객 관리'
+title: '"[!DNL Commerce] 비즈니스 사용자 - 고객 관리"'
 description: 에서 고객을 만드는 고객 서비스에 대한 권장 권한에 대해 알아봅니다. [!DNL Admin], 고객 정보 관리 및 고객 그룹 생성
 topic: Commerce
 kt: 5779
@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 7a0743ff-03dd-49cc-9d41-6674b71a4480
-source-git-commit: 3e85c15d21a6c18309ac2376e4b96a6306ccadc0
+source-git-commit: 084cb6e106a50658044115751fedb63e36f8832e
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%

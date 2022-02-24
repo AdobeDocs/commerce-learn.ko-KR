@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Commerce] 개발자용 - 연습'
-description: 유용한 5가지 연습으로  [!DNL Commerce] 개발 작업을 연습하십시오.
+title: '"[!DNL Commerce] 개발자용 - 연습"'
+description: 연습 [!DNL Commerce] 5가지 유용한 연습을 사용한 개발 작업.
 kt: 5699
 doc-type: video
 topic: Development
@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36201.jpeg
 activity: use
 exl-id: 1fcf8b82-11a0-4567-a616-8a3728a88cb9
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -18,14 +18,14 @@ ht-degree: 0%
 
 # [!DNL Commerce] 개발자용 - 연습
 
-이 비디오에는 [!DNL Commerce] 개발 작업을 실행하는 5개의 연습이 있습니다.
+이 비디오에는 연습할 다섯 가지 연습이 있습니다 [!DNL Commerce] 개발 작업:
 
 - [!DNL Commerce] CLI
 - PHP 작성기
 - 인스턴스 업데이트
 - 손상된 모듈 고정
 - PHPUnit 테스트 쓰기 및 실행
-- [!DNL Admin] 페이지 만들기
+- 만들기 [!DNL Admin] 페이지
 
 [파일 다운로드 연습](./assets/FreeIntro2.3.1.zip)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 및 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 릴리스 노트를 참조하십시오.
+>비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 및 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 릴리스 노트.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36201?quality=12&learn=on)
 

@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 개발자용 - 개요'
+title: '"[!DNL Commerce] 개발자용 - 개요"'
 description: 상인, 웹 스토어 개발자 및 통합자 등 여러 대상의 관점에서 플랫폼의 기본 사항을 살펴볼 수 있습니다.
 landing-page-description: Commerce용 백엔드 개발 프로젝트에서 시작하려면 이 비디오 시리즈 를 시청하십시오.
 doc-type: video
@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36191.jpeg
 activity: use
 exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
-source-git-commit: fe1b7ac9f162e25ca078841e8c21cf0b2e78ad70
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%

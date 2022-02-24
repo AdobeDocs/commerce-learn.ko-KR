@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 비즈니스 사용자 - 이메일 커뮤니케이션'
+title: '"[!DNL Commerce] 비즈니스 사용자 - 이메일 커뮤니케이션"'
 description: 상점 내 작업에서 트리거되는 트랜잭션 이메일을 사용하여 고객과 커뮤니케이션합니다. 스토어의 이메일 템플릿을 사용자 지정하고 구성합니다.
 topic: Commerce
 kt: 5780
@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 91530766-07be-4466-879b-1b7bfc14ac10
-source-git-commit: 0342ad31cbae1dd5af211ea90784a08e7568e9ca
+source-git-commit: 084cb6e106a50658044115751fedb63e36f8832e
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%

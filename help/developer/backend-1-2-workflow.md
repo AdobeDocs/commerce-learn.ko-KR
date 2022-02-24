@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 개발자용 - 개발 워크플로우'
+title: '"[!DNL Commerce] 개발자용 - 개발 워크플로우"'
 description: Commerce를 위한 일반적인 개발 워크플로우에 대해 알아봅니다.
 kt: 5691
 doc-type: video
@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36193.jpeg
 activity: use
 exl-id: f6c0dcbc-a0ef-43fb-bc38-cc7692c73487
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Commerce Marketplace에 더 이상 **다운로드** 단추가 포함되지 않습니다. 확장을 설치하거나 업그레이드하려면 명령줄을 사용해야 합니다. 자세한 내용은 개발자 설명서에서 [일반 CLI 설치](https://devdocs.magento.com/extensions/install/) 항목을 참조하십시오.
+>Commerce Marketplace에 더 이상 **다운로드** 버튼을 클릭합니다. 확장을 설치하거나 업그레이드하려면 명령줄을 사용해야 합니다. 자세한 내용은 [일반 CLI 설치](https://devdocs.magento.com/extensions/install/) 개발자 설명서의 항목 을 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36193?quality=12&learn=on)
 

@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 비즈니스 사용자 - 역할 범위 및 권한'
+title: '"[!DNL Commerce] 비즈니스 사용자 - 역할 범위 및 권한"'
 description: 사이트 또는 스토어별로 역할 범위(Adobe Commerce에만 해당) 및 관련 권한을 정의하는 방법을 알아봅니다.
 topic: Commerce
 kt: 5763
@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: c655ef88-1ddf-4ba3-9ad3-1883c0c93ee2
-source-git-commit: cc755b9b630a382fa3703416588dfed0724452c9
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%

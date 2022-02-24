@@ -1,12 +1,12 @@
 ---
 title: 데이터베이스에 테이블 추가
-description: '[!DNL Commerce] 에는 데이터베이스 테이블을 만들고, 기존 테이블을 수정하고, 일부 데이터를 여기에 추가할 수 있는 특별한 메커니즘이 있습니다.'
+description: '"[!DNL Commerce] 에는 데이터베이스 테이블을 만들고 기존 테이블을 수정하고 데이터를 추가할 수 있는 특별한 메커니즘이 있습니다."'
 topic: Development
 kt: 5613
 doc-type: video
 activity: use
 exl-id: fb222752-5689-4f87-94cf-a61ed7005e6b
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%

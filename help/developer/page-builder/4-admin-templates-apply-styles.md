@@ -1,14 +1,14 @@
 ---
 title: 개발자용 페이지 빌더 - 템플릿 및 스타일
-description: '[!DNL Admin] and stage theming tasks. Create [!DNL Admin] 템플릿​. 스테이지의 컨텐츠 유형에 스타일을 적용합니다(라이브 미리 보기).'
+description: '"[!DNL Admin] 작업을 단계별로 수행합니다. 만들기 [!DNL Admin] 템플릿​. 스테이지의 컨텐츠 유형에 스타일을 적용합니다(라이브 미리 보기)."'
 topic: Commerce, Development
 kt: 5653
 doc-type: video
 activity: use
 exl-id: 80f2b14e-41b6-4059-b070-80fe19bb31e0
-source-git-commit: 9d76bbb28e982a62ddff8b6f541299e372dfc124
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
