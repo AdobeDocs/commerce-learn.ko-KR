@@ -17,7 +17,7 @@ ht-degree: 0%
 
 이 비디오에서는:
 
-- Adobe Commerce용 기존 클라우드 호스팅 솔루션에 &#x200B; 대해 알아봅니다.
+- Adobe Commerce용 기존 클라우드 호스팅 솔루션&#x200B;에 대해 알아보기
 - Starter 및 Pro 계정 간 &#x200B; 차이점 이해
 
 >[!VIDEO](https://video.tv.adobe.com/v/35813?quality=12&learn=on)

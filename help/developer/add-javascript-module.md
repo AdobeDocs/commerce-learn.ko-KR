@@ -24,7 +24,7 @@ ht-degree: 0%
 ## 단계
 
 - 모듈 만들기
-- `requirejs-config.js` 및 JavaScript 모듈 파일을 만듭니다
+- 만들기 `requirejs-config.js` 및 JavaScript 모듈 파일
 - JS 모듈을 활성화하는 템플릿을 추가하기 위한 레이아웃 업데이트 만들기
 - 템플릿 파일 만들기
 - 모듈을 추가하고 테스트합니다
