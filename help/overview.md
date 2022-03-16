@@ -1,15 +1,15 @@
 ---
-title: '"[!DNL Commerce] 비디오 및 Tutorials"'
-description: Adobe Commerce 및 Magento Open Source을 위한 비디오 및 자습서 모음입니다
+title: '"[!DNL Commerce] 비디오 및 튜토리얼"'
+description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 튜토리얼 모음입니다
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
 source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# [!DNL Commerce] 비디오 및 Tutorials
+# [!DNL Commerce] 비디오 및 튜토리얼
 
 ![](./assets/banner.png)
 

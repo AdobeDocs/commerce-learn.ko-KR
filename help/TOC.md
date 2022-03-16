@@ -1,17 +1,17 @@
 ---
-user-guide-title: 비디오 및 Tutorials
-user-guide-description: Adobe Commerce 및 Magento Open Source을 위한 비디오 및 자습서 모음입니다.
+user-guide-title: 비디오 및 튜토리얼
+user-guide-description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 튜토리얼 모음입니다.
 source-git-commit: b3c3ccb0404bf7e1d390d6041a8bfb3cd0ef689b
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 
 # Adobe Commerce 비디오 및 Tutorials {#tutorials}
 
-+ [[!DNL Commerce] 비디오 및 Tutorials](overview.md)
++ [[!DNL Commerce] 비디오 및 튜토리얼](overview.md)
 
 + 시작하기 {#getting-started}
    + [!DNL Commerce] 클라우드 인프라 {#cloud}
