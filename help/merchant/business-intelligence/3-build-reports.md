@@ -3,11 +3,11 @@ title: Business Intelligence - 보고서 작성
 description: Business Intelligence에서 사용할 수 있는 보고서 작성 옵션에 대해 알아봅니다.
 kt: 5726
 doc-type: feature video
-solution: Adobe Commerce, Magento Business Intelligence
+solution: Commerce,Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: c678cf95-7bd2-4c16-8df4-46e256a83f2c
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 779d8472749ddef6325dd7d0e1acf123c23e418e
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%

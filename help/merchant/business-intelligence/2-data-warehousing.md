@@ -3,11 +3,11 @@ title: Business Intelligence - 데이터 웨어하우징
 description: Business Intelligence에서 관리자가 사용할 수 있는 Data Warehouse 관리자에 대해 알아봅니다.
 kt: 5729
 doc-type: feature video
-solution: Adobe Commerce, Magento Business Intelligence
+solution: Commerce,Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 9c266205-3c04-400c-a94d-e3f9818e1b58
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 779d8472749ddef6325dd7d0e1acf123c23e418e
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
