@@ -1,9 +1,9 @@
 ---
 user-guide-title: 비디오 및 튜토리얼
 user-guide-description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 튜토리얼 모음입니다.
-source-git-commit: b3c3ccb0404bf7e1d390d6041a8bfb3cd0ef689b
+source-git-commit: fc59ff91dba5b4569b6a4c48f43bb289bbbb54b2
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '260'
 ht-degree: 7%
 
 ---
@@ -78,6 +78,11 @@ ht-degree: 7%
    + [프로모션 가격 규칙](./merchant/promotions-price-rules.md)
    + [페이지 빌더 개요](./merchant/page-builder-overview.md)
 
++ 업그레이드 {#upgrade}
+   + [Adobe Commerce 2.4 업그레이드 워크숍](./upgrade/2.4-upgrade-workshop.md)
+   + [업그레이드 호환성 도구 개요](./upgrade/upgrade-compatibility-tool-overview.md)
+   + [PHP Storm에서 업그레이드 호환성 도구 사용](./upgrade/uct-phpstorm.md)
+
 + 백엔드 개발 {#backend-development}
    + [데이터베이스에 새 테이블 추가](./developer/add-new-db-table.md)
    + [모듈 만들기](developer/create-module.md)
@@ -105,6 +110,3 @@ ht-degree: 7%
       + [6 - 페레그린](./pwa/introduction/6-peregrine.md)
    + [PWA Docker 개발](./pwa/pwa-docker-development.md)
    + [개발을 위한 Venia 설정](pwa/set-up-venia-for-dev.md)
-
-+ [Adobe Commerce 2.4 업그레이드 워크숍](./upgrade-workshop.md)
-+ [PHP Storm에서 업그레이드 호환성 도구 사용](./upgrade/uct-phpstorm.md)
