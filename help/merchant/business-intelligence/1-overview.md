@@ -4,11 +4,11 @@ description: 완벽한 비즈니스 인텔리전스 솔루션을 제공하는 Bu
 landing-page-description: 데이터 집계, 분석 및 시각화를 통해 비즈니스 통찰력과 결과를 향상시키는 방법을 배우려면 이 비디오 시리즈를 시청하십시오.
 kt: 5724
 doc-type: feature video
-solution: Commerce,Adobe Commerce, Magento Business Intelligence
+solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 97115316-bce9-406a-a3f7-24474cf8e030
-source-git-commit: 779d8472749ddef6325dd7d0e1acf123c23e418e
+source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
