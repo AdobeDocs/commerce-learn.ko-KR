@@ -1,9 +1,9 @@
 ---
 user-guide-title: 비디오 및 튜토리얼
 user-guide-description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 튜토리얼 모음입니다.
-source-git-commit: fc59ff91dba5b4569b6a4c48f43bb289bbbb54b2
+source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '270'
 ht-degree: 7%
 
 ---
@@ -77,6 +77,11 @@ ht-degree: 7%
    + [사이트 맵 설정 저장](./merchant/site-map-setup.md)
    + [프로모션 가격 규칙](./merchant/promotions-price-rules.md)
    + [페이지 빌더 개요](./merchant/page-builder-overview.md)
+
++ Business Intelligence {#business-intelligence}
+   + [필터 세트](./merchant/business-intelligence/filter-sets.md)
+   + [집단 Report Builder](./merchant/business-intelligence/cohort-report-builder.md)
+   + [SQL Report Builder](./merchant/business-intelligence/sql-report-builder.md)
 
 + 업그레이드 {#upgrade}
    + [Adobe Commerce 2.4 업그레이드 워크숍](./upgrade/2.4-upgrade-workshop.md)
