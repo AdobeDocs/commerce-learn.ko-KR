@@ -1,10 +1,10 @@
 ---
 user-guide-title: 비디오 및 튜토리얼
 user-guide-description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 튜토리얼 모음입니다.
-source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
+source-git-commit: deefe69f89d08f1138a4d77e206ff41ea3918b9d
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -82,6 +82,14 @@ ht-degree: 7%
    + [필터 세트](./merchant/business-intelligence/filter-sets.md)
    + [집단 Report Builder](./merchant/business-intelligence/cohort-report-builder.md)
    + [SQL Report Builder](./merchant/business-intelligence/sql-report-builder.md)
+   + [미래 준비](./merchant/business-intelligence/prepare-for-future.md)
+   + 웨비나 {#webinars}
+      + [Business Intelligence 시작하기](merchant/business-intelligence/webinars/getting-started.md)
+      + [데이터 집합 관리](merchant/business-intelligence/webinars/manage-data-sets.md)
+      + [Data Warehouse 최적화](merchant/business-intelligence/webinars/optimize-data-warehouse.md)
+      + [휴일 준비](merchant/business-intelligence/webinars/holiday-readiness.md)
+      + [전문가에게 문의, 세션 1](merchant/business-intelligence/webinars/ask-expert-1.md)
+      + [전문가에게 문의, 세션 2](merchant/business-intelligence/webinars/ask-expert-2.md)
 
 + 업그레이드 {#upgrade}
    + [Adobe Commerce 2.4 업그레이드 워크숍](./upgrade/2.4-upgrade-workshop.md)
