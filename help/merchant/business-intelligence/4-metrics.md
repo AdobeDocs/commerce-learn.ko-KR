@@ -1,20 +1,20 @@
 ---
-title: Business Intelligence - 지표
-description: Business Intelligence 지표과 이 지표를 사용하여 보고서를 구성하는 방법에 대해 알아봅니다.
+title: MBI - 지표
+description: MBI 지표 및 이 지표를 사용하여 보고서를 구성하는 방법에 대해 알아봅니다.
 kt: 5725
 doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 5aca35dd-d956-499b-9791-738c33d6cc41
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - 지표
+# MBI - 지표
 
 지표는 측정입니다. SQL 및 데이터베이스 구조에서 지표는 변수 기간 동안 저장된 쿼리와 같습니다. 팀은 비즈니스에 필요한 보고서를 구성하는 데 사용되는 관련 지표를 만듭니다.
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.2 릴리스를 반영합니다. 자세한 내용은 [Business Intelligence 사용 안내서](https://docs.magento.com/mbi/) 최신 정보를 확인하십시오.
+>비디오의 컨텐츠는 2.2 릴리스를 반영합니다. 자세한 내용은 [MBI 사용 안내서](https://docs.magento.com/mbi/) 최신 정보를 확인하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35980?quality=12&learn=on)
 

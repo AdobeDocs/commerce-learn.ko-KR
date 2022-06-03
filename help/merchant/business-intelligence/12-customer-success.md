@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - 고객 성공 사례
-description: Business Intelligence을 사용한 고객 성공 스토리에 대해 알아봅니다.
+title: MBI - 고객 성공 사례
+description: MBI를 사용한 고객 성공 스토리에 대해 알아봅니다.
 kt: 5738
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 118e4d29-2064-465c-89f7-00bc7427f383
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - 고객 성공 사례
+# MBI - 고객 성공 사례
 
-Business Intelligence에서 수행하는 가장 유용한 유형 중 일부를 잘 알고 있는 경우 일부 고객 성공 사례 및 분석 사용 방법을 검토하여 실제 결과를 얻습니다.
+MBI에서 수행하는 몇 가지 유용한 유형의 분석 판매자가 잘 알고 있는 경우, 일부 고객 성공 사례와 분석을 사용하여 실제 결과를 얻는 방법을 검토하십시오.
 
 ## 이 비디오 누구?
 

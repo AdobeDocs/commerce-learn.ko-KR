@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - 보고서 작성
-description: Business Intelligence에서 사용할 수 있는 보고서 작성 옵션에 대해 알아봅니다.
+title: MBI - 보고서 작성
+description: MBI에서 사용할 수 있는 보고서 작성 옵션에 대해 알아봅니다.
 kt: 5726
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: c678cf95-7bd2-4c16-8df4-46e256a83f2c
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - 보고서 작성
+# MBI - 보고서 작성
 
-Business Intelligence에서 보고서를 작성하고 분석하는 두 가지 옵션이 있습니다. visual report builder 및 SQL report builder.
+MBI에서 보고서 및 분석을 빌드하기 위한 두 가지 옵션이 있습니다. visual report builder 및 SQL report builder.
 
 ## 이 비디오 누구?
 
@@ -27,7 +27,7 @@ Business Intelligence에서 보고서를 작성하고 분석하는 두 가지 �
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.2 릴리스를 반영합니다. 자세한 내용은 [Business Intelligence 사용 안내서](https://docs.magento.com/mbi/) 최신 정보를 확인하십시오.
+>비디오의 컨텐츠는 2.2 릴리스를 반영합니다. 자세한 내용은 [MBI 사용 안내서](https://docs.magento.com/mbi/) 최신 정보를 확인하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35981?quality=12&learn=on)
 

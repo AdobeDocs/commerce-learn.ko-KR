@@ -1,10 +1,10 @@
 ---
 user-guide-title: 비디오 및 튜토리얼
 user-guide-description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 튜토리얼 모음입니다.
-source-git-commit: deefe69f89d08f1138a4d77e206ff41ea3918b9d
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '306'
+ht-degree: 6%
 
 ---
 
@@ -55,19 +55,6 @@ ht-degree: 0%
       + [5.1 - Storefront 경험](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2 - 고객 관리](./merchant/introduction/5-2-customer-management.md)
       + [5.3 - 이메일 통신](./merchant/introduction/5-3-store-communications.md)
-   + [!DNL Business Intelligence] {#business-intelligence}
-      + [1 - 개요](./merchant/business-intelligence/1-overview.md)
-      + [2 - 데이터 웨어하우징](./merchant/business-intelligence/2-data-warehousing.md)
-      + [3 - 보고서 작성](./merchant/business-intelligence/3-build-reports.md)
-      + [4 - 지표](./merchant/business-intelligence/4-metrics.md)
-      + [5 - 표준 보고서](./merchant/business-intelligence/5-standard-reports.md)
-      + [6 - 요약](./merchant/business-intelligence/6-executive-summary-dashboard.md)
-      + [7 - 주문 대시보드](./merchant/business-intelligence/7-orders-dashboard.md)
-      + [8 - 고객 중심의 대시보드](./merchant/business-intelligence/8-customer-focused-dashboards.md)
-      + [9 - 카테고리 분석](./merchant/business-intelligence/9-category-analysis.md)
-      + [10 - 투자 추적 수익률](./merchant/business-intelligence/10-roi-tracking.md)
-      + [11 - 결과 공유 및 데이터 내보내기](./merchant/business-intelligence/11-share-results-export-data.md)
-      + [12 - 고객 성공 사례](./merchant/business-intelligence/12-customer-success.md)
 
 + 관리자에서 작업 {#admin}
    + [사용자, 역할 및 권한](./merchant/users-roles-permissions.md)
@@ -78,18 +65,31 @@ ht-degree: 0%
    + [프로모션 가격 규칙](./merchant/promotions-price-rules.md)
    + [페이지 빌더 개요](./merchant/page-builder-overview.md)
 
-+ Business Intelligence {#business-intelligence}
++ MBI {#mbi}
    + [필터 세트](./merchant/business-intelligence/filter-sets.md)
    + [집단 Report Builder](./merchant/business-intelligence/cohort-report-builder.md)
    + [SQL Report Builder](./merchant/business-intelligence/sql-report-builder.md)
-   + [미래 준비](./merchant/business-intelligence/prepare-for-future.md)
-   + 웨비나 {#webinars}
-      + [Business Intelligence 시작하기](merchant/business-intelligence/webinars/getting-started.md)
-      + [데이터 집합 관리](merchant/business-intelligence/webinars/manage-data-sets.md)
-      + [Data Warehouse 최적화](merchant/business-intelligence/webinars/optimize-data-warehouse.md)
-      + [휴일 준비](merchant/business-intelligence/webinars/holiday-readiness.md)
-      + [전문가에게 문의, 세션 1](merchant/business-intelligence/webinars/ask-expert-1.md)
-      + [전문가에게 문의, 세션 2](merchant/business-intelligence/webinars/ask-expert-2.md)
+   + 기록된 웨비나 {#webinars}
+      + [MBI 시작하기](./merchant/business-intelligence/webinars/getting-started.md)
+      + [MBI의 데이터 세트 관리](./merchant/business-intelligence/webinars/manage-data-sets.md)
+      + [MBI Data Warehouse 최적화](./merchant/business-intelligence/webinars/optimize-data-warehouse.md)
+      + [MBI 대시보드 심층 분석](./merchant/business-intelligence/webinars/dashboards-deep-dive.md)
+      + [MBI를 사용한 휴일 준비](./merchant/business-intelligence/webinars/holiday-readiness.md)
+      + [미래 준비](./merchant/business-intelligence/prepare-for-future.md)
+      + [MBI - 전문가에게 문의](./merchant/business-intelligence/webinars/ask-expert.md)
+   + MBI 비디오 시리즈 소개 {#introduction}
+      + [개요](./merchant/business-intelligence/1-overview.md)
+      + [데이터 웨어하우징](./merchant/business-intelligence/2-data-warehousing.md)
+      + [보고서 작성](./merchant/business-intelligence/3-build-reports.md)
+      + [지표](./merchant/business-intelligence/4-metrics.md)
+      + [표준 보고서](./merchant/business-intelligence/5-standard-reports.md)
+      + [요약](./merchant/business-intelligence/6-executive-summary-dashboard.md)
+      + [주문 대시보드](./merchant/business-intelligence/7-orders-dashboard.md)
+      + [고객 중심의 대시보드](./merchant/business-intelligence/8-customer-focused-dashboards.md)
+      + [카테고리 분석](./merchant/business-intelligence/9-category-analysis.md)
+      + [투자 추적 수익률](./merchant/business-intelligence/10-roi-tracking.md)
+      + [결과 공유 및 데이터 내보내기](./merchant/business-intelligence/11-share-results-export-data.md)
+      + [고객 성공 사례](./merchant/business-intelligence/12-customer-success.md)
 
 + 업그레이드 {#upgrade}
    + [Adobe Commerce 2.4 업그레이드 워크숍](./upgrade/2.4-upgrade-workshop.md)

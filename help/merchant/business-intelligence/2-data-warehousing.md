@@ -1,20 +1,20 @@
 ---
-title: Business Intelligence - 데이터 웨어하우징
-description: Business Intelligence에서 관리자가 사용할 수 있는 Data Warehouse 관리자에 대해 알아봅니다.
+title: MBI - 데이터 웨어하우징
+description: MBI의 관리자가 사용할 수 있는 Data Warehouse 관리자에 대해 알아봅니다.
 kt: 5729
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 9c266205-3c04-400c-a94d-e3f9818e1b58
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - 데이터 웨어하우징
+# MBI - 데이터 웨어하우징
 
 Data Warehouse는 비즈니스 분석을 실행하기 위해 데이터를 통합 및 저장하도록 구성된 관계형 데이터베이스입니다. 데이터 웨어하우스를 사용하면 운영 데이터베이스를 정규화하고 분석을 보다 효율적으로 실행하도록 구성할 수 있도록 데이터에 액세스할 수 있습니다.
 
@@ -29,7 +29,7 @@ Data Warehouse는 비즈니스 분석을 실행하기 위해 데이터를 통합
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.2 릴리스를 반영합니다. 자세한 내용은 [Business Intelligence 사용 안내서](https://docs.magento.com/mbi/) 최신 정보를 확인하십시오.
+>비디오의 컨텐츠는 2.2 릴리스를 반영합니다. 자세한 내용은 [MBI 사용 안내서](https://docs.magento.com/mbi/) 최신 정보를 확인하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35984?quality=12&learn=on)
 

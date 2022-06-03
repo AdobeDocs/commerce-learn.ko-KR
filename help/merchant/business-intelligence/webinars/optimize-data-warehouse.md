@@ -1,20 +1,21 @@
 ---
-title: Business Intelligence - Data Warehouse 최적화
+title: MBI Data Warehouse 최적화
 description: Data Warehouse 관리자에 대한 자세한 내용을 보려면 이 웨비나를 시청하십시오.
-landing-page-description: '이 녹화된 웨비나를 시청하여 '
+landing-page-description: 이 녹화된 웨비나를 시청하여
 kt: 10403
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: c86f3520823ee41b668ad6595a859c554572d69b
+exl-id: 022df5f9-0333-464d-a985-177071a8aa04
+source-git-commit: 64df684fb23ad37912728f53a7da73d16d7781d8
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Data Warehouse 최적화
+# MBI Data Warehouse 최적화
 
 Data Warehouse 관리자를 사용하여 테이블 및 열 동기화 설정을 관리하고 테이블의 스키마로 드릴다운하고 보고서에 사용할 계산된 열을 만들 수 있습니다.
 
@@ -32,7 +33,7 @@ Data Warehouse 관리자를 사용하여 테이블 및 열 동기화 설정을 �
 
 >[!TIP]
 >
->Business Intelligence을 처음 사용하는 경우 [시작하기 비디오 시리즈](./../1-overview.md) 는 데이터 집계, 분석 및 시각화를 통해 더 나은 비즈니스 통찰력과 결과를 도출하기 위한 전체 개요를 제공합니다.
+>MBI를 처음 사용하는 경우 [시작하기 비디오 시리즈](./../1-overview.md) 는 데이터 집계, 분석 및 시각화를 통해 더 나은 비즈니스 통찰력과 결과를 도출하기 위한 전체 개요를 제공합니다.
 
 ## 이 비디오 누구?
 
