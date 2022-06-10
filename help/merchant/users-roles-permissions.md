@@ -1,14 +1,14 @@
 ---
-title: 사용자, 역할 및 권한
+title: 사용자 역할 및 권한 관리
 description: 액세스를 제어하는 데 사용되는 사용자 계정 및 권한에 대해 알아봅니다. [!DNL Commerce] 웹 사이트를 통해 데이터를 관리하고 관리자에게 저장합니다.
 kt: 5610
 doc-type: feature video
 audience: all
 activity: use
 exl-id: d06815c2-4b2a-4219-8c4e-7aa41a2be25d
-source-git-commit: 57273cea54ad0d1ec55dd23b2033eec74bb1c3b4
+source-git-commit: b1ba5497d30326e4355a6da81f33d8451362b896
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,7 @@ ht-degree: 0%
 
 ## 비디오 컨텐츠
 
->[!NOTE]
->
->비디오의 콘텐츠는 2.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 및 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 릴리스 노트.
-
->[!VIDEO](https://video.tv.adobe.com/v/35788?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343654?quality=12&learn=on)
 
 ## 추가 리소스
 

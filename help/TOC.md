@@ -1,10 +1,10 @@
 ---
 user-guide-title: 비디오 및 튜토리얼
 user-guide-description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 튜토리얼 모음입니다.
-source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
+source-git-commit: 24873fdb03bd158f4705e8da34d60bd17b0a53c5
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 6%
+source-wordcount: '357'
+ht-degree: 5%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 6%
       + [5.3 - 라우팅](./developer/backend-5-3-routing.md)
       + [5.4 - 만들기 [!DNL Admin] 페이지](./developer/backend-5-4-admin-page.md)
       + [6 - 연습](./developer/backend-6-practice.md)
-   + [!DNL Commerce] 비즈니스 사용자 {#merchants}
+   + [!DNL Commerce] 비즈니스 사용자용 {#merchants}
       + [1.1 - [!DNL Admin] 메뉴](./merchant/introduction/1-1-menus.md)
       + [1.2 - 데이터 그리드](./merchant/introduction/1-2-data-grids.md)
       + [1.3 - 범위, 사이트 및 저장소](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
@@ -46,24 +46,44 @@ ht-degree: 6%
       + [3.2 - 제품 설정](./merchant/introduction/3-2-product-settings.md)
       + [3.3 - 제품 속성](./merchant/introduction/3-3-product-attributes.md)
       + [3.4 - 제품 속성 세트](./merchant/introduction/3-4-product-attribute-sets.md)
-      + [3.5 - 간단한 제품 만들기](./merchant/introduction/3-5-create-simple-product.md)
+      + [3.5 - 단순 제품 만들기](./merchant/introduction/3-5-create-simple-product.md)
       + [3.6 - 구성 가능한 속성](./merchant/introduction/3-6-configurable-attributes.md)
       + [3.7 - 제품 가져오기/내보내기](./merchant/introduction/3-7-import-export-products.md)
       + [3.8 - 기프트 카드](./merchant/introduction/3-8-gift-cards.md)
-      + [4.1 - 계층 탐색](./merchant/introduction/4-1-layered-navigation.md)
+      + [4.1 - 레이어 탐색](./merchant/introduction/4-1-layered-navigation.md)
       + [4.2 - 제품 카테고리 정렬](./merchant/introduction/4-2-arrange-product-categories.md)
       + [5.1 - Storefront 경험](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2 - 고객 관리](./merchant/introduction/5-2-customer-management.md)
       + [5.3 - 이메일 통신](./merchant/introduction/5-3-store-communications.md)
 
-+ 관리자에서 작업 {#admin}
-   + [사용자, 역할 및 권한](./merchant/users-roles-permissions.md)
++ 저장소 관리 {#admin}
+   + [사용자 역할 및 권한 관리](./merchant/users-roles-permissions.md)
    + [이중 인증](./merchant/two-factor-authentication.md)
+   + [통화 및 세금 규칙 관리](./merchant/currency-tax-rules.md)
+   + [운송 및 납품 방법](./merchant/shipping-delivery.md)
    + [웹 사이트, 저장소 및 저장소 보기 추가](./merchant/add-websites-stores-views.md)
    + [저장소 URL 변경](./merchant/change-store-url.md)
-   + [사이트 맵 설정 저장](./merchant/site-map-setup.md)
-   + [프로모션 가격 규칙](./merchant/promotions-price-rules.md)
+   + [사이트 맵 저장 설정](./merchant/site-map-setup.md)
+
++ 고객 관리 {#customers}
+   + [고객 세그먼트 만들기](./merchant/customer-segments.md)
+   + [고객 그룹 만들기](./merchant/customer-groups.md)
+   + [고객 속성 만들기](./merchant/customer-attributes.md)
+   + [판매자 지원 쇼핑](./merchant/seller-assisted-shopping.md)
+
++ 카탈로그 관리 {#catalog}
+   + [카테고리 만들기](./merchant/category-create.md)
+   + [카테고리의 제품 관리](./merchant/category-products.md)
+   + [Inventory management](./merchant/inventory-management.md)
+   + [제품 속성 만들기](./merchant/product-attributes-create.md)
+   + [SEO 메타데이터 관리](./merchant/seo-metadata.md)
+   + [SEO용 URL 다시 쓰기 관리](./merchant/seo-url-rewrites.md)
+
++ 콘텐츠 관리 {#content}
    + [페이지 빌더 개요](./merchant/page-builder-overview.md)
+
++ 마케팅 도구 {#marketing}
+   + [판촉 가격 규칙](./merchant/promotions-price-rules.md)
 
 + MBI {#mbi}
    + [필터 세트](./merchant/business-intelligence/filter-sets.md)
@@ -91,7 +111,7 @@ ht-degree: 6%
       + [결과 공유 및 데이터 내보내기](./merchant/business-intelligence/11-share-results-export-data.md)
       + [고객 성공 사례](./merchant/business-intelligence/12-customer-success.md)
 
-+ 업그레이드 {#upgrade}
++ 상거래 업그레이드 {#upgrade}
    + [Adobe Commerce 2.4 업그레이드 워크숍](./upgrade/2.4-upgrade-workshop.md)
    + [업그레이드 호환성 도구 개요](./upgrade/upgrade-compatibility-tool-overview.md)
    + [PHP Storm에서 업그레이드 호환성 도구 사용](./upgrade/uct-phpstorm.md)
@@ -103,7 +123,7 @@ ht-degree: 6%
    + [종속성 삽입 예](./developer/dependency-injection.md)
 
 + 프론트엔드 개발 {#frontend-development}
-   + 페이지 빌더 {#page-builder}
+   + 개발자용 페이지 빌더 {#page-builder}
       + [1 - 소개](./developer/page-builder/1-intro-case-studies.md)
       + [2 - 구성 및 컨텐츠](./developer/page-builder/2-config-create-content.md)
       + [3 - 테마](./developer/page-builder/3-themes.md)
