@@ -1,10 +1,10 @@
 ---
 user-guide-title: 비디오 및 튜토리얼
 user-guide-description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 튜토리얼 모음입니다.
-source-git-commit: 24873fdb03bd158f4705e8da34d60bd17b0a53c5
+source-git-commit: 11a59c534f1907d63073bc2a1541d39f02428da1
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 5%
+source-wordcount: '422'
+ht-degree: 4%
 
 ---
 
@@ -60,10 +60,11 @@ ht-degree: 5%
    + [사용자 역할 및 권한 관리](./merchant/users-roles-permissions.md)
    + [이중 인증](./merchant/two-factor-authentication.md)
    + [통화 및 세금 규칙 관리](./merchant/currency-tax-rules.md)
-   + [운송 및 납품 방법](./merchant/shipping-delivery.md)
    + [웹 사이트, 저장소 및 저장소 보기 추가](./merchant/add-websites-stores-views.md)
    + [저장소 URL 변경](./merchant/change-store-url.md)
    + [사이트 맵 저장 설정](./merchant/site-map-setup.md)
+   + [운송 및 납품 방법](./merchant/shipping-delivery.md)
+   + [결제 서비스 사용](./merchant/payment-services.md)
 
 + 고객 관리 {#customers}
    + [고객 세그먼트 만들기](./merchant/customer-segments.md)
@@ -76,14 +77,33 @@ ht-degree: 5%
    + [카테고리의 제품 관리](./merchant/category-products.md)
    + [Inventory management](./merchant/inventory-management.md)
    + [제품 속성 만들기](./merchant/product-attributes-create.md)
+   + [PWA Studio에 제품 속성 사용](./merchant/product-attributes-pwa.md)
    + [SEO 메타데이터 관리](./merchant/seo-metadata.md)
    + [SEO용 URL 다시 쓰기 관리](./merchant/seo-url-rewrites.md)
 
 + 콘텐츠 관리 {#content}
    + [페이지 빌더 개요](./merchant/page-builder-overview.md)
+   + [정적 및 동적 블록 만들기](./merchant/static-dynamic-blocks.md)
+   + [위젯 만들기](./merchant/widgets.md)
+   + [콘텐츠 템플릿 사용](./merchant/content-templates.md)
+   + [컨텐츠 스테이징](./merchant/content-staging.md)
+   + [미디어 갤러리 관리](./merchant/media-gallery.md)
 
 + 마케팅 도구 {#marketing}
    + [판촉 가격 규칙](./merchant/promotions-price-rules.md)
+   + [카탈로그 가격 규칙 생성](./merchant/catalog-price-rules.md)
+   + [장바구니 가격 규칙 만들기](./merchant/cart-price-rules.md)
+   + [관련 제품 규칙 관리](./merchant/related-product-rules.md)
+   + [제품 Recommendations 설정](./merchant/product-recommendations.md)
+   + [라이브 검색 사용](./merchant/live-search.md)
+
++ 주문 및 이행 {#orders}
+   + [저장 이행 개요](./merchant/store-fulfillment.md)
+   + [주문 상태 관리](./merchant/order-status.md)
+
++ 시스템 도구 {#tools}
+   + [사이트 전체 분석 도구 대시보드](./tools/site-wide-analysis-tool.md)
+   + [품질 패치 도구 사용](./tools/quality-patch-tool.md)
 
 + MBI {#mbi}
    + [필터 세트](./merchant/business-intelligence/filter-sets.md)
@@ -111,15 +131,15 @@ ht-degree: 5%
       + [결과 공유 및 데이터 내보내기](./merchant/business-intelligence/11-share-results-export-data.md)
       + [고객 성공 사례](./merchant/business-intelligence/12-customer-success.md)
 
-+ 상거래 업그레이드 {#upgrade}
++ 상거래 업그레이드 및 시스템 도구 {#upgrade}
    + [Adobe Commerce 2.4 업그레이드 워크숍](./upgrade/2.4-upgrade-workshop.md)
    + [업그레이드 호환성 도구 개요](./upgrade/upgrade-compatibility-tool-overview.md)
    + [PHP Storm에서 업그레이드 호환성 도구 사용](./upgrade/uct-phpstorm.md)
 
 + 백엔드 개발 {#backend-development}
-   + [데이터베이스에 새 테이블 추가](./developer/add-new-db-table.md)
+   + [데이터베이스에 테이블 추가](./developer/add-new-db-table.md)
    + [모듈 만들기](developer/create-module.md)
-   + [새 제품 속성 추가](./developer/add-product-attribute.md)
+   + [제품 속성 추가](./developer/add-product-attribute.md)
    + [종속성 삽입 예](./developer/dependency-injection.md)
 
 + 프론트엔드 개발 {#frontend-development}

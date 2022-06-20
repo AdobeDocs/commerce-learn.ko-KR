@@ -7,9 +7,9 @@ role: Admin, Leader, User
 audience: all
 activity: use
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
-source-git-commit: 57273cea54ad0d1ec55dd23b2033eec74bb1c3b4
+source-git-commit: 672acee56080593ed6bae62ab7f22ddd02108e6b
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -36,11 +36,7 @@ ht-degree: 0%
 
 ## 비디오 컨텐츠
 
->[!NOTE]
->
->비디오의 컨텐츠는 Adobe Commerce 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [페이지 빌더에 대한 릴리스 노트](https://devdocs.magento.com/page-builder/docs/release-notes.html).
-
->[!VIDEO](https://video.tv.adobe.com/v/35783?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343781?quality=12&learn=on)
 
 ## 추가 리소스
 
