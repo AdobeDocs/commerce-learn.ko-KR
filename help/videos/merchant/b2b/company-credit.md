@@ -5,9 +5,10 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
+source-git-commit: 957eb8c6d7d429fc5579a5700fef2194662201cb
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,7 +17,7 @@ ht-degree: 0%
 
 {{b2b-feature}}
 
-다음을 보유한 회사 _[!UICONTROL Payment on Account]_회사 크레딧을 활성화하고 사용할 수 있도록 하면, 부여된 신용 한도까지 해당 계정의 구매를 수행할 수 있습니다. 활성화되면 고객이 계정 대시보드에서 회사 신용 상태를 확인할 수 있습니다.
+다음을 보유한 회사 _[!UICONTROL Payment on Account]_회사 크레딧을 활성화하고 사용할 수 있도록 하면, 부여된 신용 한도까지 해당 계정의 구매를 수행할 수 있습니다. 이 기능을 사용하여 고객은 계정 대시보드에서 회사 신용 상태를 확인할 수 있습니다.
 
 각 회사 프로필에 대해 다음 신용 관련 매개변수를 설정할 수 있습니다.
 
