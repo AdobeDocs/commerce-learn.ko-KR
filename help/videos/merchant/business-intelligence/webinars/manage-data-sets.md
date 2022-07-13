@@ -8,9 +8,9 @@ solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: d73758b0-37bf-4be8-8e25-01d3d983fd43
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+source-git-commit: 917b3354b3d538618f11949c2b2bc55e04e4b318
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Adobe Commerce 제품 팀에서 직접 MBI Data Warehouse 관리자의 몇 가�
 
 ## 비디오 컨텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/342497?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344680?quality=12&learn=on)
 
 ## 유용한 리소스
 
