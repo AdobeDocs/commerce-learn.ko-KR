@@ -8,7 +8,7 @@ role: Admin, Leader, Developer
 audience: all
 activity: use
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+source-git-commit: a579818f2f50d4ca0eca9a529945c4f366905ef6
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -25,7 +25,7 @@ UCT(업그레이드 호환성 도구)는 현재 버전과 Target 업그레이드
 - 최신 Adobe Commerce 버전으로 업그레이드하는 데 필요한 오류 및 수정 사항을 신속하게 식별하는 데 도움이 되는 방법입니다
 - 심각도 및 비호환성 수별로 모듈을 시각화하는 데 도움이 되는 HTML 결과에 액세스하는 방법
 
-업그레이드 수행 및 단순화에 대한 자세한 내용은 [업그레이드 안내서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
+도구에 대해 자세히 알아보려면 [업그레이드 호환성 도구 설명서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). 업그레이드 수행 및 단순화에 대한 자세한 내용은 [업그레이드 안내서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
 
 ## 이 비디오 누구?
 
@@ -38,6 +38,7 @@ UCT(업그레이드 호환성 도구)는 현재 버전과 Target 업그레이드
 
 ## 추가 리소스
 
+- [업그레이드 호환성 도구 설명서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
 - [업그레이드 안내서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
 - [릴리스된 버전](https://devdocs.magento.com/release/released-versions.html)
 - [예정된 릴리스](https://devdocs.magento.com/release/)
