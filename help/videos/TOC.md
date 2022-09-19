@@ -1,10 +1,10 @@
 ---
 user-guide-title: 비디오 및 튜토리얼
 user-guide-description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 튜토리얼 모음입니다.
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+source-git-commit: 2f59b215be07ab9041efc38254e816b91613c6d3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '441'
+ht-degree: 4%
 
 ---
 
@@ -73,6 +73,7 @@ ht-degree: 0%
    + [판매자 지원 쇼핑](./merchant/seller-assisted-shopping.md)
 
 + 카탈로그 관리 {#catalog}
+   + [Adobe Commerce용 카탈로그 서비스](./merchant/catalog-service.md)
    + [카테고리 만들기](./merchant/category-create.md)
    + [카테고리의 제품 관리](./merchant/category-products.md)
    + [Inventory management](./merchant/inventory-management.md)
