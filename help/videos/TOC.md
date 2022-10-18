@@ -1,10 +1,10 @@
 ---
 user-guide-title: 비디오 및 튜토리얼
 user-guide-description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 튜토리얼 모음입니다.
-source-git-commit: 2f59b215be07ab9041efc38254e816b91613c6d3
+source-git-commit: 327c70006c2f1b8b85781cf0059b1386535bb7b4
 workflow-type: tm+mt
-source-wordcount: '441'
-ht-degree: 4%
+source-wordcount: '483'
+ht-degree: 3%
 
 ---
 
@@ -116,14 +116,14 @@ ht-degree: 4%
    + [필터 세트](./merchant/business-intelligence/filter-sets.md)
    + [집단 Report Builder](./merchant/business-intelligence/cohort-report-builder.md)
    + [SQL Report Builder](./merchant/business-intelligence/sql-report-builder.md)
+   + [미래 준비](./merchant/business-intelligence/prepare-for-future.md)
    + 기록된 웨비나 {#webinars}
-      + [MBI 시작하기](./merchant/business-intelligence/webinars/getting-started.md)
-      + [MBI의 데이터 세트 관리](./merchant/business-intelligence/webinars/manage-data-sets.md)
-      + [MBI Data Warehouse 최적화](./merchant/business-intelligence/webinars/optimize-data-warehouse.md)
-      + [MBI 대시보드 심층 분석](./merchant/business-intelligence/webinars/dashboards-deep-dive.md)
-      + [MBI를 사용한 휴일 준비](./merchant/business-intelligence/webinars/holiday-readiness.md)
-      + [미래 준비](./merchant/business-intelligence/prepare-for-future.md)
-      + [MBI - 전문가에게 문의](./merchant/business-intelligence/webinars/ask-expert.md)
+      + [MBI 시작하기](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/getting-started.html)
+      + [MBI의 데이터 세트 관리](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2022/manage-data-sets.html)
+      + [MBI Data Warehouse 최적화](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/optimize-data-warehouse.html)
+      + [MBI 대시보드 심층 분석](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/dashboards-deep-dive.html)
+      + [MBI를 사용한 휴일 준비](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/holiday-readiness.html)
+      + [MBI - 전문가에게 문의](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/ask-expert.html)
    + MBI 비디오 시리즈 소개 {#introduction}
       + [개요](./merchant/business-intelligence/1-overview.md)
       + [데이터 웨어하우징](./merchant/business-intelligence/2-data-warehousing.md)

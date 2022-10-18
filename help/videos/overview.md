@@ -1,10 +1,10 @@
 ---
-title: '"[!DNL Commerce] 비디오 및 튜토리얼"'
+title: "[!DNL Commerce] 비디오 및 튜토리얼"
 description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 튜토리얼 모음입니다
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: 867c5dbfdf5c2701d59655363e8ac3d94e97ece6
+source-git-commit: feaba6797569ab027f0b3d122039b3e0d16054b1
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '283'
 ht-degree: 5%
 
 ---
@@ -27,7 +27,10 @@ ht-degree: 5%
 | 주문 및 이행 | [저장 이행 개요](./merchant/store-fulfillment.md) <br>[주문 상태 관리](./merchant/order-status.md) |
 | Adobe Commerce용 B2B | [회사 계정 관리](./merchant/b2b/company-accounts.md)  <br>[공유 카탈로그 관리](./merchant/b2b/shared-catalogs.md) <br>[회사 신용 관리](./merchant/b2b/company-credit.md) <br>[구매 발주 및 승인](./merchant/b2b/purchase-orders.md) |
 | 시스템 도구 | [사이트 전체 분석 도구 대시보드](./tools/site-wide-analysis-tool.md) <br>[Adobe Commerce 관찰](./tools/observation-tool.md) <br>[품질 패치 도구 사용](./tools/quality-patch-tool.md) |
-| MBI | [MBI 시작하기](./merchant/business-intelligence/webinars/getting-started.md) <br>[MBI의 데이터 세트 관리](./merchant/business-intelligence/webinars/manage-data-sets.md) <br>[MBI Data Warehouse 최적화](./merchant/business-intelligence/webinars/optimize-data-warehouse.md)<br>[MBI 대시보드 심층 분석](./merchant/business-intelligence/webinars/dashboards-deep-dive.md) <br>[MBI를 사용한 휴일 준비](./merchant/business-intelligence/webinars/holiday-readiness.md) <br>[미래 준비](./merchant/business-intelligence/prepare-for-future.md) <br>[MBI - 전문가에게 문의](./merchant/business-intelligence/webinars/ask-expert.md) |
+
+>[!TIP]
+>
+>다음 [상거래 이벤트](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) space는 사용자가 필요에 따라 볼 수 있는 기록된 이벤트 컨텐츠에 대한 액세스를 제공합니다.
 
 ## 추가 리소스
 
