@@ -2,10 +2,10 @@
 title: "[!DNL Commerce] 비디오 및 튜토리얼"
 description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 튜토리얼 모음입니다
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: feaba6797569ab027f0b3d122039b3e0d16054b1
+source-git-commit: 834fcab32b3211495a62b7595fcee093b7fec0a7
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 5%
+source-wordcount: '183'
+ht-degree: 9%
 
 ---
 
@@ -17,16 +17,12 @@ ht-degree: 5%
 
 최신 추가 및 업데이트를 살펴보십시오.
 
-| 제목 영역 | 새 비디오 또는 업데이트된 비디오 |
-| ------------ | ---------- |
-| 저장소 관리 | [사용자, 역할 및 권한](./merchant/users-roles-permissions.md) <br>[운송 및 납품 방법 관리](./merchant/shipping-delivery.md) <br>[결제 서비스 사용](./merchant/payment-services.md) |
-| 고객 관리 | [고객 세그먼트 만들기](./merchant/customer-segments.md) <br>[고객 그룹 만들기](./merchant/customer-groups.md) <br>[고객 속성 만들기](./merchant/customer-attributes.md) <br>[판매자 지원 쇼핑](./merchant/seller-assisted-shopping.md) |
-| 카탈로그 관리 | [카테고리 만들기](./merchant/category-create.md) <br>[카테고리의 제품 관리](./merchant/category-products.md) <br>[Inventory management](./merchant/inventory-management.md) <br>[제품 속성 만들기](./merchant/product-attributes-create.md) <br>[PWA Studio에 제품 속성 사용](./merchant/product-attributes-pwa.md) <br>[SEO 메타데이터 관리](./merchant/seo-metadata.md) <br>[SEO용 URL 다시 쓰기 관리](./merchant/seo-url-rewrites.md) |
-| 콘텐츠 관리 | [페이지 빌더 개요](./merchant/page-builder-overview.md) <br>[정적 및 동적 블록 만들기](./merchant/static-dynamic-blocks.md) <br>[위젯 만들기](./merchant/widgets.md) <br>[콘텐츠 템플릿 사용](./merchant/content-templates.md) <br>[컨텐츠 스테이징](./merchant/content-staging.md) <br>[미디어 갤러리 관리](./merchant/media-gallery.md) |
-| 마케팅 도구 | [카탈로그 가격 규칙 생성](./merchant/catalog-price-rules.md) <br>[장바구니 가격 규칙 만들기](./merchant/cart-price-rules.md) <br>[관련 제품 규칙 관리](./merchant/related-product-rules.md) <br>[제품 Recommendations 설정](./merchant/product-recommendations.md) <br>[라이브 검색 사용](./merchant/live-search.md) |
-| 주문 및 이행 | [저장 이행 개요](./merchant/store-fulfillment.md) <br>[주문 상태 관리](./merchant/order-status.md) |
-| Adobe Commerce용 B2B | [회사 계정 관리](./merchant/b2b/company-accounts.md)  <br>[공유 카탈로그 관리](./merchant/b2b/shared-catalogs.md) <br>[회사 신용 관리](./merchant/b2b/company-credit.md) <br>[구매 발주 및 승인](./merchant/b2b/purchase-orders.md) |
-| 시스템 도구 | [사이트 전체 분석 도구 대시보드](./tools/site-wide-analysis-tool.md) <br>[Adobe Commerce 관찰](./tools/observation-tool.md) <br>[품질 패치 도구 사용](./tools/quality-patch-tool.md) |
+| 항목 | 유형 | 날짜 |
+| ---- | ---- | ---- |
+| **[기능 데모 목록](feature-demos.md)** - Adobe Commerce 기능, 기능 및 도구에 빠르게 대처할 수 있는 간단한 기능 데모를 위한 요약 페이지입니다. | 새로 만들기 | 10/19/2022 |
+| **[카탈로그 서비스](./merchant/catalog-service.md)** - Adobe Commerce용 카탈로그 서비스의 새로운 기능 데모 | 새로 만들기 | 9/19/2022 |
+
+{style=&quot;table-layout:auto&quot;}
 
 >[!TIP]
 >

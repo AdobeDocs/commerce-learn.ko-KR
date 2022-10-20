@@ -1,9 +1,9 @@
 ---
 user-guide-title: 비디오 및 튜토리얼
 user-guide-description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 튜토리얼 모음입니다.
-source-git-commit: 327c70006c2f1b8b85781cf0059b1386535bb7b4
+source-git-commit: c6ee7f37aed4093c7752e6683a8f7a9e26b10a11
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '485'
 ht-degree: 3%
 
 ---
@@ -55,6 +55,8 @@ ht-degree: 3%
       + [5.1 - Storefront 경험](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2 - 고객 관리](./merchant/introduction/5-2-customer-management.md)
       + [5.3 - 이메일 통신](./merchant/introduction/5-3-store-communications.md)
+
++ [기능 데모](feature-demos.md)
 
 + 저장소 관리 {#admin}
    + [사용자 역할 및 권한 관리](./merchant/users-roles-permissions.md)
