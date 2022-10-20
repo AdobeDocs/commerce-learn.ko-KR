@@ -1,7 +1,7 @@
 ---
 title: '"[!DNL Commerce] 비즈니스 사용자 - [!DNL Admin] 메뉴'
 description: 의 기능 메뉴 개요 [!DNL Commerce] v2.3 [!DNL Admin].
-landing-page-description: 이 비디오 시리즈를 시청하여 Adobe Commerce 및 관리 작업 기본 사항에 대해 살펴보십시오.
+landing-page-description: 이 비디오 시리즈를 통해 Adobe Commerce 및 관리 작업 기본 사항에 대해 살펴보십시오.
 topic: Commerce
 kt: 5758
 doc-type: video
@@ -10,8 +10,8 @@ activity: use
 exl-id: 96e36923-d24b-4259-9b91-cd4ea73ead6f
 source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 15%
 
 ---
 

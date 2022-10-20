@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 개발자용 - 개요"'
-description: 판매자, 웹 스토어 개발자 및 총괄 책임자 등 몇몇 대상의 관점에서 플랫폼 기본 사항에 대해 알아봅니다.
+title: "[!DNL Commerce] 개발자용 - 개요"
+description: 판매자, 웹 스토어 개발자 및 총괄 책임자 등 몇몇 대상자의 관점에서 플랫폼 기본 사항에 대해 알아봅니다.
 landing-page-description: 이 비디오 시리즈를 시청하여 Commerce를 위한 백엔드 개발 프로젝트에 대해 살펴보십시오.
 doc-type: video
 topic: Development
