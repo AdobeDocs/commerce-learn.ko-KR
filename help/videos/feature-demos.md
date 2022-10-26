@@ -1,21 +1,22 @@
 ---
 title: 짧은 상거래 기능 데모
-description: Tutorials 및 비디오 공간에는 상거래 기능, 기능 및 도구 사용 방법을 학습하는 데 도움이 되는 데모 비디오 라이브러리가 포함되어 있습니다.
-landing-page-description: Adobe Commerce 기능, 기능 및 도구 사용 방법을 배울 수 있는 데모 비디오 라이브러리를 살펴보십시오.
+description: 튜토리얼 및 비디오 스페이스에는 Commerce 기능, 기능 및 도구 사용 방법을 배우는 데 유용한 데모 비디오 라이브러리가 포함되어 있습니다.
+landing-page-description: Adobe Commerce 기능, 기능 및 도구 사용 방법을 배우는 데 유용한 당사의 데모 비디오 라이브러리를 살펴보십시오.
 topic: Commerce
 doc-type: video
 hidefromtoc: true
 role: Admin, Leader, User
-source-git-commit: bd8c65cb9c090569f882c06802874289d8a52e35
+last-substantial-update: 2022-09-19T00:00:00Z
+source-git-commit: dd3826a76bfa6ba905468f70293f1304cc8acf32
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 0%
+ht-degree: 27%
 
 ---
 
 # 짧은 상거래 기능 데모
 
-Adobe Commerce 기능, 기능 및 도구 사용 방법을 배울 수 있는 데모 비디오 라이브러리를 살펴보십시오.
+Adobe Commerce 기능, 기능 및 도구 사용 방법을 배우는 데 유용한 당사의 데모 비디오 라이브러리를 살펴보십시오:
 
 | 제목 영역 | 기능 데모 비디오 |
 | ------------ | ---------- |

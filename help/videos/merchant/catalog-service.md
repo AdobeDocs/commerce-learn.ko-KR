@@ -4,7 +4,8 @@ description: 카탈로그 서비스를 설치 및 테스트하는 방법을 알�
 doc-type: feature video
 audience: all
 role: Developer, Admin
-source-git-commit: 2f59b215be07ab9041efc38254e816b91613c6d3
+last-substantial-update: 2022-09-19T00:00:00Z
+source-git-commit: bb972a63cf613aea3179b98026a93aeb645347f2
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
