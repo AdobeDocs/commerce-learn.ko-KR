@@ -6,9 +6,9 @@ audience: all
 role: Admin, User
 activity: use
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+source-git-commit: 70056db15bcae20171fb152ab69d54d5a0d298e9
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,4 +31,4 @@ Adobe Commerce의 라이브 검색 기능은 추가 비용 없이 Adobe Commerce
 ## 추가 리소스
 
 - [라이브 검색](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
-- [Commerce Services 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/saas.html)
+- [Commerce Services 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
