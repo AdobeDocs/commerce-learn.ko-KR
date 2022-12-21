@@ -2,7 +2,7 @@
 user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 자습서를 통해 Adobe Commerce 및 Magento Open Source에 대해 학습할 수 있습니다.
 breadcrumb-title: 비디오 및 튜토리얼
-source-git-commit: 6684a5e813f7a3a829f378f7e45755c2fc093ee1
+source-git-commit: 34f5cd077da2c8dc8e187276635a11e71c3e632c
 workflow-type: tm+mt
 source-wordcount: '528'
 ht-degree: 1%
@@ -60,7 +60,7 @@ ht-degree: 1%
 
 
 + GraphQL 및 REST {#graphql-rest}
-   + [GraphQL 소개](https://experienceleague-review.corp.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html)
+   + [GraphQL 소개](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html)
 
 + 저장소 관리 {#admin}
    + [사용자 역할 및 권한 관리](../site-management/users-roles-permissions.md)
