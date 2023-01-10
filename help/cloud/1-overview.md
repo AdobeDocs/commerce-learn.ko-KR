@@ -1,6 +1,6 @@
 ---
 title: 클라우드 기반의 Adobe Commerce - 개요
-description: 클라우드 스택의 주요 기술을 확인합니다. Adobe Commerce를 위한 콘텐츠 제공 전략에 대해 자세히 설명합니다. 읽기 전용 파일 시스템의 가치에 대해 이해합니다.
+description: 클라우드 스택의 주요 기술을 확인합니다. Adobe Commerce를 위한 콘텐츠 게재 전략에 대해 자세히 설명합니다. 읽기 전용 파일 시스템의 가치에 대해 이해합니다.
 landing-page-description: 이 비디오 시리즈를 통해 Adobe Commerce 배포 및 관리를 위한 클라우드 인프라에 대해 살펴보십시오.
 kt: 5656
 doc-type: video
