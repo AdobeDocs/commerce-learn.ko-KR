@@ -1,14 +1,16 @@
 ---
-title: "[!DNL Commerce] 비디오 및 튜토리얼"
+title: '[!DNL Commerce] 비디오 및 튜토리얼'
 description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 튜토리얼 모음입니다
-source-git-commit: 6684a5e813f7a3a829f378f7e45755c2fc093ee1
+last-substantial-update: 2023-01-19T00:00:00Z
+exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
+source-git-commit: 6635d5dc0aab027fe77796a824d3e375d5bf0083
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 12%
+source-wordcount: '137'
+ht-degree: 11%
 
 ---
 
-# <!-- use banner as heading -->![상거래 비디오 및 자습서](../assets/banner-videos-home.png) {#videos}
+# 상거래 자습서 {#videos}
 
 에 오신 것을 환영합니다 [!DNL Commerce] 비디오 및 자습서 컬렉션. 와 함께 이러한 리소스 사용 [설명서](https://experienceleague.adobe.com/docs/commerce.html)를 통해 Adobe Commerce 및 Magento Open Source을 사용하여 전자 상거래 비즈니스를 지원하는 방법을 살펴볼 수 있습니다. 이 컬렉션은 백엔드 개발자, 프런트 엔드 개발자, 시스템 관리자, 상인 및 조직 내의 기타 역할을 위한 유용한 콘텐츠를 제공하도록 설계되었습니다.
 
@@ -16,14 +18,10 @@ ht-degree: 12%
 
 ## 새로운 기능
 
-</div>
+- [GraphQL 소개](../graphql-rest/intro-graphql.md)
+- [악성 IP 찾기](../new-relic/malicious-ip.md)
 
-<div id="recs-overview-body-1"></div>
-<div id="recs-overview-body-2"></div>
-<div id="recs-overview-body-3"></div>
-<div id="recs-overview-body-4"></div>
-<div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div>
+</div>
 
 >[!TIP]
 >
