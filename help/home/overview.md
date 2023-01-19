@@ -3,7 +3,7 @@ title: '[!DNL Commerce] 비디오 및 튜토리얼'
 description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 튜토리얼 모음입니다
 last-substantial-update: 2023-01-19T00:00:00Z
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: 6635d5dc0aab027fe77796a824d3e375d5bf0083
+source-git-commit: f36aa9dd69ce107b1dd9afb66b976391a1ff7ece
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 11%
@@ -12,7 +12,7 @@ ht-degree: 11%
 
 # 상거래 자습서 {#videos}
 
-에 오신 것을 환영합니다 [!DNL Commerce] 비디오 및 자습서 컬렉션. 와 함께 이러한 리소스 사용 [설명서](https://experienceleague.adobe.com/docs/commerce.html)를 통해 Adobe Commerce 및 Magento Open Source을 사용하여 전자 상거래 비즈니스를 지원하는 방법을 살펴볼 수 있습니다. 이 컬렉션은 백엔드 개발자, 프런트 엔드 개발자, 시스템 관리자, 상인 및 조직 내의 기타 역할을 위한 유용한 콘텐츠를 제공하도록 설계되었습니다.
+에 오신 것을 환영합니다 [!DNL Commerce] 비디오 및 자습서 컬렉션. 와 함께 이러한 리소스 사용 [설명서](https://experienceleague.adobe.com/docs/commerce.html)에서는 Adobe Commerce 및 Magento Open Source을 사용하여 전자 상거래 비즈니스를 지원하는 방법을 배울 수 있는 기회를 제공합니다. 이 컬렉션은 백엔드 개발자, 프런트 엔드 개발자, 시스템 관리자, 상인 및 조직 내의 기타 역할을 위한 유용한 콘텐츠를 제공하도록 설계되었습니다.
 
 <div id="whats-new-section">
 
