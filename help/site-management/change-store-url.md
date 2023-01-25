@@ -7,9 +7,9 @@ role: Admin, Leader
 audience: all
 activity: use
 exl-id: 6d9562e7-359d-4e82-9c1d-9536ba44df14
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Adobe Commerce 또는 Magento Open Source 설치의 각 웹 사이트에는 스�
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.1.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 및 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 릴리스 노트.
+>비디오의 컨텐츠는 2.1.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 노트](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)
 
 ## 추가 리소스
 
-- [저장소 URL](https://docs.magento.com/user-guide/stores/store-urls.html)
-- [사용자 지정 관리 URL 사용](https://docs.magento.com/user-guide/stores/store-urls-custom-admin.html)
+- [저장소 URL - [!DNL Commerce] Store and Purchase Experience 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
+- [사용자 지정 관리자 URL 사용 - [!DNL Commerce] Store and Purchase Experience 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)

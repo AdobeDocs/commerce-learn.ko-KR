@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 32ed7126-825c-475f-8e7d-69a754077589
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.2 릴리스를 반영합니다. 자세한 내용은 [MBI 사용 안내서](https://docs.magento.com/mbi/) 최신 정보를 확인하십시오.
+>비디오의 컨텐츠는 2.2 릴리스를 반영합니다. 자세한 내용은 [MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 최신 정보를 확인하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35990?quality=12&learn=on)
 
 ## 추가 리소스
 
-- [고객(게스트 체크아웃이 허용됨)](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#customers-guest-checkout-allowed)
-- [고객(게스트 체크아웃을 허용하지 않음)](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#customers-no-guest-checkout-allowed)
+- [고객(게스트 체크아웃 허용) - MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(guest-checkout-allowed))
+- [고객(게스트 체크아웃이 허용되지 않음) - MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(no-guest-checkout-allowed))

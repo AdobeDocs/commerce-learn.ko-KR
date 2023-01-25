@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: 33d17977-f02e-492a-ac95-a84f2db3b4d0
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.4.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 릴리스 노트.
+>비디오의 컨텐츠는 2.4.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 노트](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?quality=12&learn=on)
 
 ## 추가 리소스
 
-- [2단계 인증 - 사용 안내서](https://docs.magento.com/user-guide/stores/security-two-factor-authentication.html)
-- [2단계 인증 - 개발자 안내서](https://devdocs.magento.com/guides/v2.4/security/two-factor-authentication.html)
+- [2단계 인증(2FA) - 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
+- [2단계 인증 구성(2FA) - 개발자 설명서](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

@@ -6,9 +6,9 @@ role: Admin, User
 audience: all
 activity: use
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -30,5 +30,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [컨텐츠 스테이징](https://docs.magento.com/user-guide/cms/content-staging.html)
-- [캠페인 미리 보기](https://docs.magento.com/user-guide/cms/content-staging-preview.html)
+- [컨텐츠 스테이징 - [!DNL Commerce] Content and Design 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html)
+- [캠페인 미리 보기 - [!DNL Commerce] Content and Design 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html)

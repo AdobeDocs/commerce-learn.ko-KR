@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36194.jpeg
 activity: use
 exl-id: 070fe7d2-77f9-40d9-86e8-f2c8dccb2548
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -32,5 +32,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [작성기 소개](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/intro/intro-composer.html)
-- [[!DNL Commerce] 설치 안내서](https://devdocs.magento.com/guides/v2.4/install-gde/install-flow-diagram.html)
+- [작성기 소개](https://developer.adobe.com/commerce/php/development/composer/)
+- [[!DNL Commerce] 설치 안내서](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html)

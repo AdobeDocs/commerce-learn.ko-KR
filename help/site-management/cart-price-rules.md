@@ -6,9 +6,9 @@ audience: all
 role: Admin, User
 activity: use
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [장바구니 가격 규칙 만들기](https://docs.magento.com/user-guide/marketing/price-rules-cart-create.html)
-- [쿠폰 코드](https://docs.magento.com/user-guide/marketing/price-rules-cart-coupon.html)
+- [장바구니 가격 규칙 만들기 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
+- [쿠폰 코드 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)

@@ -8,9 +8,9 @@ solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,6 @@ SQL Report Builder을 사용하면 데이터 웨어하우스를 직접 쿼리하
 
 ## 유용한 리소스
 
-[SQL Report Builder 사용](https://docs.magento.com/mbi/data-analyst/dev-reports/sql-rpt-bldr.html)
+[SQL Report Builder 사용 - MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
 
-[SQL 쿼리에서 시각화 만들기](https://docs.magento.com/mbi/tutorials/create-visuals-from-sql.html)
+[SQL 쿼리에서 시각화 만들기 - MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)

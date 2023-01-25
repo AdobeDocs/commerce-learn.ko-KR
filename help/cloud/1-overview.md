@@ -7,10 +7,10 @@ doc-type: video
 audience: all
 activity: use
 exl-id: 13ebcc7f-c0ed-4e8f-8344-1d1adb4249db
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 61%
+source-wordcount: '96'
+ht-degree: 52%
 
 ---
 
@@ -26,4 +26,4 @@ ht-degree: 61%
 
 ## 추가 리소스
 
-[ [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html)용 클라우드 가이드
+[[!DNL Commerce] 클라우드 인프라 가이드](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)

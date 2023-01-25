@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: 75a8213a-145b-4fb2-898c-1ae7ba272748
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [고객 속성](https://docs.magento.com/user-guide/stores/attributes-customer.html)
-- [개별 고객 계정 생성](https://docs.magento.com/user-guide/customers/account-create.html)
+- [고객 속성 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
+- [개별 고객 계정 만들기 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)

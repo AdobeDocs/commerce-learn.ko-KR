@@ -6,10 +6,10 @@ role: Admin, User
 audience: all
 activity: use
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 0%
+source-wordcount: '102'
+ht-degree: 1%
 
 ---
 
@@ -28,5 +28,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [페이지 빌더 템플릿](https://docs.magento.com/user-guide/cms/page-builder-templates.html)
-- [템플릿 추가 - 개발자](https://devdocs.magento.com/page-builder/docs/content-types/create/add-templates.html)
+- [[!DNL Page Builder] Templates - [!DNL Page Builder] 사용 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+- [템플릿 추가 - [!DNL Page Builder] 개발자 안내서](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

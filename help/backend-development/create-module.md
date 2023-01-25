@@ -6,9 +6,9 @@ kt: 5602
 doc-type: video
 activity: use
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -34,5 +34,4 @@ ht-degree: 0%
 
 ## 유용한 리소스
 
-- [모듈 참조 안내서](https://devdocs.magento.com/guides/v2.4/mrg/intro.html)
-- [모듈 만들기](https://devdocs.magento.com/videos/fundamentals/create-a-new-module/)
+- [모듈 참조 안내서](https://developer.adobe.com/commerce/php/module-reference/)

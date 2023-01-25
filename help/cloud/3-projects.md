@@ -6,9 +6,9 @@ doc-type: video
 audience: all
 activity: use
 exl-id: cbda1031-906a-4e25-81be-f3f15347d82c
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -24,5 +24,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [프로젝트 구조](https://devdocs.magento.com/cloud/project/project-start.html)
-- [환경 구성](https://devdocs.magento.com/cloud/env/environments.html)
+- [프로젝트 구조 - [!DNL Commerce] 클라우드 인프라 가이드](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/file-structure.html)
+- [환경 구성 - [!DNL Commerce] 클라우드 인프라 가이드](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)

@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36191.jpeg
 activity: use
 exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 16%
@@ -31,8 +31,8 @@ ht-degree: 16%
 >이 콘텐츠는 Adobe Commerce 및 Magento Open Source 2.3.1 릴리스를 반영합니다.
 >
 >- PWA 및 [PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) 이제 _헤드리스_ 프론트엔드 구현
->- 기술 스택이 최신 버전의 2.3.x 릴리스 라인과 2.4.x 릴리스 라인에서 변경되었습니다. 을(를) 확인합니다. [시스템 요구 사항](https://devdocs.magento.com/guides/v2.4/install-gde/system-requirements.html) 올바른 시스템 구성 요소가 있는지 확인합니다.
->- 테만도의 폐쇄 때문에, Magento Shipping은 더 이상 이용할 수 없다. Commerce에서 새 배송 구현에 대한 자세한 상태 정보 및 권장 사항에 대해서는 [제품 정보 페이지](https://magento.com/shipping).
+>- 기술 스택이 최신 버전의 2.3.x 릴리스 라인과 2.4.x 릴리스 라인에서 변경되었습니다. 을(를) 확인합니다. [시스템 요구 사항](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/system-requirements.html) 올바른 시스템 구성 요소가 있는지 확인합니다.
+>- 테만도의 폐쇄 때문에, Magento Shipping은 더 이상 이용할 수 없다. Commerce에서 새 배송 구현에 대한 자세한 상태 정보 및 권장 사항에 대해서는 [제품 정보 페이지](https://business.adobe.com/products/magento/shipping.html).
 
 
 
@@ -40,6 +40,6 @@ ht-degree: 16%
 
 ## 추가 리소스
 
-[[!DNL Commerce] 아키텍처 안내서](https://devdocs.magento.com/guides/v2.4/architecture/bk-architecture.html)
+[[!DNL Commerce] 아키텍처 안내서](https://developer.adobe.com/commerce/php/architecture/)
 
-[[!DNL Commerce] PHP 개발자 안내서](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)
+[[!DNL Commerce] PHP 개발자 안내서](https://developer.adobe.com/commerce/php/development/)

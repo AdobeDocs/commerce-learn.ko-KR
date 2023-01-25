@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: 17d68833-eb86-49a8-80e7-16b20e435626
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -31,5 +31,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [고객 세그먼트](https://docs.magento.com/user-guide/marketing/customer-segments.html)
-- [가격 규칙의 고객 세그먼트](https://docs.magento.com/user-guide/marketing/customer-segment-price-rule.html)
+- [고객 세그먼트 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
+- [가격 규칙의 고객 세그먼트 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)

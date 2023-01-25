@@ -8,9 +8,9 @@ solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,6 @@ ht-degree: 0%
 
 ## 유용한 리소스
 
-[지표에 대한 필터 세트 만들기](https://docs.magento.com/mbi/data-user/reports/ess-manage-data-filters.html)
+[필터 세트 만들기 - MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
 
-[세그먼테이션 및 필터링을 위한 권장 데이터 Dimension](https://docs.magento.com/mbi/best-practices/segment-filter.html)
+[세그먼테이션 및 필터링을 위한 권장 데이터 Dimension - MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

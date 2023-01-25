@@ -7,9 +7,9 @@ role: Admin, User
 audience: all
 activity: use
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [블록](https://docs.magento.com/user-guide/cms/blocks.html)
-- [동적 블록](https://docs.magento.com/user-guide/cms/dynamic-blocks.html)
+- [블록 - [!DNL Commerce] Content and Design 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
+- [동적 블록 - [!DNL Commerce] Content and Design 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)

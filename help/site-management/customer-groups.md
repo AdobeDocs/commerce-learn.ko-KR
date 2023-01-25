@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: b43c5464-e103-4956-8352-3444f09e1ceb
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [고객 그룹](https://docs.magento.com/user-guide/customers/customer-groups.html)
-- [웹 사이트별 고객 그룹 제한 사항](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)
+- [고객 그룹 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+- [웹 사이트별 고객 그룹 제한 사항 - [!DNL Commerce] 고객 관리 안내서](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

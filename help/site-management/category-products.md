@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: 81a654bf-d09c-4bab-a050-daba6cce2f79
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [카테고리의 제품](https://docs.magento.com/user-guide/catalog/categories-category-products.html)
-- [카테고리 규칙 만들기](https://docs.magento.com/user-guide/catalog/category-product-rules.html)
+- [범주 제품 지정 - [!DNL Commerce] 카탈로그 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+- [머천다이징에 대한 카테고리 규칙 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)

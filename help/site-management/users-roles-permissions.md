@@ -6,9 +6,9 @@ doc-type: feature video
 audience: all
 activity: use
 exl-id: d06815c2-4b2a-4219-8c4e-7aa41a2be25d
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -27,5 +27,6 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [사용자 추가](https://docs.magento.com/user-guide/system/permissions-users-all.html)
-- [사용자 역할](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
+[관리 사용자 계정 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+
+[사용자 역할 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

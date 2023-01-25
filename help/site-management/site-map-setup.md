@@ -6,9 +6,9 @@ doc-type: feature video
 audience: all
 activity: use
 exl-id: 819e15cc-c712-463d-a6ee-0e9e5bad20e7
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.1.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 및 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 릴리스 노트.
+>비디오의 컨텐츠는 2.1.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 노트](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35748?quality=12&learn=on)
 
 ## 추가 리소스
 
-- [사이트 맵 사용](https://docs.magento.com/user-guide/marketing/sitemap-xml.html)
-- [XML 사이트 맵](https://docs.magento.com/user-guide/configuration/catalog/xml-sitemap.html)
+- [사이트 맵 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/sitemap-xml.html)
+- [카탈로그 > XML 사이트 맵 - [!DNL Commerce] 구성 참조 안내서](https://experienceleague.adobe.com/docs/commerce-admin/config/catalog/xml-sitemap.html)

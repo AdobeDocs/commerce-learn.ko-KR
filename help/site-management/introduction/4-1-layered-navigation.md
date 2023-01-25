@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 683d8f73-acd6-48e8-b4c3-b478db6e88fa
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -28,10 +28,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 및 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 릴리스 노트.
+>비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 노트](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36186?quality=12&learn=on)
 
 ## 추가 리소스
 
-[계층화된 탐색 - [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/catalog/navigation-layered.html)
+[계층화된 탐색 - [!DNL Commerce] 카탈로그 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-layered.html)

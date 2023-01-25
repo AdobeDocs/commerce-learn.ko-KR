@@ -8,9 +8,9 @@ solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 97115316-bce9-406a-a3f7-24474cf8e030
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -38,11 +38,11 @@ MBI는 모든 Adobe Commerce 및 Magento Open Source 판매자에 대해 최적�
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.2 릴리스를 반영합니다. 자세한 내용은 [MBI 사용 안내서](https://docs.magento.com/mbi/) 최신 정보를 확인하십시오.
+>비디오의 컨텐츠는 2.2 릴리스를 반영합니다. 자세한 내용은 [MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 최신 정보를 확인하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35979?quality=12&learn=on)
 
 ## 유용한 리소스
 
-- [MBI 소개](https://docs.magento.com/mbi/getting-started/getting-started.html)
-- [MBI 지원](https://support.magento.com/hc/en-us/articles/360016730811)
+- [MBI 소개 - MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+- [MBI 지원](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 7a0743ff-03dd-49cc-9d41-6674b71a4480
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,6 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-[사용자 역할 - [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
+[개별 고객 계정 만들기 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
 
-[개별 고객 계정 만들기 - [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/customers/account-create.html)
-
-[고객 그룹 - [!DNL Commerce] 사용 안내서](https://docs.magento.com/user-guide/customers/customer-groups.html)
+[고객 그룹 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)

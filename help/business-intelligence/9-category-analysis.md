@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 479f1c86-75dc-44f3-b183-9b83993c4b2c
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.2 릴리스를 반영합니다. 자세한 내용은 [MBI 사용 안내서](https://docs.magento.com/mbi/) 최신 정보를 확인하십시오.
+>비디오의 컨텐츠는 2.2 릴리스를 반영합니다. 자세한 내용은 [MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 최신 정보를 확인하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37904/?quality=12&learn=on)
 
 ## 추가 리소스
 
-- [제품 세그먼트](https://docs.magento.com/mbi/best-practices/segment-filter.html#product-segments)
-- [비즈니스 성과 분석](https://docs.magento.com/mbi/data-analyst/analysis/bus-perf-analysis.html)
+- [제품 세그먼트 - MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html#product-segments)
+- [비즈니스 성능 분석 - MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)

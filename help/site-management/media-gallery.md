@@ -6,9 +6,9 @@ role: Admin, User
 audience: all
 activity: use
 exl-id: c245e4f7-54cd-4fa8-8d6c-6b7eb2e2beea
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,5 @@ Adobe Commerce 또는 Magento Open Source 2.4를 통해 판매자는 향상된 �
 
 ## 추가 리소스
 
-- [미디어 갤러리](https://docs.magento.com/user-guide/cms/media-gallery.html)
-- [대체 미디어 저장소](https://docs.magento.com/user-guide/system/media-storage.html)
+- [미디어 갤러리 - [!DNL Commerce] Content and Design 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/gallery/media-gallery.html)
+- [대체 미디어 스토리지 - [!DNL Commerce] Content and Design 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage.html)

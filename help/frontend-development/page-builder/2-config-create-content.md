@@ -6,9 +6,9 @@ kt: 5651
 doc-type: video
 activity: use
 exl-id: 589d13fe-3b9d-4a48-a26e-a43b44726f93
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -32,12 +32,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 컨텐츠는 Adobe Commerce 2.3.1용 Page Builder 1.0.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 다음을 참조하십시오. [Page Builder 릴리스 노트](https://devdocs.magento.com/page-builder/docs/release-notes.html).
+>이 컨텐츠는 Adobe Commerce 2.3.1용 Page Builder 1.0.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 다음을 참조하십시오. [Page Builder 릴리스 노트](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35710?quality=12&learn=on)
 
 ## 유용한 리소스
 
-[Page Builder 개발자 설명서](https://devdocs.magento.com/page-builder/docs/index.html)
+[Page Builder 개발자 설명서](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Page Builder 사용자 설명서](https://docs.magento.com/user-guide/cms/page-builder.html)
+[페이지 빌더 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

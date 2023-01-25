@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 118e4d29-2064-465c-89f7-00bc7427f383
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ MBI에서 수행하는 몇 가지 유용한 유형의 분석 판매자가 잘 �
 
 ## 추가 리소스
 
-- [비즈니스 성과 분석](https://docs.magento.com/mbi/data-analyst/analysis/bus-perf-analysis.html)
-- [Google Analytics의 UTM 태깅](https://docs.magento.com/mbi/best-practices/utm-tagging-google.html)
+- [비즈니스 성능 분석 - MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)
+- [Google Analytics의 UTM 태깅 - MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/utm-tagging-google.html)

@@ -6,9 +6,9 @@ audience: all
 role: Admin, User
 activity: use
 exl-id: 0bdbedb1-5aa8-44ba-aef1-6e5cf06d35ce
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [카탈로그 가격 규칙 생성](https://docs.magento.com/user-guide/marketing/price-rules-catalog-create.html)
-- [여러 SKU를 사용하는 가격 규칙](https://docs.magento.com/user-guide/marketing/price-rule-multiple-sku.html)
+- [카탈로그 가격 규칙 생성 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
+- [여러 SKU를 사용하는 카탈로그 가격 규칙 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)
