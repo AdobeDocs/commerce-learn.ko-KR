@@ -6,7 +6,7 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 228891b0e4b56bc2f7d6a3b1dc259b67403ddf51
+source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 0%
@@ -14,15 +14,15 @@ ht-degree: 0%
 ---
 
 
-# 프로세스 외부의 확장성
+# App Builder 소개
 
-지금까지 Adobe Commerce 개발에서는 프로세스 내 확장성과 강력한 기능을 사용했지만, 프로세스 내 모델은 업그레이드, 서버의 PHP 버전, Commerce에서 사용하는 기타 중요한 서버 애플리케이션 및 서비스와 호환되도록 새로운 코드를 필요로 합니다. Adobe Developer App Builder는 이러한 호환성 문제를 방지하기 위해 프로세스 외부의 확장성을 사용합니다.
+지금까지 Adobe Commerce 개발에서는 프로세스 내 확장성을 사용했습니다. 인프로세스 모델은 업그레이드, 서버의 PHP 버전, Commerce에서 사용하는 기타 필수 서버 응용 프로그램 및 서비스와 호환되도록 새 코드를 필요로 합니다. Adobe Developer App Builder는 이러한 호환성 문제를 방지하기 위해 프로세스 외부의 확장성을 사용합니다.
 
 ## Adobe Commerce용 App Builder {#project-firefly}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
-Adobe Developer App Builder는 Adobe 솔루션을 확장하기 위해 사용자 지정 경험을 통합하고 만드는 서버를 사용하지 않는 확장성 플랫폼이며 이제 Adobe Commerce에서 사용할 수 있습니다. App Builder를 사용하면 상거래 기본 기능을 확장하고 타사 솔루션과 통합하는 안전하고 확장 가능한 앱을 빌드할 수 있습니다. 개발자는 이제 Adobe Commerce을 통해 프로세스 외부의 확장성을 활용할 수 있으므로 이를 통해 즉각적이고 장기적인 이점을 제공합니다.
+Adobe Developer App Builder는 Adobe 솔루션을 확장하기 위해 사용자 지정 경험을 통합하고 만드는 서버를 사용하지 않는 확장성 플랫폼이며 이제 Adobe Commerce에서 사용할 수 있습니다. App Builder를 사용하면 상거래 기본 기능을 확장하고 타사 솔루션과 통합하는 안전하고 확장 가능한 앱을 빌드할 수 있습니다. 개발자는 이제 Adobe Commerce을 통해 프로세스 외부 확장성을 활용할 수 있으므로 이를 통해 즉각적이고 장기적인 이점을 제공합니다.
 
 App Builder는 확장 가능한 사용자 지정 애플리케이션을 통합 및 생성하기 위한 통합 타사 확장성 프레임워크를 제공합니다 [!DNL Adobe Commerce]. 이 확장성 프레임워크는 Adobe의 인프라를 기반으로 구축되므로 개발자는 맞춤형 마이크로 서비스를 구축하고 확장 및 통합할 수 있습니다 [!DNL Adobe Commerce] 다른 Adobe 솔루션 및 타사 통합 간에 연결할 수 있습니다.
 

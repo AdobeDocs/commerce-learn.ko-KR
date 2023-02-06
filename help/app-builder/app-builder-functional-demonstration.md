@@ -6,15 +6,15 @@ kt: 11762
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 155cc49232ab739fe78443b1e5fb2691759a23ee
+source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
 
-# Adobe Commerce 기능 데모용 App Builder
+# App Builder용 기능 데모
 
 App Builder에서 Adobe Commerce을 사용하는 방법에 대해 자세히 알려면 Adobe Commerce을 Amazon Sales Channel에 연결하는 방법을 보여주는 아래 비디오를 보십시오. 이 데모에서는 Adobe Commerce 이벤트 및 Adobe 앱 빌더의 이벤트 관찰자를 사용합니다. 이 기능 데모에서는 이 통합이 작동하는 방식을 설명하고 Adobe App Builder의 잠재력을 탐색합니다.
 
