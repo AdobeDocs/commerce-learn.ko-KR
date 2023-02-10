@@ -1,12 +1,12 @@
 ---
-title: '[!DNL Commerce] 비디오 및 튜토리얼'
-description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 튜토리얼 모음입니다
+title: '`[!DNL Commerce] 비디오 및 Tutorials'
+description: Adobe Commerce 및 Magento Open Source을 위한 비디오 및 자습서 모음입니다
 last-substantial-update: 2023-01-19T00:00:00Z
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: f36aa9dd69ce107b1dd9afb66b976391a1ff7ece
+source-git-commit: 5cdc7c15eb792879e66cda39abafcbbd61d807dc
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 11%
+source-wordcount: '146'
+ht-degree: 0%
 
 ---
 
@@ -18,6 +18,8 @@ ht-degree: 11%
 
 ## 새로운 기능
 
+- [Adobe Developer App Builder](../app-builder/introduction-to-app-builder.md)
+- [API Mesh 시작](../api-mesh/getting-started-api-mesh.md)
 - [GraphQL 소개](../graphql-rest/intro-graphql.md)
 - [악성 IP 찾기](../new-relic/malicious-ip.md)
 
