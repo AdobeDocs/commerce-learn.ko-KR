@@ -2,9 +2,9 @@
 user-guide-title: 비디오 및 Tutorials
 user-guide-description: 비디오 및 자습서를 통해 Adobe Commerce 및 Magento Open Source에 대해 학습할 수 있습니다.
 breadcrumb-title: 비디오 및 Tutorials
-source-git-commit: 0423baa9babf6b74d95e7ba066624b0f0842f98c
+source-git-commit: 10f2a00922ccb9582081852885ef63e5cf297482
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '573'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,7 @@ ht-degree: 0%
    + [App Builder용 확장성 프레임워크](../app-builder/extensibility-framework-commerce-eventing.md)
    + [App Builder용 기능 데모](../app-builder/app-builder-functional-demonstration.md)
    + [App Builder 기술 개요](../app-builder/app-builder-technical-overview.md)
+   + [API Mesh 자습서](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/installing-aio-mesh-plugin.html)
 
 + API Mesh {#api-mesh}
    + [API Mesh 자습서](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/installing-aio-mesh-plugin.html)
