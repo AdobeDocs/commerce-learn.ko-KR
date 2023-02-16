@@ -5,8 +5,8 @@ landing-page-description: App Builder가 무엇이고 Adobe Commerce 개발 전�
 kt: 11433
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
+last-substantial-update: 2023-02-16T00:00:00Z
+source-git-commit: f4c092b4534587f5656bbf298dbf94f783d93be7
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 0%
@@ -89,3 +89,5 @@ App Builder는 사용자 정의 애플리케이션을 개발하는 데 도움이
 ## 지원 {#support}
 
 개발자 지원 요청의 경우 [Experience League 포럼](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) 지원 요청.
+
+{{$include /help/_includes/app-builder-related-links.md}}

@@ -5,10 +5,10 @@ landing-page-description: 기술 개요를 통해 Adobe Commerce에서 사용되
 kt: 11763
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
+last-substantial-update: 2023-02-16T00:00:00Z
+source-git-commit: f4c092b4534587f5656bbf298dbf94f783d93be7
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413512)
 
-
-## 추가 관련 자습서
-
-- [앱 빌더 소개](../app-builder/introduction-to-app-builder.md)
-- [기능 데모 앱 빌더](../app-builder/app-builder-functional-demonstration.md)
-- [확장성 프레임워크](../app-builder/extensibility-framework-commerce-eventing.md)
+{{$include /help/_includes/app-builder-related-links.md}}
