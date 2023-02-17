@@ -2,9 +2,9 @@
 user-guide-title: 비디오 및 Tutorials
 user-guide-description: 비디오 및 자습서를 통해 Adobe Commerce 및 Magento Open Source에 대해 학습할 수 있습니다.
 breadcrumb-title: 비디오 및 Tutorials
-source-git-commit: 5cdc7c15eb792879e66cda39abafcbbd61d807dc
+source-git-commit: d26282acb27a09344197f393ed2fe465afda022a
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -67,10 +67,13 @@ ht-degree: 0%
    + [App Builder용 확장성 프레임워크](../app-builder/extensibility-framework-commerce-eventing.md)
    + [App Builder용 기능 데모](../app-builder/app-builder-functional-demonstration.md)
    + [App Builder 기술 개요](../app-builder/app-builder-technical-overview.md)
-   + [API Mesh 자습서](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
 
 + API Mesh {#api-mesh}
-   + [API Mesh 자습서](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
+   + [API Mesh 시작](../api-mesh/getting-started-api-mesh.md)
+   + [Adobe IO 및 메쉬 플러그인 설치](../api-mesh/installing-aio-mesh-plugin.md)
+   + [프로젝트 및 작업 공간 작업](../api-mesh/aio-projects-workspaces.md)
+   + [단일 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-single-source.md)
+   + [여러 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-multiple-source.md)
 
 + 저장소 관리 {#admin}
    + [사용자 역할 및 권한 관리](../site-management/users-roles-permissions.md)
