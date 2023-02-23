@@ -2,7 +2,7 @@
 user-guide-title: 비디오 및 Tutorials
 user-guide-description: 비디오 및 자습서를 통해 Adobe Commerce 및 Magento Open Source에 대해 학습할 수 있습니다.
 breadcrumb-title: 비디오 및 Tutorials
-source-git-commit: 894accd205cdaa796405d979e324ec4d19f65c51
+source-git-commit: afd88a8996e941e9e6c00ef86d960318b8dcaee6
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
       + [5.2 - 선언적 스키마](../backend-development/backend-5-2-declarative-schema.md)
       + [5.3 - 라우팅](../backend-development/backend-5-3-routing.md)
       + [5.4 - 만들기 [!DNL Admin] 페이지](../backend-development/backend-5-4-admin-page.md)
-   + [6 - 연습](../backend-development/backend-6-practice.md)
+      + [6 - 연습](../backend-development/backend-6-practice.md)
    + [!DNL Commerce] 비즈니스 사용자용 {#merchants}
       + [1.1 - [!DNL Admin] 메뉴](../site-management/introduction/1-1-menus.md)
       + [1.2 - 데이터 그리드](../site-management/introduction/1-2-data-grids.md)
