@@ -6,7 +6,8 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 52738be67e20cc2048bbc04afc5c01c9c5478a98
+exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
+source-git-commit: a92537cdb2538743042e136467b389bbe49178fe
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -91,3 +92,5 @@ mutation doAddToCart(
 
 * 다음 `!` 문자 접미사 `String` 및 `CartItemInput` 변수가 필수임을 나타냅니다.
 * 대괄호(`[]`) 주위 `CartItemInput` 지정한 유형 `$cartItems` 단일 값이 아닌 해당 유형의 목록을 나타냅니다.
+
+{{$include /help/_includes/graphql-rest-related-links.md}}

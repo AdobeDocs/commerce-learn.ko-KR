@@ -1,16 +1,16 @@
 ---
 title: GraphQL 시작
-description: Adobe Commerce 및 [!DNL Magento Open Source]. 쿼리, 변형 및 스키마 사용에 대해 알아봅니다.
-landing-page-description: Adobe Commerce 및 [!DNL Magento Open Source]. 쿼리, 변형 및 스키마 사용에 대해 알아봅니다.
+description: Adobe Commerce 및 [!DNL Magento Open Source]. 쿼리, 배열 및 스키마 사용에 대해 알아봅니다.
+landing-page-description: Adobe Commerce 및 [!DNL Magento Open Source]. 쿼리, 배열 및 스키마 사용에 대해 알아봅니다.
 kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: b799bd7b-11a4-4a1c-b2f4-893f6ff2994d
-source-git-commit: a034e15f913c06fcad54e669f43fe6acc8fb3f8f
+source-git-commit: 894accd205cdaa796405d979e324ec4d19f65c51
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 11%
+source-wordcount: '93'
+ht-degree: 0%
 
 ---
 
@@ -32,11 +32,4 @@ GraphQL을 처음 사용하는 경우 함께 제공되는 자습서를 시작하
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412302/graphql)
 
-## 유용한 리소스
-
-비디오를 시청한 후 또는 비디오에 표시되는 자습서 페이지를 원하는 경우 다음 링크를 사용하십시오
-
-* [GraphQL 개요](./intro-graphql.md)
-* [쿼리](./graphql-queries.md)
-* [돌연변이](./graphql-mutations.md)
-* [스키마](./graphql-schema.md)
+{{$include /help/_includes/graphql-rest-related-links.md}}

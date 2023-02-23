@@ -6,13 +6,13 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 52738be67e20cc2048bbc04afc5c01c9c5478a98
+exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
+source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 0%
 
 ---
-
 
 # 스키마 언어
 
@@ -90,7 +90,7 @@ type Mutation {
 }
 ```
 
-당신은 [GraphQL 설명서](https://graphql.org/learn/schema/) 여기에는 표시되지 않는 일부 개념에 대한 구문을 포함하여 유형 시스템의 세부 사항을 알려주십시오. 그러나 위의 예는 자명하다. (또한 쿼리 구문과 구문이 얼마나 유사한지 확인합니다.) GraphQL 스키마를 정의하는 것은 해당 필드의 유형과 함께 주어진 유형의 사용 가능한 인수 및 필드를 표현하는 문제입니다. 각 복합 필드 유형에는 정의 등이 있어야 하며, 트리를 통해 다음과 같은 간단한 스칼라 형식에 도달할 때까지 `String`.
+당신은 [GraphQL 설명서](https://graphql.org/learn/schema/){target="_blank"} 여기에는 표시되지 않는 일부 개념에 대한 구문을 포함하여 유형 시스템의 세부 사항을 알려주십시오. 그러나 위의 예는 자명하다. (또한 쿼리 구문과 구문이 얼마나 유사한지 확인합니다.) GraphQL 스키마를 정의하는 것은 해당 필드의 유형과 함께 주어진 유형의 사용 가능한 인수 및 필드를 표현하는 문제입니다. 각 복합 필드 유형에는 정의 등이 있어야 하며, 트리를 통해 다음과 같은 간단한 스칼라 형식에 도달할 때까지 `String`.
 
 다음 `input` 선언은 모든 면에서 `type` 그러나 은 인수에 대한 입력으로 사용할 수 있는 형식을 정의합니다. 또한 `interface` 선언입니다. 이 기능은 PHP의 인터페이스와 거의 동일한 기능을 제공합니다. 다른 형식은 이 인터페이스에서 상속됩니다.
 
@@ -100,4 +100,4 @@ type Mutation {
 >
 >스키마에 따라 데이터를 가져오고 포맷하는 방법과 이러한 논리를 특정 유형에 매핑하는 방법에 대한 논리는 GraphQL 런타임 구현에 달려 있습니다. 그러나 구현은 중첩 필드에 대한 이해에 따라 의미가 있는 개념 흐름을 따라야 합니다. 루트와 연결된 해결 작업 `Query` 또는 `Mutation` 요청에 지정된 각 필드를 검사하는 유형이 수행됩니다. 복합 유형으로 확인되는 각 필드에 대해 모든 필드가 스칼라 값으로 확인될 때까지 해당 유형에 대해 유사한 확인이 수행됩니다.
 
-
+{{$include /help/_includes/graphql-rest-related-links.md}}

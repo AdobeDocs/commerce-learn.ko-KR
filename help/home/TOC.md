@@ -2,9 +2,9 @@
 user-guide-title: 비디오 및 Tutorials
 user-guide-description: 비디오 및 자습서를 통해 Adobe Commerce 및 Magento Open Source에 대해 학습할 수 있습니다.
 breadcrumb-title: 비디오 및 Tutorials
-source-git-commit: d26282acb27a09344197f393ed2fe465afda022a
+source-git-commit: 894accd205cdaa796405d979e324ec4d19f65c51
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
       + [5.2 - 선언적 스키마](../backend-development/backend-5-2-declarative-schema.md)
       + [5.3 - 라우팅](../backend-development/backend-5-3-routing.md)
       + [5.4 - 만들기 [!DNL Admin] 페이지](../backend-development/backend-5-4-admin-page.md)
-      + [6 - 연습](../backend-development/backend-6-practice.md)
+   + [6 - 연습](../backend-development/backend-6-practice.md)
    + [!DNL Commerce] 비즈니스 사용자용 {#merchants}
       + [1.1 - [!DNL Admin] 메뉴](../site-management/introduction/1-1-menus.md)
       + [1.2 - 데이터 그리드](../site-management/introduction/1-2-data-grids.md)
@@ -56,25 +56,30 @@ ht-degree: 0%
       + [5.2 - 고객 관리](../site-management/introduction/5-2-customer-management.md)
       + [5.3 - 이메일 통신](../site-management/introduction/5-3-store-communications.md)
       + [5.4 - 글로벌 참조 아키텍처](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
-
-
-
 + GraphQL 및 REST {#graphql-rest}
-   + [GraphQL 소개](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html)
-
+   + [GraphQL 시작](../graphql-rest/getting-started-graphql.md)
+   + [GraphQL 기본 사항](../graphql-rest/intro-graphql.md)
+   + [쿼리](../graphql-rest/graphql-queries.md)
+   + [돌연변이](../graphql-rest/graphql-mutations.md)
+   + [스키마](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [App Builder 소개](../app-builder/introduction-to-app-builder.md)
    + [App Builder용 확장성 프레임워크](../app-builder/extensibility-framework-commerce-eventing.md)
    + [App Builder용 기능 데모](../app-builder/app-builder-functional-demonstration.md)
    + [App Builder 기술 개요](../app-builder/app-builder-technical-overview.md)
-
-+ API Mesh {#api-mesh}
-   + [API Mesh 시작](../api-mesh/getting-started-api-mesh.md)
-   + [Adobe IO 및 메쉬 플러그인 설치](../api-mesh/installing-aio-mesh-plugin.md)
-   + [프로젝트 및 작업 공간 작업](../api-mesh/aio-projects-workspaces.md)
-   + [단일 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-single-source.md)
-   + [여러 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-multiple-source.md)
-
+   + Adobe Commerce용 IO 이벤트 {#io-events}
+      + [Adobe Commerce 2.4.5 설치](../io-events/2-4-5-installation.md)
+      + [Adobe Commerce 2.4.6 설치](../io-events/2-4-6-installation.md)
+      + [App Builder 프로젝트 만들기](../io-events/create-app-builder-project.md)
+      + [Adobe Commerce 구성](../io-events/configure-commerce.md)
+      + [Adobe Commerce 모듈 개발](../io-events/commerce-module-development.md)
+      + [Adobe Commerce 조건부 이벤트](../io-events/conditional-events.md)
+   + API Mesh {#api-mesh}
+      + [API Mesh 시작](../api-mesh/getting-started-api-mesh.md)
+      + [Adobe IO 및 메쉬 플러그인 설치](../api-mesh/installing-aio-mesh-plugin.md)
+      + [프로젝트 및 작업 공간 작업](../api-mesh/aio-projects-workspaces.md)
+      + [단일 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-single-source.md)
+      + [여러 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-multiple-source.md)
 + 저장소 관리 {#admin}
    + [사용자 역할 및 권한 관리](../site-management/users-roles-permissions.md)
    + [이중 인증](../site-management/two-factor-authentication.md)
@@ -84,14 +89,11 @@ ht-degree: 0%
    + [사이트 맵 저장 설정](../site-management/site-map-setup.md)
    + [운송 및 납품 방법](../site-management/shipping-delivery.md)
    + [결제 서비스 사용](../site-management/payment-services.md)
-
-
 + 고객 관리 {#customers}
    + [고객 세그먼트 만들기](../site-management/customer-segments.md)
    + [고객 그룹 만들기](../site-management/customer-groups.md)
    + [고객 속성 만들기](../site-management/customer-attributes.md)
    + [판매자 지원 쇼핑](../site-management/seller-assisted-shopping.md)
-
 + 카탈로그 관리 {#catalog}
    + [Adobe Commerce용 카탈로그 서비스](../site-management/catalog-service.md)
    + [카테고리 만들기](../site-management/category-create.md)
@@ -101,7 +103,6 @@ ht-degree: 0%
    + [PWA Studio에 제품 속성 사용](../site-management/product-attributes-pwa.md)
    + [SEO 메타데이터 관리](../site-management/seo-metadata.md)
    + [SEO용 URL 다시 쓰기 관리](../site-management/seo-url-rewrites.md)
-
 + 콘텐츠 관리 {#content}
    + [페이지 빌더 개요](../site-management/page-builder-overview.md)
    + [정적 및 동적 블록 만들기](../site-management/static-dynamic-blocks.md)
@@ -109,7 +110,6 @@ ht-degree: 0%
    + [콘텐츠 템플릿 사용](../site-management/content-templates.md)
    + [컨텐츠 스테이징](../site-management/content-staging.md)
    + [미디어 갤러리 관리](../site-management/media-gallery.md)
-
 + 마케팅 도구 {#marketing}
    + [카탈로그 가격 규칙 생성](../site-management/catalog-price-rules.md)
    + [장바구니 가격 규칙 만들기](../site-management/cart-price-rules.md)
@@ -117,24 +117,20 @@ ht-degree: 0%
    + [제품 Recommendations 설정](../site-management/product-recommendations.md)
    + [라이브 검색 소개](../site-management/live-search.md)
    + [권장 사항 라이브 검색](../site-management/live-search-recommendations.md)
-
 + 주문 및 이행 {#orders}
    + [저장 이행 개요](../site-management/store-fulfillment.md)
    + [주문 상태 관리](../site-management/order-status.md)
-
 + Adobe Commerce용 B2B {#b2b}
    + [회사 계정 관리](../b2b/company-accounts.md)
    + [공유 카탈로그 관리](../b2b/shared-catalogs.md)
    + [회사 신용 관리](../b2b/company-credit.md)
    + [구매 발주 및 승인](../b2b/purchase-orders.md)
-
 + 도구 및 외부 서비스 {#tools}
    + [사이트 전체 분석 도구 대시보드](../tools/site-wide-analysis-tool.md)
    + [Adobe Commerce 관찰](../tools/observation-tool.md)
    + [품질 패치 도구](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
       + [악성 IP 찾기](../new-relic/malicious-ip.md)
-
 + MBI {#mbi}
    + [필터 세트](../business-intelligence/filter-sets.md)
    + [집단 Report Builder](../business-intelligence/cohort-report-builder.md)
@@ -160,19 +156,16 @@ ht-degree: 0%
       + [투자 추적 수익률](../business-intelligence/10-roi-tracking.md)
       + [결과 공유 및 데이터 내보내기](../business-intelligence/11-share-results-export-data.md)
       + [고객 성공 사례](../business-intelligence/12-customer-success.md)
-
 + 상거래 업그레이드 {#upgrade}
    + [Adobe Commerce 2.4 업그레이드 워크숍](../upgrade/2.4-upgrade-workshop.md)
    + [업그레이드 호환성 도구 개요](../upgrade/upgrade-compatibility-tool-overview.md)
    + [PHP Storm에서 업그레이드 호환성 도구 사용](../upgrade/uct-phpstorm.md)
-
 + 백엔드 개발 {#backend-development}
    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [데이터베이스에 테이블 추가](../backend-development/new-db-table.md)
    + [모듈 만들기](../backend-development/create-module.md)
    + [제품 속성 추가](../backend-development/add-product-attribute.md)
    + [종속성 삽입 예](../backend-development/dependency-injection.md)
-
 + 프론트엔드 개발 {#frontend-development}
    + 개발자용 페이지 빌더 {#page-builder}
       + [1 - 소개](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -183,7 +176,6 @@ ht-degree: 0%
       + [6 - 사용자 지정 컨텐츠 유형](../frontend-development/page-builder/6-custom-content-types.md)
    + [JavaScript 모듈 추가](../frontend-development/add-javascript-module.md)
    + [페이지 만들기](../frontend-development/create-page.md)
-
 + PWA Studio {#pwa-studio}
    + PWA Studio 소개 {#introduction}
       + [1 - 개요](../pwa/introduction/1-overview.md)
