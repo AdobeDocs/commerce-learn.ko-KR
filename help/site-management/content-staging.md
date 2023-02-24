@@ -5,10 +5,11 @@ doc-type: feature video
 role: Admin, User
 audience: all
 activity: use
+badge: label="Adobe Commerce에서만" type="Positive"
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 884f7b71c9996d29d1c8eb07a30c445338b660f0
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -30,5 +31,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [컨텐츠 스테이징 - [!DNL Commerce] Content and Design 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html)
-- [캠페인 미리 보기 - [!DNL Commerce] Content and Design 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html)
+- [컨텐츠 스테이징 - [!DNL Commerce] Content and Design 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
+- [캠페인 미리 보기 - [!DNL Commerce] Content and Design 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
