@@ -6,7 +6,7 @@ kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: a6fb3810f34246df73ae5557240eaaa0f4407eb1
+source-git-commit: f365e4cbf3f9bd8a0364acb9d28f8d9479809011
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -17,11 +17,11 @@ ht-degree: 0%
 # Adobe I/O Runtime CLI 및 Mesh 플러그인 설치
 
 Adobe Developer App Builder용 API Mesh를 사용하기 전에 `aio` CLI 및 API Mesh 플러그인입니다.
-설치 지침 및 사전 요구 사항을 알려면 API Mesh 를 참조하십시오 [시작하기](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/) 페이지.
+설치 지침 및 사전 요구 사항을 알려면 API Mesh 를 참조하십시오 [시작하기](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} 페이지.
 
 ## 이 비디오 누구?
 
-* API Mesh를 처음 사용하는 개발자 또는 [!DNL Adobe Commerce] 사용 경험이 제한되어 있음 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/) 및 API Mesh.
+* API Mesh를 처음 사용하는 개발자 또는 [!DNL Adobe Commerce] 사용 경험이 제한되어 있음 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} 및 API Mesh.
 
 ## 비디오 컨텐츠
 

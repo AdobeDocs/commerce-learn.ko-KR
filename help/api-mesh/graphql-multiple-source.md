@@ -6,7 +6,7 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
+source-git-commit: 6b2a66ed3b4de8e633d5b3c6bce86eb0507a9ac7
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # 여러 소스가 있는 메쉬 만들기
 
-이 비디오에서는 개발자가 Adobe Developer App Builder용 API Mesh에서 여러 소스가 포함된 메쉬를 만드는 방법을 이해하는 데 도움이 됩니다. 이 비디오에서는 여러 소스가 있는 메쉬를 만들고 오류를 식별하는 방법을 보여 줍니다. 자세한 내용 및 코드 샘플은 [메쉬 만들기](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+이 비디오에서는 개발자가 Adobe Developer App Builder용 API Mesh에서 여러 소스가 포함된 메쉬를 만드는 방법을 이해하는 데 도움이 됩니다. 이 비디오에서는 여러 소스가 있는 메쉬를 만들고 오류를 식별하는 방법을 보여 줍니다. 자세한 내용 및 코드 샘플은 [메쉬 만들기](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## 이 비디오 누구?
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 비디오 컨텐츠
 
-* 사용 방법 [변형](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/) 기본 소스 스키마를 수정하려면
+* 사용 방법 [변형](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} 기본 소스 스키마를 수정하려면
 * 이름 충돌, 스키마 가용성 및 기타 스키마 구문 문제와 같은 오류를 해결하는 방법
 * 수정된 구성으로 메쉬 업데이트
 

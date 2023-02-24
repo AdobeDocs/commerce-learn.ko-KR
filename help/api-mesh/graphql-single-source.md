@@ -6,7 +6,7 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 2cf7eb4d04f874ec42ca5f6d58ec841680376a41
+source-git-commit: fba55cd605c4b17d87af5e8e2919bd400e6ebf55
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # 단일 소스로 메쉬 만들기
 
-이 비디오에서는 개발자가 Adobe Developer App Builder용 API Mesh에서 단일 소스와의 메쉬를 만드는 방법을 이해하는 데 도움이 됩니다. 이 기본 예가 예상대로 작동하려면 공개적으로 액세스할 수 있는 API 또는 GraphQL 엔드포인트가 필요합니다. 이 비디오에서는 간단한 `mesh.json` 전자 상거래 인스턴스에 사용할 파일입니다. 자세한 내용 및 코드 샘플은 [메쉬 만들기](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+이 비디오에서는 개발자가 Adobe Developer App Builder용 API Mesh에서 단일 소스와의 메쉬를 만드는 방법을 이해하는 데 도움이 됩니다. 이 기본 예가 예상대로 작동하려면 공개적으로 액세스할 수 있는 API 또는 GraphQL 엔드포인트가 필요합니다. 이 비디오에서는 간단한 `mesh.json` 전자 상거래 인스턴스에 사용할 파일입니다. 자세한 내용 및 코드 샘플은 [메쉬 만들기](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## 이 비디오 누구?
 
