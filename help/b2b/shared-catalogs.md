@@ -5,10 +5,11 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+badge: label="Adobe Commerce용 B2B" type="Positive"
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e6d74f9428c98741225ab25053cd663d8c65cc39
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -32,5 +33,5 @@ Adobe Commerce용 B2B를 사용하면 다양한 회사에 대한 사용자 지�
 
 ## 추가 리소스
 
-- [공유 카탈로그 작업](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html)
-- [공유 카탈로그 만들기](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html)
+- [공유 카탈로그 작업](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"}
+- [공유 카탈로그 만들기](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}
