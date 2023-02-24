@@ -5,10 +5,11 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+badge: label="Adobe Commerce용 B2B" type="Positive"
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: 7e09ceadf377bf5ed15988cf0db493af1c0ead0a
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -31,5 +32,5 @@ B2B 가맹점을 위해 _[!UICONTROL Companies]_페이지에 현재 회사 계�
 
 ## 추가 리소스
 
-- [회사 계정](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html)
-- [회사 계정 관리](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html)
+- [회사 계정](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
+- [회사 계정 관리](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}
