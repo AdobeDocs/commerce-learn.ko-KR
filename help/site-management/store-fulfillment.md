@@ -3,11 +3,11 @@ title: 저장 이행 개요
 description: Store Fulfillment for Adobe Commerce에 대해 알아보십시오. Walmart Commerce Technologies는 Buy Online, Pick-up In-Store(BOPIS) 환경을 최종 제공하는 고급 옴니채널 이행 솔루션입니다.
 landing-page-description: 이 비디오에서 Store Fulfillment 솔루션을 통해 고객에게 매장 내 및 매장 내 픽업 서비스의 편의성을 제공하고 보다 효율적인 모바일 전용 이행 워크플로우를 제공하여 고객에게 주문을 선택하고, 스테이징하고, 핸드오프 주문을 제공하는 방법을 살펴볼 수 있습니다.
 doc-type: feature video
-solution: Adobe Commerce
+solution: Commerce
 audience: all
 activity: use
 exl-id: 53f45eb4-29e0-426d-8e9a-784838e37e03
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: f614fbd70ed58fd3a8177700e4c118d4f17bf349
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
