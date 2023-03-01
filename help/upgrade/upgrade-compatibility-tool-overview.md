@@ -1,7 +1,7 @@
 ---
 title: 업그레이드 호환성 도구 개요
-description: 이 기술 비디오를 통해 업그레이드 호환성 도구로 다음 번 업그레이드를 보다 쉽고 저렴하고 빠르게 수행하는 방법에 대해 알아보십시오.
-landing-page-description: 이 기술 비디오를 통해 업그레이드 호환성 도구로 다음 번 업그레이드를 보다 쉽고 저렴하고 빠르게 수행하는 방법에 대해 알아보십시오.
+description: 이 기술 비디오에서 업그레이드 호환성 도구를 통해 보다 쉽고 저렴하며 빠른 차세대 업그레이드를 수행하는 방법을 알아보십시오.
+landing-page-description: 이 기술 비디오에서 업그레이드 호환성 도구를 통해 보다 쉽고 저렴하며 빠른 차세대 업그레이드를 수행하는 방법을 알아보십시오.
 kt: 9983
 doc-type: technical video
 role: Admin, Leader, Developer
@@ -11,7 +11,7 @@ exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 18%
+ht-degree: 0%
 
 ---
 

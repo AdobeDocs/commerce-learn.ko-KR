@@ -6,9 +6,9 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 662c755b69e399448ce7f4984105a556386f027c
+source-git-commit: f4c092b4534587f5656bbf298dbf94f783d93be7
 workflow-type: tm+mt
-source-wordcount: '782'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
@@ -60,10 +60,6 @@ Adobe Developer App Builder는 기본 솔루션 대신 다음을 포함하여 Ad
 App Builder 아키텍처에 대한 자세한 내용은 [아키텍처 개요](https://developer.adobe.com/app-builder/docs/guides/).
 
 ## Amazon Sales Channel 확장 {#amazon-sales-channel-extension}
-
->[!IMPORTANT]
->
->Amazon Sales Channel 확장은 아직 개발 중이며 공식적으로 출시되지 않았습니다.  이 비디오와 자습서는 실제 사용 사례에 Adobe Developer App Builder를 사용하는 방법을 보여주기 위한 것입니다.
 
 다음 자습서에서는 앱 빌더 확장을 사용하여 Adobe Commerce을 Amazon Sales Channel에 연결하는 방법을 보여줍니다.
 
