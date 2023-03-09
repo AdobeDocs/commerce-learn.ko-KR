@@ -6,7 +6,7 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 8726d58abbf6ac0fb1e403a0ece335978d4d7eac
+source-git-commit: 82ccecf2789e1eedf447af2705a3840d0302fdba
 workflow-type: tm+mt
 source-wordcount: '819'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Adobe Developer App Builder는 기본 솔루션 대신 Adobe Commerce과 같은 
 
 ![아키텍처](/help/assets/app-builder/firefly-architecture.jpeg)
 
-App Builder 아키텍처에 대한 자세한 내용은 [아키텍처 개요](https://developer.adobe.com/app-builder/docs/guides/).
+App Builder 아키텍처에 대한 자세한 내용은 [아키텍처 개요](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
 ## Amazon Sales Channel 확장 {#amazon-sales-channel-extension}
 
@@ -75,27 +75,27 @@ App Builder 아키텍처에 대한 자세한 내용은 [아키텍처 개요](htt
 
 초기 설정을 포함하는 구성 가능한 상거래 전략에 대한 개요는 다음 블로그 게시물을 통해 확인할 수 있습니다.
 
-[App Builder가 상거래 플랫폼의 비즈니스 민첩성을 높이는 데 어떻게 도움이 됩니까?](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy)
+[App Builder가 상거래 플랫폼의 비즈니스 민첩성을 높이는 데 어떻게 도움이 됩니까?](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
 App Builder를 시작하는 데 도움이 되도록 Adobe에서 다음 설명서를 만들었습니다.
 
-* [App Builder 시작](https://developer.adobe.com/app-builder/docs/getting_started/)
+* [App Builder 시작](https://developer.adobe.com/app-builder/docs/getting_started/){target="_blank"}
 
 ## 설명서를 사용하여 학습 계속 {#appbuilder-documentation}
 
 App Builder는 사용자 정의 애플리케이션을 개발하는 데 도움이 되는 안내서 및 참조 설명서를 포함하여 개발자를 위한 비디오 및 설명서를 제공합니다.
 
-* [App Builder 설명서](https://developer.adobe.com/app-builder/docs/overview/)
-* [App Builder 비디오](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o)
+* [App Builder 설명서](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [App Builder 비디오](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
 
 ## 샘플 애플리케이션 중 하나를 사용해 보십시오. {#appbuilder-codesamples}
 
 개발을 시작할 준비가 되셨습니까? 다음 링크에는 시작하는 데 도움이 되는 샘플 응용 프로그램이 포함되어 있습니다.
 
-* [Adobe Developer 웹 사이트의 App Builder 코드 랩](https://developer.adobe.com/app-builder/docs/resources/)
+* [Adobe Developer 웹 사이트의 App Builder 코드 랩](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
 
 ## 지원 {#support}
 
-개발자 지원 요청의 경우 [Experience League 포럼](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) 도움이 필요하신가요?
+개발자 지원 요청의 경우 [Experience League 포럼](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} 도움이 필요하신가요?
 
 {{$include /help/_includes/app-builder-related-links.md}}
