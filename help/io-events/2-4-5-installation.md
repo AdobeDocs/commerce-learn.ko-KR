@@ -2,12 +2,13 @@
 title: Adobe Commerce 2.4.5용 IO 이벤트를 설치하는 방법 알아보기
 description: Adobe Developer App Builder에서 사용할 Adobe Commerce 2.4.5에서 IO 이벤트에 필요한 모듈을 설치하는 방법을 알아봅니다
 landing-page-description: Composer를 사용하여 Adobe Commerce 2.4.5에 필요한 여러 모듈을 설치하는 방법을 알아봅니다.
+short-description: Learn how to install several modules needed for Adobe Commerce 2.4.5 using composer.
 kt: 11886
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
 badge: "Adobe Commerce 2.4.5"
-source-git-commit: e5fe4d5408b12426f9925c6213bd0cc73b4089b6
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%

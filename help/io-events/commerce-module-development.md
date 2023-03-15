@@ -2,11 +2,12 @@
 title: 이벤트를 사용하기 위해 Adobe Commerce에서 모듈을 만드는 방법을 알아봅니다.
 description: 이벤트를 사용하도록 상거래 모듈을 만드는 방법을 알아봅니다.
 landing-page-description: 이벤트를 사용하도록 Adobe Commerce 모듈을 만드는 방법을 알아봅니다.
+short-description: Learn how to create an Adobe Commerce module to use events.
 kt: 11891
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
-source-git-commit: f1295c93652a9a2ae40a82009a8eb6895f59b909
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%

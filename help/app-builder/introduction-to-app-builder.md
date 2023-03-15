@@ -2,11 +2,12 @@
 title: Adobe Commerce의 프로세스 부족 확장성
 description: Adobe App Builder와 프로세스가 아닌 확장성 중 중요한 측면에 대해 알아보십시오.
 landing-page-description: App Builder가 무엇이고 Adobe Commerce 개발 전략에 이 기능을 사용할 수 있는지 알아봅니다.
+short-description: Learn what is App Builder and how it can help with Adobe Commerce development strategies.
 kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 021df5e5f98341204e9cc486c249dcd87fab2aa3
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%

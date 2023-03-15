@@ -1,17 +1,18 @@
 ---
 title: PHP Storm에서 업그레이드 호환성 도구 사용
-description: 이 기술 비디오를 통해 PHP Storm 플러그인과 함께 호환성 업그레이드 도구를 사용하는 방법을 알아보십시오.
-landing-page-description: 비호환성을 쉽게 식별하고 해결할 수 있는 PHP Storm 플러그인과 함께 호환성 업그레이드 도구를 사용하는 방법에 대해 알아보십시오.
+description: 이 기술 비디오를 시청하여 PHP Storm 플러그인과 업그레이드 호환성 도구를 사용하는 방법을 학습합니다.
+landing-page-description: 호환성 도구를 PHP Storm 플러그인과 함께 사용하여 호환성 문제를 쉽게 식별하고 해결할 수 있습니다.
+short-description: Learn about using the Upgrade Compatibility Tool with the PHP Storm plugin that makes it easy to identify and address incompatibilities.
 kt: 9651
 doc-type: technical video
 role: Developer
 audience: all
 activity: use
 exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 23%
+ht-degree: 0%
 
 ---
 

@@ -2,13 +2,14 @@
 title: MBI - 필터 세트
 description: Adobe Commerce 및 Magento Open Source에 대한 비즈니스 데이터 보고를 간소화하기 위해 MBI 필터 세트 기능을 사용하는 방법을 알아봅니다.
 landing-page-description: 이 비디오에서 MBI 필터 세트 기능을 사용하여 비즈니스 데이터 보고를 간소화하는 방법을 알아보십시오.
+short-description: Watch this video to learn how use the MBI filter sets feature to simplify business data reporting.
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%

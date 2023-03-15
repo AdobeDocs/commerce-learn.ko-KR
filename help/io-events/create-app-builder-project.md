@@ -2,11 +2,12 @@
 title: 상거래 이벤트를 사용하여 App Builder 프로젝트를 만드는 방법을 알아봅니다
 description: 상거래 이벤트에 사용할 App Builder 프로젝트를 만드는 방법을 알아봅니다
 landing-page-description: Adobe Commerce 이벤트를 사용하도록 Adobe App Builder 프로젝트를 만드는 방법을 알아봅니다
+short-description: Learn how to create an Adobe App Builder project to use Adobe Commerce events
 kt: 11888
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
-source-git-commit: e31325570a0b816eee5b250224d6442399685611
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

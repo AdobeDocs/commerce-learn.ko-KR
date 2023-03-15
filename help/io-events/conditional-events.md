@@ -2,11 +2,12 @@
 title: Adobe Commerce에서 조건부 이벤트 사용 방법 알아보기
 description: Adobe Developer App Builder에서 사용할 조건부 이벤트를 사용하는 방법을 알아봅니다.
 landing-page-description: Adobe Commerce 조건부 이벤트 사용 방법을 알아봅니다.
+short-description: Learn how to use Adobe Commerce conditional events.
 kt: 11890
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
-source-git-commit: f5de9191315c7df2eaca4ee51d03b30e2a2fac99
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
