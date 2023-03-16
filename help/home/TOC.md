@@ -2,9 +2,9 @@
 user-guide-title: 비디오 및 Tutorials
 user-guide-description: 비디오 및 자습서를 통해 Adobe Commerce 및 Magento Open Source에 대해 학습할 수 있습니다.
 breadcrumb-title: 비디오 및 Tutorials
-source-git-commit: afd88a8996e941e9e6c00ef86d960318b8dcaee6
+source-git-commit: ce23b8d52a027f45a1a1ba633ebd82ea3cf3e1b5
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,17 @@ ht-degree: 0%
    + [App Builder용 확장성 프레임워크](../app-builder/extensibility-framework-commerce-eventing.md)
    + [App Builder용 기능 데모](../app-builder/app-builder-functional-demonstration.md)
    + [App Builder 기술 개요](../app-builder/app-builder-technical-overview.md)
+   + 첫 번째 앱 {#first-app}
+      + [개요](../app-builder/first-app/overview.md)
+      + [.env 파일](../app-builder/first-app/env-file.md)
+      + [app.config.yaml 파일](../app-builder/first-app/app-config-yaml-file.md)
+      + [작업 폴더](../app-builder/first-app/actions-folder.md)
+      + [테스트 폴더](../app-builder/first-app/test-folder.md)
+      + [web-src 폴더](../app-builder/first-app/web-src-folder.md)
+      + [로컬에서 테스트](../app-builder/first-app/testing-locally.md)
+      + [App Builder URL을 사용하여 테스트](../app-builder/first-app/testing-app-builder-url.md)
+      + [결론](../app-builder/first-app/conclusion.md)
+      + [샘플 모듈 소스 코드](https://github.com/magento/app-builder-samples){target="_blank"}
    + Adobe Commerce용 IO 이벤트 {#io-events}
       + [Adobe Commerce 2.4.5 설치](../io-events/2-4-5-installation.md)
       + [Adobe Commerce 2.4.6 설치](../io-events/2-4-6-installation.md)
