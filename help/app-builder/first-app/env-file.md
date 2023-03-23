@@ -6,15 +6,15 @@ kt: 12423
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
 
-# 다음 `.env` 파일 {#env-file}
+# .env 파일 생성 및 구성 {#env-file}
 
 다음 `.env` 는 샘플 모듈에 속하지 않지만 Adobe Developer App Builder 애플리케이션에서 사용하는 데 중요한 특수 파일입니다. 이 파일에는 암호 및 기타 정보가 들어 있습니다. 이 파일을 코드 저장소에 커밋하지 마십시오.
 

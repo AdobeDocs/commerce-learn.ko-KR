@@ -6,15 +6,15 @@ kt: 12425
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
 
-# 다음 `web-src` 폴더 {#web-src-folder}
+# web-src 폴더의 목적 검색 {#web-src-folder}
 
 이 샘플 앱의 web-src 폴더에는 많은 JavaScript 파일과 폴더가 포함되어 있습니다. 이 폴더는 사용자 인터페이스가 있는 응용 프로그램에 사용됩니다. 일부 응용 프로그램에서 이 기능을 사용하는 것은 아닙니다. 예를 들어, 외부 인벤토리 관리 시스템과 상거래 통합에는 프런트 엔드 인터페이스 및 코드가 필요하지 않을 수 있습니다.
 

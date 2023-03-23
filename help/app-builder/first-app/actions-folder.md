@@ -6,15 +6,15 @@ kt: 12422
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
 
-# `actions` 폴더 {#actions-folder}
+# 작업 폴더에 대해 알아보기 {#actions-folder}
 
 다음 `actions` 이 샘플 앱의 폴더에는 몇 개의 JavaScript 파일과 `commerce`. 표시된 JavaScript는 작업과 관련된 경우 다시 사용할 수 있는 훌륭한 예제 파일입니다. 이 폴더를 사용하면 OAuth 및 REST를 사용하여 Adobe Commerce 애플리케이션에 연결할 때 개발 노력을 줄일 수 있습니다.
 

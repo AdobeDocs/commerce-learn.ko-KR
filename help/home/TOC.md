@@ -2,9 +2,9 @@
 user-guide-title: 비디오 및 Tutorials
 user-guide-description: 비디오 및 자습서를 통해 Adobe Commerce 및 Magento Open Source에 대해 학습할 수 있습니다.
 breadcrumb-title: 비디오 및 Tutorials
-source-git-commit: f3eb7686068d6be02816d34c08e7ebecc681df5b
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -67,13 +67,13 @@ ht-degree: 0%
    + [App Builder용 확장성 프레임워크](../app-builder/extensibility-framework-commerce-eventing.md)
    + [App Builder용 기능 데모](../app-builder/app-builder-functional-demonstration.md)
    + [App Builder 기술 개요](../app-builder/app-builder-technical-overview.md)
-   + 첫 번째 앱 빌드 {#first-app}
+   + 첫 번째 앱 {#first-app}
       + [개요](../app-builder/first-app/overview.md)
-      + [.env 파일](../app-builder/first-app/env-file.md)
-      + [app.config.yaml 파일](../app-builder/first-app/app-config-yaml-file.md)
-      + [작업 폴더](../app-builder/first-app/actions-folder.md)
-      + [테스트 폴더](../app-builder/first-app/test-folder.md)
-      + [web-src 폴더](../app-builder/first-app/web-src-folder.md)
+      + [.env 파일 생성 및 구성](../app-builder/first-app/env-file.md)
+      + [app.config.yaml 파일에 대한 설명 및 사용](../app-builder/first-app/app-config-yaml-file.md)
+      + [작업 폴더에 대해 알아보기](../app-builder/first-app/actions-folder.md)
+      + [테스트 폴더에 대해 알아보기](../app-builder/first-app/test-folder.md)
+      + [web-src 폴더의 목적 검색](../app-builder/first-app/web-src-folder.md)
       + [로컬에서 테스트](../app-builder/first-app/testing-locally.md)
       + [App Builder URL을 사용하여 테스트](../app-builder/first-app/testing-app-builder-url.md)
       + [결론](../app-builder/first-app/conclusion.md)

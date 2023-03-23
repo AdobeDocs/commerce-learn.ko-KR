@@ -6,15 +6,15 @@ kt: 12424
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-10T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
 
-# `test` 폴더 {#test-folder}
+# 테스트 폴더에 대해 알아보기 {#test-folder}
 
 다음 `test` 이 샘플 앱의 폴더에는 애플리케이션에서 단위 테스트를 실행할 때 사용되는 단일 JavaScript 파일이 포함되어 있습니다.
 
