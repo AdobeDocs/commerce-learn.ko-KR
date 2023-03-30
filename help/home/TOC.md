@@ -2,9 +2,9 @@
 user-guide-title: 비디오 및 Tutorials
 user-guide-description: 비디오 및 자습서를 통해 Adobe Commerce 및 Magento Open Source에 대해 학습할 수 있습니다.
 breadcrumb-title: 비디오 및 Tutorials
-source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
+source-git-commit: 424f0581e9f2c452fdbf4512e19139fec3c88940
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 0%
    + [App Builder용 확장성 프레임워크](../app-builder/extensibility-framework-commerce-eventing.md)
    + [App Builder용 기능 데모](../app-builder/app-builder-functional-demonstration.md)
    + [App Builder 기술 개요](../app-builder/app-builder-technical-overview.md)
-   + 첫 번째 앱 {#first-app}
+   + 첫 번째 App Builder 앱 빌드 {#first-app}
       + [개요](../app-builder/first-app/overview.md)
       + [.env 파일 생성 및 구성](../app-builder/first-app/env-file.md)
       + [app.config.yaml 파일에 대한 설명 및 사용](../app-builder/first-app/app-config-yaml-file.md)
