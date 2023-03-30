@@ -7,9 +7,9 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: 01947a4f81409e6f08da9e7feca3e73b724f285e
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,19 @@ Adobe Developer App Builder용 API Mesh를 처음 사용하는 경우 다른 비
 API Mesh는 여러 데이터 소스를 결합하여 애플리케이션에서 소비할 단일 응답을 얻을 수 있습니다.
 
 [전체 API Mesh 설명서 보기](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+
+## 이 비디오 누구?
+
+* API Mesh를 처음 사용하는 개발자 또는 [!DNL Adobe Commerce] 사용 경험이 제한되어 있음 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} 및 API Mesh.
+
+## 비디오 컨텐츠
+
+* API Mesh 개요
+* 지원 설명서 링크
+* 체크아웃에서 실시간 인벤토리 검사를 수행하는 데 사용 사례
+* 상거래 애플리케이션에서 개발 노력 및 리소스 사용 중단
+
+>[!VIDEO](https://video.tv.adobe.com/v/3417534/)
 
 ## 사용 사례 예
 
