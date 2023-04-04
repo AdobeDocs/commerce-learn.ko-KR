@@ -6,7 +6,7 @@ kt: 12423
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 * 파일을 추가하여 새 암호를 추가하는 방법
 * 중요한 정보가 포함되어 있으므로 이 파일을 커밋하지 마십시오
 
->[!VIDEO](https://video.tv.adobe.com/v/3416593)
+>[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
 
 ## 코드 샘플
 

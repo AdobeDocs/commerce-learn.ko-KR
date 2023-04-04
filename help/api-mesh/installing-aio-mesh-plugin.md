@@ -7,7 +7,7 @@ kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Adobe Developer App Builder용 API Mesh를 사용하기 전에 `aio` CLI 및 API
 * Adobe I/O Runtime CLI 설치(명령줄 인터페이스)
 * API Mesh 플러그인 설치
 
->[!VIDEO](https://video.tv.adobe.com/v/3414122/)
+>[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
 ## 설치 `aio` CLI 및 API Mesh 플러그인
 

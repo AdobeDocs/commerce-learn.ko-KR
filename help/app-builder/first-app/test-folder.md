@@ -6,7 +6,7 @@ kt: 12424
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-10T00:00:00Z
-source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
 * 단위 테스트 파일 및 해당 구성 요소에 대한 간단한 설명
 * 엔드 투 엔드 테스트 소개
 
->[!VIDEO](https://video.tv.adobe.com/v/3416662)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
 
 ## 코드 샘플
 

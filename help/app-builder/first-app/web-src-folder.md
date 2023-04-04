@@ -6,7 +6,7 @@ kt: 12425
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
 * 일반적으로 포함된 파일 및 폴더
 * 방법 `web-src` 폴더 및 내부 컨텐츠는 샘플 애플리케이션에서 사용됩니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3416665)
+>[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 
 ## 코드 샘플
 

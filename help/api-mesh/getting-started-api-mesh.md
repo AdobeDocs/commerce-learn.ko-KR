@@ -7,7 +7,7 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 01947a4f81409e6f08da9e7feca3e73b724f285e
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -35,7 +35,7 @@ API Mesh는 여러 데이터 소스를 결합하여 애플리케이션에서 소
 * 체크아웃에서 실시간 인벤토리 검사를 수행하는 데 사용 사례
 * 상거래 애플리케이션에서 개발 노력 및 리소스 사용 중단
 
->[!VIDEO](https://video.tv.adobe.com/v/3417534/)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## 사용 사례 예
 

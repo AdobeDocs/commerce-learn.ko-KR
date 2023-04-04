@@ -8,7 +8,7 @@ last-substantial-update: 2022-09-19T00:00:00Z
 exl-id: 9b41f6ab-5f05-4985-af93-8ea8db062598
 hidefromtoc: true
 hide: true
-source-git-commit: 2054ce9c2b8cde0ff7ce2c8b95a270b3dc0abe77
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -33,11 +33,11 @@ Adobe Commerce용 카탈로그 서비스는 Storefront 쇼핑 환경을 위한 �
 
 1부:
 
->[!VIDEO](https://video.tv.adobe.com/v/3415599)
+>[!VIDEO](https://video.tv.adobe.com/v/3415599?quality=12&learn=on)
 
 2부:
 
->[!VIDEO](https://video.tv.adobe.com/v/3415600)
+>[!VIDEO](https://video.tv.adobe.com/v/3415600?quality=12&learn=on)
 
 ## 추가 리소스
 

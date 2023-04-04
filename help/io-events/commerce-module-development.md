@@ -7,7 +7,7 @@ kt: 11891
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 * 상거래 인스턴스에서 이벤트를 등록하는 방법을 알아봅니다 `app/etc/config.php`
 * 이벤트 구독 취소 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3415802)
+>[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
 
 ## 유용한 명령 {#useful-commands}
 
