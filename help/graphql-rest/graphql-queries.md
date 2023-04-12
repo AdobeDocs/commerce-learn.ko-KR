@@ -2,7 +2,7 @@
 title: GraphQL을 사용하여 쿼리 수행
 description: Adobe Commerce 및 [!DNL Magento Open Source]. GET 및 POST 호출을 사용하는 GraphQL을 소개합니다.
 landing-page-description: Adobe Commerce 및 [!DNL Magento Open Source]. GET 및 POST 호출을 사용하는 GraphQL을 소개합니다.
-short-description: Learn how to perform a query using GraphQL on Adobe Commerce and [!DNL Magento Open Source]. This is an introduction to GraphQL using GET and POST calls.
+short-description: Adobe Commerce 및 [!DNL Magento Open Source]. GET 및 POST 호출을 사용하는 GraphQL을 소개합니다.
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -10,7 +10,7 @@ last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '937'
 ht-degree: 0%
 
 ---

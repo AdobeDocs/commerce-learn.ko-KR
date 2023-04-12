@@ -2,18 +2,18 @@
 title: 확장성 프레임워크 및 상거래 이벤트
 description: 통합 확장성 프레임워크 및 상거래 저녁에 대해 알아보기
 landing-page-description: 통합 확장성 프레임워크 및 상거래 저녁에 대해 알아보기
-short-description: Learn about Unified Extensibility Framework and commerce evening
+short-description: 통합 확장성 프레임워크 및 상거래 저녁에 대해 알아보기
 kt: 11740
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 9186ba11-180d-45ca-801a-a86547084cca
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # App Builder용 확장성 프레임워크
 

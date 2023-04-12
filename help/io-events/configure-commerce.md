@@ -2,18 +2,18 @@
 title: Adobe Commerce 구성
 description: Adobe Developer App Builder에서 이벤트를 사용할 수 있도록 Adobe Commerce을 구성하는 방법을 알아봅니다.
 landing-page-description: Adobe Developer App Builder에서 사용할 이벤트 메커니즘을 사용하도록 Adobe Commerce을 구성하는 방법을 알아봅니다.
-short-description: Learn how to configure Adobe Commerce to use the event mechanism for consumption by Adobe Developer App Builder.
+short-description: Adobe Developer App Builder에서 사용할 이벤트 메커니즘을 사용하도록 Adobe Commerce을 구성하는 방법을 알아봅니다.
 kt: 11889
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce 구성
 

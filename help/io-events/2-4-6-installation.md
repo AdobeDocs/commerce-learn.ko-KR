@@ -2,19 +2,19 @@
 title: Adobe Commerce 2.4.6용 IO 이벤트를 설치하는 방법 알아보기
 description: Adobe Developer App Builder에서 사용할 Adobe Commerce 2.4.6에서 IO 이벤트에 필요한 모듈을 설치하는 방법을 알아봅니다
 landing-page-description: Adobe Commerce 2.4.6에 필요한 여러 모듈을 설치하는 방법을 알아봅니다.
-short-description: Learn how to install several modules needed for Adobe Commerce 2.4.6.
+short-description: Adobe Commerce 2.4.6에 필요한 여러 모듈을 설치하는 방법을 알아봅니다.
 kt: 11887
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
-badge: "Adobe Commerce 2.4.6"
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+badge: Adobe Commerce 2.4.6
+exl-id: 41b31ed8-04c5-4d50-aaff-abc3718b5957
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce 2.4.6 설치
 

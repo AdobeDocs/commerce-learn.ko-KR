@@ -2,18 +2,18 @@
 title: App Builder 기능 데모
 description: 기술 데모를 통해 Adobe Commerce에서 사용되는 Adobe Developer App Builder에 대해 알아보십시오
 landing-page-description: 기술 데모를 통해 Adobe Commerce에서 사용되는 Adobe Developer App Builder에 대해 알아보십시오
-short-description: Learn about Adobe Developer App Builder used in Adobe Commerce with a technical demonstration
+short-description: 기술 데모를 통해 Adobe Commerce에서 사용되는 Adobe Developer App Builder에 대해 알아보십시오
 kt: 11762
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: affb077c-5426-4e2d-85c0-3e7ae60b2b99
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # App Builder용 기능 데모
 

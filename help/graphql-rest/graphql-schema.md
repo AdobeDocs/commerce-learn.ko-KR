@@ -2,7 +2,7 @@
 title: GraphQL을 사용한 스키마 언어
 description: GraphQL과 관련된 스키마에 대해 알아봅니다. 스키마에 대한 설명과 함께 흥미로운 패턴 및 스키마를 읽는 방법을 읽어 보십시오.
 landing-page-description: GraphQL을 소개합니다. 스키마 이해 및 일부 요소를 해석하는 방법
-short-description: This is an introduction to GraphQL. Understanding the schema and how to interpret some of the elements
+short-description: GraphQL을 소개합니다. 스키마 이해 및 일부 요소를 해석하는 방법
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -10,7 +10,7 @@ last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

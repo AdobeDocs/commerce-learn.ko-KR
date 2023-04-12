@@ -2,14 +2,15 @@
 title: API Mesh 시작
 description: Adobe Commerce 및 [!DNL Adobe App Builder]. Adobe App Builder Adobe 설치, 프로젝트 작업, graphql 역방향 프록시 만들기 등에 대해 알아봅니다.
 landing-page-description: Adobe Commerce 및 [!DNL Adobe App Builder]. Adobe IO 설치, 프로젝트 작업, graphql 역방향 프록시 생성 등에 대해 알아봅니다.
-short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about installing Adobe IO, working with projects, creating a graphql reverse proxy and much more.
+short-description: Adobe Commerce 및 [!DNL Adobe App Builder]. Adobe IO 설치, 프로젝트 작업, graphql 역방향 프록시 생성 등에 대해 알아봅니다.
 kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

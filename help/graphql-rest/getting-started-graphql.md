@@ -2,7 +2,7 @@
 title: GraphQL 시작
 description: Adobe Commerce 및 [!DNL Magento Open Source]. 쿼리, 배열 및 스키마 사용에 대해 알아봅니다.
 landing-page-description: Adobe Commerce 및 [!DNL Magento Open Source]. 쿼리, 배열 및 스키마 사용에 대해 알아봅니다.
-short-description: Discover how to use GraphQL on Adobe Commerce and [!DNL Magento Open Source]. Learn about using queries, mutations, and schemas.
+short-description: Adobe Commerce 및 [!DNL Magento Open Source]. 쿼리, 배열 및 스키마 사용에 대해 알아봅니다.
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -10,7 +10,7 @@ last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: b799bd7b-11a4-4a1c-b2f4-893f6ff2994d
 source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

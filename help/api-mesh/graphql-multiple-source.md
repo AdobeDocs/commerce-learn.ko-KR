@@ -2,14 +2,15 @@
 title: API Mesh에서 사용할 여러 소스 GraphQL 만들기
 description: Adobe Commerce 및 [!DNL Adobe App Builder]. 몇 가지 일반적인 오류와 이를 해결하는 방법에 대해 알아봅니다.
 landing-page-description: Adobe Commerce 및 [!DNL Adobe App Builder]. 여러 소스가 있는 메쉬를 만들고 몇 가지 일반적인 오류를 해결하는 방법에 대해 알아봅니다.
-short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a mesh that has multiple sources and how to resolve some common errors.
+short-description: Adobe Commerce 및 [!DNL Adobe App Builder]. 여러 소스가 있는 메쉬를 만들고 몇 가지 일반적인 오류를 해결하는 방법에 대해 알아봅니다.
 kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---

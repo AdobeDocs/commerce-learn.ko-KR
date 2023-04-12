@@ -2,7 +2,7 @@
 title: MBI - 집단 Report Builder
 description: MBI 집단 Report Builder을 사용하여 비즈니스에 관련된 최적화된 보고 및 분석을 만드는 방법을 알아봅니다.
 landing-page-description: 이 비디오에서 MBI 집단 Report Builder을 사용하여 비즈니스에 적합한 최적화된 보고 및 분석을 만드는 방법을 알아보십시오.
-short-description: Watch this video to learn how use the MBI Cohort Report Builder to create optimized reporting and analysis that is relevant to your business.
+short-description: 이 비디오에서 MBI 집단 Report Builder을 사용하여 비즈니스에 적합한 최적화된 보고 및 분석을 만드는 방법을 알아보십시오.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -11,7 +11,7 @@ activity: use
 exl-id: 1d5d6f96-3e0d-4c0d-a8fe-370be6ea1b38
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

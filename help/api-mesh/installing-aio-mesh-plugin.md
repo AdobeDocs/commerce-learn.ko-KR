@@ -2,18 +2,18 @@
 title: Adobe I/O Runtime 명령줄 인터페이스 및 API Mesh 플러그인 설치
 description: Adobe I/O Runtime 명령줄 인터페이스 및 API Mesh 플러그인을 설치하는 방법을 알아봅니다
 landing-page-description: App Builder Adobe을 사용하고 API Mesh 플러그인을 사용하여 Adobe I/O Runtime을 설치하는 방법을 알아봅니다.
-short-description: Discover how to use Adobe App Builder and install the Adobe I/O Runtime with API Mesh plugin.
+short-description: App Builder Adobe을 사용하고 API Mesh 플러그인을 사용하여 Adobe I/O Runtime을 설치하는 방법을 알아봅니다.
 kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Adobe I/O Runtime CLI 및 Mesh 플러그인 설치
 

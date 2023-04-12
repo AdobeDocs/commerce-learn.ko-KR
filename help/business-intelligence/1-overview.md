@@ -2,7 +2,7 @@
 title: MBI - 개요
 description: 완벽한 비즈니스 인텔리전스 솔루션을 제공하는 MBI 제품 내의 3가지 핵심 구성 요소에 대해 알아봅니다.
 landing-page-description: 데이터 집계, 분석 및 시각화를 통해 비즈니스 통찰력과 결과를 향상시키는 방법을 배우려면 이 비디오 시리즈를 시청하십시오.
-short-description: Watch this video series to learn how you can drive better business insights and results through data aggregation, analysis, and visualization.
+short-description: 데이터 집계, 분석 및 시각화를 통해 비즈니스 통찰력과 결과를 향상시키는 방법을 배우려면 이 비디오 시리즈를 시청하십시오.
 kt: 5724
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -11,7 +11,7 @@ activity: use
 exl-id: 97115316-bce9-406a-a3f7-24474cf8e030
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

@@ -2,7 +2,7 @@
 title: 개발자를 위한 Page Builder - 소개
 description: Page Builder 소개, Page Builder 기능 이해
 landing-page-description: 이 비디오 시리즈를 시청하여 페이지 빌더에 대해 알아보고, 페이지 빌더를 확장하여 최적의 페이지를 만드는 방법을 알아봅니다 [!DNL Commerce] storefront 경험.
-short-description: Watch this video series to learn about Page Builder and how you can extend it to create optimal [!DNL Commerce] storefront experiences.
+short-description: 이 비디오 시리즈를 시청하여 페이지 빌더에 대해 알아보고, 페이지 빌더를 확장하여 최적의 페이지를 만드는 방법을 알아봅니다 [!DNL Commerce] storefront 경험.
 topic: Commerce, Development
 kt: 5650
 doc-type: video
@@ -10,7 +10,7 @@ activity: use
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---

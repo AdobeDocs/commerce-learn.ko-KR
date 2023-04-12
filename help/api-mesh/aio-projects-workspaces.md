@@ -2,18 +2,18 @@
 title: 프로젝트 및 작업 공간 작업
 description: Adobe Developer 콘솔을 사용하여 프로젝트 및 작업 공간으로 작업하는 방법을 살펴봅니다.
 landing-page-description: Adobe Developer 콘솔 사용 방법을 알아봅니다. API Mesh에서 사용할 프로젝트 및 작업 공간에 대해 알아봅니다.
-short-description: Discover how to use Adobe Developer console. Learn about projects and workspaces to be used with API Mesh.
+short-description: Adobe Developer 콘솔 사용 방법을 알아봅니다. API Mesh에서 사용할 프로젝트 및 작업 공간에 대해 알아봅니다.
 kt: 11803
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
-
 
 # 프로젝트 및 작업 공간 작업
 

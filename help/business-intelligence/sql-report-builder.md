@@ -2,7 +2,7 @@
 title: MBI - SQL Report Builder
 description: MBI SQL Report Builder을 사용하여 데이터 웨어하우스를 직접 쿼리하고, 결과를 보고, 차트로 빠르게 변환하는 방법을 알아봅니다.
 landing-page-description: 이 비디오에서 MBI SQL Report Builder을 사용하여 데이터 웨어하우스를 직접 쿼리하고 결과를 보고 차트로 빠르게 변환하는 방법을 알아보십시오.
-short-description: Watch this video to learn how use the MBI SQL Report Builder to directly query your data warehouse, view the results, and quickly transform them into a chart.
+short-description: 이 비디오에서 MBI SQL Report Builder을 사용하여 데이터 웨어하우스를 직접 쿼리하고 결과를 보고 차트로 빠르게 변환하는 방법을 알아보십시오.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -11,7 +11,7 @@ activity: use
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---

@@ -2,14 +2,15 @@
 title: API Mesh에서 GraphQL 단일 소스 메쉬 만들기
 description: Adobe Commerce 및 [!DNL Adobe App Builder]. 하나의 소스가 있는 메쉬 생성에 대해 알아봅니다.
 landing-page-description: Adobe Commerce 및 [!DNL Adobe App Builder]. 하나의 소스가 있는 메쉬 생성에 대해 알아봅니다.
-short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a mesh that has one source.
+short-description: Adobe Commerce 및 [!DNL Adobe App Builder]. 하나의 소스가 있는 메쉬 생성에 대해 알아봅니다.
 kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

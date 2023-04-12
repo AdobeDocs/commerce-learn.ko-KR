@@ -2,7 +2,7 @@
 title: MBI - 미래 준비
 description: 디지털 상거래의 미래를 형성하는 전례 없는 변화에 대한 이해를 명확하게 하기 위해 이 비디오 시리즈를 시청하십시오.
 landing-page-description: 디지털 상거래의 미래를 형성하는 전례 없는 변화에 대한 이해를 명확하게 하기 위해 이 비디오 시리즈를 시청하십시오.
-short-description: Watch this series of videos to clarify your understanding of the unprecedented changes shaping the future of digital commerce.
+short-description: 디지털 상거래의 미래를 형성하는 전례 없는 변화에 대한 이해를 명확하게 하기 위해 이 비디오 시리즈를 시청하십시오.
 kt: 10411
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -11,7 +11,7 @@ activity: use
 exl-id: 2ff2e1c8-384a-453f-bb8b-f6c834ca334b
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

@@ -2,7 +2,7 @@
 title: GraphQL을 사용하여 돌연변이 수행
 description: Adobe Commerce에서 GraphQL을 사용하여 돌연변이를 수행하는 방법에 대해 소개합니다. [!DNL Magento Open Source]. POST 호출을 사용하여 첫 번째 돌연변이를 수행합니다.
 landing-page-description: Adobe Commerce에서 GraphQL을 사용하여 돌연변이를 수행하는 방법에 대해 소개합니다. [!DNL Magento Open Source]. POST 호출을 사용하여 첫 번째 돌연변이를 수행합니다.
-short-description: Get an introduction about performing a mutation using GraphQL on Adobe Commerce and [!DNL Magento Open Source]. Perform your first mutation using POST calls.
+short-description: Adobe Commerce에서 GraphQL을 사용하여 돌연변이를 수행하는 방법에 대해 소개합니다. [!DNL Magento Open Source]. POST 호출을 사용하여 첫 번째 돌연변이를 수행합니다.
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -10,7 +10,7 @@ last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
