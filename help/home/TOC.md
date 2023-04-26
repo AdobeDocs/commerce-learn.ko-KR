@@ -2,9 +2,9 @@
 user-guide-title: 비디오 및 Tutorials
 user-guide-description: 비디오 및 자습서를 통해 Adobe Commerce 및 Magento Open Source에 대해 학습할 수 있습니다.
 breadcrumb-title: 비디오 및 Tutorials
-source-git-commit: 424f0581e9f2c452fdbf4512e19139fec3c88940
+source-git-commit: 133b6f366cee2e51cd150649e2ff1865e1ee23e9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -177,7 +177,7 @@ ht-degree: 0%
    + [모듈 만들기](../backend-development/create-module.md)
    + [제품 속성 추가](../backend-development/add-product-attribute.md)
    + [종속성 삽입 예](../backend-development/dependency-injection.md)
-+ 프론트엔드 개발 {#frontend-development}
++ 프론트엔드 루마 개발 {#frontend-development}
    + 개발자용 페이지 빌더 {#page-builder}
       + [1 - 소개](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 - 구성 및 컨텐츠](../frontend-development/page-builder/2-config-create-content.md)
@@ -187,7 +187,10 @@ ht-degree: 0%
       + [6 - 사용자 지정 컨텐츠 유형](../frontend-development/page-builder/6-custom-content-types.md)
    + [JavaScript 모듈 추가](../frontend-development/add-javascript-module.md)
    + [페이지 만들기](../frontend-development/create-page.md)
-+ PWA Studio {#pwa-studio}
+
++ 헤드리스 아키텍처 {#headless-architecture}
+   + 헤드리스 소개 {#introduction-to-headless}
+      + [헤드리스 아키텍처 - 세션 1](../headless/session-1.md)
    + PWA Studio 소개 {#introduction}
       + [1 - 개요](../pwa/introduction/1-overview.md)
       + [2 - PWA Studio 도구](../pwa/introduction/2-pwa-studio-tools.md)
