@@ -2,9 +2,9 @@
 user-guide-title: 비디오 및 Tutorials
 user-guide-description: 비디오 및 자습서를 통해 Adobe Commerce 및 Magento Open Source에 대해 학습할 수 있습니다.
 breadcrumb-title: 비디오 및 Tutorials
-source-git-commit: 133b6f366cee2e51cd150649e2ff1865e1ee23e9
+source-git-commit: 8d183d343c6aca85d8bf490df051372ab76f77a0
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '675'
 ht-degree: 0%
 
 ---
@@ -128,6 +128,7 @@ ht-degree: 0%
    + [제품 Recommendations 설정](../site-management/product-recommendations.md)
    + [라이브 검색 소개](../site-management/live-search.md)
    + [권장 사항 라이브 검색](../site-management/live-search-recommendations.md)
+   + [라이브 검색 전체 데모](../site-management/live-search-full-demonstration.md)
 + 주문 및 이행 {#orders}
    + [저장 이행 개요](../site-management/store-fulfillment.md)
    + [주문 상태 관리](../site-management/order-status.md)
