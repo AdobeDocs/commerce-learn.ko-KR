@@ -1,6 +1,6 @@
 ---
-title: MBI - 카테고리 분석
-description: 기본 카테고리 분석 및 고객 라이프타임 값에 대해 알아봅니다.
+title: MBI - 범주 분석
+description: 기본 범주 분석 및 고객 생애 가치에 대해 알아봅니다.
 kt: 5734
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,24 +14,24 @@ ht-degree: 0%
 
 ---
 
-# MBI - 카테고리 분석
+# MBI - 범주 분석
 
-카테고리 분석은 선별된 제품 카테고리에 대한 높은 수준의 개요를 제공하기 위해 설계되었습니다. 이 섹션에서는 평생 동일한 고객이 구입한 카테고리의 조합을 중점적으로 살펴봅니다.
+카테고리 분석은 선택된 제품 카테고리에 대한 높은 수준의 개요를 제공하도록 설계되었습니다. 라이프타임 동안 동일한 고객이 구매한 범주의 조합을 강조 표시합니다.
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
 - 비즈니스 사용자
 - 데이터 분석가
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.2 릴리스를 반영합니다. 자세한 내용은 [MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 최신 정보를 확인하십시오.
+>이 비디오의 콘텐츠는 2.2 릴리스에 반영됩니다. 다음을 참조하십시오. [MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37904?quality=12&learn=on)
 
 ## 추가 리소스
 
 - [제품 세그먼트 - MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html#product-segments)
-- [비즈니스 성능 분석 - MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)
+- [비즈니스 성과 분석 - MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)

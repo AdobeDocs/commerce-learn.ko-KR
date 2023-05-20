@@ -1,8 +1,8 @@
 ---
 title: App Builder 기술 개요
-description: 기술 개요를 통해 Adobe Commerce에서 사용되는 Adobe Developer App Builder에 대해 알아봅니다
-landing-page-description: 기술 개요를 통해 Adobe Commerce에서 사용되는 Adobe Developer App Builder에 대해 알아봅니다
-short-description: 기술 개요를 통해 Adobe Commerce에서 사용되는 Adobe Developer App Builder에 대해 알아봅니다
+description: 기술 개요로 Adobe Commerce에서 사용되는 Adobe Developer App Builder에 대해 알아보기
+landing-page-description: 기술 개요로 Adobe Commerce에서 사용되는 Adobe Developer App Builder에 대해 알아보기
+short-description: 기술 개요로 Adobe Commerce에서 사용되는 Adobe Developer App Builder에 대해 알아보기
 kt: 11763
 doc-type: tutorial
 audience: all
@@ -10,18 +10,18 @@ last-substantial-update: 2023-02-16T00:00:00Z
 exl-id: d7c20134-976b-4b8f-bb48-96884032a5fb
 source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
-# App Builder 기술 개요
+# App Builder에 대한 기술 개요
 
-다음 비디오에서는 Adobe Commerce 및 Amazon Sales Channel 연결에 대한 기술 개요를 제공합니다. 이 자습서에서는 사용자 지정 기능 및 통합에 App Builder Adobe을 사용할 수 있는 방법도 설명합니다.
+다음 비디오는 Adobe Commerce 및 Amazon Sales Channel 연결에 대한 기술 개요를 제공합니다. 이 튜토리얼에서는 사용자 지정 기능 및 통합을 위해 Adobe App Builder를 사용하는 방법도 알아봅니다.
 
 >[!IMPORTANT]
 >
->Amazon Sales Channel 확장은 아직 개발 중이며 공식적으로 출시되지 않았습니다.  이 비디오와 자습서는 실제 사용 사례에 Adobe Developer App Builder를 사용하는 방법을 보여주기 위한 것입니다.
+>Amazon Sales Channel 확장 기능은 아직 개발 중이며 공식적으로 출시되지 않았습니다.  이러한 비디오 및 튜토리얼은 실용적인 사용 사례를 위해 Adobe Developer App Builder를 사용하는 방법을 보여 주기 위한 것입니다.
 
 
 ## Adobe Commerce용 App Builder {#app-builder-technical-overview}

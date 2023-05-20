@@ -1,6 +1,6 @@
 ---
-title: 개발자를 위한 PWA Studio - PWA 도구
-description: PWA Studio 및 PWA Studio 도구에 대한 사용 편의성에 대해 알아봅니다.
+title: 개발자용 PWA Studio - PWA 도구
+description: PWA Studio 및 PWA Studio 도구의 사용 편이성에 대해 알아봅니다.
 topic: Development
 kt: 5645
 doc-type: video
@@ -13,18 +13,18 @@ ht-degree: 0%
 
 ---
 
-# 개발자를 위한 PWA Studio - PWA 도구
+# 개발자용 PWA Studio - PWA 도구
 
-이 비디오에서는:
+이 비디오에서:
 
 - PWA Studio 소개
 - PWA 도구
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
-- 프런트 엔드 개발자
+- 프론트엔드 개발자
 - 프로젝트 관리자
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!VIDEO](https://video.tv.adobe.com/v/35716?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] 비즈니스 사용자 - 역할 범위 및 권한"
-description: 사이트 또는 스토어별로 역할 범위(Adobe Commerce에만 해당) 및 관련 권한을 정의하는 방법을 알아봅니다.
+title: "[!DNL Commerce] 비즈니스 사용자의 경우 - 역할 범위 및 권한"
+description: 사이트 또는 스토어별로 역할 범위(Adobe Commerce 전용) 및 관련 권한을 정의하는 방법을 알아봅니다.
 topic: Commerce
 kt: 5763
 doc-type: video
@@ -14,26 +14,26 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 비즈니스 사용자 - 역할 범위 및 권한
+# [!DNL Commerce] 비즈니스 사용자의 경우 - 역할 범위 및 권한
 
-이 비디오에서는:
+이 비디오에서:
 
-- 역할 범위(Adobe Commerce만 해당)
+- 역할 범위(Adobe Commerce 전용)
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
 - 비즈니스 사용자
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 노트](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35948?quality=12&learn=on)
 
 ## 추가 리소스
 
-[관리 사용자 계정 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[관리 사용자 계정 관리 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
 [사용자 역할 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

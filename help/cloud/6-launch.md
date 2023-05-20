@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce on cloud 인프라 - 서비스 및 사이트 시작
-description: Go Live, DNS, TLS 및 기본 서비스 를 검토합니다. Adobe Commerce 인스턴스의 프로덕션 도메인을 가리키도록 DNS를 구성하는 방법을 알아봅니다.
+title: 클라우드 인프라의 Adobe Commerce - 서비스 및 사이트 출시
+description: Go live, DNS, TLS 및 Fastly 서비스를 검토합니다. Adobe Commerce 인스턴스의 프로덕션 도메인을 가리키도록 DNS를 구성하는 방법을 알아봅니다.
 kt: 5661
 doc-type: video
 audience: all
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce on cloud 인프라 - 서비스 및 사이트 시작
+# 클라우드 인프라의 Adobe Commerce - 서비스 및 사이트 출시
 
-이 비디오에서는:
+이 비디오에서:
 
-- Go Live, DNS, TLS 및 기본 사항 검토
-- Adobe Commerce 인스턴스에 대한 프로덕션 도메인을 가리키도록 DNS를 구성하는 방법
+- Go live, DNS, TLS 및 Fastly 검토
+- Adobe Commerce 인스턴스의 프로덕션 도메인을 가리키도록 DNS를 구성하는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/35697?quality=12&learn=on)
 
 ## 추가 리소스
 
-[사이트 시작 - [!DNL Commerce] 클라우드 인프라 가이드](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/overview.html)
+[사이트 시작 - [!DNL Commerce] 클라우드 인프라 안내서](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/overview.html)

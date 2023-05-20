@@ -1,8 +1,8 @@
 ---
-title: MBI - 필터 세트
-description: Adobe Commerce 및 Magento Open Source에 대한 비즈니스 데이터 보고를 간소화하기 위해 MBI 필터 세트 기능을 사용하는 방법을 알아봅니다.
-landing-page-description: 이 비디오에서 MBI 필터 세트 기능을 사용하여 비즈니스 데이터 보고를 간소화하는 방법을 알아보십시오.
-short-description: 이 비디오에서 MBI 필터 세트 기능을 사용하여 비즈니스 데이터 보고를 간소화하는 방법을 알아보십시오.
+title: MBI-필터링 설정
+description: MBI 필터 집합 기능을 사용 하 여 Adobe Systems 상거래 및 Magento Open Source에 대 한 비즈니스 데이터 보고를 간소화 하는 방법을 알아봅니다.
+landing-page-description: 이 비디오에서 MBI 필터 집합 기능을 사용 하 여 비즈니스 데이터 보고를 간소화 하는 방법을 알아보십시오.
+short-description: 이 비디오에서 MBI 필터 집합 기능을 사용 하 여 비즈니스 데이터 보고를 간소화 하는 방법을 알아보십시오.
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -16,22 +16,22 @@ ht-degree: 0%
 
 ---
 
-# MBI - 필터 세트
+# MBI-필터링 설정
 
-특정 비즈니스 데이터만 분석하시겠습니까? 수작업으로 청소하는 게 지겨워요? MBI에서는 필터 세트 기능을 사용하여 이 프로세스를 단순화할 수 있습니다.
+비즈니스 데이터의 특정 부분만 분석 하 시겠습니까? 수동으로 정리 하 고 계십니까? MBI에서 필터 집합 기능을 사용 하 여이 프로세스를 간소화할 수 있습니다.
 
-이 비디오에서는:
+이 비디오에서:
 
 - 필터 세트 만들기
 - 필터 연산자 사용
-- 지표에 필터 세트 적용
-- 계산된 데이터 차원에 필터 세트 적용
+- 지표로 설정 된 필터 적용
+- 계산 된 데이터로 필터 설정 적용 차원
 
 >[!TIP]
 >
->MBI를 처음 사용하는 경우 [시작하기 비디오 시리즈](1-overview.md) 는 데이터 집계, 분석 및 시각화를 통해 더 나은 비즈니스 통찰력과 결과를 도출하기 위한 전체 개요를 제공합니다.
+>MBI를 처음 사용할 경우 시작 비디오 시리즈 ](1-overview.md) 는 [ 데이터 집계, 분석 및 시각화를 통해 더 나은 비즈니스 통찰력과 결과를 유도 하는 데 대 한 전체 개요를 제공 합니다.
 
-## 이 비디오 누구?
+## 다음에 대 한이 비디오는 무엇입니까?
 
 - 비즈니스 사용자
 - 데이터 분석가
@@ -42,6 +42,6 @@ ht-degree: 0%
 
 ## 유용한 리소스
 
-[필터 세트 만들기 - MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
+[만들기 필터 집합-MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
 
-[세그먼테이션 및 필터링을 위한 권장 데이터 Dimension - MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[세그먼트화 및 필터링을 위한 권장 데이터 차원-MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] 비즈니스 사용자 - 카테고리 포지셔닝"
-description: 제품을 카테고리 내에 배치하여 고객이 원하는 맨 위에 있는 제품을 볼 수 있도록 합니다.
+title: "[!DNL Commerce] 비즈니스 사용자용 - 카테고리 포지셔닝"
+description: 고객이 원하는 제품을 맨 위에 볼 수 있도록 카테고리 내에 제품을 배치합니다.
 topic: Commerce
 kt: 5776
 doc-type: video
@@ -14,24 +14,24 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 비즈니스 사용자 - 카테고리 포지셔닝
+# [!DNL Commerce] 비즈니스 사용자용 - 카테고리 위치 지정
 
-이 비디오에서는:
+이 비디오에서:
 
-- 카테고리 제품 포지셔닝
+- 범주 제품 포지셔닝
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
 - 비즈니스 사용자
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 노트](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36187?quality=12&learn=on)
 
 ## 추가 리소스
 
-[범주 제품 지정 - [!DNL Commerce] 카탈로그 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+[범주 제품 할당 - [!DNL Commerce] 카탈로그 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)

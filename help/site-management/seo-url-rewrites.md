@@ -1,6 +1,6 @@
 ---
-title: SEO용 URL 다시 쓰기 관리
-description: URL 다시 작성 도구를 사용하여 제품, 카테고리 또는 CMS 페이지와 연결된 URL을 변경하는 방법에 대해 알아봅니다.
+title: SEO에 대한 URL 재작성 관리
+description: URL 재작성 도구를 사용하여 제품, 카테고리 또는 CMS 페이지와 연결된 모든 URL을 변경하는 방법에 대해 알아봅니다.
 kt: 10554
 doc-type: feature video
 audience: all
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 ---
 
-# SEO용 URL 다시 쓰기 관리
+# SEO에 대한 URL 재작성 관리
 
-URL 다시 작성 도구를 사용하여 제품, 카테고리 또는 CMS 페이지와 연결된 URL을 변경할 수 있습니다. 다시 작성이 적용되면, 이전 URL을 가리키는 모든 링크가 새 주소로 리디렉션됩니다.
+URL 재작성 도구를 사용하면 제품, 카테고리 또는 CMS 페이지와 연결된 모든 URL을 변경할 수 있습니다. 다시 쓰기가 적용되면 이전 URL을 가리키는 모든 링크가 새 주소로 리디렉션됩니다.
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
 - 웹 사이트 관리자
-- eCommerce 머천다이저
+- 전자 상거래 머천다이저
 - eCommerce 마케터
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!VIDEO](https://video.tv.adobe.com/v/343751?quality=12&learn=on)
 
 ## 추가 리소스
 
-- [URL Rewrites - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
+- [URL 재작성 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
 - [일반 > 웹 - [!DNL Commerce] 구성 참조 안내서](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)

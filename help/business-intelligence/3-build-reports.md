@@ -16,18 +16,18 @@ ht-degree: 0%
 
 # MBI - 보고서 작성
 
-MBI에서 보고서 및 분석을 빌드하기 위한 두 가지 옵션이 있습니다. visual report builder 및 SQL report builder.
+MBI에서 보고서 및 분석을 작성하는 데는 시각적 보고서 빌더와 SQL 보고서 빌더, 이렇게 두 가지 옵션이 있습니다.
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
 - 비즈니스 사용자
 - 데이터 분석가
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.2 릴리스를 반영합니다. 자세한 내용은 [MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 최신 정보를 확인하십시오.
+>이 비디오의 콘텐츠는 2.2 릴리스에 반영됩니다. 다음을 참조하십시오. [MBI 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35981?quality=12&learn=on)
 

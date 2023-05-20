@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] 비즈니스 사용자 - 사용자 및 역할"
+title: "[!DNL Commerce] 비즈니스 사용자용 - 사용자 및 역할"
 description: 에 대한 기본 사항 알아보기 [!DNL Admin] 권한을 결정하는 사용자 계정 및 사용자 역할.
 topic: Commerce
 kt: 5762
@@ -14,28 +14,28 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 비즈니스 사용자 - 사용자 및 역할
+# [!DNL Commerce] 비즈니스 사용자용 - 사용자 및 역할
 
-이 비디오에서는:
+이 비디오에서:
 
 - [!DNL Admin] 사용자 계정
 - 사용자 역할 및 권한
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
 - 비즈니스 사용자
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 노트](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35947?quality=12&learn=on)
 
 ## 추가 리소스
 
-[관리 사용자 계정 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[관리 사용자 계정 관리 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
 [사용자 역할 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
 

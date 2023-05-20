@@ -18,37 +18,37 @@ ht-degree: 0%
 <!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
 <!--- Please link to the issue here: -->
 
-## 동기와 컨텍스트
+## 동기 및 컨텍스트
 
 <!--- Why is this change required? What problem does it solve? -->
 
-## 어떻게 테스트되었습니까?
+## 이 테스트는 어떻게 테스트 되었습니까?
 
 <!--- Please describe in detail how you tested your changes. -->
 <!--- Include details of your testing environment, and the tests you ran to -->
 <!--- see how your change affects other areas of the code, etc. -->
 
-## 스크린샷(해당되는 경우):
+## 스크린샷 (해당 하는 경우):
 
 ## 변경 유형
 
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
 
-- [ ] 버그 수정(문제를 수정하는 중단점 변경)
-- [ ] 새로운 기능(기능을 추가하는 변경 내용)
-- [ ] 변경 내용(기존 기능이 변경되는 수정 또는 기능)
+- [ ] 버그 수정 사항 (문제를 수정 하는 주요 변경 아님)
+- [ ] 새로 만들기 기능 (기능을 추가 하는 주요 변경 아님)
+- [ ] 주요 변경 사항 (기존 기능이 변경 될 수 있는 수정 사항 또는 기능)
 
-## 검사 목록:
+## 점검 표:
 
 
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] 당신이 그 말을 따랐나요 [이름 지정 표준](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
-- [ ] TOC 및 H1은 만들거나 업데이트하는 각 페이지에 대해 일치합니다.
-- [ ] TOC 및 H1에는 다음과 같은 작업이 연결되어 있습니다. GutHub 끌어오기 요청을 만드는 방법을 알아봅니다
-- [ ] H1에서는 어떤 것도 분리해서는 안 됩니다
-- [ ] 각 페이지 제목은 ***C***apitol 문자로 시작해야 합니다
-- [ ] 비디오에 장부가 있는지 확인했어요
-- [ ] 모든 비디오에는 비디오를 적절히 나타내기 위해 포스터가 지정됩니다
-- [ ] 당신이 [Acrobat](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)
+- [ ] 이름 지정 표준을 팔로우 [ 했습니까](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
+- [ ] 만들거나 업데이트 하는 각 페이지에 대 한 목차 및 H1이 일치 합니다.
+- [ ] 목차와 H1에는 다음과 같은 작업이 연결 되어 있습니다. GutHub 가져오기를 만드는 방법에 대해 알아보십시오 요청
+- [ ] H1의 고정 폭은 없음
+- [ ] 각 페이지 제목은 * * * C * * * apitol 문자로 시작 해야 합니다.
+- [ ] 비디오에 챕터가 있는지 확인 했습니다.
+- [ ] 모든 비디오에 비디오를 제대로 나타내는 포스터를 지정 했습니다.
+- [ ] Acrolinx를 사용 [ 했습니다.](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)

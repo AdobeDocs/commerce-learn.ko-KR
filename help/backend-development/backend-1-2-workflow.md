@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] 개발자용 - 개발 워크플로우"
-description: Commerce를 위한 일반적인 개발 워크플로우에 대해 알아봅니다.
+title: "[!DNL Commerce] 개발자용 - 개발 워크플로"
+description: Commerce의 일반적인 개발 워크플로에 대해 알아봅니다.
 kt: 5691
 doc-type: video
 topic: Development
@@ -16,17 +16,17 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 개발자용 - 개발 워크플로우
+# [!DNL Commerce] 개발자용 - 개발 워크플로
 
-이 비디오에서는:
+이 비디오에서:
 
-- 일반적인 개발 워크플로우
+- 일반적인 개발 워크플로
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!IMPORTANT]
 >
->Commerce Marketplace에 더 이상 **다운로드** 버튼을 클릭합니다. 확장을 설치하거나 업그레이드하려면 명령줄을 사용해야 합니다. 자세한 내용은 [확장 설치](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/extensions.html) 페이지의 _설치 안내서_ 추가 정보.
+>Commerce Marketplace에 더 이상 **다운로드** 단추를 클릭합니다. 확장을 설치하거나 업그레이드하려면 명령줄을 사용해야 합니다. 다음을 참조하십시오. [확장 설치](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/extensions.html) 페이지의 _설치 안내서_ 추가 정보.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36193?quality=12&learn=on)
 

@@ -1,6 +1,6 @@
 ---
 title: 제품 속성 만들기
-description: 하나의 매개 변수로 json을 반환하는 페이지를 만듭니다.
+description: 하나의 매개 변수와 함께 json을 반환하는 페이지를 만듭니다.
 topic: Development
 kt: 5602
 doc-type: video
@@ -15,20 +15,20 @@ ht-degree: 0%
 
 # 제품 속성 만들기
 
-제품 속성을 추가는에서 가장 많이 사용되는 작업 중 하나입니다 [!DNL Commerce]. 속성은 제품과 관련된 많은 실용적인 작업을 해결하는 강력한 방법입니다. 제품에 드롭다운 유형 속성을 추가하는 간단한 프로세스가 있습니다.
+제품 속성 추가는에서 가장 많이 사용되는 작업 중 하나입니다 [!DNL Commerce]. 속성은 제품과 관련된 다양한 실질적인 과제를 해결할 수 있는 강력한 방법입니다. 제품에 드롭다운 유형 속성을 추가하는 간단한 프로세스를 사용할 수 있습니다.
 
-이 비디오에서는:
+이 비디오에서:
 
-- 가능한 값을 사용하여 clothing_material이라는 속성을 추가합니다. 면, 가죽, 실크, 데님, 모피, 울
-- 이 속성을 제품 보기 페이지에서 볼 수 있도록, 굵은 텍스트로 표시합니다
-- 기본 속성 세트에 지정하고 제한을 추가합니다
+- cotton, Leather, Silk, Denim, Fur 및 Wool 과 같은 값을 사용하여 clothing_material 이라는 속성을 추가합니다.
+- 이 속성을 제품 보기 페이지에 굵은 텍스트로 표시합니다.
+- Default 속성 세트에 지정하고 제한을 추가합니다.
 - 새 속성 추가
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
 - 개발자
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!VIDEO](https://video.tv.adobe.com/v/35789?quality=12&learn=on)
 
@@ -36,4 +36,4 @@ ht-degree: 0%
 
 [제품 속성 만들기](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
-[사용자 지정 텍스트 필드 속성 추가](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
+[사용자 정의 텍스트 필드 속성 추가](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)

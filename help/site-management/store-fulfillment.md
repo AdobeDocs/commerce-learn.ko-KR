@@ -1,8 +1,8 @@
 ---
-title: 저장 이행 개요
-description: Store Fulfillment for Adobe Commerce에 대해 알아보십시오. Walmart Commerce Technologies는 Buy Online, Pick-up In-Store(BOPIS) 환경을 최종 제공하는 고급 옴니채널 이행 솔루션입니다.
-landing-page-description: 이 비디오에서 Store Fulfillment 솔루션을 통해 고객에게 매장 내 및 매장 내 픽업 서비스의 편의성을 제공하고 보다 효율적인 모바일 전용 이행 워크플로우를 제공하여 고객에게 주문을 선택하고, 스테이징하고, 핸드오프 주문을 제공하는 방법을 살펴볼 수 있습니다.
-short-description: 이 비디오에서 Store Fulfillment 솔루션을 통해 고객에게 매장 내 및 매장 내 픽업 서비스의 편의성을 제공하고 보다 효율적인 모바일 전용 이행 워크플로우를 제공하여 고객에게 주문을 선택하고, 스테이징하고, 핸드오프 주문을 제공하는 방법을 살펴볼 수 있습니다.
+title: 스토어 이행 개요
+description: 엔드 투 엔드 온라인 구매, 매장 내 픽업(BOPIS) 경험을 제공하는 고급 옴니채널 이행 솔루션인 Walmart Commerce Technologies의 Adobe Commerce 스토어 이행 기능에 대해 알아봅니다.
+landing-page-description: 이 비디오를 시청하여 Store Fulfillment 솔루션을 통해 매장 내 및 매장 내 픽업 및 매장 직원에게 보다 효율적이고 모바일용으로 준비된 주문 처리 워크플로우를 제공하여 고객에게 매장 픽업 주문을 픽업, 스테이징 및 판매하는 방법에 대해 알아보십시오.
+short-description: 이 비디오를 시청하여 Store Fulfillment 솔루션을 통해 매장 내 및 매장 내 픽업 및 매장 직원에게 보다 효율적이고 모바일용으로 준비된 주문 처리 워크플로우를 제공하여 고객에게 매장 픽업 주문을 픽업, 스테이징 및 판매하는 방법에 대해 알아보십시오.
 doc-type: feature video
 solution: Commerce
 audience: all
@@ -10,38 +10,38 @@ activity: use
 exl-id: 53f45eb4-29e0-426d-8e9a-784838e37e03
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
 
-# 저장 이행 개요
+# 스토어 이행 개요
 
-Walmart Commerce Technologies의 Store Fulfillment for Adobe Commerce은 BOPIS(Online, Pickup In-Store) 고객 환경을 제공합니다. 모바일 장치를 통해 사용할 수 있는 완벽한 옴니채널 이행 워크플로우를 제공하여 매장 직원의 생산성을 극대화합니다.
+Store Fulfillment for Adobe Commerce by Walmart Commerce Technologies는 고급 온라인 구매, 매장 내 픽업(BOPIS) 고객 경험을 제공합니다. 모바일 디바이스를 통해 완벽한 옴니채널 이행 워크플로우를 제공하여 매장 직원의 생산성을 극대화합니다.
 
-이 비디오에서는 Store Fulfillment End-to-End BOPIS 환경에서 In-Store 및 Curbside Pickup 옵션을 사용하는 간단한 개요를 제공합니다.
+이 비디오에서는 매장 내 및 커브사이드 픽업 옵션을 통한 스토어 이행 전체 BOPIS 경험에 대한 빠른 개요를 제공합니다.
 
-- 고객이 상점 픽업 주문을 제출하는 것을 주의하십시오.
-   - 온라인 상점 카탈로그를 찾아봅니다.
-   - 매장 내 픽업 항목을 선택합니다.
-   - 사용 가능한 재고가 있는 저장소 위치를 찾아 선택합니다.
-   - 상점 픽업 옵션을 체크 아웃하고 사용자 정의합니다.
-   - 주문하세요.
-- Store Fulfillment 솔루션에서 사용할 수 있는 모바일 앱을 사용하여 주문 주문 처리 프로세스를 통해 스토어 직원과 고객이 진행하는 것을 확인하십시오.
+- 고객이 매장 픽업 주문을 제출하는 것을 봅니다.
+   - 온라인 상점 카탈로그를 검색하십시오.
+   - 매장 픽업할 항목을 선택하십시오.
+   - 사용 가능한 재고가 있는 스토어 위치를 찾아 선택합니다.
+   - 저장소 픽업 옵션을 체크아웃하고 사용자 지정합니다.
+   - 주문하십시오.
+- 스토어 이행 솔루션에서 사용할 수 있는 모바일 앱을 사용하여 매장 직원과 고객이 전체적인 주문 이행 프로세스를 진행하는 것을 시청하십시오.
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
-- 전자 상거래 관리자
-- 저장소 작업 관리자 및 관리자
+- eCommerce 관리자
+- 저장소 운영 관리자 및 관리자
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 Adobe Commerce 2.4가 있는 저장소에 설치된 Store Fulfillment 솔루션 1.0 릴리스를 반영합니다. 자세한 내용은 [Store Fulfillment 사용 안내서](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) 최신 정보를 확인하십시오.
+>이 비디오의 콘텐츠는 Adobe Commerce 2.4가 있는 상점에 설치된 스토어 이행 솔루션 1.0 릴리스를 반영합니다. 다음을 참조하십시오. [스토어 이행 사용 안내서](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) 를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
 
 ## 추가 리소스
 
-[Store Fulfillment 사용 안내서](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)
+[스토어 이행 사용 안내서](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)

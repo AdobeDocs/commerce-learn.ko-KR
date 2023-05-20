@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce on cloud 인프라 - 호스팅 및 계정
-description: Adobe Commerce용 기존 호스팅 솔루션에 대해 ​ 알아봅니다. Starter와 Pro 계정 간의 차이점을 ​ 파악합니다.
+title: 클라우드 인프라 호스팅 및 계정에 대 한 Adobe Systems 상거래
+description: Adobe Systems 상거래에 대 한 기존 호스팅 솔루션에 대해 알아보십시오. 스타터 계정과 Pro 계정 간의 차이점을 이해 합니다.
 kt: 5657
 doc-type: video
 audience: all
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce on cloud 인프라 - 호스팅 및 계정
+# 클라우드 인프라 호스팅 및 계정에 대 한 Adobe Systems 상거래
 
-이 비디오에서는:
+이 비디오에서:
 
-- Adobe Commerce용 기존 클라우드 호스팅 솔루션&#x200B;에 대해 알아보기
-- Starter 및 Pro 계정 간 &#x200B; 차이점 이해
+- Adobe Systems 상거래에 대 한 기존 클라우드 호스팅 솔루션에 대해 알아보기
+- 스타터 계정과 Pro 계정 간의 차이점 이해
 
 >[!VIDEO](https://video.tv.adobe.com/v/35813?quality=12&learn=on)
 
 ## 추가 리소스
 
-[클라우드 아키텍처 - [!DNL Commerce] 클라우드 인프라 가이드](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html)
+[Cloud architecture-  [!DNL Commerce]  클라우드 인프라 가이드](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html)

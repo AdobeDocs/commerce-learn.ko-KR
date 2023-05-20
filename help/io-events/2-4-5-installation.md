@@ -1,8 +1,8 @@
 ---
 title: Adobe Commerce 2.4.5용 IO 이벤트를 설치하는 방법 알아보기
-description: Adobe Developer App Builder에서 사용할 Adobe Commerce 2.4.5에서 IO 이벤트에 필요한 모듈을 설치하는 방법을 알아봅니다
-landing-page-description: Composer를 사용하여 Adobe Commerce 2.4.5에 필요한 여러 모듈을 설치하는 방법을 알아봅니다.
-short-description: Composer를 사용하여 Adobe Commerce 2.4.5에 필요한 여러 모듈을 설치하는 방법을 알아봅니다.
+description: Adobe Developer App Builder에서 사용하기 위해 Adobe Commerce 2.4.5에서 IO 이벤트에 필요한 모듈을 설치하는 방법을 알아봅니다
+landing-page-description: 작성기를 사용하여 Adobe Commerce 2.4.5에 필요한 여러 모듈을 설치하는 방법을 알아봅니다.
+short-description: 작성기를 사용하여 Adobe Commerce 2.4.5에 필요한 여러 모듈을 설치하는 방법을 알아봅니다.
 kt: 11886
 doc-type: tutorial
 audience: all
@@ -11,22 +11,22 @@ badge: Adobe Commerce 2.4.5
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
 source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce 2.4.5 설치
 
-버전 2.4.5용 Composer를 사용하여 Adobe Commerce에서 여러 새 모듈을 설치하는 방법을 알아봅니다. 이렇게 하면 Adobe Commerce 애플리케이션에서 사용되는 필수 모듈이 설정됩니다. 에 추가 설명서가 있습니다. [Adobe Commerce용 Adobe I/O 이벤트 설치](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+버전 2.4.5용 Composer를 사용하여 Adobe Commerce에 여러 새 모듈을 설치하는 방법을 알아봅니다. Adobe Commerce 애플리케이션에서 사용되는 필수 모듈을 설정합니다. 추가 설명서는 다음 위치에서 찾을 수 있습니다. [Adobe Commerce에 대한 Adobe I/O 이벤트 설치](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
-* I/O 이벤트를 사용하는 Adobe Commerce 및 Adobe Developer App Builder를 처음 사용하는 개발자
+* I/O 이벤트를 사용한 Adobe Commerce 및 Adobe Developer App Builder를 처음 사용하는 개발자
 
-## 비디오 컨텐츠 {#video-content}
+## 비디오 콘텐츠 {#video-content}
 
-* 작성기를 사용하여 필요한 모듈 설치
+* 작성기를 사용한 필수 모듈 설치
 * 온-프레미스 호스팅에 대해 실행할 명령
 * Adobe Commerce Cloud에 대해 실행할 명령
 * Adobe Commerce Cloud yaml 필수 편집
@@ -35,9 +35,9 @@ ht-degree: 0%
 
 ## 유용한 명령 {#useful-commands}
 
-자체 호스팅 환경을 사용하고 있는지 아니면 Adobe Commerce Cloud을 사용하고 있는지에 따라 약간 다른 다양한 명령이 있습니다.
+자체 호스팅 환경을 사용하는지 또는 Adobe Commerce Cloud을 사용하는지에 따라 약간 다른 다양한 명령이 있습니다.
 
-### 온-프레미스 호스팅 {#on-premise}
+### On Premise 호스팅 {#on-premise}
 
 ```bash
 composer require magento/commerce-eventing=^1.0 --no-update

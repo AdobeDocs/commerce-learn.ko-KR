@@ -1,6 +1,6 @@
 ---
-title: 새 페이지 만들기
-description: 하나의 매개 변수로 json을 반환하는 페이지를 만듭니다.
+title: 새로 만들기 페이지 만들기
+description: 하나의 매개 변수를 사용 하 여 json을 반환 하는 페이지 만들기.
 topic: Development
 kt: 5602
 doc-type: video
@@ -13,27 +13,27 @@ ht-degree: 0%
 
 ---
 
-# 새 페이지 만들기
+# 새로 만들기 페이지 만들기
 
-하나의 매개 변수로 json을 반환하는 페이지를 만듭니다.
+하나의 매개 변수를 사용 하 여 json을 반환 하는 페이지 만들기.
 
-## 이 비디오 누구?
+## 다음에 대 한이 비디오는 무엇입니까?
 
 - 개발자
 
 ## 페이지 추가 단계
 
 - 모듈 만들기
-- 추가 **route.xml** 파일
-- 컨트롤러(작업) 파일 추가
+- **경로 .xml** 파일 추가
+- 컨트롤러 (작업) 파일 추가
 
-## 모듈을 만드는 단계
+## 모듈 만들기 단계
 
 - 모듈 폴더 만들기
-- 만들기 `etc/module.xml` 파일
-- 만들기 `registration.php` 파일
-- 를 실행합니다. `bin/magento setup:upgrade` 새 모듈 설치 스크립트
-- 모듈이 작동하는지 확인합니다
+- `etc/module.xml`파일 만들기
+- `registration.php`파일 만들기
+- `bin/magento setup:upgrade`스크립트를 실행 하 여 새 모듈 설치
+- 모듈 작동 하는지 확인 합니다.
 
 ## 비디오 컨텐츠
 

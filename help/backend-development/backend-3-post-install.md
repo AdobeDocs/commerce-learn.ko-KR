@@ -18,18 +18,18 @@ ht-degree: 0%
 
 # [!DNL Commerce] 개발자용 - 설치 후
 
-이 비디오에서는:
+이 비디오에서:
 
 - 인스턴스 확인 및 구성
 - u-마스크 설정
 - 샘플 데이터 설치
 - 실행 모드 설정
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 노트](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 >
 >데이터베이스 분할 기능은 2.4.2 릴리스에서 더 이상 사용되지 않습니다.
 
@@ -38,6 +38,6 @@ ht-degree: 0%
 ## 추가 리소스
 
 - [설치 확인](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/verify.html)
-- [선택적으로 umask 설정](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/set-umask.html)
+- [필요한 경우 마스크 설정](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/set-umask.html)
 - [샘플 데이터 설치](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/sample-data/overview.html)
-- [응용 프로그램 모드 기본 정보](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/setup/application-modes.html)
+- [응용 프로그램 모드 정보](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/setup/application-modes.html)

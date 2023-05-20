@@ -1,6 +1,6 @@
 ---
 title: 사이트 맵 설정
-description: 사이트 맵은 검색 엔진으로 스토어를 인덱싱하는 방식을 향상시킵니다. 사용자의 사이트 맵을 설정하는 방법을 알아봅니다 [!DNL Commerce] 관리자에 저장합니다.
+description: 사이트 맵는 검색 엔진에서 스토어 색인 하는 방식을 개선 합니다. 관리자에서 스토어에 대 한  [!DNL Commerce]  사이트 맵를 설정 하는 방법에 대해 알아보십시오.
 kt: 5592
 doc-type: feature video
 audience: all
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # 사이트 맵 설정
 
-사이트 맵은 스토어가 검색 엔진으로 인덱싱되는 방식을 개선하며 웹 크롤러가 간과할 수 있는 페이지를 찾도록 설계되었습니다. Commerce Store에 사이트 맵을 쉽게 추가하는 방법을 알아봅니다.
+사이트 맵 스토어 검색 엔진으로 색인화 되는 방식을 개선 하 고 웹 크롤러에 의해 간과 될 수 있는 페이지를 찾도록 설계 되었습니다. 상거래 스토어에 사이트 맵를 쉽게 추가 하는 방법에 대해 알아보십시오.
 
-## 이 비디오 누구?
+## 다음에 대 한이 비디오는 무엇입니까?
 
 - 저장소 관리자
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.1.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 노트](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>비디오의 컨텐츠에 2.1.0 릴리스가 반영 됩니다. 이후 릴리스의 업데이트에 대 한 자세한 내용은 릴리스 정보 ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) 를 참조 [ 하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35748?quality=12&learn=on)
 
 ## 추가 리소스
 
-- [사이트 맵 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/sitemap-xml.html)
-- [카탈로그 > XML 사이트 맵 - [!DNL Commerce] 구성 참조 안내서](https://experienceleague.adobe.com/docs/commerce-admin/config/catalog/xml-sitemap.html)
+- [사이트 맵-  [!DNL Commerce]  머천다이징 및 판촉 가이드](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/sitemap-xml.html)
+- [Catalog > XML 사이트 맵-  [!DNL Commerce]  구성 참조 안내서](https://experienceleague.adobe.com/docs/commerce-admin/config/catalog/xml-sitemap.html)

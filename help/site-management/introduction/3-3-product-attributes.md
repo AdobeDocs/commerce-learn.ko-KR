@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] 비즈니스 사용자의 경우 - 속성"
-description: 제품의 사용자 지정 및 시스템 속성에 대해 알아봅니다.
+title: " [!DNL Commerce] 비즈니스 사용자-속성"
+description: 제품에 대 한 사용자 지정 및 시스템 속성에 대해 알아보십시오.
 topic: Commerce
 kt: 5769
 doc-type: video
@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 비즈니스 사용자의 경우 - 속성
+# [!DNL Commerce] 비즈니스 사용자를 위한-속성
 
-이 비디오에서는:
+이 비디오에서:
 
 - 시스템 속성
 - 사용자 지정 속성
 
-## 이 비디오 누구?
+## 다음에 대 한이 비디오는 무엇입니까?
 
 - 비즈니스 사용자
 
@@ -29,10 +29,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 노트](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>비디오의 컨텐츠에 2.3.1 릴리스가 반영 됩니다. 이후 릴리스의 업데이트에 대 한 자세한 내용은 릴리스 정보 ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) 를 참조 [ 하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35954?quality=12&learn=on)
 
 ## 추가 리소스
 
-[제품 속성 개요 - [!DNL Commerce] 카탈로그 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+[제품 속성 개요-  [!DNL Commerce]  카탈로그 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)

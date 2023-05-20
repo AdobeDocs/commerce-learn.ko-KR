@@ -1,6 +1,6 @@
 ---
-title: 클라우드 기반의 Adobe Commerce - 프로젝트 및 파일
-description: 프로젝트 구조 및 yaml 파일에 대해 알아봅니다. 클라우드 프로젝트의 파일 구조와 필요한 모든 저장소를 이해합니다.
+title: 클라우드 인프라의 Adobe Commerce - 프로젝트 및 파일
+description: 프로젝트 구조 및 yaml 파일에 대해 알아봅니다. 클라우드 프로젝트 및 필요한 모든 저장소의 파일 구조를 이해합니다.
 kt: 5658
 doc-type: video
 audience: all
@@ -13,16 +13,16 @@ ht-degree: 0%
 
 ---
 
-# 클라우드 기반의 Adobe Commerce - 프로젝트 및 파일
+# 클라우드 인프라의 Adobe Commerce - 프로젝트 및 파일
 
-이 비디오에서는:
+이 비디오에서:
 
-- 클라우드 프로젝트 및 관련 코드 리포지토리의 파일 구조 이해
+- 클라우드 프로젝트 및 관련 코드 저장소의 파일 구조를 이해합니다
 - 4개의 기본 구성 파일에 대해 알아보기
 
 >[!VIDEO](https://video.tv.adobe.com/v/35694?quality=12&learn=on)
 
 ## 추가 리소스
 
-- [프로젝트 구조 - [!DNL Commerce] 클라우드 인프라 가이드](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/file-structure.html)
-- [환경 구성 - [!DNL Commerce] 클라우드 인프라 가이드](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
+- [프로젝트 구조 - [!DNL Commerce] 클라우드 인프라 안내서](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/file-structure.html)
+- [환경 구성 - [!DNL Commerce] 클라우드 인프라 안내서](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)

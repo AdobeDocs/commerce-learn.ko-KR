@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce on cloud infrastructure - 개발 구성
-description: 클라우드 프로젝트에 대한 개발 구성에 대해 알아봅니다.
+title: 클라우드 인프라의 Adobe Commerce - 개발 구성
+description: 클라우드 프로젝트의 개발 구성에 대해 알아봅니다.
 kt: 5660
 doc-type: video
 audience: all
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce on cloud infrastructure - 개발 구성
+# 클라우드 인프라의 Adobe Commerce - 개발 구성
 
-이 비디오에서는:
+이 비디오에서:
 
 - 개발 구성에 대해 알아보기
 
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-[[!DNL Commerce] 클라우드 인프라 가이드](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)
+[[!DNL Commerce] 클라우드 인프라 안내서](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)

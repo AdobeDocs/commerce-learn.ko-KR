@@ -1,6 +1,6 @@
 ---
-title: 개발자를 위한 PWA Studio - 시작 및 로드
-description: PWA 시작 전 필요한 단계, 로드 시간 기준 및 성능​이 전환을 향상하​은 방법에 대해 알아봅니다.
+title: 개발자용 PWA Studio - Launch 및 load
+description: PWA 시작 전에 필요한 단계, 로드 ​ 시간에 대한 기준 및 성능이 전환을 개선하는 ​ 방법에 대해 알아봅니다.
 topic: Development
 kt: 5646
 doc-type: video
@@ -13,19 +13,19 @@ ht-degree: 0%
 
 ---
 
-# 개발자를 위한 PWA Studio - 시작 및 로드
+# 개발자용 PWA Studio - Launch 및 load
 
-이 비디오에서는:
+이 비디오에서:
 
-- PWA 실행을 위한 필수 &#x200B; 단계
-- 로드 시간 &#x200B; 기준
-- 성능이 전환을 향상시키는 방법
+- PWA 시작 필수 &#x200B; 단계
+- 로드 시간의 &#x200B; 기준선
+- 성능이 전환을 개선하는 방법
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
-- 프런트 엔드 개발자
+- 프론트엔드 개발자
 - 프로젝트 관리자
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!VIDEO](https://video.tv.adobe.com/v/35717?quality=12&learn=on)

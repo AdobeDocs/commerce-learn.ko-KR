@@ -1,6 +1,6 @@
 ---
-title: PWA Studio에 제품 속성 사용
-description: PWA Studio을 사용하여 제품 속성을 관리하는 방법을 알아봅니다.
+title: PWA Studio와 함께 제품 속성 사용
+description: PWA Studio를 사용 하 여 제품 속성을 관리 하는 방법을 알아봅니다.
 doc-type: feature video
 role: Admin, User
 audience: all
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 ---
 
-# PWA Studio에 제품 속성 사용
+# PWA Studio와 함께 제품 속성 사용
 
-이 비디오에서는 PWA Studio으로 스토어를 빌드할 때 제품 속성을 관리하는 방법을 알아봅니다.
+이 비디오에서는 매장가 PWA Studio 작성 된 경우 제품 속성을 관리 하는 방법을 알아봅니다.
 
-## 이 비디오 누구?
+## 다음에 대 한이 비디오는 무엇입니까?
 
 - 프런트 엔드 개발자
 - 프로젝트 관리자
@@ -28,5 +28,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [제품 속성 - [!DNL Commerce] 카탈로그 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
-- [PWA Studio - 개발자 설명서](https://developer.adobe.com/commerce/pwa-studio/)
+- [제품 속성-  [!DNL Commerce]  카탈로그 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+- [PWA Studio-개발자 설명서](https://developer.adobe.com/commerce/pwa-studio/)

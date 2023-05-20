@@ -1,6 +1,6 @@
 ---
 title: 주문 상태 관리
-description: 주문 상태 및 주문 세부 사항을 확인하는 방법과 주문 상태를 변경하는 방법을 알아봅니다.
+description: 주문 상태 및 주문 세부 사항을 확인하는 방법 및 주문 상태를 변경하는 방법에 대해 알아봅니다.
 doc-type: feature video
 audience: all
 role: Admin, User
@@ -15,18 +15,18 @@ ht-degree: 0%
 
 # 주문 상태 관리
 
-고객이 주문을 실행하면 판매 주문이 거래의 임시 레코드로 생성됩니다. 판매 주문의 상태는 다음과 같습니다. _보류 중_ 결제가 접수될 때까지. 대기 중 상태에서는 지급을 입고 송장이 생성될 때까지 주문을 편집하거나 취소할 수 있습니다. 이 비디오에서는 주문 상태 및 세부 사항을 확인하는 방법과 필요한 경우 주문 상태를 변경하는 방법을 알아봅니다.
+고객이 주문을 하면 판매 주문이 임시 트랜잭션 레코드로 생성됩니다. 판매 주문의 상태는 다음과 같습니다. _보류 중_ 지불을 받을 때까지. 보류 중 상태에서 지급을 받고 송장이 생성될 때까지 주문을 편집하거나 취소할 수 있습니다. 이 비디오에서는 주문 상태 및 세부 정보를 확인하는 방법과 필요한 경우 주문 상태를 변경하는 방법에 대해 알아봅니다.
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
-- 영업
+- 판매
 - 고객 서비스 담당자
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!VIDEO](https://video.tv.adobe.com/v/343935?quality=12&learn=on)
 
 ## 추가 리소스
 
-- [주문 처리 - [!DNL Commerce] Store and Purchase Experience 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
-- [주문 상태 - [!DNL Commerce] Store and Purchase Experience 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)
+- [주문 처리 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+- [주문 상태 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

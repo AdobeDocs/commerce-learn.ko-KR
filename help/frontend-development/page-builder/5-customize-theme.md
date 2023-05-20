@@ -1,6 +1,6 @@
 ---
-title: 개발자를 위한 Page Builder - 테마 사용자 지정
-description: 페이지 빌더 테마를 사용자 지정하는 방법을 알아봅니다.
+title: 개발자용 페이지 빌더 - 테마 맞춤화
+description: 페이지 빌더 테마를 맞춤화하는 방법에 대해 알아봅니다.
 topic: Commerce, Development
 kt: 5654
 doc-type: video
@@ -13,27 +13,27 @@ ht-degree: 0%
 
 ---
 
-# 개발자를 위한 Page Builder - 테마 사용자 지정
+# 개발자용 페이지 빌더 - 테마 맞춤화
 
-이 비디오에서는:
+이 비디오에서:
 
-- 페이지 빌더 테마 사용자 지정
+- 페이지 빌더 테마 맞춤화
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
 - 콘텐츠 작성자
-- 프런트 엔드 개발자
+- 프론트엔드 개발자
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!NOTE]
 >
->이 컨텐츠는 Adobe Commerce 2.3.1용 Page Builder 1.0.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 다음을 참조하십시오. [Page Builder 릴리스 노트](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>이 콘텐츠는 Adobe Commerce 2.3.1용 Page Builder 1.0.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [페이지 빌더 릴리스 노트](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35713?quality=12&learn=on)
 
 ## 유용한 리소스
 
-[Page Builder 개발자 설명서](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+[페이지 빌더 개발자 설명서](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
 [페이지 빌더 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

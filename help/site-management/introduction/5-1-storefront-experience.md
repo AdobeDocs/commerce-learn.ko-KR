@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] 비즈니스 사용자 - Storefront"
-description: 계정 만들기, wish list, 그리고 장바구니에 wish list 항목 추가 등 상점 내 고객 경험에 대해 알아봅니다
+title: "[!DNL Commerce] 비즈니스 사용자용 - Storefront"
+description: 계정 만들기, 위시리스트 및 장바구니에 위시리스트 항목 추가 등 상점 내 고객 경험에 대해 알아봅니다
 topic: Commerce
 kt: 5778
 doc-type: video
@@ -14,24 +14,24 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 비즈니스 사용자 - Storefront
+# [!DNL Commerce] 비즈니스 사용자용 - 상점
 
-이 비디오에서는:
+이 비디오에서:
 
-- 상점 내 고객 경험
+- 상점 첫 화면의 고객 경험
 - 계정 만들기
-- 위시 목록
-- 장바구니에 wish 목록 항목 추가
+- 위시리스트
+- 장바구니에 위시리스트 항목 추가
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
 - 비즈니스 사용자
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 노트](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
 [고객 계정 범위 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
 
-[Wish list storfront 경험 - [!DNL Commerce] Store and Purchase Experience 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)
+[상점 첫 화면 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)

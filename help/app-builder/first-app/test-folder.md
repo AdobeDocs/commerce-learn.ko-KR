@@ -1,32 +1,32 @@
 ---
 title: 테스트 폴더
-description: 이 샘플 응용 프로그램의 테스트 폴더에 있는 파일 유형에 대해 알아봅니다.
-landing-page-description: Adobe Commerce에서 사용하는 Adobe Developer App Builder 및 테스트 폴더에 있는 파일 유형에 대해 알아봅니다.
+description: 이 샘플 애플리케이션의 테스트 폴더에 있는 파일 유형에 대해 알아봅니다.
+landing-page-description: Adobe Commerce에서 사용되는 Adobe Developer App Builder와 테스트 폴더에 있는 파일 유형에 대해 알아봅니다.
 kt: 12424
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-10T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-
 # 테스트 폴더에 대해 알아보기 {#test-folder}
 
 다음 `test` 이 샘플 앱의 폴더에는 애플리케이션에서 단위 테스트를 실행할 때 사용되는 단일 JavaScript 파일이 포함되어 있습니다.
 
-이 예는 간단한 예이며 특정 애플리케이션에 대한 포괄적인 테스트를 생성하도록 확장할 수 있습니다.
+이는 간단한 예이며 특정 애플리케이션에 대한 포괄적인 테스트를 생성하도록 확장할 수 있습니다.
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
-* 개발자는 Analytics에 대해 알려고 하는 Adobe App Builder를 사용하여 경험이 제한된 Adobe Commerce을 처음 사용합니다 `test` 폴더를 입력합니다.
+* Adobe Commerce을 처음 사용하는 개발자로서 Adobe App Builder 사용 경험이 부족하여 다음에 대해 알아보고자 하는 사람 `test` 폴더를 삭제합니다.
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
-* 을 사용하는 이유 `test` 폴더?
+* 을(를) 사용하는 이유 `test` 폴더를 삭제하시겠습니까?
 * 단위 테스트 파일 및 해당 구성 요소에 대한 간단한 설명
 * 엔드 투 엔드 테스트 소개
 

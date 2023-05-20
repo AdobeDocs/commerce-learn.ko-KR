@@ -1,8 +1,8 @@
 ---
-title: PHP Storm에서 업그레이드 호환성 도구 사용
-description: 이 기술 비디오를 시청하여 PHP Storm 플러그인과 업그레이드 호환성 도구를 사용하는 방법을 학습합니다.
-landing-page-description: 호환성 도구를 PHP Storm 플러그인과 함께 사용하여 호환성 문제를 쉽게 식별하고 해결할 수 있습니다.
-short-description: 호환성 도구를 PHP Storm 플러그인과 함께 사용하여 호환성 문제를 쉽게 식별하고 해결할 수 있습니다.
+title: PHP Storm에서 호환성 업그레이드 도구 사용하기
+description: 이 기술 비디오를 통해 PHP Storm 플러그인과 함께 호환성 업그레이드 도구를 사용하는 방법에 대해 알아보십시오.
+landing-page-description: 비호환성을 쉽게 식별하고 해결할 수 있는 PHP Storm 플러그인과 함께 호환성 업그레이드 도구를 사용하는 방법에 대해 알아봅니다.
+short-description: 비호환성을 쉽게 식별하고 해결할 수 있는 PHP Storm 플러그인과 함께 호환성 업그레이드 도구를 사용하는 방법에 대해 알아봅니다.
 kt: 9651
 doc-type: technical video
 role: Developer
@@ -16,21 +16,21 @@ ht-degree: 0%
 
 ---
 
-# PHP Storm에서 업그레이드 호환성 도구 사용
+# PHP Storm에서 호환성 업그레이드 도구 사용하기
 
-UCT(업그레이드 호환성 도구)는 현재 버전과 Target 업그레이드 버전 간의 호환성을 단 몇 분 만에 분석하는 무료 도구입니다. PHP Storm 플러그인을 사용하면 이 도구를 더 쉽게 사용할 수 있습니다.
+업그레이드 호환성 도구(UCT)는 현재 버전과 대상 업그레이드 버전 간의 비호환성을 단 몇 분 안에 분석하는 무료 도구입니다. PHP Storm 플러그인을 사용하면 이 도구를 훨씬 쉽게 사용할 수 있습니다.
 
-이 비디오에서는:
+이 비디오에서:
 
 - 업그레이드 호환성 도구란 무엇입니까?
 - Magento PHP Storm 플러그인과 함께 사용하는 방법
-- 심각도 및 비호환성 수별로 모듈을 시각화하는 데 도움이 되는 HTML 결과에 액세스하는 방법
+- 심각도 및 비호환성 수로 모듈을 시각화하는 데 도움이 되는 HTML 결과에 액세스하는 방법
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
 - 개발자
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!VIDEO](https://video.tv.adobe.com/v/340150?quality=12&learn=on)
 

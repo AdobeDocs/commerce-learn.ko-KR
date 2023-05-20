@@ -1,34 +1,34 @@
 ---
 title: 작업 폴더
-description: 이 샘플 응용 프로그램의 작업 폴더에 있는 파일 유형에 대해 알아봅니다.
-landing-page-description: Adobe Commerce과 함께 사용되는 Adobe Developer App Builder 및 작업 폴더에 있는 파일 유형에 대해 알아봅니다.
+description: 이 샘플 애플리케이션의 작업 폴더에 있는 파일 유형에 대해 알아봅니다.
+landing-page-description: Adobe Commerce에서 사용되는 Adobe Developer App Builder와 작업 폴더에 있는 파일 유형에 대해 알아봅니다.
 kt: 12422
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
-
 # 작업 폴더에 대해 알아보기 {#actions-folder}
 
-다음 `actions` 이 샘플 앱의 폴더에는 몇 개의 JavaScript 파일과 `commerce`. 표시된 JavaScript는 작업과 관련된 경우 다시 사용할 수 있는 훌륭한 예제 파일입니다. 이 폴더를 사용하면 OAuth 및 REST를 사용하여 Adobe Commerce 애플리케이션에 연결할 때 개발 노력을 줄일 수 있습니다.
+다음 `actions` 이 샘플 앱의 폴더에는 몇 개의 JavaScript 파일과 하나의 폴더가 있습니다. `commerce`. 표시된 JavaScript는 작업과 관련된 경우 재사용할 수 있는 훌륭한 예제 파일입니다. 이 폴더는 OAuth 및 REST를 사용하여 Adobe Commerce 애플리케이션에 연결할 때 개발 시간을 절약할 수 있습니다.
 
-이 예제에서 폴더의 실제 이름은 임의적이지만 해당 이름을 알면 샘플 코드를 해석하는 데 도움이 됩니다. 의미 있는 이름 지정 규칙을 사용하여 응용 프로그램이 더 복잡해지는 경우 혼동을 방지할 수 있습니다.
+이 예제에서 폴더의 실제 이름은 임의적이지만 이름을 알면 샘플 코드를 해석하는 데 도움이 될 수 있습니다. 의미 있는 이름 지정 규칙을 사용하면 애플리케이션이 더 복잡해질 경우 혼동을 방지할 수 있습니다.
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
-* 개발자는 샘플 애플리케이션에서 작업 폴더에 대해 학습하고 있는 Adobe App Builder로 경험이 제한된 Adobe Commerce을 처음 사용합니다.
+* 샘플 애플리케이션의 작업 폴더에 대해 학습하고 있는 Adobe Commerce App Builder Adobe 경험이 제한된 개발자를 처음 사용하는 경우.
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
-* App Builder 소개 및 `actions` 폴더
-* &quot;작업&quot; 폴더를 사용하는 방법
-* 에 있는 JavaScript 파일의 목적 `actions` 및 `commerce` 폴더
+* App Builder 소개 및 를 중점적으로 다루는 샘플 모듈 `actions` 폴더
+* &quot;actions&quot; 폴더 사용 방법
+* 에 있는 JavaScript 파일의 용도 `actions` 및 `commerce` 폴더
 * OAuth 인증 파일에 대한 빠른 개요
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)

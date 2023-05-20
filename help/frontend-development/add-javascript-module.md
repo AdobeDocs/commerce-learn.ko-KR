@@ -1,6 +1,6 @@
 ---
 title: JavaScript 모듈 추가
-description: 이 비디오에서는 "Hello World"라는 인사말을 제공하는 간단한 JS 모듈을 개발하기 위한 연습을 제공합니다.
+description: 이 비디오는 인사말 "Hello World"를 제공하는 간단한 JS 모듈 개발에 대한 설명을 제공합니다.
 topic: Development
 kt: 5612
 doc-type: video
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # JavaScript 모듈 추가
 
-이 비디오에서는 &quot;Hello World&quot;라는 인사말을 제공하는 간단한 JS 모듈을 개발하기 위한 연습을 제공합니다.
+이 비디오는 인사말 &quot;Hello World&quot;를 제공하는 간단한 JS 모듈 개발에 대한 설명을 제공합니다.
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
 - 개발자
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 - 모듈 만들기
 - 만들기 `requirejs-config.js` 및 JavaScript 모듈 파일
-- JS 모듈을 활성화하는 템플릿을 추가하기 위한 레이아웃 업데이트 만들기
+- JS 모듈을 활성화하는 템플릿 추가를 위한 레이아웃 업데이트 만들기
 - 템플릿 파일 만들기
-- 모듈을 추가하고 테스트합니다
+- 모듈을 추가하고 테스트합니다.
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!VIDEO](https://video.tv.adobe.com/v/35790?quality=12&learn=on)
 

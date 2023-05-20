@@ -1,6 +1,6 @@
 ---
-title: 개발자를 위한 PWA Studio - 페레그린
-description: 페레그린 라이브러리를 포함한 페레그린에 대해 알아봅니다. 페레그린의 동기에 대해 이해하라​은 페레그린의 후크와 탈론의 차이점을 이해하라.
+title: 개발자용 PWA Studio - Peregrine
+description: Peregrine 라이브러리를 포함하여 Peregrine에 대해 알아봅니다. 페레그린 후크와 발톱​의 차이점에 대한 페레그린의 동기를 이해합니다.
 topic: Development
 kt: 5649
 doc-type: video
@@ -13,20 +13,20 @@ ht-degree: 0%
 
 ---
 
-# 개발자를 위한 PWA Studio - 페레그린
+# 개발자용 PWA Studio - Peregrine
 
-이 비디오에서는:
+이 비디오에서:
 
-- 페레그라인 소개
-- 페레그린 라이브러리
-- 페레그라인의 동기에 대해 이해하라
-- 페레그라인 후크와 탈론 구분
+- Peregrine 소개
+- 페레그린 도서관
+- Peregrine의 동기를 이해하십시오.
+- 송곳니와 발톱을 구별한다
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
-- 프런트 엔드 개발자
+- 프론트엔드 개발자
 - 프로젝트 관리자
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!VIDEO](https://video.tv.adobe.com/v/35720?quality=12&learn=on)

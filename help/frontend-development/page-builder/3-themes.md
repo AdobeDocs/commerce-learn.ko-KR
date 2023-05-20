@@ -1,6 +1,6 @@
 ---
-title: 개발자용 페이지 빌더 - 테마
-description: Page Builder 테마의 각 ​ 부분에 대한 위치를 포함하여 모범 사례 및 규칙에 대해 알아봅니다.
+title: 개발자 용 페이지 빌더-테마
+description: 페이지 빌더 테마의 각 부분에 대 한 위치를 포함 하 여 테마 지침 및 규칙에 대해 알아봅니다.
 kt: 5652
 doc-type: video
 activity: use
@@ -12,29 +12,29 @@ ht-degree: 0%
 
 ---
 
-# 개발자용 페이지 빌더 - 테마
+# 개발자 용 페이지 빌더-테마
 
-이 비디오에서는:
+이 비디오에서:
 
-- 모범 사례 개요
-- 테마 규칙에 대한 &#x200B; 설명
-- 페이지 빌더 테마의 각 부분이 있는 &#x200B; 위치
+- 테마 설명 지침 개요
+- 테마 규칙의 설명
+- 페이지 빌더 테마의 각 부분이 있는 위치
 
-## 이 비디오 누구?
+## 다음에 대 한이 비디오는 무엇입니까?
 
-- 콘텐츠 작성자
+- 컨텐츠 작성자
 - 프런트 엔드 개발자
 
 ## 비디오 컨텐츠
 
 >[!NOTE]
 >
->이 컨텐츠는 Adobe Commerce 2.3.1용 Page Builder 1.0.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 다음을 참조하십시오. [Page Builder 릴리스 노트](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>이 컨텐츠는 Adobe Systems 상거래 2.3.1에 대 한 페이지 빌더 1.0.0 릴리스를 반영 합니다. 이후 릴리스의 업데이트에 대 한 자세한 내용은 페이지 빌더 릴리스 정보 ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html) 를 참조 [ 하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35711?quality=12&learn=on)
 
 ## 유용한 리소스
 
-[Page Builder 개발자 설명서](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+[페이지 빌더 개발자 설명서](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
 [페이지 빌더 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

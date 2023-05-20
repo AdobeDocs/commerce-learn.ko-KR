@@ -1,6 +1,6 @@
 ---
-title: PWA Docker 개발
-description: Docker에서 PWA 개발에 대해 알아봅니다.
+title: PWA 도커 개발
+description: Docker에서의 PWA 개발에 대해 알아봅니다.
 topic: Development
 kt: 5564
 doc-type: video
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# PWA Docker 개발
+# PWA 도커 개발
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
-- 프런트 엔드 개발자
+- 프론트엔드 개발자
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!VIDEO](https://video.tv.adobe.com/v/35784?quality=12&learn=on)
 

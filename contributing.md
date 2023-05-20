@@ -8,50 +8,50 @@ ht-degree: 0%
 
 # 기여
 
-기여해 주셔서 감사합니다!
+참여를 선택 해 주셔서 감사 합니다.
 
-다음은 이 프로젝트에 기여할 때 따라야 할 지침 세트입니다.
+다음은이 프로젝트에 참여 하는 팔로우에 대 한 지침입니다.
 
-## 행동 수칙
+## 행동 Code
 
-이 프로젝트는 Adobe [수행 코드](code-of-conduct.md)를 준수합니다. 참여하면
-이 수칙을 준수해야 합니다. 부적절한 행동은
-[Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com)
+이 프로젝트는 Adobe Systems [ 준수 코드 ](code-of-conduct.md) 를 따릅니다. 참여,
+이 코드를 수칙 준수 해야 것으로 예상 됩니다. 다음에 대 한 부적절 한 행동 보고
+[Grp-opensourceoffice@adobe.com ](mailto:Grp-opensourceoffice@adobe.com) .
 
 ## 질문이 있습니까?
 
-문제 제기로 시작하십시오. 이 프로젝트의 기존 커미터는 연결
-문제 스레드 내의 프로젝트 방향 및 문제 솔루션에 대한 의견 수렴
-(해당되는 경우).
+문제를 파일링 하 여 시작. 이 프로젝트의 기존 committers이 도달 하는 데 사용 됩니다.
+문제 스레드 내 프로젝트 방향 및 문제 솔루션 관련 합의
+(해당 하는 경우).
 
-## 기여자 라이선스 계약
+## 기여자 라이센스 계약
 
-본 프로젝트에 대한 모든 타사 기여도는 서명된 기여자를 동반해야 합니다
-사용권 계약. 이를 통해 Adobe에게 기여도를 재배포할 수 있는 권한을 부여합니다
-를 프로젝트의 일부로 사용합니다. [CLA에 서명](https://opensource.adobe.com/cla.html)하십시오. 사용자
-Adobe CLA를 한 번만 제출하면 되므로 이전에 제출한 적이 있는 경우
-가도 좋아!
+이 프로젝트에 대 한 모든 서드파티 기여도는 서명 된 기여자와 함께와 야 합니다.
+사용권 계약을 참조 하십시오. 이를 통해 기여도를 재배포할 권한 Adobe Systems 수 있습니다.
+를 프로젝트의 일부로 참조 하십시오. [CLA에 ](https://opensource.adobe.com/cla.html) 서명 합니다. 도움이
+Adobe Systems CLA를 한 번만 제출 하면 되므로 이전에 제출한 경우
+이동 하는 것이 좋습니다.
 
 ## 코드 검토
 
-모든 제출물은 가져오기 요청 양식으로 제공해야 하며 검토해야 합니다
-프로젝트 커미터에 의해 결정됩니다. [GitHub의 가져오기 요청 설명서](https://help.github.com/articles/about-pull-requests/) 읽기
-가져오기 요청 전송에 대한 자세한 내용을 참조하십시오.
+모든 제출 서류는 가져오기 요청 형식으로 제공 되어야 하며 검토 해야 합니다.
+프로젝트 committers. GitHub의 가져오기 요청 설명서 ](https://help.github.com/articles/about-pull-requests/) 를 참조 [ 하십시오.
+가져오기 요청 전송에 대 한 자세한 정보를 참조 하십시오.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
 submitting a pull request!
 -->
 
-## 기여자에서 커미터로
+## 기여자에서 Committer
 
-Adobe는 커뮤니티의 기여를 환영합니다. 기여자를 넘어 한 걸음 더 나아가
-프로젝트에서 전체 쓰기 액세스 권한과 발언권을 가진 커미터가 되고,
-프로젝트에 초대되다. 기존 커미터는 내부 추천을 사용합니다
-초대장 전에 소극적 합의(침묵이 승인)에 도달해야 하는 프로세스
-발급됩니다. 당신이 자격이 있다고 느끼고 더 깊이 관여하고 싶다면
-언제든지 기존 커미터에 연락하여 해당 문제에 대해 대화할 수 있습니다.
+우리의 커뮤니티에서 온 기여도를 좋아합니다. 기여자 이상의 단계를 좋아요 하는 경우
+고, 전체 쓰기 액세스 권한이 있는 committer가 되 고, 프로젝트가 프로젝트에 포함 됩니다.
+를 프로젝트에 초대 합니다. 기존 committers는 내부 nomination을 사용 합니다.
+초대 하기 전에 지연 동의 (침묵 승인)에 도달 해야 하는 프로세스
+발급 됩니다. 우량으로 선별 된 것으로 판단 되 면 보다 깊이 있는 관련
+기존 committers에 도달 하 여이에 대 한 대화를 느낌을 무료.
 
 ## 보안 문제
 
-보안 문제는 이 문제 추적기에서 보고할 수 없습니다. 대신 [보안 전문가에게 문제를 제기하십시오](https://helpx.adobe.com/security/alertus.html)
+보안 문제는이 문제 추적기에서 보고 되지 않습니다. 대신, [ 보안 전문가에 게 문제를 파일 합니다.](https://helpx.adobe.com/security/alertus.html)

@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce에 대한 관찰 사용
-description: 이 기술 비디오를 시청하고 Adobe Commerce용 관찰 도구를 사용하는 방법을 알아봅니다.
+title: Adobe Systems 상거래에 대 한 관찰 사용
+description: 이 기술 비디오를 보고 Adobe Systems 상거래에 대 한 관찰 도구를 사용 하는 방법을 알아봅니다.
 doc-type: technical video
 role: Developer, Admin
 audience: all
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce에 대한 관찰 사용
+# Adobe Systems 상거래에 대 한 관찰 사용
 
-이 비디오에서는 Adobe Commerce 사이트의 상태, 현재 또는 과거 시간 보기를 볼 수 있도록 New Relic 파트너인 Adobe Commerce용 관찰 도구에 대해 알아봅니다. Nerdlet은 New Relic One 프로그래밍 방식으로 빌드된 사용자 지정 애플리케이션입니다.
+이 비디오에서는 Adobe Systems 상거래 사이트, 현재 또는 과거 시간 보기의 상태를 볼 수 있는 새로 만들기 유물을 Adobe Systems 상거래에 대 한 관찰 도구에 대해 알아봅니다. 팀은 새로 만들기 유물 1 프로그래밍을 사용 하 여 작성 된 사용자 지정 애플리케이션입니다.
 
-## 이 비디오 누구?
+## 다음에 대 한이 비디오는 무엇입니까?
 
 - 웹 사이트 관리자
 - 개발자
@@ -28,5 +28,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [Adobe Commerce 관찰 - 지원 문서](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
-- [Adobe Commerce에 대한 관찰 사용](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
+- [Adobe Systems 상거래 지원 문서에 대 한 관찰](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
+- [Adobe Systems 상거래에 대 한 관찰 사용](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)

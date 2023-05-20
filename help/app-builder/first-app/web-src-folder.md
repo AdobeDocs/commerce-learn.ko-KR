@@ -1,38 +1,38 @@
 ---
-title: web-src 폴더
-description: web-src 폴더의 파일 유형과 이 샘플 응용 프로그램의 중첩된 파일 및 폴더에 대해 알아봅니다.
-landing-page-description: Adobe Commerce과 함께 사용되는 Adobe Developer App Builder 및 web-src 폴더에 있는 파일 유형에 대해 알아봅니다.
+title: 웹-src 폴더
+description: 이 샘플 애플리케이션에 대 한 웹-src 폴더의 파일 유형과 중첩 된 파일 및 폴더에 대해 알아봅니다.
+landing-page-description: Adobe Systems 상거래와 함께 사용 되는 Adobe Systems 개발자 앱 빌더와 웹-src 폴더에 있는 파일 유형을 알아봅니다.
 kt: 12425
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
+# 웹-src 폴더의 목적 Discover {#web-src-folder}
 
-# web-src 폴더의 목적 검색 {#web-src-folder}
+이 샘플 앱에 대 한 웹-src 폴더에는 많은 JavaScript 파일과 폴더가 포함 되어 있습니다. 이 폴더는 사용자 인터페이스가 있는 애플리케이션에 사용 됩니다. 모든 응용 프로그램이이 기능을 사용 하지는 않습니다. 예를 들어 외부 재고 관리 시스템과의 상거래 통합에는 프런트 엔드 인터페이스 및 코드가 필요 하지 않을 수 있습니다.
 
-이 샘플 앱의 web-src 폴더에는 많은 JavaScript 파일과 폴더가 포함되어 있습니다. 이 폴더는 사용자 인터페이스가 있는 응용 프로그램에 사용됩니다. 일부 응용 프로그램에서 이 기능을 사용하는 것은 아닙니다. 예를 들어, 외부 인벤토리 관리 시스템과 상거래 통합에는 프런트 엔드 인터페이스 및 코드가 필요하지 않을 수 있습니다.
+## 다음에 대 한이 비디오는 무엇입니까?
 
-## 이 비디오 누구?
-
-* 개발자는 다음에 대해 학습하는 Adobe App Builder를 사용하여 경험이 제한된 Adobe Commerce을 처음 사용합니다 `web-src` 폴더 및 해당 컨텐츠에 대해 설명합니다.
+* 폴더 및 해당 컨텐츠를 학습 `web-src` 하는 Adobe Systems 앱 빌더를 사용 하 여 제한 된 경험를 사용 하는 Adobe Systems 상거래를 위한 개발자.
 
 ## 비디오 컨텐츠
 
-* 이 프로그램의 주요 목적은 무엇입니까 `web-src` 폴더?
-* 일반적으로 포함된 파일 및 폴더
-* 방법 `web-src` 폴더 및 내부 컨텐츠는 샘플 애플리케이션에서 사용됩니다
+* 폴더의 `web-src` 주요 목적은 무엇입니까?
+* 일반적으로 포함 된 파일 및 폴더
+* `web-src`샘플에서 폴더와 컨텐츠를 사용 하는 방법 애플리케이션
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 
-## 코드 샘플
+## Code 샘플
 
-web-src/src/components/Orders.js
+web-src/src/components/Orders js
 
 ```javascript
 /*
@@ -120,11 +120,11 @@ export const Orders = props => {
 }
 ```
 
-web-src/src/hooks/useCommerceOrders.js
+web-src/src/후크/useCommerceOrders
 
 {{avoid-400-error}}
 
-아래 예제에서 코드 샘플은 `not` 요청을 제한합니다. 400 오류를 방지하려면 를 사용하여 응답 크기를 줄입니다 `searchCriteria`.
+아래 예제에서 코드 샘플 `not` 은 요청를 제한 합니다. 400 오류를 방지 하려면를 사용 `searchCriteria` 하 여 응답 크기를 줄이십시오.
 
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 

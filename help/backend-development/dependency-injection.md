@@ -1,6 +1,6 @@
 ---
-title: 종속성 삽입 예
-description: 종속성 주입 예를 봅니다.
+title: 종속성 주입 예
+description: 종속성 주입의 예를 보기.
 kt: 5621
 doc-type: video
 topic: Development
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 ---
 
-# 종속성 삽입 예
+# 종속성 주입 예
 
-종속성 주입은 개체 A가 이러한 종속성을 제공하는 외부 개체 B에 대한 종속성을 선언할 수 있도록 하는 디자인 패턴입니다. A로 선언된 종속성은 일반적으로 클래스 인터페이스이며 B가 제공하는 종속성은 해당 인터페이스에 대한 구체적인 구현입니다.
+종속성 삽입은 개체 A가 해당 종속성을 제공 하는 외부 개체 B에 대 한 종속성을 선언할 수 있도록 해 주는 디자인 패턴입니다. 에 의해 선언 된 종속성은 일반적으로 클래스 인터페이스 이며 종속성 B는 이러한 인터페이스에 대 한 구체적인 구현을 제공 합니다.
 
-## 이 비디오 누구?
+## 다음에 대 한이 비디오는 무엇입니까?
 
 - 개발자
 
@@ -27,5 +27,5 @@ ht-degree: 0%
 
 ## 유용한 리소스
 
-- [종속성 주입](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
+- [종속성 삽입](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
 - [PHP 개발자 안내서](https://developer.adobe.com/commerce/php/development/)

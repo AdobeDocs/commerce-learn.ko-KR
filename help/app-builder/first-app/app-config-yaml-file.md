@@ -1,31 +1,31 @@
 ---
 title: app.config.yaml 파일
-description: 이 샘플 애플리케이션의 app.config.yaml 파일의 파일 유형에 대해 알아봅니다.
-landing-page-description: Adobe Commerce과 함께 사용되는 Adobe Developer App Builder 및 app.config.yaml에 표시되는 파일 유형에 대해 알아봅니다.
+description: 이 샘플 응용 프로그램의 app.config.yaml 파일에 있는 파일 유형에 대해 알아봅니다.
+landing-page-description: Adobe Commerce에서 사용되는 Adobe Developer App Builder와 app.config.yaml에 포함되는 파일 유형에 대해 알아봅니다.
 kt: 12426
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-
 # app.config.yaml 파일에 대한 설명 및 사용 {#app-config-yaml}
 
 이 파일은 응용 프로그램의 구성을 결정합니다.
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
-* 개발자는 Analytics에 대해 학습하고 있는 Adobe App Builder로 제한된 경험을 가진 Adobe Commerce을 처음 사용합니다 `app.config.yaml` 샘플 애플리케이션에서 을 참조하십시오.
+* Adobe Commerce을 처음 사용하는 개발자로서 Adobe App Builder에 대한 경험이 부족하여 `app.config.yaml` 샘플 응용 프로그램에서
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
-* 다음 `app.config.yaml` 파일 설명
-* 정의 링크가 다른 항목에 어떻게 링크됩니까? `.js` 파일
+* 다음 `app.config.yaml` 논의된 파일
+* 다른 항목에 대한 정의는 어떻게 연결됩니까? `.js` 파일
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 

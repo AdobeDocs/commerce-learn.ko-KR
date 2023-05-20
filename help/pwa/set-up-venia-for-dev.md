@@ -1,6 +1,6 @@
 ---
-title: PWA 개발을 위한 Venia 설정
-description: PWA 개발 프로젝트를 위해 Venia 스토어를 설정하는 방법을 알아봅니다.
+title: PWA 개발용 Venia 설정
+description: PWA 개발 프로젝트에 대 한 Venia 매장를 설정 하는 방법에 대해 알아보십시오.
 topic: Development
 kt: 5564
 doc-type: video
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 ---
 
-# PWA 개발을 위한 Venia 설정
+# PWA 개발용 Venia 설정
 
-## 이 비디오 누구?
+## 다음에 대 한이 비디오는 무엇입니까?
 
 - 프런트 엔드 개발자
 - 프로젝트 관리자
@@ -26,4 +26,4 @@ ht-degree: 0%
 
 ## 유용한 리소스
 
-[PWA Studio 안내서 - Venia 설정](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)
+[PWA Studio 안내서-Venia 설정](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)

@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] 개발자용 - 만들기 [!DNL Admin] page"
+title: "[!DNL Commerce] 개발자용 - 만들기 [!DNL Admin] 페이지"
 description: 만드는 방법 알아보기 [!DNL Admin] 페이지, [!DNL Admin] 페이지 컨트롤러 ACL(액세스 제어 목록) 및 단위 테스트를 수행합니다.
 kt: 5698
 doc-type: video
@@ -18,18 +18,18 @@ ht-degree: 0%
 
 # [!DNL Commerce] 개발자용 - 만들기 [!DNL Admin] 페이지
 
-이 비디오에서는:
+이 비디오에서:
 
 - 만들기 [!DNL Admin] 페이지
 - [!DNL Admin] 페이지 컨트롤러 ACL(액세스 제어 목록)
 - [!DNL Admin] 메뉴 항목
-- PHP 단위 테스트
+- 단위 테스트
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 노트](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36200?quality=12&learn=on)
 

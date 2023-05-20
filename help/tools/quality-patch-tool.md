@@ -1,6 +1,6 @@
 ---
 title: 품질 패치 도구 사용
-description: 이 기술 비디오를 시청하고 Adobe Commerce 및 Magento Open Source용 품질 패치 도구를 사용하는 방법을 알아봅니다.
+description: 이 기술 비디오를 통해 Adobe Commerce 및 Magento Open Source용 품질 패치 도구 사용 방법에 대해 알아보십시오.
 doc-type: technical video
 role: Developer
 audience: all
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # 품질 패치 도구 사용
 
-품질 패치 도구는 Adobe Commerce 및 Magento Open Source에 대한 품질 패치를 제공하는 명령줄 툴입니다. 다음을 수행할 수 있습니다.
+품질 패치 도구는 Adobe Commerce 및 Magento Open Source에 대한 품질 패치를 제공하는 명령줄 도구입니다. 이를 통해 다음을 수행할 수 있습니다.
 
 - 최신 품질 패치에 대한 일반 정보 보기
 - 품질 패치 적용
@@ -23,12 +23,12 @@ ht-degree: 0%
 
 Adobe Commerce 지원 팀과 Magento Open Source 커뮤니티는 품질 패치를 개발합니다.
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
 - 백엔드 개발자
 - 사이트 관리자
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!VIDEO](https://video.tv.adobe.com/v/344000?quality=12&learn=on)
 

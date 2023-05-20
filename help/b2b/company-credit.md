@@ -1,11 +1,11 @@
 ---
-title: 회사 신용 관리
-description: B2B 회사 계정 사용자가 부여된 신용 한도까지 자신의 계정에서 구매할 수 있는 방법을 알아봅니다.
+title: 회사 크레딧 관리
+description: B2B 회사 계정 사용자가 부여된 크레딧 제한까지 자신의 계정에서 구매를 수행하는 방법에 대해 알아봅니다.
 doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
-badge: label="Adobe Commerce용 B2B" type="Positive"
+badge: label="Adobe Commerce용 B2B" type="양수"
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
 source-git-commit: 4f98e97eda8426fac9ea453e95fedf126e4a4113
 workflow-type: tm+mt
@@ -14,30 +14,30 @@ ht-degree: 0%
 
 ---
 
-# 회사 신용 관리
+# 회사 크레딧 관리
 
 {{b2b-feature}}
 
-다음을 보유한 회사 _[!UICONTROL Payment on Account]_회사 크레딧을 활성화하고 사용할 수 있도록 하면, 부여된 신용 한도까지 해당 계정의 구매를 수행할 수 있습니다. 이 기능을 사용하여 고객은 계정 대시보드에서 회사 신용 상태를 확인할 수 있습니다.
+다음을 보유한 회사의 경우 _[!UICONTROL Payment on Account]_사용 가능하고 회사 크레딧을 사용할 수 있는 경우, 부여된 크레딧 한도까지 계정에서 구매할 수 있습니다. 이 기능을 사용하면 고객은 계정 대시보드에서 회사 크레딧 상태를 확인할 수 있습니다.
 
-각 회사 프로필에 대해 다음 신용 관련 매개변수를 설정할 수 있습니다.
+각 회사 프로파일에 대해 다음과 같은 신용 관련 매개변수를 설정할 수 있습니다.
 
 - 신용 통화
-- 신용 한도
-- 신용 한도 초과 허용
-- 변경 이유
+- 크레딧 제한
+- 크레딧 제한 초과 허용
+- 변경 사유
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
 - 웹 사이트 관리자
 - 영업 담당자
 - 고객 서비스 담당자
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!VIDEO](https://video.tv.adobe.com/v/344445?quality=12&learn=on)
 
 ## 추가 리소스
 
-- [계정 결제 구성](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
-- [회사 신용 관리](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)
+- [계정에서 결제 구성](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
+- [회사 크레딧 관리](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)

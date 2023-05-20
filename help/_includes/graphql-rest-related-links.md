@@ -1,6 +1,6 @@
 ---
 title: GraphQL 및 REST 관련 페이지
-description: GraphQL REST 섹션의 관련 페이지 링크
+description: GraphQL REST 섹션의 관련 페이지에 대한 링크
 source-git-commit: 52bd3fff8ad3aa09a9aaa09aa458c8cbb54be06e
 workflow-type: tm+mt
 source-wordcount: '30'

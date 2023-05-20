@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] 개발자용 - 설치"
-description: 작성기 설치 및 샘플 데이터에 대해 알아봅니다.
+description: Composer 설치 및 샘플 데이터에 대해 알아봅니다.
 kt: 5692
 doc-type: video
 topic: Development
@@ -18,19 +18,19 @@ ht-degree: 0%
 
 # [!DNL Commerce] 개발자용 - 설치
 
-이 비디오에서는:
+이 비디오에서:
 
 - 작성기 설치 및 샘플 데이터
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!IMPORTANT]
 >
->웹 설정 마법사는 Adobe Commerce 및 Magento Open Source 2.3.6에서 더 이상 사용되지 않으며 2.3.7 및 2.4.0에서 제거되었습니다. 인스턴스와 모듈 및 확장을 설치하거나 업그레이드하려면 명령줄을 사용해야 합니다.
+>웹 설치 마법사는 Adobe Commerce 및 Magento Open Source 2.3.6에서 더 이상 사용되지 않으며 2.3.7 및 2.4.0에서 제거되었습니다. 명령줄을 사용하여 인스턴스, 모듈 및 확장을 설치하거나 업그레이드해야 합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36194?quality=12&learn=on)
 
 ## 추가 리소스
 
-- [작성기 소개](https://developer.adobe.com/commerce/php/development/composer/)
+- [Composer 소개](https://developer.adobe.com/commerce/php/development/composer/)
 - [[!DNL Commerce] 설치 안내서](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html)

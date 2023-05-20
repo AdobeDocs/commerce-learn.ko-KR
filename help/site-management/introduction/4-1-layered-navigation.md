@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] 비즈니스 사용자 - 계층적 탐색"
-description: 에서 레이어 탐색 활성화 [!DNL Commerce] 고객이 제품을 쉽고 빠르게 찾을 수 있도록 저장하세요.
+title: "[!DNL Commerce] 비즈니스 사용자용 - 계층화된 탐색"
+description: 에서 계층화된 탐색 사용 [!DNL Commerce] 고객이 쉽고 빠르게 제품을 찾을 수 있도록 보관한다.
 topic: Commerce
 kt: 5775
 doc-type: video
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 비즈니스 사용자 - 계층화된 탐색
+# [!DNL Commerce] 비즈니스 사용자용 - 계층화된 탐색
 
-이 비디오에서는:
+이 비디오에서:
 
-- 계층화된 탐색 활성화
+- 계층화된 탐색 사용
 
-## 이 비디오 누구?
+## 이 비디오는 누구의 것입니까?
 
 - 비즈니스 사용자
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!NOTE]
 >
->비디오의 컨텐츠는 2.3.1 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 노트](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36186?quality=12&learn=on)
 
