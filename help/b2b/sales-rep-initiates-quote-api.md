@@ -7,9 +7,9 @@ role: Admin, User
 activity: use
 badge: label="Adobe Commerce용 B2B" type="양수"
 last-substantial-update: 2023-06-13T00:00:00Z
-source-git-commit: b11892473580024f2312c0d80102196409888ab8
+source-git-commit: 2c46232cf16da74c698a5824d678389f89667399
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -29,10 +29,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420414?learn=on)
 
-## 추가 리소스
-
-- [견적 개요](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html){target="_blank"}
-- [견적 구성](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html){target="_blank"}
-- [견적 요청](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html){target="_blank"}
-- [견적 협상](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html){target="_blank"}
-- [내 견적](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html){target="_blank"}
+{{$include /help/_includes/b2b-quote-additional-resources.md}}
