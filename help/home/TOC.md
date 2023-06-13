@@ -2,9 +2,9 @@
 user-guide-title: 비디오 및 Tutorials
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 Tutorials
-source-git-commit: 9c25b5980c34347eecfa8fc608f50576615f0ac4
+source-git-commit: b8dd6c146735721612d55365e9559c925953f062
 workflow-type: tm+mt
-source-wordcount: '680'
+source-wordcount: '714'
 ht-degree: 0%
 
 ---
@@ -138,6 +138,14 @@ ht-degree: 0%
    + [공유 카탈로그 관리](../b2b/shared-catalogs.md)
    + [회사 크레딧 관리](../b2b/company-credit.md)
    + [구매 주문 및 승인](../b2b/purchase-orders.md)
+   + 견적 {#b2b-quote}
+      + [영업 담당자가 견적 시작](../b2b/sales-rep-initiates-quote.md)
+      + [관리자의 견적 유효성 검사](../b2b/quote-validation-admin-panel.md)
+      + [영업 담당자가 견적 REST API 시작](../b2b/sales-rep-initiates-quote-api.md)
+      + [견적 라인 항목 할인](../b2b/quote-line-item-discount.md)
+      + [견적 라인 항목 노트](../b2b/quote-line-item-notes.md)
+      + [견적 라인 항목 할인 GraphQL](../b2b/quote-graphql-line-item-discount.md)
+      + [견적 라인 항목 할인 REST API](../b2b/quote-rest-api-line-item-notes.md)
 + 도구 및 외부 서비스 {#tools}
    + [사이트 전체 분석 도구 대시보드](../tools/site-wide-analysis-tool.md)
    + [Adobe Commerce 관찰](../tools/observation-tool.md)
