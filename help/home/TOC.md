@@ -2,9 +2,9 @@
 user-guide-title: 비디오 및 Tutorials
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 Tutorials
-source-git-commit: 94a690fb12faa26385b42069682dd72fe2a22a6a
+source-git-commit: 2cc6f6594640244e5ccc3a40325850363d59e71f
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '625'
 ht-degree: 0%
 
 ---
@@ -21,30 +21,6 @@ ht-degree: 0%
       + [4 - 배포](../cloud/4-deployment.md)
       + [5 - 개발](../cloud/5-dev-config.md)
       + [6 - 서비스 및 DNS](../cloud/6-launch.md)
-   + [!DNL Commerce] 비즈니스 사용자용 {#merchants}
-      + [1.1 - [!DNL Admin] 메뉴](../site-management/introduction/1-1-menus.md)
-      + [1.2 - 데이터 그리드](../site-management/introduction/1-2-data-grids.md)
-      + [1.3 - 범위, 사이트 및 스토어](../site-management/introduction/1-3-apps-scopes-sites-stores.md)
-      + [1.4 - 보기 및 캐시 저장](../site-management/introduction/1-4-store-views-cache.md)
-      + [1.5 - 관리자 사용자 계정 및 역할](../site-management/introduction/1-5-users-roles.md)
-      + [1.6 - 역할 범위](../site-management/introduction/1-6-role-scopes.md)
-      + [1.7 - 비즈니스 설정](../site-management/introduction/1-7-business-settings.md)
-      + [2.1 - 범주](../site-management/introduction/2-1-categories.md)
-      + [2.2 - 범주 랜딩 페이지](../site-management/introduction/2-2-category-landing-page.md)
-      + [3.1 - 제품 유형 및 옵션](../site-management/introduction/3-1-product-types-options.md)
-      + [3.2 - 제품 설정](../site-management/introduction/3-2-product-settings.md)
-      + [3.3 - 제품 속성](../site-management/introduction/3-3-product-attributes.md)
-      + [3.4 - 제품 속성 집합](../site-management/introduction/3-4-product-attribute-sets.md)
-      + [3.5 - 간단한 제품 만들기](../site-management/introduction/3-5-create-simple-product.md)
-      + [3.6 - 구성 가능한 속성](../site-management/introduction/3-6-configurable-attributes.md)
-      + [3.7 - 제품 가져오기/내보내기](../site-management/introduction/3-7-import-export-products.md)
-      + [3.8 - 기프트 카드](../site-management/introduction/3-8-gift-cards.md)
-      + [4.1 - 계층화된 탐색](../site-management/introduction/4-1-layered-navigation.md)
-      + [4.2 - 제품 범주 정렬](../site-management/introduction/4-2-arrange-product-categories.md)
-      + [5.1 - Storefront 경험](../site-management/introduction/5-1-storefront-experience.md)
-      + [5.2 - 고객 관리](../site-management/introduction/5-2-customer-management.md)
-      + [5.3 - 이메일 커뮤니케이션](../site-management/introduction/5-3-store-communications.md)
-      + [5.4 - 글로벌 참조 아키텍처](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
 + GraphQL 및 REST {#graphql-rest}
    + [GraphQL 시작](../graphql-rest/getting-started-graphql.md)
    + [GraphQL 기본 사항](../graphql-rest/intro-graphql.md)
