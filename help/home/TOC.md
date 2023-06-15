@@ -2,9 +2,9 @@
 user-guide-title: 비디오 및 Tutorials
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 Tutorials
-source-git-commit: b8dd6c146735721612d55365e9559c925953f062
+source-git-commit: 94a690fb12faa26385b42069682dd72fe2a22a6a
 workflow-type: tm+mt
-source-wordcount: '714'
+source-wordcount: '695'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,6 @@ ht-degree: 0%
       + [4 - 배포](../cloud/4-deployment.md)
       + [5 - 개발](../cloud/5-dev-config.md)
       + [6 - 서비스 및 DNS](../cloud/6-launch.md)
-   + [!DNL Commerce] 개발자용 {#development}
-      + [1.1 - 개요](../backend-development/backend-1-1-overview.md)
-      + [1.2 - 개발 워크플로](../backend-development/backend-1-2-workflow.md)
-      + [2 - 설치](../backend-development/backend-2-install.md)
-      + [3 - 설치 후](../backend-development/backend-3-post-install.md)
-      + [4 - 코드 기반](../backend-development/backend-4-code-base.md)
-      + [5.1 - 개발 기본 사항](../backend-development/backend-5-1-dev-basics.md)
-      + [5.2 - 선언적 스키마](../backend-development/backend-5-2-declarative-schema.md)
-      + [5.3 - 라우팅](../backend-development/backend-5-3-routing.md)
-      + [5.4 - 만들기 [!DNL Admin] 페이지](../backend-development/backend-5-4-admin-page.md)
-      + [6 - 연습](../backend-development/backend-6-practice.md)
    + [!DNL Commerce] 비즈니스 사용자용 {#merchants}
       + [1.1 - [!DNL Admin] 메뉴](../site-management/introduction/1-1-menus.md)
       + [1.2 - 데이터 그리드](../site-management/introduction/1-2-data-grids.md)
