@@ -2,9 +2,9 @@
 user-guide-title: 비디오 및 Tutorials
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 Tutorials
-source-git-commit: 2cc6f6594640244e5ccc3a40325850363d59e71f
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '625'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -117,31 +117,11 @@ ht-degree: 0%
    + [품질 패치 도구](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
       + [악성 IP 찾기](../new-relic/malicious-ip.md)
-+ MBI {#mbi}
++ Commerce Intelligence {#mbi}
    + [필터 세트](../business-intelligence/filter-sets.md)
    + [집단 Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [미래를 위한 준비](../business-intelligence/prepare-for-future.md)
-   + 녹화된 웨비나 {#webinars}
-      + [MBI 시작하기](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/getting-started.html)
-      + [MBI에서 데이터 세트 관리](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2022/manage-data-sets.html)
-      + [MBI Data Warehouse 최적화](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/optimize-data-warehouse.html)
-      + [MBI 대시보드 심층 분석](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/dashboards-deep-dive.html)
-      + [MBI로 휴일 준비](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/holiday-readiness.html)
-      + [MBI - 전문가에게 문의](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/ask-expert.html)
-   + MBI 비디오 시리즈 소개 {#introduction}
-      + [개요](../business-intelligence/1-overview.md)
-      + [데이터 웨어하우징](../business-intelligence/2-data-warehousing.md)
-      + [보고서 작성](../business-intelligence/3-build-reports.md)
-      + [지표](../business-intelligence/4-metrics.md)
-      + [표준 보고서](../business-intelligence/5-standard-reports.md)
-      + [실행 요약](../business-intelligence/6-executive-summary-dashboard.md)
-      + [주문 대시보드](../business-intelligence/7-orders-dashboard.md)
-      + [고객 중심 대시보드](../business-intelligence/8-customer-focused-dashboards.md)
-      + [범주 분석](../business-intelligence/9-category-analysis.md)
-      + [투자 수익률 추적](../business-intelligence/10-roi-tracking.md)
-      + [결과 공유 및 데이터 내보내기](../business-intelligence/11-share-results-export-data.md)
-      + [고객 성공 사례](../business-intelligence/12-customer-success.md)
 + Commerce 업그레이드 {#upgrade}
    + [Adobe Commerce 2.4 업그레이드 워크숍](../upgrade/2.4-upgrade-workshop.md)
    + [업그레이드 호환성 도구 개요](../upgrade/upgrade-compatibility-tool-overview.md)
