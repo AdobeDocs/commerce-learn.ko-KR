@@ -1,13 +1,16 @@
 ---
 title: "[!DNL Commerce] 비즈니스 사용자용 - 계층화된 탐색"
 description: 에서 계층화된 탐색 사용 [!DNL Commerce] 고객이 쉽고 빠르게 제품을 찾을 수 있도록 보관한다.
-topic: Commerce
 kt: 5775
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Native Luma Frontend Development, Site Navigation
+topic: Commerce, Administration, Content Management
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 683d8f73-acd6-48e8-b4c3-b478db6e88fa
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%

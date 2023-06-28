@@ -4,10 +4,14 @@ description: 고객 그룹을 생성하는 방법과 사용 가능한 할인 및
 kt: 10546
 doc-type: feature video
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Personalization, Taxes, Price Rules
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: b43c5464-e103-4956-8352-3444f09e1ceb
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

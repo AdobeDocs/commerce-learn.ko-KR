@@ -3,11 +3,15 @@ title: 위젯 만들기
 description: 위젯을 만들고 기존 위젯을 수정하여 스토어 전체에 자동으로 콘텐츠를 업데이트하는 방법에 대해 알아봅니다.
 kt: null
 doc-type: feature video
-role: Admin, User
 audience: all
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: ffb1312c-2686-48a4-945e-e6f58cb0ad18
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%

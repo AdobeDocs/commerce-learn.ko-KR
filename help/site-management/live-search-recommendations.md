@@ -3,10 +3,14 @@ title: '[!DNL Live Search] 권장 사항'
 description: 추가 방법 알아보기 [!DNL Live Search] 스토어에 대한 제품 추천을 받고 매력적이고 관련성이 높으며 개인화된 쇼핑 경험을 제작할 수 있습니다.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Personalization, Search
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: af13f1c2-d888-4774-8254-efdb3ce383bb
-source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%

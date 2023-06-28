@@ -3,10 +3,14 @@ title: 카탈로그 가격 규칙 만들기
 description: 정의된 조건 집합을 기준으로 할인된 가격으로 구매자에게 제품을 제공하는 카탈로그 가격 규칙을 만드는 방법을 알아봅니다.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Catalogs, Customers, Personalization, Shopping Cart, Price Rules
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 0bdbedb1-5aa8-44ba-aef1-6e5cf06d35ce
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

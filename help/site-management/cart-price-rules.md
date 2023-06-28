@@ -1,12 +1,16 @@
 ---
 title: 장바구니 가격 규칙 만들기
-description: 조건 세트를 기준으로 장바구니에 할인을 적용 하는 장바구니 가격 규칙을 만드는 방법을 알아봅니다.
+description: 조건 세트에 따라 장바구니에서 할인을 적용하는 장바구니 가격 규칙을 만드는 방법을 알아봅니다.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Catalogs, Customers, Shopping Cart
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-source-git-commit: 3ee6eae696d33ce792beabdf91c584e039ab3b54
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '632'
 ht-degree: 0%
@@ -26,17 +30,15 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/343835?quality=12&learn=on)
 
-## 가격 책정 표시 문제
+## 가격 표시 문제
 
-각 라인 항목가 제공 된 할인을 표시 하 고 값이 정확 하 게 일치 하지 않을 수 있는 몇 가지 고유한 시나리오가 있습니다. 이는 장바구니 price 규칙 할인율을 여러 제품에 적용 했지만 값이 두 개의 소수 자릿수로 균일 하 게 구분 되지 않기 때문입니다.
+각 라인 항목에 제공된 할인을 표시해야 하는 몇 가지 고유한 시나리오가 있지만 값이 정확히 일치하지 않을 수 있습니다. 그 이유는 장바구니 가격 규칙 할인이 여러 제품에 적용되지만 값이 소수점 두 자리로 균등하게 나누어지지 않기 때문입니다.
 
 >[!BEGINSHADEBOX]
 
-장바구니 가격 규칙 = 장바구니의 2 개 제품에 적용 된 10% 할인
-가격 규칙을 적용 하는 조건입니다. 장바구니의 총 항목 수는 2입니다.
-작업은 제품 가격 할인의 비율을 적용 하며 할인 금액은 10입니다.
+장바구니 가격 규칙 = 장바구니에 있는 2개 제품에 10% 할인이 적용됨 가격 규칙이 적용되는 조건: 장바구니의 총 품목은 2입니다. 조치 제품 가격 할인의 퍼센트 적용 및 해당 할인 금액은 10입니다.
 
-2 개의 항목이 장바구니에 추가 되 고 각 항목은 $19.95
+장바구니에 2개의 항목이 추가되며, 각각 $19.95입니다.
 
 할인 금액에 0.1을 곱한 값을 구하려면
 
@@ -48,23 +50,17 @@ ht-degree: 0%
 
 ### 솔루션
 
-이 이슈의 영향을 받는 유일한 사람인 웹사이트 소유자를 생각하여, 달러로 할인된 가격으로 주문한 각각의 아이템을 보여주는 것이 가장 적절하다고 판단하였다. 전체 주문 금액이 제대로 계산 되도록 하려면 첫 번째 항목을 반올림 하 고 다른 항목은 세 번째 십진수를 제거 하기로 결정 했습니다. 다음 시나리오를 검토 하십시오.
+이 이슈의 영향을 받는 유일한 사람인 웹사이트 소유자를 생각하여, 달러로 할인된 가격으로 주문한 각각의 아이템을 보여주는 것이 가장 적절하다고 판단하였다. 전체 주문금액이 제대로 계산되도록 첫 번째 항목은 반올림하고 나머지 항목은 소수점 셋째를 떨어뜨리기로 했다. 이 시나리오를 검토하십시오.
 
 >[!BEGINSHADEBOX]
 
-장바구니 규칙와 동일한 10% 할인
-장바구니에 2 개의 제품을 추가 합니다. 19.95
+위의 장바구니 규칙과 동일한 10% 할인 유효 장바구니에 19.95인 2개 제품 추가
 
-각 제품이 할인에서 $1.995을 받아야 합니다.
-제품 1-19.95 x 0.1 = 1.995
-2-19.95 x 0.1 = 1.995
+각 제품은 1-19.95 x 0.1 = 1.995 2-19.95 x 0.1 = 1.995 할인 혜택을 받을 수 있습니다.
 
-총 3.99의 총계는 고객에 대 한 할인율으로 제공 됩니다.
+총 3.99개가 고객에게 할인으로 제공된다
 
-관리자의 스토어 소유자에 라인 항목을 표시 하면
-첫 번째 항목을 조정 하 고 최대 2.000까지 반올림 해야 합니다.  두 번째 항목은 세 번째 소수점을 삭제 합니다.
-제품 1 = 2.00
-제품 2 = 1.99
+관리자의 스토어 소유자에게 라인 항목을 표시할 때 첫 번째 항목을 조정하고 최대 2.000까지 반올림해야 합니다. 세 번째 십진수 제품 1 = 2.00 제품 2 = 1.99를 삭제하는 두 번째 항목
 
 두 제품의 총 할인액을 합하면 고객에게 제공된 실제 할인액과 일치합니다.
 >[!ENDSHADEBOX]
@@ -81,21 +77,17 @@ ht-degree: 0%
 
 제품마다 1.995달러를 할인해줘야 하는데 그냥 올린다면 너무 많이 할인된 것 같아요.
 
-제품 1-19.95 x 0.1 = 1.995
-제품 2-19.95 x 0.1 = 1.995
+제품 1 - 19.95 x 0.1 = 1.995 제품 2 - 19.95 x 0.1 = 1.995
 
-모든 항목을 반올림으로 전환
-제품 1 새로 만들기 값은 2.00입니다.
-제품 2 새로 만들기 값이 2.00입니다.
+모든 항목을 반올림하도록 변환 제품 1 새 값은 2.00임 제품 2 새 값은 2.00임
 
-3.99의 총합계가 실제로 고객에 대 한 할인율으로 제공 되었습니다.
-그러나 반올림 하는 경우 $4.00이 제공 되었고 잘못 되었음을 알 수 있습니다.
+총 3.99달러는 실제로 고객에게 할인으로 제공되었지만 반올림하면 $4.00가 지급된 것으로 나오며 이는 잘못된 것입니다.
 
 2.00 + 2.00 = $4.00
 
 >[!ENDSHADEBOX]
 
-유사한 문제. 모든 항목에 대해 세 번째 십진수가 삭제 되 면 할인을 너무 적게 표시 합니다.
+비슷한 문제 모든 항목에 대해 소수 셋째 값을 삭제한 경우 제공된 할인이 너무 적습니다.
 
 >[!BEGINSHADEBOX]
 
@@ -114,5 +106,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [장바구니 가격 규칙 만들기-  [!DNL Commerce]  머천다이징 및 판촉 가이드](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
-- [쿠폰 코드-  [!DNL Commerce]  머천다이징 및 판촉 가이드](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)
+- [장바구니 가격 규칙 만들기 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
+- [쿠폰 코드 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)

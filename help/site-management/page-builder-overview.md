@@ -1,13 +1,17 @@
 ---
-title: ' [!DNL Page Builder] 개요 '
-description: Admin을 사용 하 여  [!DNL Page Builder] 페이지  [!DNL Commerce]  스토어 페이지를 빌드 하는 방법에 대해 알아보십시오.
+title: '[!DNL Page Builder] 개요'
+description: 페이지 작성 방법 알아보기 [!DNL Commerce] 다음을 사용하여 관리자에 페이지 저장 [!DNL Page Builder].
 kt: 5563
 doc-type: feature video
-role: Admin, Leader, User
 audience: all
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Native Luma Frontend Development, Page Content
+topic: Commerce, Administration, Content Management
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -16,25 +20,25 @@ ht-degree: 0%
 
 # [!DNL Page Builder] 개요
 
-[!DNL Page Builder] 시각적 스토리텔링를 개선 하 고 고객 참여 및 충성도를 드라이브 하는 사용자 지정 레이아웃으로 컨텐츠 풍부한 페이지를 쉽게 만들 수 있습니다.
+[!DNL Page Builder] 을 사용하면 시각적 스토리텔링을 강화하고 고객 참여 및 충성도를 높이는 맞춤형 레이아웃을 통해 손쉽게 콘텐츠가 풍부한 페이지를 만들 수 있습니다.
 
-2.4.3 릴리스부터 [!DNL Page Builder] 는 기본적으로 Adobe Systems 상거래와 Magento Open Source 모두에서 사용할 수 있습니다. [!DNL Page Builder]Adobe Systems 상거래에서는 추가 기능을 제공 하는 스테이징 및 미리 보기, 개인화 된 컨텐츠 및 제품 권장 사항을 통합할 수 있습니다.
+2.4.3 릴리스부터 [!DNL Page Builder] 는 기본적으로 Adobe Commerce 및 Magento Open Source 모두에서 사용할 수 있습니다. 포함 [!DNL Page Builder] Adobe Commerce에서는 스테이징 및 미리보기, 개인화된 콘텐츠 및 제품 권장 사항을 향후 추가 기능과 통합할 수 있습니다.
 
-이 비디오에서는 다음을 수행 하는 방법에 대해 알아보십시오.
+이 비디오에서는 다음 방법을 알아봅니다.
 
 - 기존 페이지 편집
 - 새 페이지 편집
 - 기존 페이지에 제품 추가
-- 행 및 열 추가 및 포맷
-- 열 및 행에 미디어 및 요소 추가
+- 행 및 열 추가 및 서식 지정
+- 열과 행에 미디어 및 요소 추가
 - 슬라이더 추가 및 포맷
 
-## 다음에 대 한이 비디오는 무엇입니까?
+## 이 비디오는 누구의 것입니까?
 
 - 웹 사이트 디자이너
-- Store merchandisers
+- 머천다이저 저장
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!VIDEO](https://video.tv.adobe.com/v/343781?quality=12&learn=on)
 

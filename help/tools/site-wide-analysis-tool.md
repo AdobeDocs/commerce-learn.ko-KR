@@ -2,11 +2,15 @@
 title: 사이트 전체 분석 도구 대시보드
 description: 이 기술 비디오를 통해 사이트 전체 분석 도구 대시보드를 사용하여 자세한 시스템 인사이트 및 권장 사항에 액세스하여 Adobe Commerce 설치의 보안 및 운영을 보장하는 방법을 알아보십시오.
 doc-type: technical video
-role: Developer, Admin
 audience: all
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Security, Tools and External Services
+topic: Commerce, Administration
+role: Architect, Developer, Admin
+level: Beginner, Intermediate
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%

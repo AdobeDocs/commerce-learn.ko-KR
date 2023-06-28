@@ -1,14 +1,16 @@
 ---
-title: "소개  [!DNL Live Search] "
-description: "스토어에 추가  [!DNL Live Search]  하 고 매우 매력적인, 관련성 및 개인화 된 쇼핑 경험을 생성 하는 방법에 대해 알아보십시오."
+title: "소개 [!DNL Live Search]"
+description: "추가 방법 알아보기 [!DNL Live Search] 귀하의 스토어에 고 매력적이고 관련성이 있으며 개인 맞춤화된 쇼핑 경험을 제작합니다."
 doc-type: feature video
 audience: all
-role: Admin, User
-activity: use
+badge: label="Adobe Commerce에서만" type="양수"
 last-substantial-update: 2023-04-27T00:00:00Z
-badge: label = "Adobe Systems 상거래" 유형 = "긍정적인"
+feature: Configuration, System, Personalization, Search
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
-source-git-commit: eda066240960ae7c0b36bd7c22f8598e613a2d73
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -19,21 +21,21 @@ ht-degree: 0%
 
 {{ee-feature}}
 
-이는 Adobe Systems 상거래에서 간략하게 소개 [!DNL Live Search] 합니다. [!DNL Live Search] Adobe Sensei에서 제공 하는 인텔리전스는 인공 및 기계 학습 알고리즘을 사용 하 여 집계 된 방문자 데이터의 심층 분석을 수행 합니다.
+에 대한 간략한 소개입니다. [!DNL Live Search] Adobe Commerce에서. [!DNL Live Search] Adobe Sensei에서 제공하는 은 인공 지능과 머신 러닝 알고리즘을 사용하여 집계된 방문자 데이터를 심층 분석합니다.
 
-## 다음에 대 한이 비디오는 무엇입니까?
+## 이 비디오는 누구의 것입니까?
 
 - 웹 사이트 관리자
-- 웹 merchandisers
+- 웹 머천다이저
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418797?learn=on)
 
 
 ## 추가 리소스
 
-- [Live Search 전체 데모](./live-search-full-demonstration.md)
-- [[!DNL Live Search] 권장 사항](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html){target="_blank"}
+- [라이브 검색 전체 데모](./live-search-full-demonstration.md)
+- [[!DNL Live Search] 권장 사항용](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html){target="_blank"}
 - [[!DNL Live Search] 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html){target="_blank"}
-- [상거래 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+- [Commerce Services 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}

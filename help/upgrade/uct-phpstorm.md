@@ -5,11 +5,15 @@ landing-page-description: 비호환성을 쉽게 식별하고 해결할 수 있�
 short-description: 비호환성을 쉽게 식별하고 해결할 수 있는 PHP Storm 플러그인과 함께 호환성 업그레이드 도구를 사용하는 방법에 대해 알아봅니다.
 kt: 9651
 doc-type: technical video
-role: Developer
 audience: all
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Upgrade, Tools and External Services
+topic: Commerce, Administration
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%

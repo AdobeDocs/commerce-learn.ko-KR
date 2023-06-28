@@ -2,11 +2,15 @@
 title: 품질 패치 도구 사용
 description: 이 기술 비디오를 통해 Adobe Commerce 및 Magento Open Source용 품질 패치 도구 사용 방법에 대해 알아보십시오.
 doc-type: technical video
-role: Developer
 audience: all
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Security, Tools and External Services
+topic: Commerce, Administration
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: d3d42654-8574-48d1-814c-ec46107f1371
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%

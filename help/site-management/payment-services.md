@@ -3,10 +3,14 @@ title: 결제 서비스 사용
 description: 스토어에 결제 서비스를 추가하고 운영 오버헤드를 줄이고 매출을 늘리며 전체 구매자 경험을 개선하는 방법에 대해 알아봅니다.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Shopping Cart
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 4229e78b-d1b7-4784-ac87-42d45a3d8ef7
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%

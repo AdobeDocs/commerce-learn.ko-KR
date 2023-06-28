@@ -3,11 +3,15 @@ title: 정적 및 동적 블록 만들기
 description: 저장소 페이지에 대한 정적 및 동적 블록을 만드는 방법을 알아봅니다.
 kt: null
 doc-type: feature video
-role: Admin, User
 audience: all
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Personalization, Native Luma Frontend Development, Page Content
+topic: Commerce, Administration, Content Management
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%

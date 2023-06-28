@@ -2,12 +2,16 @@
 title: 컨텐츠 스테이징
 description: 책임자로부터 직접 스토어에 대한 다양한 콘텐츠 업데이트를 만들고, 미리 보고, 예약하는 방법에 대해 알아봅니다.
 doc-type: feature video
-role: Admin, User
 audience: all
 activity: use
 badge: label="Adobe Commerce에서만" type="양수"
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Staging
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
-source-git-commit: 884f7b71c9996d29d1c8eb07a30c445338b660f0
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%

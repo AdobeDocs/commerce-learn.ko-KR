@@ -3,11 +3,15 @@ title: 관리 패널에서 B2B 견적 프로세스에 대한 유효성 검사 �
 description: Adobe Commerce 애플리케이션의 유효성 검사 프로세스가 엄격한 방법을 알아봅니다.  이 비디오 튜토리얼에서는 Adobe Commerce 관리 패널의 유효성 검사 프로세스를 보여 주어 따옴표 절차가 유효하고 일관되는지 확인합니다
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="Adobe Commerce용 B2B" type="양수"
-last-substantial-update: 2023-06-13T00:00:00Z
-source-git-commit: 2c46232cf16da74c698a5824d678389f89667399
+last-substantial-update: 2023-6-13
+feature: Configuration, System, Quotes, B2B, Companies
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
+exl-id: aec1b339-f2d9-4815-a98f-0787bcd44975
+source-git-commit: 69fabe09524bdca4741f719245341045edc01ae9
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%

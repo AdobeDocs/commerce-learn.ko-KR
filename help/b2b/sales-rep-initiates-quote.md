@@ -3,11 +3,15 @@ title: Sales Rep 가 Quote 를 시작하는 경우
 description: 영업 담당자가 Adobe Commerce 관리자로부터 견적을 시작하는 방법에 대해 알아봅니다
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="Adobe Commerce용 B2B" type="양수"
-last-substantial-update: 2023-06-13T00:00:00Z
-source-git-commit: 2c46232cf16da74c698a5824d678389f89667399
+last-substantial-update: 2023-6-13
+feature: Configuration, System, Quotes, B2B, Companies
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
+exl-id: ea3b8e74-a769-45db-ac71-91a063cde21f
+source-git-commit: ff0ae0d4df028341967b1e0f186e85d83c56ece4
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%

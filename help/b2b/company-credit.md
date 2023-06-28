@@ -3,11 +3,15 @@ title: 회사 크레딧 관리
 description: B2B 회사 계정 사용자가 부여된 크레딧 제한까지 자신의 계정에서 구매를 수행하는 방법에 대해 알아봅니다.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="Adobe Commerce용 B2B" type="양수"
+last-substantial-update: 2023-2-16
+feature: Configuration, System, B2B, Companies
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
-source-git-commit: 4f98e97eda8426fac9ea453e95fedf126e4a4113
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

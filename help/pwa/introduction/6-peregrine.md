@@ -1,12 +1,16 @@
 ---
 title: 개발자용 PWA Studio - Peregrine
 description: Peregrine 라이브러리를 포함하여 Peregrine에 대해 알아봅니다. 페레그린 후크와 발톱​의 차이점에 대한 페레그린의 동기를 이해합니다.
-topic: Development
 kt: 5649
 doc-type: video
 activity: use
+last-substantial-update: 2023-5-28
+feature: GraphQL, REST, Tools and External Services
+topic: Commerce, Headless, Development
+role: Architect, Developer, User
+level: Beginner, Intermediate
 exl-id: 3f513b05-77f4-4695-ac36-b0d73d1e2750
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%

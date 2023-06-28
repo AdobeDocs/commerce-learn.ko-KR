@@ -7,8 +7,12 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
+feature: GraphQL
+topic: Commerce, Architecture, Headless
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -40,7 +44,7 @@ GraphQL 사양을 구현하는 런타임은 모든 언어로 작성할 수 있�
 
 * [알테어](https://altairgraphql.dev/){target="_blank"} 는 GraphQL을 위해 특별히 빌드된 완벽하고 완전한 기능을 갖춘 클라이언트입니다. Adobe은 워크스루 비디오에서 알테어를 사용합니다.
 * 데스크탑 애플리케이션을 설치하지 않으려는 경우
-   [크롬](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} 브라우저.
+  [크롬](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} 브라우저.
 * [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"} 는 GraphQL Foundation에서 GraphQL IDE를 구현한 것입니다. 이것은 설치 가능한 도구가 아니라 직접 인터페이스를 빌드하는 데 사용할 수 있는 패키지입니다.
 * 이미 잘 알고 있는 경우 [Postman](https://www.postman.com/){target="_blank"}, 전용 GraphQL 클라이언트만큼 완전히 기능하지는 않지만 GraphQL 쿼리에 대한 적절한 지원을 제공합니다.
 

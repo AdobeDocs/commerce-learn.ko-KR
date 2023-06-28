@@ -3,11 +3,15 @@ title: 구매 주문 및 승인
 description: B2B 회사 계정에 대해 구매 주문 및 승인 규칙을 활성화하는 방법을 알아봅니다.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="Adobe Commerce용 B2B" type="양수"
+last-substantial-update: 2023-2-16
+feature: Configuration, System, B2B, Companies
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
-source-git-commit: d10020b33cfd86031d8cbd156eb22f788c301743
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%

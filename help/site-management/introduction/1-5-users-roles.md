@@ -1,13 +1,16 @@
 ---
 title: "[!DNL Commerce] 비즈니스 사용자용 - 사용자 및 역할"
 description: 에 대한 기본 사항 알아보기 [!DNL Admin] 권한을 결정하는 사용자 계정 및 사용자 역할.
-topic: Commerce
 kt: 5762
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Security, Roles/Permissions
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: cc7eb326-1df1-48d3-a8c3-b62cf937ac3b
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

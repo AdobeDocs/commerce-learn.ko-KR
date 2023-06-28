@@ -1,13 +1,16 @@
 ---
 title: "[!DNL Commerce] 비즈니스 사용자용 - 사이트, 스토어 및 보기"
 description: 의 기본 사항 알아보기 [!DNL Commerce] 웹 사이트, 스토어, 스토어 보기 및 애플리케이션 범위 간의 차이점을 포함한 아키텍처. 색인 지정 및 캐싱을 이해합니다.
-topic: Commerce
 kt: 5760
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Roles/Permissions
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 858451cc-cbc3-471e-a2f1-148f879aba82
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 79529c8d77df74e6f77ab3a01b45541a38dbf680
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%

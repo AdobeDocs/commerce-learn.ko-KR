@@ -1,13 +1,17 @@
 ---
 title: 회사 계정 관리
-description: 승인을 위해 보류 중인 요청을 포함 하 여 B2B 회사 계정을 관리 하는 방법에 대해 알아보십시오.
+description: 승인 대기 중인 요청을 포함하여 B2B 회사 계정을 관리하는 방법을 알아봅니다.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
-badge: label = "B2B Adobe Systems 상거래" type = "긍정"
+badge: label="Adobe Commerce용 B2B" type="양수"
+last-substantial-update: 2023-2-16
+feature: Configuration, System, B2B, Companies, Roles/Permissions
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
-source-git-commit: 7e09ceadf377bf5ed15988cf0db493af1c0ead0a
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -18,15 +22,15 @@ ht-degree: 0%
 
 {{b2b-feature}}
 
-B2B 상인의 경우, 페이지는 _[!UICONTROL Companies]_현재의 모든 회사 계정과 해당 상태를 나열 합니다. 여기에서 회사 계정을 관리 하 고 승인을 위해 보류 중인 요청을 목록의 맨 위에 표시할 수 있습니다. 표준 작업 공간 컨트롤을 사용 하 여 목록을 필터링 하 고, 열 레이아웃을 변경 하 고, 보기를 저장 하 고, 데이터를 내보낼 수 있습니다.
+B2B 판매자의 경우 _[!UICONTROL Companies]_페이지에는 현재 회사 계정과 해당 상태가 모두 나열됩니다. 여기에서 회사 계정을 관리할 수 있으며 승인 대기 중인 요청이 목록 맨 위에 나타납니다. 표준 작업 공간 컨트롤을 사용하여 목록을 필터링하고, 열 레이아웃을 변경하고, 보기를 저장하고, 데이터를 내보낼 수 있습니다.
 
-## 다음에 대 한이 비디오는 무엇입니까?
+## 이 비디오는 누구의 것입니까?
 
 - 웹 사이트 관리자
-- 판매 담당자
-- 고객 지원 담당자
+- 영업 담당자
+- 고객 서비스 담당자
 
-## 비디오 컨텐츠
+## 비디오 콘텐츠
 
 >[!VIDEO](https://video.tv.adobe.com/v/344447?quality=12&learn=on)
 

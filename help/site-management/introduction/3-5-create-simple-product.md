@@ -1,13 +1,16 @@
 ---
 title: "[!DNL Commerce] 비즈니스 사용자용 - 간단한 제품"
 description: 제품 속성 세트를 사용하여 간단한 제품을 만드는 방법을 알아봅니다.
-topic: Commerce
 kt: 5771
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Catalogs
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 104bcabe-87c0-44ea-9bdb-6189b01ba6c7
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
