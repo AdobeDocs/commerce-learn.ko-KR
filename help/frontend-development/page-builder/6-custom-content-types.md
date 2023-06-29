@@ -1,12 +1,15 @@
 ---
 title: 개발자용 페이지 빌더 - 사용자 지정 콘텐츠 유형
 description: 콘텐츠 유형을 맞춤화하고 만드는 방법을 알아봅니다. 콘텐츠 유형 만들기와 관련된 단계를 이해합니다​. 기존 콘텐츠 유형 확장과 관련된 단계를 이해합니다.
-topic: Commerce, Development
 kt: 5655
 doc-type: video
 activity: use
+feature: Page Content, Native Luma Frontend Development, Themes, Configuration
+topic: Commerce, Development
+role: Admin, Developer, User
+level: Beginner, Intermediate
 exl-id: c5c0c325-9b69-4531-b57d-5d8183f320d8
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%

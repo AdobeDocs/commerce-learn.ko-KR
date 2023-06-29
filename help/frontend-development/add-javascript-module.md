@@ -1,12 +1,15 @@
 ---
 title: JavaScript 모듈 추가
 description: 이 비디오는 인사말 "Hello World"를 제공하는 간단한 JS 모듈 개발에 대한 설명을 제공합니다.
-topic: Development
 kt: 5612
 doc-type: video
 activity: use
+feature: Page Content, Native Luma Frontend Development, Themes, Configuration
+topic: Commerce, Development
+role: Admin, Developer, User
+level: Beginner, Intermediate
 exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%

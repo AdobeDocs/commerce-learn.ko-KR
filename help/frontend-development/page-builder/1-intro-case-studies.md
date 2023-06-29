@@ -3,12 +3,15 @@ title: 개발자용 페이지 빌더 - 소개
 description: 페이지 빌더 소개, 페이지 빌더 기능 이해
 landing-page-description: 이 비디오 시리즈를 시청하여 페이지 빌더 및 이를 확장하여 최적의 콘텐츠를 만드는 방법에 대해 알아보십시오 [!DNL Commerce] 상점 환경.
 short-description: 이 비디오 시리즈를 시청하여 페이지 빌더 및 이를 확장하여 최적의 콘텐츠를 만드는 방법에 대해 알아보십시오 [!DNL Commerce] 상점 환경.
-topic: Commerce, Development
 kt: 5650
 doc-type: video
 activity: use
+feature: Page Content, Native Luma Frontend Development
+topic: Commerce, Development
+role: Admin, Developer, User
+level: Beginner, Intermediate
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
