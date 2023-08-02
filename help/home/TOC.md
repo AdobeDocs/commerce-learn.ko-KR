@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 Tutorials
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 Tutorials
 solution: Commerce
-source-git-commit: 09f807bfb9917e892e53c984e03e63d9ddd277a3
+source-git-commit: 925f3581757548393ada567d523aedab24d1527d
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,6 @@ ht-degree: 0%
    + [고객 속성 만들기](../site-management/customer-attributes.md)
    + [판매자 지원 쇼핑](../site-management/seller-assisted-shopping.md)
 + 카탈로그 관리 {#catalog}
-   + [Adobe Commerce용 카탈로그 서비스](../site-management/catalog-service.md)
    + [범주 만들기](../site-management/category-create.md)
    + [범주의 제품 관리](../site-management/category-products.md)
    + [Inventory management](../site-management/inventory-management.md)
