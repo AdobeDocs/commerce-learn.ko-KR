@@ -11,9 +11,9 @@ level: Beginner, Intermediate
 exl-id: 9b41f6ab-5f05-4985-af93-8ea8db062598
 hidefromtoc: true
 hide: true
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 14c981835752b1cc370679559a0294088e4a3d9c
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -45,4 +45,4 @@ Adobe Commerce용 카탈로그 서비스는 읽기 전용 카탈로그 데이터
 ## 추가 리소스
 
 - [Adobe Commerce용 카탈로그 서비스 안내서](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html)
-- [#storefront-services 커뮤니티 Slack 채널](https://magentocommeng.slack.com/?redir=%2Farchives%2FC03HVPG8RS4)
+
