@@ -2,7 +2,7 @@
 title: app.config.yaml 파일
 description: 이 샘플 응용 프로그램의 app.config.yaml 파일에 있는 파일 유형에 대해 알아봅니다.
 landing-page-description: Adobe Commerce에서 사용되는 Adobe Developer App Builder와 app.config.yaml에 포함되는 파일 유형에 대해 알아봅니다.
-kt: 12426
+kt: 12429
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-3-13
@@ -11,7 +11,7 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: ee3e25c0b697f2e434f866932771cb7e4084fd9e
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
