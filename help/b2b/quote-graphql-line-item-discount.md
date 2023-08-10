@@ -4,16 +4,17 @@ description: GraphQL을 사용한 B2B 주문 오퍼 라인 항목 할인에 대�
 doc-type: feature video
 audience: all
 activity: use
-badge: label="Adobe Commerce용 B2B" type="양수"
+kt: 13800
+badge: label="Adobe Commerce용 B2B" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 91996345-072b-4f24-af1e-d418bf9877b9
-source-git-commit: ff0ae0d4df028341967b1e0f186e85d83c56ece4
+source-git-commit: 61a6e0936fc1048562aaa88d35b62aafb4efdce4
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
