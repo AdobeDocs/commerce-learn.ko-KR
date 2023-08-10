@@ -4,16 +4,17 @@ description: REST API를 사용하여 Adobe Commerce에서 B2B 견적에 대한 
 doc-type: feature video
 audience: all
 activity: use
-badge: label="Adobe Commerce용 B2B" type="양수"
+kt: 13801
+badge: label="Adobe Commerce용 B2B" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 2c573690-d7b3-43ce-832b-06aca0596ee9
-source-git-commit: ff0ae0d4df028341967b1e0f186e85d83c56ece4
+source-git-commit: b98ed52f24260d1840087b7d0f5040a9cd522859
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
