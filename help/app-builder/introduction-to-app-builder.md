@@ -1,8 +1,8 @@
 ---
 title: Adobe Commerce을 위한 프로세스 외부 확장성
-description: Adobe App Builder와 이것이 프로세스 외부 확장성의 중요한 측면인 이유에 대해 알아봅니다.
-landing-page-description: App Builder가 무엇이며 Adobe Commerce 개발 전략에 어떻게 도움이 되는지 알아봅니다.
-short-description: App Builder가 무엇이며 Adobe Commerce 개발 전략에 어떻게 도움이 되는지 알아봅니다.
+description: Adobe App Builder에 대해 알아보고 이 애플리케이션이 프로세스 외 확장성에 있어 중요한 이유를 알아봅니다.
+landing-page-description: App Builder란 무엇이며 Adobe Commerce 개발 전략에 어떻게 도움이 되는지 알아봅니다.
+short-description: App Builder란 무엇이며 Adobe Commerce 개발 전략에 어떻게 도움이 되는지 알아봅니다.
 kt: 11433
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '831'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

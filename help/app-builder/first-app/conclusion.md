@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-* Adobe CommerceAdobe 를 처음 사용하는 개발자로서 경험이 제한된 사용자는 첫 번째 Adobe Developer App Builder 앱을 완성하고 더 자세히 알아볼 준비가 되어 있습니다.
+* Adobe CommerceAdobe 를 처음 사용하는 개발자로서 경험이 제한된 사용자는 첫 번째 Adobe Developer App Builder 앱을 완료하고 자세히 알아볼 준비가 되어 있습니다.
 
 ## 비디오 콘텐츠
 

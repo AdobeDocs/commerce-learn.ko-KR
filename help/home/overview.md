@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Commerce] 비디오 및 Tutorials'
-description: Adobe Commerce 및 Magento Open Source을 위한 비디오 및 자습서 모음입니다
+title: '[!DNL Commerce] 비디오 및 튜토리얼'
+description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 튜토리얼 모음입니다
 last-substantial-update: 2023-01-19T00:00:00Z
 feature: B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder
 topic: Commerce, Architecture
@@ -10,7 +10,7 @@ exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 

@@ -4,7 +4,7 @@ description: B2B 회사 계정에 대해 구매 주문 및 승인 규칙을 활�
 doc-type: feature video
 audience: all
 activity: use
-badge: label="Adobe Commerce용 B2B" type="양수"
+badge: label="Adobe Commerce용 B2B" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
@@ -13,8 +13,8 @@ level: Beginner, Intermediate
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 0%
+source-wordcount: '160'
+ht-degree: 1%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 {{b2b-feature}}
 
-대부분의 B2B 업체는 구매 발주에 대한 주문 승인 규칙을 가지고 있다. 구매 발주를 생성할 수 있는 사용자 및 지출 규모를 제어할 수 있습니다. 예:
+대부분의 B2B 업체는 구매 발주에 대한 주문 승인 규칙을 가지고 있다. 구매 발주를 생성할 수 있는 사용자 및 지출 규모를 제어할 수 있습니다. For example:
 
 - X보다 작은 PO는 자동으로 승인됩니다.
 - X값을 초과하지만 Q보다 작은 PO는 Y의 승인을 받아야 합니다.

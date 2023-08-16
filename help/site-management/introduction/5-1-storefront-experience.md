@@ -42,4 +42,4 @@ ht-degree: 0%
 
 [고객 계정 범위 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
 
-[상점 첫 화면 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)
+[상점 환경 - 위시리스트 [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)

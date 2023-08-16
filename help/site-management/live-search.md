@@ -3,7 +3,7 @@ title: "소개 [!DNL Live Search]"
 description: "추가 방법 알아보기 [!DNL Live Search] 귀하의 스토어에 고 매력적이고 관련성이 있으며 개인 맞춤화된 쇼핑 경험을 제작합니다."
 doc-type: feature video
 audience: all
-badge: label="Adobe Commerce에서만" type="양수"
+badge: label="Adobe Commerce에서만" type="Positive"
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration
@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
