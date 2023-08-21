@@ -6,26 +6,22 @@ short-description: 기술 개요로 Adobe Commerce에서 사용되는 Adobe Deve
 kt: 11763
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-2-16
+last-substantial-update: 2023-8-21
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: d7c20134-976b-4b8f-bb48-96884032a5fb
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: d777e440ae1f85a8e67fb257680aeeba71626536
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
 # App Builder에 대한 기술 개요
 
-다음 비디오는 Adobe Commerce 및 Amazon Sales Channel 연결에 대한 기술 개요를 제공합니다. 이 튜토리얼에서는 사용자 지정 기능 및 통합을 위해 Adobe App Builder를 사용하는 방법도 알아봅니다.
-
->[!IMPORTANT]
->
->Amazon Sales Channel 확장 기능은 아직 개발 중이며 공식적으로 출시되지 않았습니다.  이러한 비디오 및 튜토리얼은 실용적인 사용 사례를 위해 Adobe Developer App Builder를 사용하는 방법을 보여 주기 위한 것입니다.
+다음 비디오는 Adobe Commerce을 Amazon Seller Central에 연결하는 샘플 통합 패턴에 대한 기술 개요를 제공합니다. 또한 이 자습서에서는 기존 PHP 확장 프로그램과 App Builder 앱 개발 간의 차이점을 살펴봅니다.
 
 
 ## Adobe Commerce용 App Builder {#app-builder-technical-overview}
