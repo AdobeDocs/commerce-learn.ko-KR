@@ -2,7 +2,8 @@
 user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
-source-git-commit: 9dcbee360b0c25b83116ff5b1379052cf9b8fa62
+auto-video-transcripts: true
+source-git-commit: c1ccfb2e32c7b638f6b8d4f16f15b8887b89f376
 workflow-type: tm+mt
 source-wordcount: '527'
 ht-degree: 3%
