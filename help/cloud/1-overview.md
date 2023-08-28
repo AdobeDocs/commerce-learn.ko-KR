@@ -12,7 +12,7 @@ doc-type: video
 audience: all
 activity: use
 exl-id: 13ebcc7f-c0ed-4e8f-8344-1d1adb4249db
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: bf8571af4d06b26fd038efea71b9f0890c780ae7
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 59%
@@ -23,7 +23,7 @@ ht-degree: 59%
 
 이 비디오에서:
 
-- 클라우드 스택의 주요 기술 &#x200B; 식별
+- 클라우드 스택의 주요 기술 식별
 - 클라우드 인프라에서 Adobe Commerce을 위한 컨텐츠 전달 전략을 설명합니다.
 - 읽기 전용 파일 시스템의 가치에 대해 이해합니다
 
