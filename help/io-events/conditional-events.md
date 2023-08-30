@@ -12,7 +12,7 @@ topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: e02da0901c01871360bcc556666e310acd7c7224
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Adobe Commerce 조건부 이벤트
 
-Adobe Developer App Builder에서 사용할 수 있는 Adobe Commerce의 조건부 이벤트에 대해 알아봅니다. 추가 설명서는 다음 위치에서 찾을 수 있습니다. [Adobe Commerce에 대한 Adobe I/O 이벤트 설치](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}.
+Adobe Developer App Builder에서 사용할 수 있는 Adobe Commerce의 조건부 이벤트에 대해 알아봅니다. 추가 설명서는 다음 위치에서 찾을 수 있습니다. [Adobe Commerce에 대한 Adobe I/O 이벤트 설치](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}.
 
 ## 이 비디오는 누구의 것입니까?
 
