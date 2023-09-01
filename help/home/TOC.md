@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: c1ccfb2e32c7b638f6b8d4f16f15b8887b89f376
+source-git-commit: 68942d6c26da75adf93671b2d6a8bada38c1989a
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '530'
 ht-degree: 3%
 
 ---
@@ -135,6 +135,7 @@ ht-degree: 3%
    + [종속성 삽입 예](../backend-development/dependency-injection.md)
    + [Galera Cluster 느린 복제](../backend-development/galera-db-slow-replication.md)
    + [MySQL 쿼리 캐시](../backend-development/mysql-query-cache.md)
+   + [PT 쿼리 다이제스트](../backend-development/pt-query-digest.md)
 + 기본 프론트엔드 Luma 개발 {#frontend-development}
    + 개발자용 페이지 빌더 {#page-builder}
       + [1 - 소개](../frontend-development/page-builder/1-intro-case-studies.md)
