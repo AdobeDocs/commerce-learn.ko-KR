@@ -6,13 +6,13 @@ short-description: Adobe Commerce 및  [!DNL Adobe App Builder]에서 API Mesh�
 kt: 11802
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-8-28
+last-substantial-update: 2023-8-27
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 2ad0ae2aa7c9c852d300453f27f1be906976d95e
+source-git-commit: 366a7988dfa1de39ebccb8ab0e281d80b27dbb36
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 23%
@@ -31,7 +31,7 @@ API Mesh는 여러 데이터 소스를 결합하여 애플리케이션이 사용
 
 ## 이 비디오는 누구의 것입니까?
 
-* API Mesh 또는 를 처음 사용하는 개발자 [!DNL Adobe Commerce] 을 사용하는 제한된 경험 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} 및 API Mesh.
+* API Mesh 또는 를 처음 사용하는 모든 개발자 [!DNL Adobe Commerce] 을 사용하는 제한된 경험 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} 및 API Mesh.
 
 ## 비디오 콘텐츠
 
