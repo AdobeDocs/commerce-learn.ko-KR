@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce용 AR 뷰어
-description: Adobe은 증강 현실 시청을 지원하기 위해 Commerce Marketplace에 사용할 수 있는 모듈을 출시했습니다.
+description: Commerce Marketplace에서 사용할 수 있는 증강 현실 보기 모듈에 대해 알아봅니다.
 kt: 13738
 doc-type: video
 activity: use
@@ -9,9 +9,9 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: Commerce Marketplace에서 사용 가능한 AR 뷰어
-source-git-commit: 488f5b181a97ee222ab72fd547e5fd090a23d34e
+source-git-commit: d1d794a94cc60ad6441d95ff5b372092eeb28402
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '505'
 ht-degree: 0%
 
 ---
