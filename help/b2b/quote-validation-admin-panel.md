@@ -4,24 +4,24 @@ description: Adobe Commerce 애플리케이션의 유효성 검사 프로세스�
 doc-type: feature video
 audience: all
 activity: use
-badge: label="Adobe Commerce용 B2B" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: aec1b339-f2d9-4815-a98f-0787bcd44975
-source-git-commit: 69fabe09524bdca4741f719245341045edc01ae9
+source-git-commit: e01d05300cd593cdd003a25dae4c9fdc2cbad794
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
 # 관리 패널을 사용한 B2B 판매 견적 검증
 
-{{b2b-feature}}
 일관되고 유효한 견적 프로세스를 보장하기 위해 Adobe Commerce B2B 견적 기능이 제공하는 유효성 검사 단계 및 영역에 대해 알아봅니다.
+
+{{b2b-feature}}
 
 ## 이 비디오는 누구의 것입니까?
 

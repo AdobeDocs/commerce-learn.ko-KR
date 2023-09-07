@@ -4,25 +4,24 @@ description: 승인 대기 중인 요청을 포함하여 B2B 회사 계정을 �
 doc-type: feature video
 audience: all
 activity: use
-badge: label="Adobe Commerce용 B2B" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 5721286d70d58c3dae979be837924234169b13e8
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 # 회사 계정 관리
 
-{{b2b-feature}}
-
 B2B 판매자의 경우 _[!UICONTROL Companies]_페이지에는 현재 회사 계정과 해당 상태가 모두 나열됩니다. 여기에서 회사 계정을 관리할 수 있으며 승인 대기 중인 요청이 목록 맨 위에 나타납니다. 표준 작업 공간 컨트롤을 사용하여 목록을 필터링하고, 열 레이아웃을 변경하고, 보기를 저장하고, 데이터를 내보낼 수 있습니다.
+
+{{b2b-feature}}
 
 ## 이 비디오는 누구의 것입니까?
 

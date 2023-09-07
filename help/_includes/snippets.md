@@ -1,7 +1,7 @@
 ---
 title: 에디션 배너
 description: 시각적 요소를 재사용하여 특정 에디션에 적용되는 기능 또는 페이지 확인
-source-git-commit: 8c7c64ddff456815b0a1649f497e917da8b8fca0
+source-git-commit: 066e031bd98458c8692f1cb3234ff1ecd1b99e6e
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 ## B2B 전용 기능 {#b2b-feature}
 
 <table style="border:1px solid green">
-<tr><td><img alt="Adobe Commerce 기능" src="../assets/b2b.svg" width="20" height="20" /> 독점 기능은 다음에서만 사용할 수 있습니다. <a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html#product-editions">Adobe Commerce용 B2B</a></td></tr>
+<tr><td><img alt="Adobe Commerce 기능" src="../assets/b2b.svg" width="20" height="20" /> 독점 기능은 다음에서만 사용할 수 있습니다. <a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html">Adobe Commerce용 B2B</a></td></tr>
 </table>
 
 ## 400개 문제 {#avoid-400-error}
