@@ -3,25 +3,24 @@ title: "소개 [!DNL Live Search]"
 description: "추가 방법 알아보기 [!DNL Live Search] 귀하의 스토어에 고 매력적이고 관련성이 있으며 개인 맞춤화된 쇼핑 경험을 제작합니다."
 doc-type: feature video
 audience: all
-badge: label="Adobe Commerce에서만" type="Positive"
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 7e9f65c7d885eef34ba3bb528400e735c72b65ed
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
 # 소개 [!DNL Live Search]
 
-{{ee-feature}}
-
 에 대한 간략한 소개입니다. [!DNL Live Search] Adobe Commerce에서. [!DNL Live Search] Adobe Sensei에서 제공하는 은 인공 지능과 머신 러닝 알고리즘을 사용하여 집계된 방문자 데이터를 심층 분석합니다.
+
+{{ee-feature}}
 
 ## 이 비디오는 누구의 것입니까?
 
