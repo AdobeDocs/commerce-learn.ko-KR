@@ -10,14 +10,14 @@ feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 273119420a7051b1833d9b796bdce36e17d893c7
+source-git-commit: 46855a18faf94c0d7347663ba6f83f423ef79c3c
 workflow-type: tm+mt
-source-wordcount: '826'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
 
-# 카탈로그 가져오기 옵션 알아보기
+# 카탈로그 가져오기 옵션
 
 카탈로그를 Adobe Commerce으로 가져오는 몇 가지 기본 방법이 있습니다. 각 방법에는 반드시 고려해야 할 장단점과 함께 나름의 사용 추론이 있다.
 
