@@ -9,14 +9,14 @@ feature: Backend Development, Tools and External Services, Logs
 topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: fdb908f6085b2f050d52742d22241093b46415ed
+source-git-commit: 709619c8c1776c6da6575ae79b6ccb671700c365
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# Percona Toolkit pt-query-digest에 대해 알아보기
+# Percona Toolkit pt-query-digest
 
 pt-query-digest와 몇 가지 실제 사례를 사용하여 추론을 심화하는 데 도움이 되는 이유를 알아보십시오.
 
