@@ -3,23 +3,35 @@ title: GraphQL을 사용하여 쿼리 수행
 description: Adobe Commerce에서 GraphQL을 사용하여 쿼리를 수행하는 방법 및 [!DNL Magento Open Source]. GET 및 POST 호출을 사용하는 GraphQL에 대한 소개입니다.
 landing-page-description: Adobe Commerce에서 GraphQL을 사용하여 쿼리를 수행하는 방법 및 [!DNL Magento Open Source]. GET 및 POST 호출을 사용하는 GraphQL에 대한 소개입니다.
 short-description: Adobe Commerce에서 GraphQL을 사용하여 쿼리를 수행하는 방법 및 [!DNL Magento Open Source]. GET 및 POST 호출을 사용하는 GraphQL에 대한 소개입니다.
-kt: 11524
-doc-type: tutorial
+kt: 13937
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '986'
 ht-degree: 0%
 
 ---
 
 # GraphQL 쿼리
+
+GraphQL 및 Adobe Commerce 시리즈 2부입니다. 이 자습서와 비디오에서는 GraphQL 쿼리와 Adobe Commerce에서 쿼리를 수행하는 방법에 대해 알아봅니다.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
+
+## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
+
+* [1부 GraphQL - 소개](../graphql-rest/intro-graphql.md)
+* [3부 GraphQL - 돌연변이](../graphql-rest/graphql-mutations.md)
+* [4부 GraphQL - 스키마](../graphql-rest/graphql-schema.md)
+
+## GraphQL 구문 예
 
 본격적인 예제를 사용하여 GraphQL 쿼리 구문을 바로 살펴보겠습니다. (https://venia.magento.com/graphql에 대해 직접 시도할 수 있습니다.)
 

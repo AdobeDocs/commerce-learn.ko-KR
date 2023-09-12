@@ -3,25 +3,35 @@ title: GraphQL을 사용한 스키마 언어
 description: GraphQL과 관련된 스키마에 대해 알아봅니다. 몇 가지 흥미로운 패턴 및 스키마 읽기 방법과 함께 스키마에 대한 설명을 읽으십시오.
 landing-page-description: GraphQL에 대한 소개입니다. 스키마 이해 및 일부 요소 해석 방법
 short-description: GraphQL에 대한 소개입니다. 스키마 이해 및 일부 요소 해석 방법
-kt: 11524
-doc-type: tutorial
+kt: 13939
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
 
 # 스키마 언어
 
-사용된 쿼리 및 돌연변이는 GraphQL 런타임에서 쿼리를 해결하기 위해 사용하고 서버에서 구현하는 특정 데이터 그래프를 사용합니다. GraphQL 사양은 데이터 그래프의 유형 및 관계를 표현하기 위한 불가지론적 언어를 정의합니다.
+GraphQL 및 Adobe Commerce 시리즈 4부입니다. 사용된 쿼리 및 돌연변이는 GraphQL 런타임에서 쿼리를 해결하기 위해 사용하고 서버에서 구현하는 특정 데이터 그래프를 사용합니다. GraphQL 사양은 데이터 그래프의 유형 및 관계를 표현하기 위한 불가지론적 언어를 정의합니다.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
+
+## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
+
+* [1부 GraphQL - 소개](../graphql-rest/intro-graphql.md)
+* [2부 GraphQL - 쿼리](../graphql-rest/graphql-queries.md)
+* [3부 GraphQL - 돌연변이](../graphql-rest/graphql-mutations.md)
+
+## 예제 스키마
 
 다음은 지금까지 살펴본 쿼리와 돌연변이를 지원하는 축약된 유형 스키마입니다.
 

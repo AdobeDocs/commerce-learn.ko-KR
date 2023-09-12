@@ -3,23 +3,36 @@ title: GraphQL을 사용하여 돌연변이 수행
 description: Adobe Commerce 및 의 GraphQL을 사용하여 돌연변이를 수행하는 방법에 대해 소개합니다. [!DNL Magento Open Source]. POST 호출을 사용하여 첫 번째 돌연변이를 수행합니다.
 landing-page-description: Adobe Commerce 및 의 GraphQL을 사용하여 돌연변이를 수행하는 방법에 대해 소개합니다. [!DNL Magento Open Source]. POST 호출을 사용하여 첫 번째 돌연변이를 수행합니다.
 short-description: Adobe Commerce 및 의 GraphQL을 사용하여 돌연변이를 수행하는 방법에 대해 소개합니다. [!DNL Magento Open Source]. POST 호출을 사용하여 첫 번째 돌연변이를 수행합니다.
-kt: 11524
-doc-type: tutorial
+kt: 13938
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
 # 돌연변이
+
+GraphQL 및 Adobe Commerce 시리즈 3부입니다. 돌연변이는 GraphQL을 사용하여 값을 저장, 업데이트 및 반환하는 기능입니다.
+
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
+
+## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
+
+* [1부 GraphQL - 소개](../graphql-rest/intro-graphql.md)
+* [2부 GraphQL - 쿼리](../graphql-rest/graphql-queries.md)
+* [4부 GraphQL - 스키마](../graphql-rest/graphql-schema.md)
+
+## 예시 돌연변이
 
 모든 전체 API 사양은 데이터를 쿼리할 뿐만 아니라 만들고 업데이트하는 기능도 제공해야 합니다.
 
