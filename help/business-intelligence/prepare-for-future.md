@@ -5,7 +5,7 @@ landing-page-description: 이 비디오 시리즈를 시청하여 디지털 상�
 short-description: 이 비디오 시리즈를 시청하여 디지털 상거래의 미래를 형성하는 전례 없는 변화에 대한 이해를 명확히 하십시오.
 kt: 10411
 doc-type: feature video
-solution: Commerce,Magento Business Intelligence
+solution: Commerce,Commerce Intelligence
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
@@ -14,7 +14,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 2ff2e1c8-384a-453f-bb8b-f6c834ca334b
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%

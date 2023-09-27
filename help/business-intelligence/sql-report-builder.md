@@ -5,7 +5,7 @@ landing-page-description: 이 비디오를 통해 Commerce Intelligence SQL Repo
 short-description: 이 비디오를 통해 Commerce Intelligence SQL Report Builder을 사용하여 데이터 웨어하우스를 직접 쿼리하고 결과를 보고 차트로 빠르게 변환하는 방법에 대해 알아보십시오.
 kt: 10288
 doc-type: feature video
-solution: Commerce,Magento Business Intelligence
+solution: Commerce,Commerce Intelligence
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
@@ -14,7 +14,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
