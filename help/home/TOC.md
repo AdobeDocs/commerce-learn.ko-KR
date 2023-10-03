@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 13046e5e434e88eb052a71a9f2481bd2fd7d8fd4
+source-git-commit: 1771ef7e11482fc663bedc162a48acd394bc0980
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '548'
 ht-degree: 3%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 3%
    + 글로벌 참조 아키텍처{#global-reference-architecture}
       + [글로벌 참조 아키텍처란 무엇입니까?](../global-reference-architecture/what-is-global-reference-architecture.md)
       + [글로벌 참조 아키텍처를 활용하는 방법](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
+      + [글로벌 참조 아키텍처를 설계하는 방법](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
 + GraphQL 및 REST {#graphql-rest}
    + [GraphQL 기본 사항](../graphql-rest/intro-graphql.md)
    + [쿼리](../graphql-rest/graphql-queries.md)
