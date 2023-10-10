@@ -1,7 +1,7 @@
 ---
 title: 제품 속성 만들기
 description: 하나의 매개 변수와 함께 json을 반환하는 페이지를 만듭니다.
-kt: 5602
+kt: 14131
 doc-type: video
 activity: use
 last-substantial-update: 2023-2-10
@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 70e8240ad362e2f1d769786cc05e1c014445a028
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-- 개발자
+- 프로그래밍 방식으로 제품 특성을 만드는 방법을 배워야 하는 상거래를 처음 사용하는 개발자
 
 ## 비디오 콘텐츠
 
