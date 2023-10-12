@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 9f3195be50cab2457ac67bd92e9296b7c18c94b4
+source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -61,6 +61,11 @@ ComponentRegistrar::register(
 ```
 
 ### app/code/Learning/ClothingMaterial/etc/module.xml
+
+>[!NOTE]
+>
+>모듈에서 선언적 스키마를 사용하는 경우 및 대부분의 모듈에 2.3.0 이후 버전이 있는 경우 setup_version 을 생략해야 합니다. 그러나 일부 레거시 프로젝트가 있는 경우 이 메서드가 사용되는 것을 볼 수 있습니다.  다음을 참조하십시오 [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} 추가 정보.
+
 
 ```xml
 <?xml version="1.0"?>
