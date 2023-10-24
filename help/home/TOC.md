@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 7b8f3342db01907b2c8a575ac86f6784aec38112
+source-git-commit: 3c020ae0cdf8fd45752dd44bfa4f914371d89549
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '536'
 ht-degree: 3%
 
 ---
@@ -23,10 +23,10 @@ ht-degree: 3%
       + [5 - 개발](../cloud/5-dev-config.md)
       + [6 - 서비스 및 DNS](../cloud/6-launch.md)
    + 글로벌 참조 아키텍처{#global-reference-architecture}
-      + [글로벌 참조 아키텍처란 무엇입니까?](../global-reference-architecture/what-is-global-reference-architecture.md)
-      + [글로벌 참조 아키텍처를 활용하는 방법](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
-      + [글로벌 참조 아키텍처를 설계하는 방법](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
-      + [글로벌 참조 아키텍처를 구현하는 방법](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+      + [글로벌 참조 아키텍처](../global-reference-architecture/what-is-global-reference-architecture.md)
+      + [글로벌 참조 아키텍처 활용](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
+      + [건축가 GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
+      + [글로벌 참조 아키텍처 구현](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
 + GraphQL 및 REST {#graphql-rest}
    + [GraphQL 기본 사항](../graphql-rest/intro-graphql.md)
    + [쿼리](../graphql-rest/graphql-queries.md)
