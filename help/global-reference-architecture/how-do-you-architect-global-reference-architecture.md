@@ -10,18 +10,19 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: ded1cbba7c0fca0c2df4705b34b126857d1e9c76
+exl-id: d83d7bef-3253-43bc-a442-d13b0afbae4e
+source-git-commit: 8ad911f1dad202e6354a7850ef69f8646e1a31f2
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# 글로벌 참조 아키텍처 활용
+# GRA를 위한 설계
 
 간략히 글로벌 참조 아키텍처 또는 GRA를 설계하는 방법에 대해 알아봅니다. 성공적인 구현을 위한 GRA를 보다 잘 준비하기 위해, Adobe 전문가들은 GRA가 무엇이고 무엇이 아닌지 논의한다. 별도의 패키지를 사용한 코드 관리에 대한 자세한 논의입니다. git 및 monorepo를 분할하십시오. 성공적인 GRA 구현을 위해 설명서, 도구 및 인력 기대에 대한 다른 주제에서는 해당 부분을 자세히 설명합니다.
 
-## 이 비디오는 누구의 것입니까?
+## 대상자
 
 * 이 개념을 이해해야 하는 모든 사람.
 * 여러 브랜드를 사용하는 대형 프로젝트

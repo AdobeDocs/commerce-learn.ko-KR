@@ -10,9 +10,10 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: 449445ba629f8db9d0e3535e6bcb5339fab99070
+exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
+source-git-commit: 03e20a42f798bd7eac1971656e2ad9b99a8b784e
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 글로벌 참조 아키텍처 또는 GRA를 구현하는 방법에 대해 알아봅니다. 성공적인 GRA 설정에 도움이 되는 초기 결정에 대해 알아봅니다. 웹 사이트, 성공의 주요 요소 및 기능을 체계적으로 개발하기 위한 몇 가지 개념을 분리하는 방법에 대한 아이디어를 얻을 수 있습니다.
 
-## 이 비디오는 누구의 것입니까?
+## 대상자
 
 * 이 개념을 이해해야 하는 모든 사람.
 * 여러 브랜드를 사용하는 대형 프로젝트

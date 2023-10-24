@@ -10,9 +10,10 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: eaee7e251c3b55d6d9991f61ddeffc6036725889
+exl-id: 3b733e3c-b292-4b1a-96f2-30c14f35ac67
+source-git-commit: 803b418ec85c907d087f8fe243799b56a281219b
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 글로벌 참조 아키텍처 또는 GRA를 활용하는 방법에 대해 알아봅니다. 성공적인 구현을 위한 GRA를 보다 잘 준비하기 위해, Adobe 전문가들은 프로젝트의 다양한 단계에 대해 논의하고 발견 단계에 대해 자세히 살펴봅니다. QA 리소스와 GRA 구현에 귀중한 리소스인 방법에 대해 설명합니다.
 
-## 이 비디오는 누구의 것입니까?
+## 대상자
 
 * 이 개념을 이해해야 하는 모든 사람.
 * 여러 브랜드를 사용하는 대형 프로젝트
