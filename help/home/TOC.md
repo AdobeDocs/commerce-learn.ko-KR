@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 3c020ae0cdf8fd45752dd44bfa4f914371d89549
+source-git-commit: 3f354cbac9d0f64fec509fc06c6cf0d41c7287ae
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '540'
 ht-degree: 3%
 
 ---
@@ -27,6 +27,9 @@ ht-degree: 3%
       + [글로벌 참조 아키텍처 활용](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [건축가 GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [글로벌 참조 아키텍처 구현](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+   + 상거래 기능 {#capabilities}
+      + [데이터 연결](../capabilities/data-connection.md)
+      + [라이브 검색 전체 데모](../capabilities/live-search-full-demonstration.md)
 + GraphQL 및 REST {#graphql-rest}
    + [GraphQL 기본 사항](../graphql-rest/intro-graphql.md)
    + [쿼리](../graphql-rest/graphql-queries.md)
@@ -99,7 +102,7 @@ ht-degree: 3%
    + [제품 Recommendations 설정](../site-management/product-recommendations.md)
    + [라이브 검색 소개](../site-management/live-search.md)
    + [권장 사항 라이브 검색](../site-management/live-search-recommendations.md)
-   + [라이브 검색 전체 데모](../site-management/live-search-full-demonstration.md)
+
 + 주문 및 이행 {#orders}
    + [스토어 이행 개요](../site-management/store-fulfillment.md)
    + [주문 상태 관리](../site-management/order-status.md)
