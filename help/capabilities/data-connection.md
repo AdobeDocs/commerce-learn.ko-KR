@@ -9,9 +9,9 @@ feature: Configuration, System, Personalization
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
-source-git-commit: 2709ca7959de6e2decd1cda9dd0f746421c347de
+source-git-commit: 35bd4f00555f426223de701586d6e12fb329184d
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -30,18 +30,8 @@ Adobe Commerce 데이터 연결에 대한 전체 데모입니다.
 
 ## 비디오 콘텐츠
 
-* Commerce에서 Adobe Experience Edge로 전송할 수 있는 고객 데이터에 대해 알아봅니다
-* API란?
-* Adobe Journey Optimizer을 사용하여 고객 후속 조치를 수행하는 방법
-* 캡처할 수 있는 상점 이벤트 유형
-* 고객이 계속 탐색할 때 평가된 실시간 고객 데이터와 개인화된 콘텐츠가 표시됩니다.
-* 고객 세그먼트 및 고객 기록을 기반으로 이러한 세그먼트를 자동으로 조정하는 방법
-* 단일 통합 프로필
-* 장바구니 이메일, SMS 메시지 및 Adobe Journey Optimizer과 함께 사용하는 방법을 포기합니다.
-* Commerce Data Connector 기본 구성 및 설정
-* 할인을 제공하는 데 사용되는 동적 블록 및 장바구니 가격 규칙
-* Adobe Experience Platform의 고객 프로필, 대상 및 고객 세부 정보
-* Adobe Target에서 동적인 개인화된 콘텐츠를 제공하는 방법
-* Customer Journey Analytics 대시보드 도입됨
+* 고객 여정 전반에 걸친 세그먼트 결정, 프로필 보강 및 개인화된 경험을 위해 Adobe Commerce에서 다른 DX 제품(예: AJO, Analytics, Target, Real-Time CDP)으로 행동 데이터를 전송
+* Real-Time CDP 대상 은 브라우저 데이터, 서버측 데이터(주문 내역 포함) 및 다른 소스의 데이터(즉, 충성도 데이터)를 기반으로 실시간으로 세그먼테이션을 업데이트하고 수정합니다.
+* Real-Time CDP 대상을 활용하여 Adobe Commerce의 장바구니 가격 규칙과 동적 블록을 모두 개인화합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
