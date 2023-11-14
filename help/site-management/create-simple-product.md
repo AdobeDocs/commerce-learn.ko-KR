@@ -5,33 +5,33 @@ kt: 14446
 doc-type: video
 audience: all
 activity: use
-last-substantial-update: 2023-11-13T00:00:00Z
+last-substantial-update: 2023-11-14T00:00:00Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 9f5d0e83995d12b5884c53fc8bcb0e9d1913768e
+source-git-commit: 89dc3b7f456c9434921ed870369712a721895d02
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
 # 간단한 제품 만들기
 
-REST API 및 상거래 관리자를 사용하여 간단한 제품을 만드는 방법을 알아봅니다.
+REST API 및 Adobe Commerce 관리자를 사용하여 간단한 제품을 만드는 방법을 알아봅니다.
 
 ## 이 비디오는 누구의 것입니까?
 
 - 웹 사이트 관리자
 - 전자 상거래 머천다이저
-- Adobe Commerce에서 제품을 만들기 위해 REST를 사용하는 방법을 배워야 하는 Adobe Commerce의 새로운 개발자
+- REST API를 사용하여 Adobe Commerce에서 제품을 만드는 방법을 배우고자 하는 새로운 Adobe Commerce 개발자입니다.
 
 ## 비디오 콘텐츠
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
 
-## Curl 코드 샘플을 사용하여 제품 만들기
+## curl을 사용하여 제품 만들기
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -49,7 +49,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## 제품을 가져오려면 코드 샘플을 curl하십시오.
+## curl을 사용하여 제품 가져오기
 
 ```bash
 curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
