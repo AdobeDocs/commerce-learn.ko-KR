@@ -11,27 +11,28 @@ feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
-source-git-commit: 64bb65c1544d9cdbed3ef220cec4109b94358ff1
+source-git-commit: dee58b3d5cb3e9d37302bd739d6c4c4b42efbb62
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce용 IO 이벤트 시작하기
 
-Adobe I/O 이벤트에 대해 알아봅니다. 이 데모에서는 Adobe Commerce의 이벤트가 Adobe App Builder를 사용하여 Slack 채널로 전송되고 Adobe Commerce의 이벤트가 전송됩니다.
+Adobe I/O 이벤트에 대해 알아봅니다. 이 데모에서는 Adobe Commerce의 이벤트가 Adobe Developer App Builder를 사용하여 Slack 채널로 전송되고 Adobe Commerce의 이벤트가 전송됩니다.
 
 ## 이 비디오는 누구의 것입니까?
 
-* 개발자는 I/O 이벤트를 사용하여 Adobe Commerce 및 Adobe Developer App Builder를 처음 사용하므로 Adobe App Builder 프로젝트를 만들어야 합니다.
+* Adobe Commerce 및 Adobe IO 이벤트를 사용하여 이벤트 기반 애플리케이션을 구축하는 방법을 학습하는 개발자.
 
 ## 비디오 콘텐츠 {#video-content}
 
-* IO 이벤트에 대해 알아보기
-* Amazon 이벤트 브리지로 이벤트를 보낼 수 있음
-* Adobe 콘솔 설정 및 구성 방법 알아보기
-* 기본 Adobe I/O 명령
+* Adobe IO 이벤트에 대해 알아보기
+* Amazon EventBridge를 포함한 Adobe IO 이벤트의 다양한 엔드포인트 이해
+* App Builder 프로젝트 설정 및 구성 방법 알아보기
+* CLI에서 Adobe I/O 명령 사용
+* 이벤트 처리를 위한 런타임 작업 만들기
 * Adobe Commerce에서 Slack 채널로 이벤트 보내기
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425834?learn=on)
