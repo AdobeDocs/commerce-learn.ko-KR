@@ -1,9 +1,9 @@
 ---
 title: IO 이벤트 관련 페이지
 description: IO 이벤트의 관련 페이지 링크
-source-git-commit: 050a321cd4b47e2658559c5dc459086788eaf223
+source-git-commit: bc425e44acbd8cf726a7f947065cc59daa785b62
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,7 @@ ht-degree: 0%
 
 ## 추가 관련 자습서
 
+* [IO 이벤트 시작](../io-events/getting-started-io-events.md)
 * [Adobe Commerce 2.4.5 설치](../io-events/2-4-5-installation.md)
 * [Adobe Commerce 2.4.6 설치](../io-events/2-4-6-installation.md)
 * [App Builder 프로젝트 만들기](../io-events/create-app-builder-project.md)
