@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: eec9a85198f963404f5ba82fc2fc76315a82f964
+source-git-commit: b44376f9f30e3c02d2c43934046e86faac76f17d
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,9 @@ ht-degree: 0%
 
 # 그룹화된 제품 만들기
 
-그룹화된 제품은 그룹으로 표시되는 간단한 독립 실행형 제품으로 구성됩니다. 단일 제품의 변형을 제공하거나 계절 또는 테마별로 그룹화할 수 있습니다. 그룹화된 제품을 만들기 전에 그룹에 포함할 모든 간단한 제품을 Adobe Commerce에서 사용할 수 있는지 확인하고 존재하지 않는 제품을 만듭니다. 이 자습서에서는 REST API 및 Adobe Commerce 관리자를 사용하여 그룹화된 제품을 만드는 방법을 알아봅니다.
+그룹화된 제품은 그룹으로 표시되는 간단한 독립 실행형 제품으로 구성됩니다. 단일 제품의 변형을 제공하거나 계절 또는 테마별로 그룹화할 수 있습니다. 그룹화된 제품을 만들기 전에 그룹에 포함할 모든 간단한 제품을 Adobe Commerce에서 사용할 수 있는지 확인하고 존재하지 않는 제품을 만듭니다.
+
+이 자습서에서는 REST API 및 Adobe Commerce 관리자를 사용하여 그룹화된 제품을 만드는 방법을 알아봅니다.
 
 REST API를 사용하여 관리자에서 그룹 제품을 만듭니다.
 
@@ -29,9 +31,9 @@ REST API를 사용하여 관리자에서 그룹 제품을 만듭니다.
 1. 비어 있는 그룹화된 제품을 단순 제품으로 채웁니다.
 1. 빈 그룹화된 제품을 만들고 간단한 제품을 연결합니다.
 
-Adobe Commerce 관리자에서 그룹화된 제품을 만들 때 간단한 제품을 먼저 만드는 것이 좋습니다. 그룹화된 제품을 만들 준비가 되면 간단한 제품을 그룹화된 제품에 한 묶음으로 할당하여 연결합니다.
+   단순 제품을 그룹화된 제품에 연결하면 정렬 순서 속성(`position`) 페이로드의 은 프론트엔드에서 사용하여 연결된 제품을 원하는 순서로 표시합니다. 다음과 같은 경우 `position` 속성이 지정되지 않은 경우 제품은 그룹화된 제품에 추가된 순서대로 표시됩니다.
 
-페이로드의 정렬 순서 속성은 필수이며 프론트엔드에서 관련 제품을 원하는 순서로 표시하는 데 사용됩니다.
+Adobe Commerce 관리자에서 그룹화된 제품을 만들 때 먼저 간단한 제품을 만듭니다. 그룹화된 제품을 만들 준비가 되면 간단한 제품을 그룹화된 제품에 한 묶음으로 할당하여 연결합니다.
 
 ## 이 비디오는 누구의 것입니까?
 
