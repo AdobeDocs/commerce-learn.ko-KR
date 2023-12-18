@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 76716d4c9530963f198a855e101c76b6374c6d75
+source-git-commit: f3ec375c2332bfae98970d7e10a6a7ad258386e3
 workflow-type: tm+mt
-source-wordcount: '979'
+source-wordcount: '952'
 ht-degree: 0%
 
 ---
@@ -144,7 +144,6 @@ API를 사용하여 cURL을 사용하여 다음 POST 요청을 전송하여 두 
 - 변경 `"attribute_set_id": 10,` 및 바꾸기 `10` (속성 세트 id가 있어야 함).
 - 변경 `"value": "14"` 및 바꾸기 `14` 를 사용(환경 값 포함)하십시오.
 
-
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
 --header 'Content-Type: application/json' \
@@ -179,7 +178,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## cURL을 사용하여 세 번째 단순 제품 만들기
 
-API를 사용하여 cURL을 사용하여 다음 POST 요청을 전송하여 세 번째 간단한 제품을 만듭니다.
+cURL을 사용하여 다음 POST 요청을 전송하여 세 번째 간단한 제품을 만듭니다.
 
 요청을 제출하기 전에 환경에 대한 값으로 예제를 업데이트하십시오.
 
@@ -220,7 +219,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## cURL을 사용하여 구성 가능한 빈 제품 만들기
 
-API를 사용하여 cURL을 사용하여 다음 POST 요청을 전송하여 빈 구성 가능한 제품을 만듭니다.
+cURL을 사용하여 다음 POST 요청을 전송하여 빈 구성 가능한 제품을 만듭니다.
 
 요청을 제출하기 전에 환경에 대한 값으로 예제를 업데이트하십시오.
 
@@ -253,7 +252,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## 구성 가능한 제품에 사용할 수 있는 옵션 설정
 
-API를 사용하여 구성 가능한 제품에 사용할 수 있는 옵션을 설정하여 cURL을 사용하여 다음 POST 요청을 전송합니다.
+cURL을 사용하여 다음 POST 요청을 전송하여 구성 가능한 제품에 사용할 수 있는 옵션을 설정합니다.
 
 요청을 제출하기 전에 변경 `"attribute_id": 93,` 바꾸기 `93` (환경의 속성 id) 사용.
 
@@ -289,7 +288,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Ha
 - `"Kids-Hawaiian-Ukulele-Blue"`
 - `"Kids-Hawaiian-Ukulele-Green"`
 
-API를 사용하여 각 제품에 대한 다음 POST 요청을 전송하여 이러한 간단한 제품을 구성 가능한 제품의 하위 항목으로 추가합니다. 각 제품에 대해 별도의 요청을 제출합니다.
+다음 POST 요청을 전송하여 이러한 간단한 제품을 구성 가능한 제품의 하위 항목으로 추가합니다. 각 제품에 대해 별도의 요청을 제출합니다.
 
 각 요청에 대해 `childSKU` 값을 추가하는 하위 제품에 대한 값과 함께 사용합니다. 다음 예제에서는 간단한 제품을 지정합니다 `kids-Hawaiian-Ukulele-red` SKU를 사용하여 구성 가능한 제품 `Kids-Hawaiian-Ukulele-red`.
 
@@ -307,7 +306,7 @@ curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Haw
 
 ## cURL을 사용하여 구성 가능한 제품 가져오기
 
-이제 3개의 할당된 하위 SKU로 구성 가능한 제품을 만들었습니다. API에서 할당된 제품에 대해 연결된 ID를 보고 cURL을 사용하여 다음 GET 요청을 보낼 수 있습니다. 이 요청은 구성 가능한 제품에 대한 자세한 정보를 반환합니다.
+이제 3개의 할당된 하위 SKU로 구성 가능한 제품을 만들었습니다. cURL을 사용하여 다음 GET 요청을 보내면 할당된 제품에 대해 연결된 ID를 볼 수 있습니다. 이 요청은 구성 가능한 제품에 대한 자세한 정보를 반환합니다.
 
 ```json
 ...
@@ -328,7 +327,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulel
 
 ## 구성 가능한 제품에 연결된 하위 제품 가져오기
 
-이 요청은 구성 가능한 제품에 연결된 하위 항목만 반환합니다. 이 응답에는 SKU 및 가격을 포함한 하위 제품에 대한 모든 속성이 있습니다.
+다음 GET 요청을 전송하여 구성 가능한 제품과 연결된 하위 항목만 반환합니다. 응답에는 SKU 및 가격을 포함한 하위 제품에 대한 모든 속성이 포함됩니다.
 
 다음은 GET 메서드를 사용합니다
 
@@ -339,9 +338,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-ha
 
 ## 구성 가능한 상위 제품에서 하위 제품 삭제 또는 제거
 
-API를 사용하여 cURL을 사용하여 다음 DELETE 요청을 보내어 카탈로그에서 제품을 삭제하지 않고 구성 가능한 제품에서 하위 제품을 제거할 수 있습니다.
-
-다음은 DELETE 메서드를 사용합니다
+cURL을 사용하여 다음 DELETE 요청을 전송하여 카탈로그에서 제품을 삭제하지 않고 구성 가능한 제품에서 하위 제품을 제거할 수 있습니다.
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/children/Kids-Hawaiian-Ukulele-Blue' \
