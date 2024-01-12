@@ -9,16 +9,16 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 81e41cdc55055d2144a3257e66d01b4a17bc50b7
+source-git-commit: 3e89efd4000f7983ea87eec87d0ca7a5fe9603b7
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce에 대한 결제 서비스 구성
 
-Adobe Commerce 및 Magento Open Source용 결제 서비스를 사용하려면 몇 가지 온보딩 단계를 완료해야 합니다. 필수 온보딩 단계에 대한 자세한 내용은 다음 비디오를 참조하십시오.
+Adobe Commerce 및 Magento Open Source용 결제 서비스 사용을 시작하려면 몇 가지 온보딩 단계를 완료하고, Adobe Commerce용 결제 서비스 구성 방법 비디오에서 시작 방법의 예를 확인하십시오.
 
 ## 이 비디오는 누구의 것입니까?
 
