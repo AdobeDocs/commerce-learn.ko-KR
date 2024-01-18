@@ -10,9 +10,9 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 08063ea820f91af5667e0abd2fd5d95207bd290e
+source-git-commit: 49dd1cecc9af2ed68150a8385e7800f35ca983fc
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Commerce Services Connector는 다양한 SaaS 기능을 잠금 해제하는 Adobe에서 개발한 구성입니다. Adobe Commerce 및 Magento Open Source에 대해 결제 서비스를 사용하려면 프로덕션 및 샌드박스 API 키를 사용하여 Commerce 인스턴스를 연결하고 설정에 대한 구성에 데이터 공간을 지정해야 합니다.
 
-결제 서비스 설정에 도움이 되는 Adobe Commerce 서비스 커넥터 구성 방법 비디오를 시청하십시오.
+시청 _Adobe Commerce 서비스 커넥터 구성_ 결제 서비스 설정에 도움이 되는 비디오입니다.
 
 ## 이 비디오는 누구의 것입니까?
 
