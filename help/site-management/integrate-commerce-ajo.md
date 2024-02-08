@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce 및 Adobe Journey Optimizer을 통합하는 방법 알아보기
-description: Adobe Commerce과 Adobe Journey Optimizer 간의 통합을 구현할 수 있는 이유와 방법에 대해 알아봅니다
+title: Adobe Commerce 및 Adobe Journey Optimizer 통합
+description: Adobe Commerce과 Adobe Journey Optimizer 간의 통합을 구현할 수 있는 이유와 방법에 대해 알아봅니다.
 feature: Audience Activation, Communications, Marketing Tools, Promotions/Events
 topic: Administration, Commerce, Integrations, Personalization
 role: Admin, Developer
@@ -10,17 +10,17 @@ duration: 512
 last-substantial-update: 2024-01-17T00:00:00Z
 jira: KT-14793
 thumbnail: 3426855.jpeg
-source-git-commit: b790ca7921fb5999c211619a2bf56e39a0dcf960
+exl-id: 2f12c90f-710b-4680-a12e-62c436793b9c
+source-git-commit: 8ffbcb364ce2a1bc3c6be0cb39fbece8f5fbd320
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
 
+# Adobe Commerce 및 Adobe Journey Optimizer 통합
 
-# Adobe Commerce 및 Adobe Journey Optimizer을 통합하는 방법 알아보기
-
-을(를) 사용하는 방법 알아보기 [데이터 연결](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"} Adobe Commerce에서 Adobe Journey Optimizer의 도움을 받아 상거래 데이터의 잠금을 해제하고 개인화된 엔드 투 엔드 고객 경험을 실시간으로 제공합니다.
+을(를) 사용하는 방법 알아보기 [데이터 연결](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"} Adobe Commerce에서 Adobe Journey Optimizer의 도움을 받아 상거래 데이터의 잠금을 해제하고 개인화된 엔드 투 엔드 고객 경험을 실시간으로 제공합니다.
 
 ## 이 비디오는 누구의 것입니까?
 
