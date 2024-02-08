@@ -1,6 +1,6 @@
 ---
-title: 명령줄을 사용하여 관리자 구성을 보고 설정하는 방법에 대해 알아봅니다
-description: 명령줄을 사용하여 구성 값을 보고 설정하는 방법에 대한 데모
+title: 명령줄을 사용하여 관리자 구성 보기 및 설정
+description: 명령줄을 사용하여 관리자 구성을 보고 설정하는 방법에 대해 알아봅니다.
 feature: Configuration,Console,System
 topic: Administration,Commerce
 role: Developer
@@ -10,15 +10,15 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: 9d4b01d383e5492ccc0cbd27636a49581e8ffb5b
+source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
 
-# 명령줄을 사용하여 관리자 구성을 보고 설정하는 방법에 대해 알아봅니다
+# 명령줄을 사용하여 관리자 구성 보기 및 설정
 
 Commerce CLI를 사용하여 구성 값을 보고, 설정하고, 찾는 방법에 대한 데모입니다. 값이 저장되는 위치와 기본값이 생성되는 위치를 파악합니다.
 
