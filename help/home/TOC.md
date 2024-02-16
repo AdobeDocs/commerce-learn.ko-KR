@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 606b2aa8cc1df64816b459e7ca9e0a65d538463a
+source-git-commit: 535c9dbe9f1247cebd848f184dcf7ea07eab405e
 workflow-type: tm+mt
-source-wordcount: '590'
+source-wordcount: '598'
 ht-degree: 3%
 
 ---
@@ -144,7 +144,7 @@ ht-degree: 3%
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [미래를 위한 준비](../business-intelligence/prepare-for-future.md)
 + Commerce 업그레이드 {#upgrade}
-   + [Adobe Commerce 2.4 업그레이드 워크숍](../upgrade/2.4-upgrade-workshop.md)
+   + [Adobe Commerce 2.4 업그레이드 워크숍](../upgrade/2-4-upgrade-workshop.md)
    + [업그레이드 호환성 도구 개요](../upgrade/upgrade-compatibility-tool-overview.md)
    + [PHP Storm에서 호환성 업그레이드 도구 사용](../upgrade/uct-phpstorm.md)
 + 백엔드 개발 {#backend-development}
@@ -155,6 +155,7 @@ ht-degree: 3%
    + [Galera Cluster 느린 복제](../backend-development/galera-db-slow-replication.md)
    + [MySQL 쿼리 캐시](../backend-development/mysql-query-cache.md)
    + [PT 쿼리 다이제스트](../backend-development/pt-query-digest.md)
+   + [Adobe Commerce 데이터베이스에 연결 및 다운로드](../backend-development/remote-db-connection-execute-queries.md)
 + 기본 프론트엔드 Luma 개발 {#frontend-development}
    + 개발자용 페이지 빌더 {#page-builder}
       + [1 - 소개](../frontend-development/page-builder/1-intro-case-studies.md)
