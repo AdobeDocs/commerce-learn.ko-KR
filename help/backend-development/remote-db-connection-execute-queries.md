@@ -1,5 +1,5 @@
 ---
-title: Adobe Commerce 데이터베이스에 대한 쿼리를 연결하고 실행하는 방법에 대해 알아봅니다
+title: 데이터베이스에 대한 쿼리 연결 및 실행
 description: Adobe Commerce 클라우드 프로젝트에 연결하는 몇 가지 방법을 알아봅니다. 오프사이트에서 사용할 DB를 다운로드하는 방법에 대해 알아봅니다. PII를 마스킹하고 제거하는 몇 가지 방법을 알아봅니다.
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
@@ -10,18 +10,17 @@ duration: 0
 last-substantial-update: 2024-02-14T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
-source-git-commit: 8499cae40bc14bfc505f0a84c7f481eddd80589b
+exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
+source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
 workflow-type: tm+mt
-source-wordcount: '1056'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
 
-
-# Adobe Commerce 데이터베이스에 대한 쿼리를 연결하고 실행하는 방법에 대해 알아봅니다
+# Adobe Commerce 데이터베이스에 대한 쿼리 연결 및 실행
 
 이 자습서에서는 Adobe Commerce on cloud 프로젝트에 연결하고, 오프사이트에서 사용할 데이터베이스를 덤프하고, PII를 마스킹하고 제거하는 방법을 알아봅니다.
-
 
 다음 방법 중 하나를 사용하여 클라우드 프로젝트에서 Adobe Commerce 데이터에 액세스할 수 있습니다.
 
@@ -378,4 +377,3 @@ MariaDB [main]>
 [MySQL 서비스 설정](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
 [원격 MySQL 데이터베이스 연결 설정](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
 [클라우드 인프라의 Adobe Commerce에서 데이터베이스 덤프 만들기](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
-
