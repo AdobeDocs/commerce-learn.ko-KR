@@ -10,15 +10,15 @@ duration: 0
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
 kt: 15019
-source-git-commit: 3856060dd0c0e45c5e45e53e45a4a861d9723574
+source-git-commit: 6b71a7b4bc3d770870a02bb868c7b01bd17a5931
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 
-# Adobe Commerce Cloud 기술 온보딩 및 하드웨어 핸드오프 - 구성 및 디버깅
+# 기술 온보딩 - 구성 및 디버깅
 
 Adobe Commerce Cloud을 구성하고 디버깅하는 방법을 알아봅니다.
 
@@ -32,7 +32,7 @@ Adobe Commerce Cloud을 구성하고 디버깅하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
 
-## 비디오에 언급된 Experience League 설명서 및 Fastly Adobe Commerce 검사기
+## 비디오에 언급된 Experience League 설명서
 
 - [Xdebug 구성](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
 - [Cloud Docker Xdebug 구성](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)

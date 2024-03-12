@@ -10,15 +10,15 @@ duration: 0
 last-substantial-update: 2024-03-05T00:00:00Z
 jira: KT-15018
 kt: 15018
-source-git-commit: 15aabeb0aff824919ac1463a1d2a85674fbe0619
+exl-id: e5b82073-0905-4e25-8e15-5b66672c3e79
+source-git-commit: eae2b8a2eb815ff1b32a80dbd0f29fbfa82a0dc0
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-
-# Adobe Commerce Cloud 기술 온보딩 및 하드웨어 전달 - Fastly
+# 기술 온보딩 - Fastly
 
 Adobe Commerce용 Fastly의 클라우드 사용에 대해 알아봅니다.
 
