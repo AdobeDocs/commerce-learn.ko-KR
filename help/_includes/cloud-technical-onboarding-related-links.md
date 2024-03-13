@@ -1,9 +1,9 @@
 ---
 title: Adobe Commerce Cloud 기술 온보딩 관련 페이지
 description: Adobe Commerce Cloud 기술 온보딩의 관련 페이지 링크
-source-git-commit: eae2b8a2eb815ff1b32a80dbd0f29fbfa82a0dc0
+source-git-commit: 4ab9dab5562a9d150c238a6ca3e543e013ad0305
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
@@ -17,3 +17,4 @@ ht-degree: 0%
 - [Fastly](../cloud/fastly.md)
 - [구성 및 디버깅](../cloud/configuration-and-debugging.md)
 - [배포, 테스트, 모니터링 및 보안](../cloud/deployments-testing-monitoring-security.md)
+- [Saas 서비스, 지원 및 기타 커뮤니케이션, 다음 단계](../cloud/saas-offerings-support-communications-next-steps.md)
