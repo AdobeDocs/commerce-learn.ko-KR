@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce Cloud 기술 온보딩 및 하드웨어 핸드오프 - 시작 프로세스 타임라인
-description: 론치 프로세스 타임라인에 대한 Adobe Commerce Cloud 기술 온보딩에 대해 알아봅니다.
+description: 시작 프로세스 타임라인에 대한 Adobe Commerce Cloud 기술 온보딩에 대해 알아봅니다.
 feature: Cloud
 topic: Commerce, Architecture, Development
 role: Architect, Developer
@@ -15,13 +15,13 @@ exl-id: e68a8389-2cdc-495b-829b-24ea7502f66f
 source-git-commit: eae2b8a2eb815ff1b32a80dbd0f29fbfa82a0dc0
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 0%
+ht-degree: 45%
 
 ---
 
 # 기술 온보딩 - 시작 프로세스 타임라인
 
-론치 프로세스 타임라인에 대한 Adobe Commerce Cloud 기술 온보딩에 대해 알아봅니다.
+시작 프로세스 타임라인에 대한 Adobe Commerce Cloud 기술 온보딩에 대해 알아봅니다.
 
 ## 이 비디오는 누구의 것입니까?
 
