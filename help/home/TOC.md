@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
+source-git-commit: d403368cbd80ef40ea0c7652d97fc18570aa552c
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '616'
 ht-degree: 3%
 
 ---
@@ -140,6 +140,7 @@ ht-degree: 3%
    + New Relic {#new-relic}
       + [악성 IP 찾기](../new-relic/malicious-ip.md)
 + Commerce Intelligence {#mbi}
+   + [시작](../business-intelligence/getting-started.md)
    + [필터 세트](../business-intelligence/filter-sets.md)
    + [집단 Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
