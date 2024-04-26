@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: a663178a1b3cffb328943e96f4efd4cef731bfe4
+source-git-commit: e47eff788e86b53b86354d49e68bc6b3d3addf1f
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '642'
 ht-degree: 3%
 
 ---
@@ -42,6 +42,9 @@ ht-degree: 3%
       + [기프트 카드 제품](../site-management/create-gift-card-product.md)
    + 백오피스 통합 시작 키트 {#back-office-integration-starter-kit}
       + [스타터 키트 데모](../back-office-integrations/starter-kit-demo.md)
++ 웨비나 및 이벤트 {#webinars-and-events}
+   + 지원 시리즈 {#enablement-series}
+      + [Commerce 통합을 위한 TOC 줄이기](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
 + GraphQL 및 REST {#graphql-rest}
    + [GraphQL 기본 사항](../graphql-rest/intro-graphql.md)
    + [쿼리](../graphql-rest/graphql-queries.md)
