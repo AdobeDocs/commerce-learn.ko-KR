@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce 통합을 위한 TOC 낮추기
-description: 이 웨비나에서는 Adobe Commerce과의 통합을 위한 TCO 절감 모범 사례에 대해 설명합니다. 기존 통합의 과제를 강조하고 다른 Experience Cloud 제품과의 확장 포인트 및 기본 통합을 사용하여 비용을 절감하고 ROI를 높일 수 있음을 강조합니다. 코어를 맞춤화하지 않고 유연하게 제품을 확장하여 유지 관리 및 업그레이드를 용이하게 하는 것이 목표입니다.
+description: Adobe Commerce과의 통합을 위해 TCO를 절감하기 위한 모범 사례에 대해 알아봅니다.
 feature: API Mesh, App Builder, Backend Development, Best Practices, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 role: Architect, Data Architect, Leader
@@ -11,16 +11,18 @@ last-substantial-update: 2024-04-26T00:00:00Z
 jira: KT-15393
 auto-video-transcripts: true
 exl-id: 3c31c204-a33f-4f8a-b74d-d81f5ad6c433
-source-git-commit: 32f748b0489f165f43cbebb025709ad4cf929d61
+source-git-commit: 1293fcc506043601ced55286ea4d31b47a68d546
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce 통합을 위한 TOC 낮추기
 
-이 웨비나에서는 Adobe Commerce과의 통합을 위해 소유 비용을 낮추는 방법을 설명합니다. &#x200B; 웨비나에서 발표자들은 통합과 관련된 당면 과제와 비용, 기술 부채 절감의 중요성, Adobe Commerce에서 제공하는 확장 포인트 사용의 이점 등에 대해 설명합니다. 이들은 또한 WhatsApp을 사용하는 린 주문 관리 시스템과 개인화된 제품 추천을 위해 데이터를 보내는 스마트 애완 동물 쓰레기 상자와 관련된 특정 사용 사례를 언급합니다.  또한 이 팀에서는 Adobe Commerce과 다른 Adobe 제품 간에 데이터를 보내고 받는 기능을 제공하는 Commerce용 Adobe 데이터 연결을 사용하는 방법에 대해 설명합니다.
+이 웨비나에서는 Adobe Commerce과의 통합을 위해 소유 비용을 낮추는 방법을 설명합니다.
+
+웨비나에서 발표자들은 통합과 관련된 당면 과제와 비용, 기술 부채 절감의 중요성, Adobe Commerce에서 제공하는 확장 포인트 사용의 이점 등에 대해 설명합니다. 이들은 또한 WhatsApp을 사용하는 린 주문 관리 시스템과 개인화된 제품 추천을 위해 데이터를 보내는 스마트 애완 동물 쓰레기 상자와 관련된 특정 사용 사례를 언급합니다.  또한 이 팀에서는 Adobe Commerce과 다른 Adobe 제품 간에 데이터를 보내고 받는 기능을 제공하는 Commerce용 Adobe 데이터 연결을 사용하는 방법에 대해 설명합니다.
 
 ## 대상자
 
