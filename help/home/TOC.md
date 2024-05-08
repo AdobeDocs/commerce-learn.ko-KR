@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 88a50f1377207b99b524fb29017bc0cfe296d524
+source-git-commit: 5fdc149b4618a95de839942b26fef874ce1b5c47
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '660'
 ht-degree: 3%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 3%
       + [Commerce 통합을 위한 TOC 줄이기](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
       + [최신 Adobe Commerce 구현 계획](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
       + [론치, 론치 후, 모니터링 및 문제 해결](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
+      + [Adobe Commerce을 사용한 Edge Delivery Services](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
 + GraphQL 및 REST {#graphql-rest}
    + [GraphQL 기본 사항](../graphql-rest/intro-graphql.md)
    + [쿼리](../graphql-rest/graphql-queries.md)
