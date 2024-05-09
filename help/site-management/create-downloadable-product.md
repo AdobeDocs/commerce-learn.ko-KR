@@ -10,9 +10,10 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 043d873e9b649455202de9df137c7283d92a2a4a
+exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
+source-git-commit: 8ef4b0e0a0e4dfffdef8759e4ac7659ed854fae2
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '584'
 ht-degree: 0%
 
 ---
@@ -53,7 +54,7 @@ REST API 및 Adobe Commerce 관리자를 사용하여 다운로드 가능한 제
 
 이제에 도메인이 추가됩니다. `env.php`, Adobe Commerce 관리자 또는 REST API를 사용하여 다운로드 가능한 제품을 만들 수 있습니다.
 
-다음을 참조하십시오 [구성 참조](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) 자세히 알아보십시오. 다음을 참조하십시오 [Adobe Commerce에 대한 CLI 참조](https://experienceleague.adobe.com/docs/commerce-operations/reference/magento-open-source.html#downloadable%3Adomains%3Aadd )을 참조하십시오.
+다음을 참조하십시오 [구성 참조](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) 자세히 알아보십시오.
 
 >[!IMPORTANT]
 >일부 Adobe Commerce 버전에서는 Adobe Commerce 관리에서 제품을 편집할 때 다음 오류가 발생할 수 있습니다. 제품이 REST API를 사용하여 만들어지지만 연결된 다운로드에는 `null` 가격.
@@ -111,14 +112,14 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## cURL을 사용하여 다운로드 가능한 제품 만들기(Commerce 애플리케이션 서버에서 다운로드)
+## cURL(Commerce 애플리케이션 서버에서 다운로드)을 사용하여 다운로드 가능한 제품을 만듭니다
 
 이 예에서는 파일이 Adobe Commerce 애플리케이션과 동일한 서버에 저장되어 있을 때 cURL을 사용하여 Adobe Commerce 관리자로부터 다운로드 가능한 제품을 만드는 방법을 보여 줍니다.
 
 이 사용 사례에서는 카탈로그를 관리하는 관리자가 `upload file`, 파일이 로 전송됩니다. `pub/media/downloadable/files/links/` 디렉토리.  자동화는 다음 패턴을 기반으로 파일을 만들어 해당 위치로 이동합니다.
 
 - 업로드된 각 파일은 파일 이름의 처음 두 문자를 기준으로 폴더에 저장됩니다.
-- 업로드가 시작되면 Commerce 응용 프로그램에서 기존 폴더를 만들거나 사용하여 파일을 전송합니다.
+- 업로드가 시작되면 Commerce 애플리케이션은 기존 폴더를 생성 또는 사용하여 파일을 전송합니다.
 - 파일을 다운로드할 때 `link_file` 경로의 섹션은 다음에 추가된 경로의 부분을 사용합니다. `pub/media/downloadable/files/links/` 디렉토리.
 
 예를 들어 업로드된 파일의 이름이 인 경우 `download-example.zip`:
@@ -237,6 +238,5 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 - [다운로드 가능한 제품 유형](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
 - [다운로드 가능한 도메인 구성 안내서](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
-- [.env.php에서 다운로드 가능한 도메인에 추가](https://experienceleague.adobe.com/docs/commerce-operations/reference/magento-open-source.html#downloadable%3Adomains%3Aadd){target="_blank}
 - [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
