@@ -10,22 +10,22 @@ duration: 0
 last-substantial-update: 2024-03-14T00:00:00Z
 jira: KT-15022
 kt: 15022
-source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
+exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
+source-git-commit: d5516a6d22105deab84a5b4c303c55448d156135
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
 
-
-# 기술 온보딩 - 배포, 테스트, 모니터링 및 보안
+# 기술 온보딩 - SaaS 서비스
 
 Adobe Commerce Cloud SaaS 서비스, 지원 및 기타 커뮤니케이션 및 다음 단계에 대해 알아봅니다.
 
 ## 이 비디오는 누구의 것입니까?
 
 - 웹 사이트 관리자
-- 상거래 설계자
+- Commerce 아키텍트
 - 전자 상거래 웹 사이트 소유자
 
 ## 비디오 콘텐츠
@@ -81,8 +81,8 @@ Adobe Commerce Cloud SaaS 서비스, 지원 및 기타 커뮤니케이션 및 �
 - [App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-technical-overview.html)
 - [공동 책임](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html)
 - [고객 데이터 액세스 및 개인 정보 보호](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
-- [상거래 인증](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
-- [상거래 학습 과정](https://learning.adobe.com/catalog.html?products=Commerce)
+- [Commerce 인증](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
+- [Commerce 학습 과정](https://learning.adobe.com/catalog.html?products=Commerce)
 - [Commerce 커뮤니티 포럼](https://community.magento.com/)
 -= [Fastly 구성](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
 - [성능 테스트](https://experienceleague.adobe.com/docs/commerce-operations/deliver-commerce-at-scale/launch.html)
