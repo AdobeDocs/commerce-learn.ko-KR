@@ -10,13 +10,13 @@ duration: 0
 last-substantial-update: 2024-04-17T00:00:00Z
 jira: KT-15180
 kt: 15180
-source-git-commit: 7cc6ee2906e5f223575d98f0f1b6f4bdf4c936d0
+exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
+source-git-commit: 00a8d6883473de796abc79ef2e9be34f56429a17
 workflow-type: tm+mt
-source-wordcount: '1578'
+source-wordcount: '1605'
 ht-degree: 0%
 
 ---
-
 
 # Commerce Cloud 실행 전 체크리스트
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## 3. Fastly 구성
 
-1. [!BADGE 차단기]{type=caution tooltip="잠재적 차단제"}[전체 페이지 캐시](https://developer.adobe.com/commerce/frontend-core/guide/caching/){target="_blank"} or [GraphQL caching](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}). Read the [Fastly set up guide](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly){target="_blank"}.
+1. [!BADGE 차단기]{type=caution tooltip="잠재적 차단제"}[전체 페이지 캐시](https://developer.adobe.com/commerce/frontend-core/guide/caching/){target="_blank"} 또는 [GraphQL 캐싱](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}). 읽기 [Fastly 설정 안내서](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly){target="_blank"}.
 2. 해당되는 경우 PWA/Headless 웹 사이트에서 GraphQL 쿼리에 대해 GET 방법을 사용합니다.
 
    >[!NOTE]
@@ -94,9 +94,9 @@ Adobe Commerce Cloud은 MariaDB Galera 클러스터를 스테이징 및 프로�
 
 ## 6. 배포
 
-1. 프로덕션 환경에 배포하는 동안 유지 관리 시간을 줄이기 위해 SCD(정적 콘텐츠 배포) 이상적인 상태를 검토하십시오. 리뷰 [정적 콘텐츠 배포(SCD) 전략](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/deploy/static-content){target="_blank"} and [Store configuration management](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure-store/store-settings){target="_blank"} 가이드.
+1. 프로덕션 환경에 배포하는 동안 유지 관리 시간을 줄이기 위해 SCD(정적 콘텐츠 배포) 이상적인 상태를 검토하십시오. 리뷰 [정적 콘텐츠 배포(SCD) 전략](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/deploy/static-content){target="_blank"} 및 [저장소 구성 관리](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure-store/store-settings){target="_blank"} 가이드.
 2. HTML, JavaScript 및 CSS에 대한 축소 설정을 검토합니다. (PWA/Headless 웹 사이트에는 적용되지 않습니다.)
-3. 다음 클라우드 변수의 활용도가 의도한 목적에 맞는지 확인합니다. ([SCD_ 매트릭스](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} and [SKIP_SCD](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
+3. 다음 클라우드 변수의 활용도가 의도한 목적에 맞는지 확인합니다. ([SCD_ 매트릭스](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} 및 [SKIP_SCD](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
 
 ## 7. 테스트 및 문제 해결
 
@@ -136,7 +136,7 @@ Adobe Commerce Cloud은 MariaDB Galera 클러스터를 스테이징 및 프로�
 5. 개발 중에 활성화된 경우 XDebug가 비활성화되는지 확인합니다( 참조). [Xdebug 구성](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"}).
 6. op-cache 및 기타 구성이 php.ini 파일에서 정확하게 업데이트되었는지 확인합니다([이 샘플 참조](https://github.com/magento/magento-cloud/blob/master/php.ini#L41){target="_blank"}).
 7. 구독: [**Adobe Commerce 상태 페이지**](https://status.adobe.com/cloud/experience_cloud#/){target="_blank"}.
-8. New Relic 구독&quot;[Adobe Commerce에 대한 관리 경고](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce){target="_blank"}" notification channels to monitor the given performance metrics ([read more](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service){target="_blank"}).
+8. New Relic 구독&quot;[Adobe Commerce에 대한 관리 경고](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce){target="_blank"}&quot;알림 채널 을 통해 주어진 성능 지표 모니터링([자세히 보기](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service){target="_blank"}).
 
 ## 9. 보안
 
@@ -182,7 +182,7 @@ Adobe Commerce Cloud은 MariaDB Galera 클러스터를 스테이징 및 프로�
 사이트가 활성 상태가 되면 할당된 CTA(고객 기술 자문), CSE(고객 성공 엔지니어) 및 AM(계정 관리자)에게 이메일을 보냅니다. 그러나 프로젝트에 할당된 계정 관리자가 없는 경우 사이트가 활성 상태가 되면 높은 SLA 모니터링을 사용하도록 요청하는 지원 티켓을 만들 수 있습니다. CTA/CSE는 Fastly를 활성화하고 캐싱을 사용하여 사이트를 시작하는 것이 확인되면 즉시 다음 작업을 수행합니다.
 
 - 클러스터에 라이브로 태그를 지정하고 지원 티켓을 만들어 높은 SLA(서비스 수준 계약) 모니터링을 활성화합니다.
-- 가동 시간 모니터링을 위해 Pingdom 검사를 활성화합니다.
+- 가동 시간 모니터링을 위해 New Relic Synthics를 활성화합니다.
 
 >[!MORELIKETHIS]
 > 
