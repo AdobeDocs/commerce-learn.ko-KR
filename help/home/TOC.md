@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 60b17889ea48d9594cf659972e0c256f01312bf3
+source-git-commit: 4b88c82052f8505cfe05255dd74bb2da5fa0f792
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '664'
 ht-degree: 3%
 
 ---
@@ -128,8 +128,9 @@ ht-degree: 3%
    + [권장 사항 라이브 검색](../site-management/live-search-recommendations.md)
    + [Commerce와 AJO 통합](../site-management/integrate-commerce-ajo.md)
 + 주문 및 이행 {#orders}
-   + [스토어 이행 개요](../site-management/store-fulfillment.md)
-   + [주문 상태 관리](../site-management/order-status.md)
+   + [스토어 이행 개요](../orders-and-fulfillment/store-fulfillment.md)
+   + [주문 상태 관리](../orders-and-fulfillment/order-status.md)
+   + [재고 상태 확인](../orders-and-fulfillment/checking-inventory-status.md)
 + Adobe Commerce용 B2B {#b2b}
    + [회사 계정 관리](../b2b/company-accounts.md)
    + [공유 카탈로그 관리](../b2b/shared-catalogs.md)
