@@ -1,5 +1,5 @@
 ---
-title: Adobe Commerce을 사용한 Edge Delivery Services
+title: Edge Delivery Services
 description: Adobe Edge Delivery Services, 프로젝트 입찰에 미치는 영향, 개발 비용, SEO, ADA 및 개인화된 경험의 가능성에 대해 알아봅니다.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless, Integrations, Performance
@@ -9,10 +9,11 @@ doc-type: Technical Video
 duration: 3654
 last-substantial-update: 2024-05-08T00:00:00Z
 jira: KT-15388
-source-git-commit: 5fdc149b4618a95de839942b26fef874ce1b5c47
+exl-id: deebb9ba-f975-4cf9-bf63-59cb4ff360eb
+source-git-commit: e5fe3cf958c51b5ce4e97486d33a96ea561b8169
 workflow-type: tm+mt
-source-wordcount: '389'
-ht-degree: 0%
+source-wordcount: '386'
+ht-degree: 1%
 
 ---
 
