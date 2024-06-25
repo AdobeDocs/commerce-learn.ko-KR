@@ -7,20 +7,29 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 0
-last-substantial-update: 2024-02-14T00:00:00Z
+last-substantial-update: 2024-06-25T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
+source-git-commit: 435364592c0b609b3c379bb58df80e2691c82d40
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1143'
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce 데이터베이스에 대한 쿼리 연결 및 실행
 
-이 자습서에서는 Adobe Commerce on cloud 프로젝트에 연결하고, 오프사이트에서 사용할 데이터베이스를 덤프하고, PII를 마스킹하고 제거하는 방법을 알아봅니다.
+Adobe Commerce on cloud 프로젝트에 연결하고, 오프사이트 사용을 위해 데이터베이스 덤프를 만들고, 이를 마스킹 또는 제거하여 PII(개인 식별 정보)를 처리하는 방법에 대해 알아봅니다. 로컬 DB 덤프, MySQL Workbench 또는 TablesPlus와 같은 애플리케이션과의 원격 DB 연결 및 Magento Cloud CLI 도구를 통한 직접 연결 등 다양한 방법을 사용하여 Adobe Commerce 데이터에 액세스하는 방법에 대해 알아봅니다.
+
+## 비디오 콘텐츠
+
+* MysqlWorkbench 또는 TablesPlus와 같은 도구를 사용하여 원격 Adobe Commerce Cloud 프로젝트에 빠르게 연결하는 방법을 알아봅니다.
+* 명령줄을 통해 SQL을 실행하기 위해 Adobe Commerce 프로젝트에 빠르게 연결하는 방법에 대해 알아봅니다
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+
+Adobe Commerce on cloud 프로젝트에 연결하고, 오프사이트에서 사용할 데이터베이스를 덤프하고, PII를 마스킹하고 제거하는 방법을 알아봅니다.
 
 다음 방법 중 하나를 사용하여 클라우드 프로젝트에서 Adobe Commerce 데이터에 액세스할 수 있습니다.
 
