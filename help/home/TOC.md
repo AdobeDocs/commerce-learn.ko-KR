@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 4165664069b889e015bfc4b993dc9975ce3f5385
+source-git-commit: 0b42ffc1c0b55c75fdb7b25b86ec8049edb5db97
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '670'
 ht-degree: 2%
 
 ---
@@ -30,9 +30,10 @@ ht-degree: 2%
       + [글로벌 참조 아키텍처 활용](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [건축가 GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [글로벌 참조 아키텍처 구현](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
-   + 상거래 기능 {#capabilities}
+   + Commerce 기능 {#capabilities}
       + [데이터 연결](../capabilities/data-connection.md)
       + [라이브 검색 전체 데모](../capabilities/live-search-full-demonstration.md)
+      + [구성 가능한 Commerce](../capabilities/what-is-composable-commerce.md)
    + 제품 만들기 {#create-products}
       + [단순 제품](../site-management/create-simple-product.md)
       + [가상 제품](../site-management/create-virtual-product.md)
@@ -57,7 +58,7 @@ ht-degree: 2%
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [App Builder 소개](../app-builder/introduction-to-app-builder.md)
    + [App Builder용 확장성 프레임워크](../app-builder/extensibility-framework-commerce-eventing.md)
-   + [App Builder의 기능 데모](../app-builder/app-builder-functional-demonstration.md)
+   + [App Builder용 기능 데모](../app-builder/app-builder-functional-demonstration.md)
    + [App Builder에 대한 기술 개요](../app-builder/app-builder-technical-overview.md)
    + [마켓플레이스에 앱 제출](../app-builder/submit-app-process.md)
    + 첫 번째 App Builder 앱 빌드 {#first-app}
@@ -94,7 +95,7 @@ ht-degree: 2%
    + [배송 및 배송 방법](../site-management/shipping-delivery.md)
    + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
    + Adobe Commerce 서비스 {#adobe-commerce-services}
-      + [Commerce Services 커넥터 구성](../site-management/configure-adobe-commerce-services-connector.md)
+      + [Commerce 서비스 커넥터 구성](../site-management/configure-adobe-commerce-services-connector.md)
       + [결제 서비스 구성](../site-management/configure-adobe-payment-services.md)
       + [결제 서비스 사용](../site-management/payment-services.md)
 + 고객 관리 {#customers}
@@ -126,7 +127,7 @@ ht-degree: 2%
    + [제품 Recommendations 설정](../site-management/product-recommendations.md)
    + [라이브 검색 소개](../site-management/live-search.md)
    + [권장 사항 라이브 검색](../site-management/live-search-recommendations.md)
-   + [Commerce와 AJO 통합](../site-management/integrate-commerce-ajo.md)
+   + [Commerce과 AJO 통합](../site-management/integrate-commerce-ajo.md)
 + 주문 및 이행 {#orders}
    + [스토어 이행 개요](../orders-and-fulfillment/store-fulfillment.md)
    + [주문 상태 관리](../orders-and-fulfillment/order-status.md)
