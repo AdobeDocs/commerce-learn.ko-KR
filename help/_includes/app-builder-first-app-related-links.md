@@ -1,16 +1,16 @@
 ---
 title: App Builder 첫 번째 앱 관련 페이지
-description: App Builder 첫 번째 앱 섹션의 관련 페이지 링크
+description: App Builder 첫 번째 앱 섹션의 관련 페이지에 대한 링크
 source-git-commit: 021098545e4666f43f02452358464701f30002fd
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 1%
+source-wordcount: '49'
+ht-degree: 2%
 
 ---
 
 # App Builder 첫 번째 앱 관련 링크
 
-## App Builder - 첫 번째 앱 관련 페이지 빌드
+## App Builder - 첫 번째 앱 관련 페이지 작성
 
 * [개요](../app-builder/first-app/overview.md)
 * [다음 ](../app-builder/first-app/env-file.md)

@@ -9,13 +9,13 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: Commerce Marketplace에서 사용 가능한 AR 뷰어
-source-git-commit: d1d794a94cc60ad6441d95ff5b372092eeb28402
+exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce용 증강 현실 뷰어
 
@@ -24,7 +24,7 @@ AR 뷰어는 온라인 스토어 소유자에게 새로운 기능인 제품의 3
 
 AR 뷰어는 물리적 소매와 디지털 소매를 연결하는 다리 역할을 하므로 판매자가 광범위한 기술 지식이나 집중적인 수동 작업 없이도 풍부한 대화형 고객 경험을 제공할 수 있습니다. 사용자에게 친숙한 이 인터페이스의 인터페이스는 Adobe Commerce 관리자에 완벽하게 통합되어 모든 온라인 스토어에 편리하게 추가할 수 있습니다.
 
-AR 뷰어의 기능 [!DNL bridge] 실제 소매업과 디지털 소매업 간의 격차를 통해 판매자는 광범위한 기술 지식이나 집중적인 수작업 없이도 풍부한 대화형 고객 경험을 제공할 수 있습니다. 사용자에게 친숙한 이 인터페이스의 인터페이스는 Adobe Commerce 관리자에 완벽하게 통합되어 모든 온라인 스토어에 편리하게 추가할 수 있습니다.
+AR 뷰어는 물리적 소매점과 디지털 소매점 사이의 격차를 [!DNL bridge]하는 역할을 하므로 판매자는 광범위한 기술 지식이나 집중적인 수동 작업 없이도 풍부하고 인터랙티브한 고객 경험을 제공할 수 있습니다. 사용자에게 친숙한 이 인터페이스의 인터페이스는 Adobe Commerce 관리자에 완벽하게 통합되어 모든 온라인 스토어에 편리하게 추가할 수 있습니다.
 
 ## 기능
 
@@ -39,7 +39,7 @@ AR 뷰어의 기능 [!DNL bridge] 실제 소매업과 디지털 소매업 간의
 ## 제품에 3D 모델 추가
 
 새로운 3D 모델을 제품에 추가하는 것은 Adobe Commerce 설치에 모듈을 설치한 후 간단한 프로세스입니다.
-다음 비디오에는 의 업로드를 지원하는 새 섹션이 있습니다. `.USDZ` 파일 업로드.
+다음 비디오에는 `.USDZ` 파일 업로드를 지원하는 새로운 섹션이 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422370?learn=on)
 
@@ -57,10 +57,9 @@ AR 뷰어의 기능 [!DNL bridge] 실제 소매업과 디지털 소매업 간의
 
 ## 유용한 리소스
 
-[Adobe Commerce용 AR 뷰어](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
+Adobe Commerce용 [AR 뷰어](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
 [Adobe Commerce용 AR 뷰어로 제품 3D 모델 관리](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
 
 ## Adobe Commerce Marketplace 확장
 
 [AR 뷰어](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}
-

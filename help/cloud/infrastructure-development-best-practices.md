@@ -25,7 +25,7 @@ Adobe Commerce의 클라우드 인프라와 몇 가지 개발 모범 사례에 �
 ## 이 비디오는 누구의 것입니까?
 
 - 웹 사이트 관리자
-- 상거래 설계자
+- Commerce 아키텍트
 - 전자 상거래 웹 사이트 소유자
 
 ## 비디오 콘텐츠
@@ -36,7 +36,7 @@ Adobe Commerce의 클라우드 인프라와 몇 가지 개발 모범 사례에 �
 
 - [Rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html#migrate-files-using-rsync)
 - [SFTP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html#sftp)
-- [COMMERCE CLOUD CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+- [Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
   [Adobe Commerce 업그레이드 및 패치 적용](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html)
 - [Adobe Commerce 사전 실행 검사 목록](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
 - [지원 티켓 만들기](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)

@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
 source-git-commit: 85cd8ab916d2125333d5fe11affeab7620f7f6b1
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -35,5 +35,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [컨텐츠 스테이징 - [!DNL Commerce] 콘텐츠 및 디자인 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
-- [캠페인 미리 보기 - [!DNL Commerce] 콘텐츠 및 디자인 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
+- [콘텐츠 준비 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
+- [캠페인 미리 보기 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}

@@ -15,18 +15,18 @@ level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce 2.4.5 설치
 
-버전 2.4.5용 Composer를 사용하여 Adobe Commerce에 여러 새 모듈을 설치하는 방법을 알아봅니다. Adobe Commerce 애플리케이션에서 사용되는 필수 모듈을 설정합니다. 추가 설명서는 다음 위치에서 찾을 수 있습니다. [Adobe Commerce에 대한 Adobe I/O 이벤트 설치](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+버전 2.4.5용 Composer를 사용하여 Adobe Commerce에 여러 새 모듈을 설치하는 방법을 알아봅니다. Adobe Commerce 애플리케이션에서 사용되는 필수 모듈을 설정합니다. [Adobe Commerce에 대한 Adobe I/O 이벤트 설치](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}에서 추가 설명서를 찾았습니다.
 
 ## 이 비디오는 누구의 것입니까?
 
-* I/O 이벤트를 사용한 Adobe Commerce 및 Adobe Developer App Builder를 처음 사용하는 개발자
+* I/O 이벤트를 사용한 Adobe Commerce 및 Adobe Developer App Builder을 처음 사용하는 개발자
 
 ## 비디오 콘텐츠 {#video-content}
 

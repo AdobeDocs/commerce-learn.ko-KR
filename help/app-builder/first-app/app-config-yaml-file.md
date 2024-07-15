@@ -1,7 +1,7 @@
 ---
 title: app.config.yaml 파일
 description: 이 샘플 응용 프로그램의 app.config.yaml 파일에 있는 파일 유형에 대해 알아봅니다.
-landing-page-description: Adobe Commerce에서 사용되는 Adobe Developer App Builder와 app.config.yaml에 포함되는 파일 유형에 대해 알아봅니다.
+landing-page-description: Adobe Commerce에서 사용되는 Adobe Developer App Builder과 app.config.yaml에 포함되는 파일 유형에 대해 알아봅니다.
 kt: 12929
 doc-type: tutorial
 audience: all
@@ -24,12 +24,12 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-* Adobe Commerce을 처음 사용하는 개발자로서 Adobe App Builder에 대한 경험이 부족하여 `app.config.yaml` 샘플 응용 프로그램에서
+* Adobe App Builder 경험이 제한된 Adobe Commerce을 처음 사용하는 개발자로서 샘플 애플리케이션의 `app.config.yaml`에 대해 학습하고 있습니다.
 
 ## 비디오 콘텐츠
 
-* 다음 `app.config.yaml` 논의된 파일
-* 다른 항목에 대한 정의는 어떻게 연결됩니까? `.js` 파일
+* `app.config.yaml` 파일이 논의되었습니다.
+* 다른 `.js`개 파일에 대한 정의 연결 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 
@@ -53,7 +53,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-파일의 샘플 모듈에서 사용되는 이러한 정적 값을 볼 수 있습니다 `actions/commerce.index.js`
+`actions/commerce.index.js` 파일의 샘플 모듈에서 사용되는 이러한 정적 값을 볼 수 있습니다
 
 ```javascript
         const oauth = getCommerceOauthClient(

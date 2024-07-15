@@ -10,13 +10,13 @@ duration: 0
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
 kt: 15019
-source-git-commit: 6b71a7b4bc3d770870a02bb868c7b01bd17a5931
+exl-id: 8f5895bb-b402-4187-abf7-d7b2ac3f3c93
+source-git-commit: 0cb0982df528dd66dbc8804d7d09e3949a2fd850
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
 
 ---
-
 
 # 기술 온보딩 - 구성 및 디버깅
 
@@ -25,7 +25,7 @@ Adobe Commerce Cloud을 구성하고 디버깅하는 방법을 알아봅니다.
 ## 이 비디오는 누구의 것입니까?
 
 - 웹 사이트 관리자
-- 상거래 설계자
+- Commerce 아키텍트
 - 전자 상거래 웹 사이트 소유자
 
 ## 비디오 콘텐츠
@@ -35,7 +35,7 @@ Adobe Commerce Cloud을 구성하고 디버깅하는 방법을 알아봅니다.
 ## 비디오에 언급된 Experience League 설명서
 
 - [Xdebug 구성](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
-- [Cloud Docker Xdebug 구성](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
+- [Cloud Docker 구성 Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
 - [디버깅 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html)
 - [구성 파일 개요](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
 - [ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html)

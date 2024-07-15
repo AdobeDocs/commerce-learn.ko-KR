@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # App Builder용 확장성 프레임워크
 
-이 기능 데모에서는 App Builder 및 Adobe Commerce의 잠재적 사용 사례를 설명합니다. 이 비디오에서는 확장성 프레임워크, 주요 고객 이점 및 기능에 대해 소개합니다.
+이 기능 데모에서는 App Builder 및 Adobe Commerce에 대한 잠재적인 사용 사례를 설명합니다. 이 비디오에서는 확장성 프레임워크, 주요 고객 이점 및 기능에 대해 소개합니다.
 
 ## Adobe Commerce용 App Builder {#app-builder-extensibility}
 

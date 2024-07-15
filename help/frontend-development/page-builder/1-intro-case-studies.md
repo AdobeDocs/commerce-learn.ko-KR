@@ -1,8 +1,8 @@
 ---
 title: 개발자용 페이지 빌더 - 소개
 description: 페이지 빌더 소개, 페이지 빌더 기능 이해
-landing-page-description: 이 비디오 시리즈를 시청하여 페이지 빌더 및 이를 확장하여 최적의 콘텐츠를 만드는 방법에 대해 알아보십시오 [!DNL Commerce] 상점 환경.
-short-description: 이 비디오 시리즈를 시청하여 페이지 빌더 및 이를 확장하여 최적의 콘텐츠를 만드는 방법에 대해 알아보십시오 [!DNL Commerce] 상점 환경.
+landing-page-description: 이 비디오 시리즈를 시청하여 페이지 빌더 및 이를 확장하여 최적의  [!DNL Commerce] 상점 경험을 만드는 방법에 대해 알아보십시오.
+short-description: 이 비디오 시리즈를 시청하여 페이지 빌더 및 이를 확장하여 최적의  [!DNL Commerce] 상점 경험을 만드는 방법에 대해 알아보십시오.
 kt: 5650
 doc-type: video
 activity: use
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 콘텐츠는 Adobe Commerce 2.3.1용 Page Builder 1.0.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [페이지 빌더 릴리스 노트](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>이 콘텐츠는 Adobe Commerce 2.3.1용 Page Builder 1.0.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [Page Builder 릴리스 정보](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html)를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35709?quality=12&learn=on)
 

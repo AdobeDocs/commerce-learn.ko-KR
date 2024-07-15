@@ -22,4 +22,4 @@ ht-degree: 0%
 
 ## Adobe Developer 설명서
 
-* [Adobe Commerce에 대한 이벤트 Adobe I/O 개요](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
+* [Adobe Commerce 개요에 대한 Adobe I/O 이벤트](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}

@@ -12,14 +12,14 @@ level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
 # 제품 속성 만들기
 
-제품 속성 추가는에서 가장 많이 사용되는 작업 중 하나입니다 [!DNL Commerce]. 속성은 제품과 관련된 다양한 실질적인 과제를 해결할 수 있는 강력한 방법입니다. 제품에 드롭다운 유형 속성을 추가하는 간단한 프로세스를 사용할 수 있습니다.
+제품 특성을 추가하는 작업은 [!DNL Commerce]에서 가장 많이 사용되는 작업 중 하나입니다. 속성은 제품과 관련된 다양한 실질적인 과제를 해결할 수 있는 강력한 방법입니다. 제품에 드롭다운 유형 속성을 추가하는 간단한 프로세스를 사용할 수 있습니다.
 
 이 비디오에서:
 
@@ -64,7 +64,7 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->모듈에서 선언적 스키마를 사용하는 경우 및 대부분의 모듈에 2.3.0 이후 버전이 있는 경우 setup_version 을 생략해야 합니다. 그러나 일부 레거시 프로젝트가 있는 경우 이 메서드가 사용되는 것을 볼 수 있습니다.  다음을 참조하십시오 [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} 추가 정보.
+>모듈에서 선언적 스키마를 사용하는 경우 및 대부분의 모듈에 2.3.0 이후 버전이 있는 경우 setup_version 을 생략해야 합니다. 그러나 일부 레거시 프로젝트가 있는 경우 이 메서드가 사용되는 것을 볼 수 있습니다.  자세한 내용은 [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}을(를) 참조하십시오.
 
 
 ```xml
@@ -229,6 +229,6 @@ class InstallData implements InstallDataInterface
 
 ## 유용한 리소스
 
-[제품 속성 만들기](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
+[제품 특성 만들기](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
-[사용자 정의 텍스트 필드 속성 추가](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
+[사용자 지정 텍스트 필드 특성 추가](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)

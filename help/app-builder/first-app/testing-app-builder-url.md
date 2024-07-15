@@ -1,7 +1,7 @@
 ---
 title: Adobe Developer App Builder URL을 사용하여 테스트
 description: 제공된 프로젝트에 대한 App Builder URL에서 첫 번째 Adobe Developer App Builder 앱을 테스트하는 방법을 알아봅니다.
-landing-page-description: 프로젝트의 제공된 URL에서 첫 번째 Adobe Developer App Builder 앱을 테스트하는 방법을 알아봅니다.
+landing-page-description: 프로젝트에서 제공된 URL에서 첫 번째 Adobe Developer App Builder 앱을 테스트하는 방법을 알아봅니다.
 kt: 12427
 doc-type: tutorial
 audience: all
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-* Adobe Developer App Builder를 사용하여 경험이 제한된 Adobe Commerce을 처음 사용하는 개발자로서 첫 번째 Adobe App Builder 앱을 테스트할 준비가 된 사람.
+* Adobe App Builder을 사용하는 경험이 제한된 Adobe Commerce을 처음 사용하는 개발자로서 첫 번째 Adobe Developer App Builder 앱을 테스트할 준비가 되어 있는 사람.
 
 ## 비디오 콘텐츠
 

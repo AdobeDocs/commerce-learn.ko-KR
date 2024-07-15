@@ -41,7 +41,7 @@ Adobe Commerce on cloud 프로젝트에 연결하고, 오프사이트에서 사�
 
 ## Adobe Commerce Cloud CLI 도구 사용
 
-데이터베이스 덤프를 생성하려면 다음을 수행해야 합니다. [ADOBE COMMERCE CLOUD CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) 설치됨. 로컬 랩톱에서 디렉터리로 이동하여 다음 명령을 실행합니다. 다음을 교체해야 합니다. `your-project-id` 프로젝트 ID를 사용하여 (과 유사) `asasdasd45q`. 또한 다음을 교체해야 합니다. `your-environment-name` 환경 이름 포함, 예: `master` 또는 `staging`.
+데이터베이스 덤프를 만들려면 [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)를 설치해야 합니다. 로컬 랩톱에서 디렉터리로 이동하여 다음 명령을 실행합니다. `your-project-id`을(를) `asasdasd45q`과(와) 유사한 프로젝트 ID로 바꾸십시오. `your-environment-name`을(를) 환경 이름(예: `master` 또는 `staging`)으로 바꾸어야 합니다.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -83,7 +83,8 @@ Creating SQL dump file: /Users/<username>/Downloads/db-tutorial/abasrpikfw4123--
 
 ## Adobe Commerce ECE 도구 사용
 
-Adobe Commerce CLI 도구가 없는 경우 `ssh` 을(를) 프로젝트에 입력하고 `ece` 명령 `vendor/bin/ece-tools db-dump`: 샘플 응답:
+Adobe Commerce CLI 도구가 없는 경우 프로젝트로 `ssh`하여 `ece` 명령 `vendor/bin/ece-tools db-dump`을(를) 실행할 수 있습니다.
+샘플 응답:
 
 ```bash
 ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud
@@ -117,9 +118,9 @@ logout
 Connection to ssh.us-4.magento.cloud closed.
 ```
 
-사용 `SFTP` 또는 `rsync` 를 클릭하여 데이터베이스 덤프를 로컬 환경으로 가져옵니다.
+`SFTP` 또는 `rsync`을(를) 사용하여 데이터베이스 덤프를 로컬 환경으로 가져옵니다.
 
-다음 예제에서는 를 사용합니다 `rsync` 파일을 로 가져오려면 `~/Downloads/db-tutorial` 폴더를 삭제합니다.
+다음 예제에서는 `rsync`을(를) 사용하여 파일을 `~/Downloads/db-tutorial` 폴더로 가져옵니다.
 
 ```bash
 rsync -avrp -e ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud:/app/var/dump-main-1707850906.sql.gz ~/Downloads/db-tutorial
@@ -250,7 +251,7 @@ Save encoded tunnel details to the MAGENTO_CLOUD_RELATIONSHIPS variable using:
   export MAGENTO_CLOUD_RELATIONSHIPS="$(magento-cloud tunnel:info --encode)"
 ```
 
-다음을 사용하여 MySQL 그래픽 인터페이스를 사용하여 연결 설정 `SSH tunnel opened to database at` 명령 옵션을 사용합니다.
+`SSH tunnel opened to database at` 명령 옵션을 사용하여 MySQL 그래픽 인터페이스를 사용하여 연결을 설정하십시오.
 
 ```bash
 SSH tunnel opened to database at: mysql://user:@127.0.0.1:30000/main
@@ -263,8 +264,8 @@ SSH tunnel opened to database at: mysql://user:@127.0.0.1:30000/main
 ![로고 - Adobe Commerce Cloud 콘솔](./assets/cloud-ui-screenshot.png "Adobe Commerce Cloud 콘솔")
 
 다음은 한 가지 예입니다. `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
-SSH 호스트 이름은 @ 기호 뒤에 있는 모든 것입니다. `ssh.us-4.magento.cloud` 이 예제에서
-SSH 사용자 이름은 @ 기호 앞에 있는 모든 것입니다.  `abasrpikfw4123-remote-db-ecpefky—mymagento`
+이 예에서 SSH 호스트 이름은 @ 기호 `ssh.us-4.magento.cloud` 뒤에 있는 모든 것입니다.
+SSH 사용자 이름은 @ 기호 앞에 있는 모든 것입니다. `abasrpikfw4123-remote-db-ecpefky—mymagento`
 
 ## 데이터베이스에 연결할 값 찾기
 
@@ -276,7 +277,7 @@ MariaDB 데이터베이스에 직접 액세스하려면 SSH를 사용하여 원�
    magento-cloud ssh
    ```
 
-1. 에서 MySQL 로그인 자격 증명 검색 `database` 및 `type` 의 속성 [$MAGENTO_클라우드_관계](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships) 변수를 채우는 방법에 따라 페이지를 순서대로 표시합니다.
+1. [$INSIGHT_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships) 변수의 `database` 및 `type` MAGENTO에서 MySQL 로그인 자격 증명을 검색합니다.
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -314,7 +315,7 @@ MariaDB 데이터베이스에 직접 액세스하려면 SSH를 사용하여 원�
 
 그런 다음 MySQL GUI에서 구성 값을 사용합니다. 다음 예제에서는 MySQL Workbench를 사용하지만, MySQL 연결을 지원하는 앱도 유사한 필드를 갖게 됩니다.
 
-![로고 - Mysql Workbench를 사용한 Mysql GUI 예](./assets/mysql-workbench-after-connecting.png " Mysql Workbench를 사용한 Mysql GUI 예")
+![로고 - Mysql Workbench를 사용하는 Mysql GUI 예](./assets/mysql-workbench-after-connecting.png " Mysql Workbench를 사용하는 Mysql GUI 예")
 
 ![로고 - TablesPlus를 사용한 Mysql GUI 예](./assets/tablesPlus-db-connection.png " TablesPlus를 사용한 Mysql GUI 예")
 
@@ -322,7 +323,7 @@ MariaDB 데이터베이스에 직접 액세스하려면 SSH를 사용하여 원�
 
 ## SQL을 실행하기 위해 클라우드 프로젝트 데이터베이스에 직접 연결
 
-다음 메서드는 `magento-cloud` cli를 사용하여 mysql 데이터베이스에 직접 연결하고 SQL을 실행하여 데이터베이스 쿼리 속도를 높일 수 있습니다. 이 데이터베이스를 복사해야 하는 경우 [데이터베이스 덤프 만들기](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
+다음 메서드는 `magento-cloud` cli를 사용하여 mysql 데이터베이스에 직접 연결하고 SQL을 실행하므로 데이터베이스 쿼리 속도가 빨라집니다. 이 데이터베이스를 복사해야 하는 경우 [데이터베이스 덤프를 만들기](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)하는 다른 방법 중 하나를 참조하십시오.
 
 ```bash
 magento-cloud db:sql    
@@ -348,7 +349,7 @@ Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 ```
 
-예를 들어 `core_config_data` 단어가 포함된 표 `secure` 열의 일부로 `path`:
+예를들어 `core_config_data` 테이블에서 `path` 열의 일부로 `secure` 단어가 포함된 모든 레코드를 찾을 수 있습니다.
 
 ```sql
 MariaDB [main]> SELECT * FROM core_config_data WHERE path LIKE '%secure%' \G;
@@ -382,7 +383,7 @@ MariaDB [main]>
 
 ## 추가 리소스
 
-[ADOBE COMMERCE CLOUD CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
 [MySQL 서비스 설정](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
 [원격 MySQL 데이터베이스 연결 설정](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
-[클라우드 인프라의 Adobe Commerce에서 데이터베이스 덤프 만들기](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
+[클라우드 인프라에서 Adobe Commerce에 데이터베이스 덤프 만들기](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)

@@ -43,5 +43,5 @@ ht-degree: 33%
 ## 추가 리소스
 
 - [업그레이드 안내서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
-- [릴리스된 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [릴리스 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
 - [릴리스 일정](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

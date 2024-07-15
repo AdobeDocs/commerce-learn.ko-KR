@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] 비즈니스 사용자용 - 스토어 보기 및 캐시 지우기"
+title: " 비즈니스 사용자용 [!DNL Commerce] - 저장소 보기 및 캐시 지우기"
 description: 저장소 보기를 만들고 캐시를 지우는 방법을 알아봅니다.
 kt: 5761
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: 53c35861-6ad9-4a22-a3e5-6fa2165c26ca
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 비즈니스 사용자의 경우 - 저장소 보기 및 캐시 지우기
+# 비즈니스 사용자용 [!DNL Commerce] - 저장소 보기 및 캐시 지우기
 
 이 비디오에서:
 
@@ -34,6 +34,6 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-[웹 사이트, 스토어 및 조회수 - [!DNL Commerce] 시작 안내서](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[웹 사이트, 스토어 및 보기 - [!DNL Commerce] 시작 안내서](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
 [캐시 관리 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)

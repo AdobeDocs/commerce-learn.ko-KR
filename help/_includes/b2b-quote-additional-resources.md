@@ -3,7 +3,7 @@ title: B2B 추가 리소스 견적
 description: B2B 인용 관련 페이지 링크
 source-git-commit: eac61e862279fe0884db305fbb0a3b33feb035f1
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---

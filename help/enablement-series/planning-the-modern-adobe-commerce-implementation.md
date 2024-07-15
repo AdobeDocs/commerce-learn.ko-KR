@@ -9,7 +9,8 @@ doc-type: Technical Video
 duration: 3511
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15465
-source-git-commit: fd5b387c1ac8f207d866ae7a3b95c5c28055a744
+exl-id: a8e1cd14-e9ff-46ba-87ea-c1cba3b4f72f
+source-git-commit: 670f1676128544811e471a3dfbcab80cdb95b94f
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -18,7 +19,8 @@ ht-degree: 0%
 
 # 최신 Adobe Commerce 구현 계획
 
-이 웨비나에서는 카탈로그 서비스, 고객 아키텍처 이해 및 Edge Delivery Services 등 Adobe Commerce과 관련된 다양한 주제에 대한 포괄적인 개요를 제공합니다. &#x200B;주제에는 Adobe Commerce Catalog as a Service의 라이브 검색 및 제품 권장 사항, 고객 아키텍처를 이해하는 데 사용되는 API 및 데이터 흐름 분석, Edge Delivery Services의 고성능 및 짧은 지연 시간과 같은 각 서비스의 새로운 기능 및 이점에 대한 내용이 포함되어 있습니다. 또한 문서에는 효율적인 프로젝트 구축을 위한 GRA(Global Reference Architecture) 개념뿐만 아니라 고객과 상호 작용할 때 표준 문서 및 질문 목록을 갖는 것이 중요하다는 언급이 있습니다.
+이 웨비나에서는 카탈로그 서비스, 고객 아키텍처 이해 및 Edge Delivery Services 등 Adobe Commerce과 관련된 다양한 주제에 대한 포괄적인 개요를 제공합니다.
+&#x200B;주제에는 Adobe Commerce Catalog as a Service의 라이브 검색 및 제품 권장 사항, 고객 아키텍처를 이해하는 데 사용되는 API 및 데이터 흐름 분석, Edge Delivery Services의 고성능 및 짧은 지연 시간과 같은 각 서비스의 새로운 기능 및 이점에 대한 내용이 포함되어 있습니다. 또한 문서에는 효율적인 프로젝트 구축을 위한 GRA(Global Reference Architecture) 개념뿐만 아니라 고객과 상호 작용할 때 표준 문서 및 질문 목록을 갖는 것이 중요하다는 언급이 있습니다.
 
 ## 대상자
 

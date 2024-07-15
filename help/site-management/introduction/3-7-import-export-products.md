@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] 비즈니스 사용자용 - 제품 가져오기 및 내보내기"
+title: " 비즈니스 사용자용 [!DNL Commerce] - 제품 가져오기 및 내보내기"
 description: 카탈로그 제품을 가져오고 내보내는 방법에 대해 알아봅니다.
 kt: 5773
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: 109aeab1-a3a4-4e47-99e4-21dabd23d605
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 비즈니스 사용자용 - 제품 가져오기 및 내보내기
+# 비즈니스 사용자용 [!DNL Commerce] - 제품 가져오기 및 내보내기
 
 이 비디오에서:
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)를 참조하세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35958?quality=12&learn=on)
 

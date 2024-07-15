@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Page Builder] 개요'
-description: 페이지 작성 방법 알아보기 [!DNL Commerce] 다음을 사용하여 관리자에 페이지 저장 [!DNL Page Builder].
+description: ' [!DNL Page Builder]을(를) 사용하여  [!DNL Commerce] 관리자 페이지에서 페이지를 저장하는 방법에 대해 알아봅니다.'
 kt: 5563
 doc-type: feature video
 audience: all
@@ -13,16 +13,16 @@ level: Beginner, Intermediate
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 # [!DNL Page Builder] 개요
 
-[!DNL Page Builder] 을 사용하면 시각적 스토리텔링을 강화하고 고객 참여 및 충성도를 높이는 맞춤형 레이아웃을 통해 손쉽게 콘텐츠가 풍부한 페이지를 만들 수 있습니다.
+[!DNL Page Builder]을(를) 사용하면 시각적 스토리텔링을 강화하고 고객 참여 및 충성도를 높이는 사용자 지정 레이아웃으로 콘텐츠가 풍부한 페이지를 손쉽게 만들 수 있습니다.
 
-2.4.3 릴리스부터 [!DNL Page Builder] 는 기본적으로 Adobe Commerce 및 Magento Open Source 모두에서 사용할 수 있습니다. 포함 [!DNL Page Builder] Adobe Commerce에서는 스테이징 및 미리보기, 개인화된 콘텐츠 및 제품 권장 사항을 향후 추가 기능과 통합할 수 있습니다.
+2.4.3 릴리스부터 [!DNL Page Builder]은(는) 기본적으로 Adobe Commerce 및 Magento Open Source 모두에서 사용할 수 있습니다. Adobe Commerce의 [!DNL Page Builder]을(를) 사용하면 스테이징 및 미리 보기, 개인화된 콘텐츠 및 제품 권장 사항을 향후 추가 기능과 통합할 수 있습니다.
 
 이 비디오에서는 다음 방법을 알아봅니다.
 

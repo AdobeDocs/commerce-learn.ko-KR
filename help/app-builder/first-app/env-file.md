@@ -1,7 +1,7 @@
 ---
 title: .env 파일
 description: 이 샘플 애플리케이션의 .env 파일에 있는 파일 유형에 대해 알아봅니다
-landing-page-description: Adobe Commerce에서 사용되는 Adobe Developer App Builder 및 .env 파일에서 사용되는 컨텐츠 유형에 대해 알아봅니다
+landing-page-description: Adobe Commerce에서 사용되는 Adobe Developer App Builder 및 .env 파일에서 사용되는 콘텐츠 유형에 대해 알아봅니다.
 kt: 12423
 doc-type: tutorial
 audience: all
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # .env 파일 생성 및 구성 {#env-file}
 
-다음 `.env` 는 샘플 모듈의 일부가 아니지만 Adobe Developer App Builder 애플리케이션에서 사용하는 데 중요한 특수 파일입니다. 이 파일에는 비밀 및 기타 정보가 포함되어 있습니다. 이 파일을 코드 저장소에 커밋하지 마십시오.
+`.env`은(는) 샘플 모듈의 일부가 아니지만 Adobe Developer App Builder 응용 프로그램에서 사용하는 데 중요한 특수 파일입니다. 이 파일에는 비밀 및 기타 정보가 포함되어 있습니다. 이 파일을 코드 저장소에 커밋하지 마십시오.
 
 ## 이 비디오는 누구의 것입니까?
 
-* Adobe Commerce을 처음 사용하는 개발자로서 Adobe App Builder 사용 경험이 부족하여 다음에 대해 알아보고자 하는 사람 `.env` 파일.
+* Adobe App Builder을 사용하여 경험이 제한된 Adobe Commerce을 처음 사용하는 개발자로서 `.env` 파일에 대해 학습하고자 하는 사람.
 
 ## 비디오 콘텐츠
 
@@ -55,7 +55,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-파일의 샘플 모듈에서 사용되는 이러한 정적 값을 볼 수 있습니다 `actions/commerce.index.js`.
+`actions/commerce.index.js` 파일의 샘플 모듈에서 사용되는 이러한 정적 값을 볼 수 있습니다.
 
 ```javascript
         const oauth = getCommerceOauthClient(

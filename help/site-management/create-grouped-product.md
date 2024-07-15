@@ -1,6 +1,6 @@
 ---
 title: 그룹화된 제품 만들기
-description: REST API 및 상거래 관리자를 사용하여 그룹화된 제품을 만드는 방법을 알아봅니다.
+description: REST API 및 Commerce 관리자를 사용하여 그룹화된 제품을 만드는 방법을 알아봅니다.
 kt: 14585
 doc-type: video
 audience: all
@@ -10,13 +10,13 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: b44376f9f30e3c02d2c43934046e86faac76f17d
+exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
+source-git-commit: 76a67af957b0d8c1eb64ad42f92412f338650d4b
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
 
 ---
-
 
 # 그룹화된 제품 만들기
 
@@ -31,7 +31,7 @@ REST API를 사용하여 관리자에서 그룹 제품을 만듭니다.
 1. 비어 있는 그룹화된 제품을 단순 제품으로 채웁니다.
 1. 빈 그룹화된 제품을 만들고 간단한 제품을 연결합니다.
 
-   단순 제품을 그룹화된 제품에 연결하면 정렬 순서 속성(`position`) 페이로드의 은 프론트엔드에서 사용하여 연결된 제품을 원하는 순서로 표시합니다. 다음과 같은 경우 `position` 속성이 지정되지 않은 경우 제품은 그룹화된 제품에 추가된 순서대로 표시됩니다.
+   단순 제품을 그룹화된 제품에 연결하면 페이로드의 정렬 순서 특성(`position`)이 프론트엔드에서 사용되어 연결된 제품을 원하는 순서로 표시합니다. `position` 특성을 지정하지 않으면 그룹화된 제품에 추가된 순서대로 제품이 표시됩니다.
 
 Adobe Commerce 관리자에서 그룹화된 제품을 만들 때 먼저 간단한 제품을 만듭니다. 그룹화된 제품을 만들 준비가 되면 간단한 제품을 그룹화된 제품에 한 묶음으로 할당하여 연결합니다.
 
@@ -158,7 +158,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/my-new-grouped-produ
 
 ## 기존의 그룹화된 제품에 세 번째 단순 제품 추가
 
-해당 직책 번호 포함(다음을 제외한 모든 항목) `1` 또는 `2`)는 그룹화된 제품과 원래 연결된 처음 두 제품에 사용됩니다. 이 예제에서 위치는 입니다. `4`.
+그룹화된 제품에 처음 연결된 두 제품에 사용되는 적절한 위치 번호(`1` 또는 `2`을 제외한 모든 위치)를 포함하십시오. 이 예제의 경우 위치는 `4`입니다.
 
 ```bash
 curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
@@ -183,10 +183,10 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 
 ## 그룹화된 제품에서 간단한 제품 삭제
 
-종료 [단순 제품 삭제](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) 그룹화된 제품에서 다음을 사용합니다. `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
+그룹화된 제품에서 [간단한 제품을 삭제](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/)하려면 `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`을(를) 사용합니다.
 
-로 사용할 항목 검색 `{type}`, xdebug를 사용하여 요청을 캡처하고 $linkTypes를 평가합니다. `related`, `crosssell`, `uupsell`, 및 `associated`.
-![그룹화된 제품 링크 유형 - 대체 텍스트](/help/assets/site-management/catalog/grouped-types.png "xdebug 세션 중에 캡처된 그룹화된 제품 링크 유형")
+`{type}`(으)로 사용할 항목을 검색하려면 xdebug를 사용하여 요청을 캡처하고 $linkTypes: `related`, `crosssell`, `uupsell` 및 `associated`을(를) 평가하십시오.
+![그룹화된 제품 링크 형식 - 대체 텍스트](/help/assets/site-management/catalog/grouped-types.png "xdebug 세션 중에 캡처된 그룹화된 제품 링크 형식")
 
 단순 제품을 그룹화된 제품에 연결할 때 페이로드에는 다음과 유사한 몇 가지 섹션이 포함되어 있습니다.
 
@@ -203,9 +203,9 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
         }
 ```
 
-페이로드에서 `link_type` 값 `associated` 다음을 제공합니다. `{type}` DELETE 요청에 필요한 값입니다. 요청 URL은 다음과 유사합니다. `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
+페이로드에서 `link_type` 값 `associated`은(는) DELETE 요청에 필요한 `{type}` 값을 제공합니다. 요청 URL은 `/V1/products/my-new-grouped-product/links/associated/product-sku-three`과(와) 비슷합니다.
 
-이 포함된 간단한 제품을 삭제하려면 cURL 요청을 참조하십시오. `product-sku-three` 다음을 포함하는 그룹화된 제품의 SKU `my-new-grouped-product` SKU
+`my-new-grouped-product` SKU가 있는 그룹화된 제품에서 `product-sku-three` SKU가 있는 간단한 제품을 삭제하려면 cURL 요청을 참조하십시오.
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-new-grouped-product/links/associated/product-sku-three' \

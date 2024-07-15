@@ -25,7 +25,7 @@ Adobe Commerce용 Fastly의 클라우드 사용에 대해 알아봅니다.
 ## 이 비디오는 누구의 것입니까?
 
 - 웹 사이트 관리자
-- 상거래 설계자
+- Commerce 아키텍트
 - 전자 상거래 웹 사이트 소유자
 
 ## 비디오 콘텐츠
@@ -34,7 +34,7 @@ Adobe Commerce용 Fastly의 클라우드 사용에 대해 알아봅니다.
 
 ## 비디오에 언급된 Experience League 설명서 및 Fastly Adobe Commerce 검사기
 
-- [Fastly 검사기](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
+- [빠르게 확인](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
 - [Experience League의 Fastly 서비스](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html)
 - [Fastly WAF FAQ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html)
 - [이미지 최적화](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html)

@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] 비즈니스 사용자용 - 스토어 설정"
+title: " 비즈니스 사용자용 [!DNL Commerce] - 스토어 설정"
 description: 로케일 설정, 저장 정보, 보안 및 비보안 URL, 웹 사이트 제목, 로고, 저작권 정보, 커뮤니케이션 이메일 로고, 저장 이메일 주소, 통화 옵션 및 환율에 대해 알아봅니다.
 kt: 5764
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: c4b78f66-26eb-4b7e-950d-f2a8ebab9783
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 비즈니스 사용자용 - 스토어 설정
+# 비즈니스 사용자용 [!DNL Commerce] - 스토어 설정
 
 이 비디오에서:
 
@@ -39,10 +39,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)를 참조하세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35949?quality=12&learn=on)
 
 ## 추가 리소스
 
-[저장소 세부 정보 - [!DNL Commerce] 시작 안내서](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)
+[스토어 세부 정보 - [!DNL Commerce] 시작 안내서](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)

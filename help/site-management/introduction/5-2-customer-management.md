@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] 비즈니스 사용자용 - 고객 관리"
-description: 에서 고객을 만들면서 고객 서비스에 권장되는 권한에 대해 알아봅니다. [!DNL Admin], 고객 정보 관리 및 고객 그룹 생성.
+title: " 비즈니스 사용자용 [!DNL Commerce] - 고객 관리"
+description: 고객 서비스에 대한 권장 권한,  [!DNL Admin]에서 고객 만들기, 고객 정보 관리 및 고객 그룹 만들기에 대해 알아봅니다.
 kt: 5779
 doc-type: video
 activity: use
@@ -12,17 +12,17 @@ level: Beginner, Intermediate
 exl-id: 7a0743ff-03dd-49cc-9d41-6674b71a4480
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 비즈니스 사용자용 - 고객 관리
+# 비즈니스 사용자용 [!DNL Commerce] - 고객 관리
 
 이 비디오에서:
 
 - CSR(고객 서비스 담당자)에 대한 권장 권한
-- 에서 고객 만들기 [!DNL Admin]
+- [!DNL Admin]에서 고객을 만드는 중
 - 고객 정보 관리
 - 고객 그룹 만들기
 

@@ -15,8 +15,8 @@ level: Beginner, Intermediate
 exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 32%
+source-wordcount: '168'
+ht-degree: 35%
 
 ---
 
@@ -40,6 +40,6 @@ ht-degree: 32%
 
 ## 추가 리소스
 
-- [업그레이드 호환성 도구](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
-- [Magento PHP Storm 플러그인](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
-- [릴리스된 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [호환성 도구 업그레이드](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
+- [PHP Storm 플러그인 Magento](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
+- [릴리스 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)

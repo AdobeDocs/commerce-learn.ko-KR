@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] 비즈니스 사용자용 - 구성 가능한 속성"
+title: " 비즈니스 사용자용 [!DNL Commerce] - 구성 가능한 특성"
 description: 구성 가능한 제품 속성을 설정하는 방법을 알아봅니다.
 kt: 5772
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: b528b7d8-0cda-4ee0-88f6-90789e774472
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 비즈니스 사용자용 - 구성 가능한 속성
+# 비즈니스 사용자용 [!DNL Commerce] - 구성 가능한 특성
 
 이 비디오에서:
 
@@ -31,12 +31,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)를 참조하세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35957?quality=12&learn=on)
 
 ## 추가 리소스
 
-[구성 가능한 제품 - [!DNL Commerce] 카탈로그 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html)
+[구성 가능한 제품 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html)
 
-[속성 세트 - [!DNL Commerce] 카탈로그 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)
+[특성 집합 - [!DNL Commerce] 카탈로그 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

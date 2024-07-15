@@ -13,14 +13,14 @@ level: Beginner, Intermediate
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
 source-git-commit: d6e7cfeca2a3d3e747abf49d4c5b3e3537299507
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # 회사 크레딧 관리
 
-다음을 보유한 회사의 경우 _[!UICONTROL Payment on Account]_사용 가능하고 회사 크레딧을 사용할 수 있는 경우, 부여된 크레딧 한도까지 계정에서 구매할 수 있습니다. 이 기능을 사용하면 고객은 계정 대시보드에서 회사 크레딧 상태를 확인할 수 있습니다.
+_[!UICONTROL Payment on Account]_을(를) 사용하도록 설정하고 회사 크레딧을 사용할 수 있는 회사의 경우, 부여된 크레딧 한도까지 계정에서 구매할 수 있습니다. 이 기능을 사용하면 고객은 계정 대시보드에서 회사 크레딧 상태를 확인할 수 있습니다.
 
 각 회사 프로파일에 대해 다음과 같은 신용 관련 매개변수를 설정할 수 있습니다.
 
@@ -43,5 +43,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [계정에서 결제 구성](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
+- [계정에 대한 결제 구성](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
 - [회사 크레딧 관리](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)

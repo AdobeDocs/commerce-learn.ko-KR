@@ -10,7 +10,8 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 49dd1cecc9af2ed68150a8385e7800f35ca983fc
+exl-id: 96877db6-54a3-4a89-ad84-c4559806b7fb
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # Adobe Commerce에 대한 결제 서비스 구성
 
-Adobe Commerce 및 Magento Open Source용 결제 서비스 사용을 시작하려면 몇 가지 온보딩 단계를 완료해야 합니다. 시청 _Adobe Commerce에 대한 결제 서비스 구성_ 비디오 를 참조하십시오.
+Adobe Commerce 및 Magento Open Source용 결제 서비스 사용을 시작하려면 몇 가지 온보딩 단계를 완료해야 합니다. 시작 방법에 대한 예는 _Adobe Commerce에 대한 결제 서비스 구성_ 비디오를 시청하십시오.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -32,6 +33,6 @@ Adobe Commerce 및 Magento Open Source용 결제 서비스 사용을 시작하�
 
 ## 추가 리소스
 
-- [온보드 결제 서비스](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
+- [결제 서비스 온보딩](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
 - [결제 서비스 안내서](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
-- [Commerce Services 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}
+- [Commerce 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}

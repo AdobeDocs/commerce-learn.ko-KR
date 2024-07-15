@@ -1,6 +1,6 @@
 ---
 title: 가상 제품 만들기
-description: REST API 및 상거래 관리자를 사용하여 가상 제품을 만드는 방법을 알아봅니다.
+description: REST API 및 Commerce 관리자를 사용하여 가상 제품을 만드는 방법을 알아봅니다.
 kt: 14464
 doc-type: video
 audience: all
@@ -10,9 +10,10 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 225faceffefc31a6205f689933210510dba235d1
+exl-id: 5149b6b4-5fbf-467a-a412-6dce7188bcb9
+source-git-commit: a9712c4354967e8e53c421878be8b83bb6056e6d
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---

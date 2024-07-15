@@ -10,13 +10,13 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
+exl-id: 6cecba51-8d39-46f5-9864-80126d8ca3da
+source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # 명령줄을 사용하여 관리자 구성 보기 및 설정
 
@@ -59,7 +59,7 @@ SELECT * FROM core_config_data WHERE path = 'trans_email/ident_sales/email';
 코드 베이스의 어딘가에 정의된 구성 값을 찾는 방법
 `grep -rnw vendor/magento/ -e 'sales@example.com'`
 
-터미널에서 페이지를 보고 줄 번호를 표시하려면 `cat -n vendor/magento/module-email/etc/config.xml`
+터미널에서 페이지를 보고 줄 번호 `cat -n vendor/magento/module-email/etc/config.xml`을(를) 표시하려면
 
 ## 추가 리소스
 

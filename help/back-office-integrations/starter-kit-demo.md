@@ -10,13 +10,13 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f275831ad706fa26a8c200a92a75907a7dc97ba4
+exl-id: 8895c904-3cf6-4bd1-917d-f9c91caa4ea9
+source-git-commit: 13d30cb06aa5d704aadf77a1f781ba0443c11af5
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
-
 
 # 백오피스 통합을 위한 스타터 키트 데모
 
@@ -29,7 +29,7 @@ Adobe Commerce 백오피스 통합 시작 키트에 대해 알아봅니다. 이 
 
 ## 비디오 콘텐츠
 
-* Adobe Developer 콘솔에서 프로젝트 설정
+* Adobe Developer Console에서 프로젝트 설정
 * 다른 작업 공간
 * API 추가
 * 인증 유형

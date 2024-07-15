@@ -12,8 +12,8 @@ level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 1%
+source-wordcount: '91'
+ht-degree: 0%
 
 ---
 
@@ -32,5 +32,5 @@ ht-degree: 1%
 
 ## 추가 리소스
 
-- [[!DNL Page Builder] Templates - [!DNL Page Builder] 사용 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+- [[!DNL Page Builder] 템플릿 - [!DNL Page Builder] 사용 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
 - [템플릿 추가 - [!DNL Page Builder] 개발자 안내서](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

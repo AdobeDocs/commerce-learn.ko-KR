@@ -1,8 +1,8 @@
 ---
 title: Commerce Intelligence - 집단 Report Builder
-description: Commerce Intelligence Cohort Report Builder을 사용하여 비즈니스와 관련된 최적화된 보고 및 분석을 만드는 방법에 대해 알아봅니다.
-landing-page-description: 이 비디오를 통해 Commerce Intelligence Cohort Report Builder을 사용하여 비즈니스와 관련된 최적화된 보고 및 분석을 만드는 방법에 대해 알아보십시오.
-short-description: 이 비디오를 통해 Commerce Intelligence Cohort Report Builder을 사용하여 비즈니스와 관련된 최적화된 보고 및 분석을 만드는 방법에 대해 알아보십시오.
+description: Commerce Intelligence 집단 Report Builder을 사용하여 비즈니스와 관련된 최적화된 보고 및 분석을 만드는 방법을 알아봅니다.
+landing-page-description: 이 비디오를 통해 Commerce Intelligence 집단 Report Builder을 사용하여 비즈니스와 관련된 최적화된 보고 및 분석을 만드는 방법에 대해 알아보십시오.
+short-description: 이 비디오를 통해 Commerce Intelligence 집단 Report Builder을 사용하여 비즈니스와 관련된 최적화된 보고 및 분석을 만드는 방법에 대해 알아보십시오.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Commerce Intelligence
@@ -16,14 +16,14 @@ level: Beginner, Intermediate
 exl-id: 1d5d6f96-3e0d-4c0d-a8fe-370be6ea1b38
 source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # Commerce Intelligence - 집단 Report Builder
 
-사용자의 다양한 하위 집합이 시간에 따라 어떻게 행동하는지 연구하고 싶습니까? 예를 들어 프로모션 기간 동안 등록한 사용자가 등록하지 않은 사용자보다 평균 라이프타임 수익이 더 높은지 생각해 본 적이 있습니까? 답변이 다음과 같은 경우 _예_&#x200B;그러면 집단 Report Builder 이 완벽한 도구입니다. Commerce Intelligence는 이 분석을 수행하고 비즈니스와 관련이 있도록 최적화되었습니다.
+사용자의 다양한 하위 집합이 시간에 따라 어떻게 행동하는지 연구하고 싶습니까? 예를 들어 프로모션 기간 동안 등록한 사용자가 등록하지 않은 사용자보다 평균 라이프타임 수익이 더 높은지 생각해 본 적이 있습니까? 답변이 _예_&#x200B;이면 집단 Report Builder이 완벽한 도구입니다. Commerce Intelligence은 이 분석을 수행하고 비즈니스와 관련이 있도록 최적화되었습니다.
 
 이 비디오에서:
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Commerce Intelligence를 처음 사용하는 경우 [Adobe Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} 는 데이터 집계, 분석 및 시각화를 통해 더 나은 비즈니스 통찰력과 결과를 도출하기 위한 전체 개요를 제공합니다.
+>Commerce Intelligence을 처음 사용하는 경우 [Adobe Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}에서 데이터 집계, 분석 및 시각화를 통해 더 나은 비즈니스 통찰력과 결과를 얻을 수 있는 전체 개요를 제공합니다.
 
 ## 이 비디오는 누구의 것입니까?
 

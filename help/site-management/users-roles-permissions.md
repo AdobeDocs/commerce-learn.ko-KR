@@ -1,6 +1,6 @@
 ---
 title: 사용자 역할 및 권한 관리
-description: 에 대한 액세스를 제어하는 데 사용되는 사용자 계정 및 권한에 대해 알아봅니다 [!DNL Commerce] 웹 사이트를 만들고 관리자 위치에 데이터를 저장합니다.
+description: ' [!DNL Commerce] 웹 사이트에 대한 액세스를 제어하고 관리자에 데이터를 저장하는 데 사용되는 사용자 계정 및 권한에 대해 알아봅니다.'
 kt: 5610
 doc-type: feature video
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: d06815c2-4b2a-4219-8c4e-7aa41a2be25d
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---

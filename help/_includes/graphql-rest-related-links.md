@@ -4,7 +4,7 @@ description: GraphQL REST 섹션의 관련 페이지에 대한 링크
 source-git-commit: a285852b7960d93687388e09ad901bb9a1ee675a
 workflow-type: tm+mt
 source-wordcount: '25'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

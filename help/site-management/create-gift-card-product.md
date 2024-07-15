@@ -1,6 +1,6 @@
 ---
 title: 기프트 카드 제품 만들기
-description: REST API 및 상거래 관리자를 사용하여 기프트 카드 제품을 만드는 방법을 알아봅니다.
+description: REST API 및 Commerce 관리자를 사용하여 기프트 카드 제품을 만드는 방법을 알아봅니다.
 kt: 14587
 doc-type: video
 audience: all
@@ -11,7 +11,8 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 duration: 579
-source-git-commit: bcef1e34627bac55cfc75c85ef837474d53c193a
+exl-id: c18fd80e-1a25-4346-a8c5-3b5449d49965
+source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%

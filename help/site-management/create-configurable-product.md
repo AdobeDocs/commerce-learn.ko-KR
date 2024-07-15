@@ -1,6 +1,6 @@
 ---
 title: 구성 가능한 제품 만들기
-description: REST API 및 상거래 관리자를 사용하여 구성 가능한 제품을 만드는 방법을 알아봅니다.
+description: REST API 및 Commerce 관리자를 사용하여 구성 가능한 제품을 만드는 방법을 알아봅니다.
 kt: 14586
 doc-type: video
 audience: all
@@ -10,13 +10,13 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: f3ec375c2332bfae98970d7e10a6a7ad258386e3
+exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
 
 ---
-
 
 # 구성 가능한 제품 만들기
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 REST API를 사용하여 구성 가능한 제품을 만듭니다.
 
-1. 다음에 대한 속성 가져오기 [속성 집합](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) 후속 API 호출에 ID 번호를 사용합니다.
+1. 후속 API 호출에 ID 번호를 사용하려면 [특성 집합](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)의 특성을 가져옵니다.
 1. 구성 가능한 제품에서 사용할 간단한 제품을 만듭니다.
 1. 구성 가능한 빈 제품을 만들고 간단한 제품을 연결합니다.
 1. 구성 가능한 제품에 대한 제품 속성을 설정합니다.
@@ -85,7 +85,7 @@ Adobe Commerce 관리자에서 구성 가능한 제품을 만들 때 먼저 간�
 ```
 
 
-속성 ID를 검색하여 구성 가능한 제품을 설정하려면 `attribute-sets/10/attributes` 대체할 다음 cURL 요청의 일부 `10` 속성 세트 ID를 사용하는 환경. 이 요청은 GET 메서드를 사용합니다.
+특성 ID를 검색하여 구성 가능한 제품을 설정하려면 다음 cURL 요청의 `attribute-sets/10/attributes` 부분을 업데이트하여 `10`을(를) 사용자 환경의 특성 세트 ID로 바꾸십시오. 이 요청은 GET 메서드를 사용합니다.
 
 ```bash
 curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes' \
@@ -100,8 +100,8 @@ API를 사용하여 cURL을 사용하여 다음 POST 요청을 전송하여 첫 
 
 요청을 제출하기 전에 환경에 대한 값으로 예제를 업데이트하십시오.
 
-- 변경 `"attribute-set": 10` 바꾸기 `10` (속성 세트 ID 포함)
-- 변경 `"value": "13"` 바꾸기 `13` 를 사용(환경 값 포함)하십시오.
+- `"attribute-set": 10`을(를) 변경하여 `10`을(를) 환경의 특성 집합 ID로 바꾸십시오.
+- `13`을(를) 환경의 값으로 바꾸려면 `"value": "13"`을(를) 변경하십시오.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -141,8 +141,8 @@ API를 사용하여 cURL을 사용하여 다음 POST 요청을 전송하여 두 
 
 요청을 제출하기 전에 환경에 대한 값으로 예제를 업데이트하십시오.
 
-- 변경 `"attribute_set_id": 10,` 및 바꾸기 `10` (속성 세트 id가 있어야 함).
-- 변경 `"value": "14"` 및 바꾸기 `14` 를 사용(환경 값 포함)하십시오.
+- `"attribute_set_id": 10,`을(를) 변경하고 `10`을(를) 환경에서 특성 집합 ID로 바꾸십시오.
+- `"value": "14"`을(를) 변경하고 `14`을(를) 환경의 값으로 바꾸십시오.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -182,8 +182,8 @@ cURL을 사용하여 다음 POST 요청을 전송하여 세 번째 간단한 제
 
 요청을 제출하기 전에 환경에 대한 값으로 예제를 업데이트하십시오.
 
-- 변경 `"attribute_set_id": 10,` 바꾸기 `10` (속성 세트 ID 포함)
-- 변경 `"value": "15"` 및 바꾸기 `15` 를 사용(환경 값 포함)하십시오.
+- `"attribute_set_id": 10,`을(를) 변경하여 `10`을(를) 환경의 특성 집합 ID로 바꾸십시오.
+- `"value": "15"`을(를) 변경하고 `15`을(를) 환경의 값으로 바꾸십시오.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -223,8 +223,8 @@ cURL을 사용하여 다음 POST 요청을 전송하여 빈 구성 가능한 제
 
 요청을 제출하기 전에 환경에 대한 값으로 예제를 업데이트하십시오.
 
-- 변경 `"attribute_set_id": 10,` 및 바꾸기 `10` (속성 세트 id가 있어야 함)
-- 변경 `"value": "93"` 및 바꾸기 `93` 를 사용(환경 값 포함)하십시오.
+- `"attribute_set_id": 10,`을(를) 변경하고 `10`을(를) 환경의 특성 집합 ID로 바꾸십시오.
+- `"value": "93"`을(를) 변경하고 `93`을(를) 환경의 값으로 바꾸십시오.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -254,7 +254,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 cURL을 사용하여 다음 POST 요청을 전송하여 구성 가능한 제품에 사용할 수 있는 옵션을 설정합니다.
 
-요청을 제출하기 전에 변경 `"attribute_id": 93,` 바꾸기 `93` (환경의 속성 id) 사용.
+요청을 제출하기 전에 `"attribute_id": 93,`을(를) 변경하여 `93`을(를) 환경의 특성 ID로 바꾸십시오.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/options' \
@@ -290,7 +290,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Ha
 
 다음 POST 요청을 전송하여 이러한 간단한 제품을 구성 가능한 제품의 하위 항목으로 추가합니다. 각 제품에 대해 별도의 요청을 제출합니다.
 
-각 요청에 대해 `childSKU` 값을 추가하는 하위 제품에 대한 값과 함께 사용합니다. 다음 예제에서는 간단한 제품을 지정합니다 `kids-Hawaiian-Ukulele-red` SKU를 사용하여 구성 가능한 제품 `Kids-Hawaiian-Ukulele-red`.
+각 요청에 대해 추가할 하위 제품에 대한 값으로 `childSKU` 값을 업데이트하십시오. 다음 예제에서는 간단한 제품 `kids-Hawaiian-Ukulele-red`을(를) SKU `Kids-Hawaiian-Ukulele-red`을(를) 사용하여 구성 가능한 제품에 할당합니다.
 
 
 ```bash
@@ -347,7 +347,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 
 ## 추가 리소스
 
-- [구성 가능한 제품 튜토리얼 만들기](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
+- [구성 가능한 제품 자습서 만들기](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
 - [구성 가능한 제품](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
 - [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

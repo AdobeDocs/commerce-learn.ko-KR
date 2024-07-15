@@ -9,9 +9,10 @@ feature: Backend Development, Logs, Services
 topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: ae85993d98fb8620b763a212e5a2d7e53596870f
+exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -40,4 +41,4 @@ Galera 클러스터는 성능과 확장성에 도움이 됩니다. 보조 데이
 
 ## 유용한 리소스
 
-- [갈레라 은하단](https://galeracluster.com/)
+- [갤러리 클러스터](https://galeracluster.com/)

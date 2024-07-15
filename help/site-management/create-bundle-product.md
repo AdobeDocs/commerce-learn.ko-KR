@@ -1,6 +1,6 @@
 ---
 title: 번들 제품 만들기
-description: REST API 및 상거래 관리자를 사용하여 번들 제품을 만드는 방법을 알아봅니다.
+description: REST API 및 Commerce 관리자를 사용하여 번들 제품을 만드는 방법을 알아봅니다.
 kt: 14589
 doc-type: video
 audience: all
@@ -10,19 +10,19 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: e02540438df1cc85e6be7440351a72e77cfc1bf2
+exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
-
 # 번들 제품 만들기
 
 번들 제품은 상위 제품 아래에 여러 제품을 그룹화하는 방법입니다. 이러한 하위 제품은 정의된 제품 세트이거나 고객을 위한 유연한 구성 옵션을 제공하는 몇 가지 변형을 제공할 수 있습니다. 번들 제품 유형을 설정하는 데 시간이 조금 더 걸리며 구성하기 전에 몇 가지 계획을 수행해야 합니다. 그러나 번들 제품을 제공하면 고객이 제품 선택을 보다 쉽게 사용자 지정할 수 있으므로 쇼핑 경험이 향상됩니다.
 
-예를 들어 이라는 제품 번들을 제공할 수 있습니다. `Learning to surf` 웹 스토어에서. 번들은 사용 가능한 옵션을 지정하는 지정된 하위 제품의 컨테이너 역할을 하는 상위 제품입니다.
+예를 들어 웹 스토어에서 `Learning to surf`이라는 제품 번들을 제공할 수 있습니다. 번들은 사용 가능한 옵션을 지정하는 지정된 하위 제품의 컨테이너 역할을 하는 상위 제품입니다.
 
 - 표준 서핑보드
 - 전형적인 서핑보드 가죽 끈
@@ -69,7 +69,7 @@ Adobe Commerce 관리에서 번들 제품을 만들 때 먼저 간단한 제품�
 
 요청을 제출하기 전에 환경에 대한 값으로 예제를 업데이트하십시오.
 
-- 변경 `"attribute-set": 4` 바꾸기 `4` (속성 세트 ID 포함)
+- `"attribute-set": 4`을(를) 변경하여 `4`을(를) 환경의 특성 집합 ID로 바꾸십시오.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -192,7 +192,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 요청을 제출하기 전에 환경에 대한 값으로 예제를 업데이트하십시오.
 
-- 변경 `"attribute_set_id": 4,` 및 바꾸기 `4` (속성 세트 id가 있어야 함)
+- `"attribute_set_id": 4,`을(를) 변경하고 `4`을(를) 환경의 특성 집합 ID로 바꾸십시오.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -321,7 +321,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 
 번들 제품 옵션을 업데이트할 때에는 이 제품과 연결할 모든 옵션을 포함해야 합니다. 원래 옵션 세트에 세 개의 제품이 포함되어 있고 하나가 제거된 경우 POST 요청에 세 개의 옵션을 모두 포함하여 제품 번들이 모든 옵션을 지정하는지 확인하십시오. 제거한 옵션만 포함한 경우 업데이트된 제품 번들에는 해당 옵션만 포함됩니다.
 
-번들 제품에 대한 생성 응답을 검토하여 옵션 ID를 찾습니다. 그 응답에서 `option_id` 은(는) `35`.
+번들 제품에 대한 생성 응답을 검토하여 옵션 ID를 찾습니다. 해당 응답에서 `option_id`은(는) `35`입니다.
 
 ```json
 ...
@@ -429,7 +429,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## 추가 리소스
 
-- [번들 제품 튜토리얼 만들기](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-- [번들 제품](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
+- [번들 제품 자습서 만들기](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+- [제품 번들](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
 - [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

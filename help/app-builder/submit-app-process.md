@@ -10,17 +10,17 @@ feature: API Mesh, App Builder, Extensibility, Tools and External Services
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
 level: Beginner, Intermediate
-exl-id: 085b5a67-4a67-4ce0-9da4-c9d4460cd356
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+exl-id: 6a217ea6-8d6b-4ecb-bbc3-b5b27df3bde9
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce Marketplace에 앱을 제출하는 방법을 알아봅니다
 
-Adobe Commerce 마켓플레이스에서 이제 App Builder 앱 목록에 대한 제출을 수락합니다. App Builder는 Adobe Commerce용 안전하고 확장 가능한 앱을 구축하는 데 필요한 모든 도구와 서비스를 개발자에게 제공하는 차세대 확장성 플랫폼입니다. 개발자는 이제 앱을 Adobe Commerce Marketplace에 게시할 수 있습니다. 이는 기업이 요구 사항에 부합하는 고품질의 앱을 찾고 구매할 수 있는 신뢰할 수 있는 소스입니다. 다음 위치로 이동하여 검토할 앱을 제출할 수 있습니다. [https://commercedeveloper.adobe.com](https://commercedeveloper.adobe.com/){target="blank"}.
+Adobe Commerce 마켓플레이스에서 이제 App Builder 앱 목록에 대한 제출을 수락합니다. App Builder은 개발자에게 Adobe Commerce용 안전하고 확장 가능한 앱을 구축하는 데 필요한 모든 도구와 서비스를 제공하는 차세대 확장성 플랫폼입니다. 개발자는 이제 앱을 Adobe Commerce Marketplace에 게시할 수 있습니다. 이는 기업이 요구 사항에 부합하는 고품질의 앱을 찾고 구매할 수 있는 신뢰할 수 있는 소스입니다. [https://commercedeveloper.adobe.com](https://commercedeveloper.adobe.com/){target="blank"}(으)로 이동하여 검토할 앱을 제출할 수 있습니다.
 
 ## 이 비디오는 누구의 것입니까?
 

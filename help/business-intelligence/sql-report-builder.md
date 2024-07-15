@@ -1,5 +1,5 @@
 ---
-title: Commerce Intelligence - SQL Report Builder
+title: COMMERCE INTELLIGENCE - SQL REPORT BUILDER
 description: Commerce Intelligence SQL Report Builder을 사용하여 데이터 웨어하우스를 직접 쿼리하고 결과를 보고 차트로 빠르게 변환하는 방법에 대해 알아봅니다.
 landing-page-description: 이 비디오를 통해 Commerce Intelligence SQL Report Builder을 사용하여 데이터 웨어하우스를 직접 쿼리하고 결과를 보고 차트로 빠르게 변환하는 방법에 대해 알아보십시오.
 short-description: 이 비디오를 통해 Commerce Intelligence SQL Report Builder을 사용하여 데이터 웨어하우스를 직접 쿼리하고 결과를 보고 차트로 빠르게 변환하는 방법에 대해 알아보십시오.
@@ -16,7 +16,7 @@ level: Beginner, Intermediate
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ SQL Report Builder을 사용하면 데이터 웨어하우스를 직접 쿼리하
 
 >[!TIP]
 >
->Commerce Intelligence를 처음 사용하는 경우 [Adobe Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} 는 데이터 집계, 분석 및 시각화를 통해 더 나은 비즈니스 통찰력과 결과를 도출하기 위한 전체 개요를 제공합니다.
+>Commerce Intelligence을 처음 사용하는 경우 [Adobe Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}에서 데이터 집계, 분석 및 시각화를 통해 더 나은 비즈니스 통찰력과 결과를 얻을 수 있는 전체 개요를 제공합니다.
 
 ## 이 비디오는 누구의 것입니까?
 
