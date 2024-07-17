@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 0b42ffc1c0b55c75fdb7b25b86ec8049edb5db97
+source-git-commit: c515ff321849045ba1abed2b3b5f6d3795854f91
 workflow-type: tm+mt
-source-wordcount: '670'
+source-wordcount: '673'
 ht-degree: 3%
 
 ---
@@ -34,6 +34,7 @@ ht-degree: 3%
       + [데이터 연결](../capabilities/data-connection.md)
       + [라이브 검색 전체 데모](../capabilities/live-search-full-demonstration.md)
       + [구성 가능한 Commerce](../capabilities/what-is-composable-commerce.md)
+      + [품질 패치 도구](../capabilities/quality-patch-tool.md)
    + {#create-products} 제품 만들기
       + [간단한 제품](../site-management/create-simple-product.md)
       + [가상 제품](../site-management/create-virtual-product.md)
