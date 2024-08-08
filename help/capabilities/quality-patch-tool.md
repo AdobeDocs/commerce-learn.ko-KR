@@ -1,6 +1,6 @@
 ---
-title: 품질 패치 도구에 대해 알아보기
-description: 양질의 패치를 적용하여 전자 상거래 플랫폼의 안정성과 보안을 향상시킵니다. 이 필수 도구를 사용하여 최신 상태를 유지하고 문제를 해결하며 성능을 최적화합니다.
+title: 품질 패치 도구
+description: 문제 진단, 솔루션 찾기 및 사용 가능한 기존 패치 목록에 있는 패치 적용 시 품질 패치 도구를 사용하는 방법에 대해 알아봅니다.
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
 role: Admin, Architect, User
@@ -9,14 +9,15 @@ doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
-source-git-commit: 0458526b13266625a23d8ddc2ca8829d11ed07d5
+exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
+source-git-commit: 43085b1a139e21ea695cc10ffab1413088ba4426
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce 품질 패치 도구
+# 품질 패치 도구
 
 문제 진단, 솔루션 찾기 및 사용 가능한 기존 패치 목록에 있는 패치 적용 시 품질 패치 도구를 사용하는 방법에 대해 알아봅니다.
 
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 문제를 평가한 다음 몇 가지 기본 기술을 사용하여 수정 사항을 적용할 품질 패치를 찾는 방법을 알아봅니다.
 
-## 이 비디오는 누구의 것입니까?
+## 대상자
 
 * 문제를 찾고 이 도구를 활용하여 알려진 문제에 대한 GIT 패치를 적용하는 방법을 학습하는 개발자
 
