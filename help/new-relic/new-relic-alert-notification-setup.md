@@ -11,16 +11,16 @@ feature: Tools and External Services, Communications, Security
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
-source-git-commit: 7873d61123734cbe876ec2f00d552505457053c0
+source-git-commit: fae28537a460ccaa119b5374cff9e96378aad31d
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
 # New Relic 경고 알림 설정
 
-New Relic에서 경고, 정책 및 대상을 찾는 방법을 알아봅니다. 기존 정책에 이메일을 추가하는 것이 얼마나 쉬운지 관찰하십시오.
+New Relic에서 경고, 정책, 워크플로우 및 대상을 찾는 방법을 알아봅니다. 기존 정책에 이메일을 추가하는 것이 얼마나 쉬운지 관찰하십시오.
 
 ## 이 비디오는 누구의 것입니까?
 
