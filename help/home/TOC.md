@@ -3,10 +3,10 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 6ae8bc718b34a7330357a588d64e968050e8b106
+source-git-commit: 8a90379998b5540c9fe88dafed14002cd276e926
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 3%
+source-wordcount: '712'
+ht-degree: 2%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 3%
       + [배포, 테스트, 모니터링 및 보안](../cloud/deployments-testing-monitoring-security.md)
       + [SaaS 서비스, 지원 및 커뮤니케이션 및 다음 단계](../cloud/saas-offerings-support-communications-next-steps.md)
    + 모범 사례 {#commerce-cloud-best-practices}
+      + [지원 요청](../cloud/best-practices/support-request.md)
       + [실행 전 검사 목록](../cloud/best-practices/pre-launch-checklist.md)
 + {#getting-started} 시작
    + 전역 참조 아키텍처{#global-reference-architecture}
@@ -50,6 +51,10 @@ ht-degree: 3%
       + [마지막 마일 통합](../back-office-integrations/last-mile-integration.md)
       + [Webhook 수집](../back-office-integrations/webhook-ingestion.md)
       + [재시도 메커니즘](../back-office-integrations/retry-mechanism.md)
+   + 도움말 및 지원 {#help-and-support}
+      + [지원 티켓 만들기](../help-and-support/create-a-support-ticket.md)
+      + [지원 티켓 검색, 추적, 댓글 달기 및 에스컬레이션](../help-and-support/search-track-comment-escalate-support-ticket.md)
+      + [감시자 추가 및 제거, 티켓 닫기 및 다시 열기](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + 웨비나 및 이벤트 {#webinars-and-events}
    + 지원 시리즈 {#enablement-series}
       + [Commerce 통합을 위한 TOC 줄이기](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
