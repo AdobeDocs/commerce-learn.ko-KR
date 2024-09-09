@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 131
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-16050
-source-git-commit: 8a90379998b5540c9fe88dafed14002cd276e926
+exl-id: 15212a32-5b6b-4b49-8bf7-acc3bf39b6fa
+source-git-commit: 82e4e3e2a922a513c7d45ce3833971bda093a86f
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-
-# 감시자 추가 및 제거 티켓 닫기 및 다시 열기
+# 감시자 추가 및 제거, 티켓 닫기 및 다시 열기
 
 Adobe Commerce용 Experience League 내에서 지원 티켓을 닫거나 다시 열 수 있을 뿐만 아니라 감시자를 추가 및 제거하는 방법에 대해 알아봅니다.
 
