@@ -3,10 +3,10 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 8a90379998b5540c9fe88dafed14002cd276e926
+source-git-commit: 8ebc37e432f2898ad9df0497b41f5d4df8947e67
 workflow-type: tm+mt
-source-wordcount: '712'
-ht-degree: 2%
+source-wordcount: '733'
+ht-degree: 3%
 
 ---
 
@@ -15,6 +15,15 @@ ht-degree: 2%
 
 + [[!DNL Commerce] 튜토리얼](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
+   + [마케팅 기법](../cloud/marketecture.md)
+   + [글로벌 게재 모델](../cloud/global-delivery-model.md)
+   + [관리자 역할](../cloud/admin-roles.md)
+   + [마케팅 흐름](../cloud/marketing-flows.md)
+   + [Storefront 옵션](../cloud/storefront-options.md)
+   + [데이터 공유](../cloud/data-sharing.md)
+   + [여러 웹 사이트](../cloud/multiple-websites.md)
+   + [경험 리드 데이터 및 프로모션](../cloud/experience-lead-data-promoitions.md)
+   + [AEM Assets](../cloud/aem-assets.md)
    + [자체 호스팅 솔루션에서 마이그레이션](../cloud/overview.md)
    + 기술 온보딩 및 하드웨어 핸드오프 {#technical-onboarding-hardware-handoff}
       + [인프라 및 개발 모범 사례](../cloud/infrastructure-development-best-practices.md)
