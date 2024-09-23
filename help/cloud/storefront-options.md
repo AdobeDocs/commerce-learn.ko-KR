@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 301
 last-substantial-update: 2024-11-09T00:00:00Z
 jira: KT-16193
-source-git-commit: 4d6ce5b07990001441a8d7fb41a3c73e1029c200
+source-git-commit: 1dd8c4ea80732d68b44d1d200ddcb331551ea224
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Adobe의 디지털 경험 도구와 원활하게 통합되므로 기업이 유�
 
 - 기업 및 전자 상거래 리더들은 온라인 상점을 강화하고자 합니다.
 - IT 리더, 개발자 및 마케터.
-- 사이트 성능 향상, 유기적 트래픽 증가, 개인화된 쇼핑 경험 제공을 목표로 하는 기업.
+- 회사는 사이트 성능을 향상시키고, 유기적인 트래픽을 증가시키며, 개인화된 쇼핑 경험을 제공하는 것을 목표로 합니다.
 
 ## 비디오 콘텐츠
 
