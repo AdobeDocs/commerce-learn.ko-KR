@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 423
 last-substantial-update: 2024-09-09T00:00:00Z
 jira: KT-16061
-source-git-commit: 261419d013d511185c650cb45f50e412184825c8
+source-git-commit: b805d2df5d74f80084336d03add25af72430e785
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -20,6 +20,7 @@ ht-degree: 0%
 # Adobe Commerce Marketeture
 
 Adobe Commerce은 탁월한 비즈니스 결과를 도출하기 위해 기술 유연성과 사용 편의성을 결합한 경험 주도 플랫폼입니다. AWS 및 Azure에서 사용할 수 있는 이 제품은 200개 이상의 모듈, 강력한 SLA 및 확장 가능한 아키텍처를 제공합니다. 이 플랫폼은 REST 및 GraphQL API를 지원하며, 성능을 더 빠르게 개선하고, 라이브 검색, AI 제품 추천 및 결제 솔루션과 같은 지능적이고 컴포저블 서비스를 제공합니다.
+
 API Mesh 및 통합 이벤트 관리와 같은 확장성 도구는 개발 및 통합을 간소화하는 반면 Edge Delivery Services은 신속하고 분리된 프런트 엔드를 제공합니다. Adobe Experience Platform과 통합된 Adobe Commerce을 통해 기업은 개인화된 경험과 타겟팅된 마케팅 캠페인에 실시간 고객 데이터를 활용하여 상당한 성장을 촉진할 수 있습니다.
 
 ## 이 비디오는 누구의 것입니까
