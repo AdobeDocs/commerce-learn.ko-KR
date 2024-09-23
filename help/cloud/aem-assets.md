@@ -8,9 +8,9 @@ doc-type: Technical Video
 duration: 189
 last-substantial-update: 2024-12-09T00:00:00Z
 jira: KT-16203
-source-git-commit: 8ebc37e432f2898ad9df0497b41f5d4df8947e67
+source-git-commit: 33b4f9f612138656d792b40012446ce9f31cf2f5
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -28,8 +28,8 @@ AI와 Adobe Commerce의 통합은 자산 관리를 중앙 집중화하여 개인
 
 ## 비디오 콘텐츠
 
-- 향상된 효율성 및 속도. &#x200B;
-- 제품과 자산 간의 원활한 동기화. &#x200B;
-- 승인, 제거 및 만료가 포함된 라이프사이클 제어를 완료합니다. &#x200B;
+- 향상된 효율성 및 속도.
+- 제품과 자산 간의 원활한 동기화.
+- 승인, 제거 및 만료가 포함된 라이프사이클 제어를 완료합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)
