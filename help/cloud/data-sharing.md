@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 540
 last-substantial-update: 2024-11-09T00:00:00Z
 jira: KT-16194
-source-git-commit: 3e8ea2655f92c78465ed4e52ca81289ffed4fd2a
+source-git-commit: c9c4a64ece0eaf536c2b2e299acea6adf9bab10c
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Adobe Experience Cloud 제품과 원활하게 통합하여 실시간 고객 프�
 
 ## 비디오 콘텐츠
 
-- Adobe Commerce의 기본 데이터 공유 기능을 통해 Personalization을 개선했습니다
+- Adobe Commerce의 기본 데이터 공유 기능을 통해 개인화가 개선되었습니다
 - 고객 참여 및 충성도 향상
 - 원활한 통합 및 통합 고객 관점
 
