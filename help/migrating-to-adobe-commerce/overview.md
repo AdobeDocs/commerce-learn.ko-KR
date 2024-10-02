@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 167
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-11767
-source-git-commit: 14206ddbc60a973faca5c4ca43cb40565d8a4323
+source-git-commit: e27cec774daaa3f292b915cb454f46d6bd729549
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,8 @@ ht-degree: 0%
 * 마이그레이션 프로세스 간소화를 목표로 하는 시스템 통합업체
 
 ## 비디오 콘텐츠 {#video-content}
+
+* Adobe Commerce으로의 성공적인 마이그레이션을 위한 필수 단계 및 모범 사례에 대해 알아봅니다.
+* 사용자 지정 코드, 타사 모듈을 평가 및 최적화하고 주요 QA 개념을 이해합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)

@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 14206ddbc60a973faca5c4ca43cb40565d8a4323
+source-git-commit: 815a309dbba2ed1699cce8f74d97bf999407be4b
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '742'
 ht-degree: 3%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 3%
 + {#getting-started} 시작
    + Adobe Commerce{#migrating-to-adobe-commerce}(으)로 마이그레이션
       + [개요](../migrating-to-adobe-commerce/overview.md)
+      + 사용자 지정{#customizations}
+         + [In-Process 코드 표준](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
    + 전역 참조 아키텍처{#global-reference-architecture}
       + [글로벌 참조 아키텍처](../global-reference-architecture/what-is-global-reference-architecture.md)
       + [글로벌 참조 아키텍처 활용](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
