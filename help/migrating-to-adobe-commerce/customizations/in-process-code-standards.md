@@ -5,14 +5,13 @@ feature: Best Practices, Backend Development
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Beginner, Intermediate
-doc-type: Tutorial
+doc-type: Technical Video
 duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
-thumbnail: KT-15994.jpeg
-source-git-commit: e27cec774daaa3f292b915cb454f46d6bd729549
+source-git-commit: a73d0038ac844805f4fda689da329d891e5b8320
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -22,7 +21,7 @@ ht-degree: 0%
 
 PHP, JavaScript 및 사용자 지정에 대한 몇 가지 필수 코딩 표준과 모범 사례에 대해 알아봅니다. 개발자이든 비즈니스든 이 튜토리얼 세트는 Adobe Commerce으로 마이그레이션하는 과정의 복잡성을 탐색하고 원활하고 성공적인 전환을 보장하는 데 도움이 됩니다.
 
-## 이 비디오 시리즈는 누구를 위한 것입니까?
+## 이 비디오는 누구의 것입니까?
 
 * 개발자: Adobe Commerce 마이그레이션 및 코딩 표준에서 자신의 기술을 향상시키고자 합니다.
 * Adobe Commerce으로의 마이그레이션을 계획하고 모범 사례를 찾는 기업
