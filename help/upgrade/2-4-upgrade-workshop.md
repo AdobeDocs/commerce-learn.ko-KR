@@ -1,8 +1,8 @@
 ---
 title: Adobe Commerce 2.4 업그레이드 워크숍
-description: 이 녹화된 웨비나를 시청하여 Adobe Commerce 2.4.4 이상의 업그레이드 단계 및 모범 사례에 대해 알아보십시오.
-landing-page-description: 이 녹화된 웨비나를 시청하여 Adobe Commerce 2.4 업그레이드 단계 및 모범 사례에 대해 알아보십시오.
-short-description: 이 녹화된 웨비나를 통해 Adobe Commerce 2.4 업그레이드 단계 및 모범 사례에 대해 알아보십시오.
+description: 이 녹화된 웨비나를 시청하여 Adobe Commerce 2.4.4 이상의 업그레이드 단계 및 모범 사례에 대해 알아봅니다.
+landing-page-description: 이 녹화된 웨비나를 시청하여 Adobe Commerce 2.4 업그레이드 단계 및 모범 사례에 대해 알아봅니다.
+short-description: 이 녹화된 웨비나를 시청하여 Adobe Commerce 2.4 업그레이드 단계 및 모범 사례에 대해 알아봅니다.
 kt: 9620
 doc-type: technical video
 audience: all
