@@ -1,6 +1,6 @@
 ---
 title: 모듈 만들기
-description: PSR 로거에 로그인하는 모듈 생성
+description: Adobe Commerce에서 PSR 로거에 정보를 보내는 모듈을 만드는 방법을 알아봅니다. 이렇게 하면 Adobe Commerce의 첫 번째 모듈에 기능이 추가됩니다.
 kt: 5614
 doc-type: video
 activity: use
@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Admin, Developer
 level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 4f6c8abec90663f80233b94456ad1e58edb86d51
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
