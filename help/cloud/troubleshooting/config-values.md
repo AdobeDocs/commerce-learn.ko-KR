@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 659
 last-substantial-update: 2024-11-08T00:00:00Z
 jira: KT-16429
-source-git-commit: a6dca0721a2c15fce0379c99036421141d0acc52
+source-git-commit: f4f3faf22899fb58cb99dc8555b2d6279817b1a8
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -36,16 +36,10 @@ ht-degree: 0%
 
 ## 관련 Experience League 설명서
 
-[https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration]
-
-[https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings]
-
-[https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values]
-
-[https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp]
-
-[https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details]
-
-[https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files.]
-
-[https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20].
+[구성 내보내기](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
+[구성 설정 재정의](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings)
+[구성 값 설정](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
+[config 참조 config.php](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
+[구성 가이드 기술 세부 정보](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details)
+[잠긴 구성 값](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
+[env.php에 저장된 값](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)
