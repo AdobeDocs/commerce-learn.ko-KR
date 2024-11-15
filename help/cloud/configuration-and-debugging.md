@@ -47,3 +47,4 @@ ht-degree: 0%
 - [품질 패치 도구 사용](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
+
