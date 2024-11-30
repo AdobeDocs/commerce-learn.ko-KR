@@ -11,7 +11,7 @@ last-substantial-update: 2024-04-17T00:00:00Z
 jira: KT-15180
 kt: 15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
-source-git-commit: 00a8d6883473de796abc79ef2e9be34f56429a17
+source-git-commit: 191cfb29de7b4fff5ca73dcd1603b51d852aebd1
 workflow-type: tm+mt
 source-wordcount: '1605'
 ht-degree: 0%
@@ -177,16 +177,16 @@ Adobe Commerce Cloud은 MariaDB Galera 클러스터를 스테이징 및 프로�
 - 미국 무료 전화: (+1) 800 685 3620(첫 번째 메뉴에서 7번을 누르면 Adobe Commerce P1 핫라인)
 - 미국 로컬: (+1) 408 537 8777
 
-## 11. Post 라이브입니다.
+## 11. Go-Live 후
 
-사이트가 활성 상태가 되면 할당된 CTA(고객 기술 자문), CSE(고객 성공 엔지니어) 및 AM(계정 관리자)에게 이메일을 보냅니다. 그러나 프로젝트에 할당된 계정 관리자가 없는 경우 사이트가 활성 상태가 되면 높은 SLA 모니터링을 사용하도록 요청하는 지원 티켓을 만들 수 있습니다. CTA/CSE는 Fastly를 활성화하고 캐싱을 사용하여 사이트를 시작하는 것이 확인되면 즉시 다음 작업을 수행합니다.
+사이트가 활성 상태가 되면 할당된 CTA(고객 기술 자문), CSE(고객 성공 엔지니어) 및 AM(계정 관리자)에게 이메일을 보냅니다. 그러나 프로젝트에 할당된 계정 관리자가 없는 경우 사이트가 활성 상태가 되면 하이 SLA 모니터링을 활성화하도록 요청하는 지원 티켓을 생성할 수 있습니다. CTA/CSE는 Fastly를 활성화하고 캐싱을 사용하여 사이트를 시작하는 것이 확인되면 즉시 다음 작업을 수행합니다.
 
-- 클러스터에 라이브로 태그를 지정하고 지원 티켓을 만들어 높은 SLA(서비스 수준 계약) 모니터링을 활성화합니다.
+- 클러스터에 라이브로 태그를 지정하고 지원 티켓을 만들어 높은 SLA(SLA) 모니터링을 활성화합니다.
 - 가동 시간 모니터링을 위해 New Relic Synthics를 활성화합니다.
 
 >[!MORELIKETHIS]
 > 
-> - [Launch 준비 개요 - 구현 플레이북](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/launch/overview){target="_blank"}
+> - [Launch 준비 개요 - 구현 플레이북](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/overview){target="_blank"}
 > - [시작 검사 목록 - 사용 안내서](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist){target="_blank"}
 > - [사전 실행 검사 목록 - 사이트 관리자/Commerce 관리자 가이드](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/prelaunch-checklist){target="_blank"}
 > - [공유 권한 보안 모델](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"}
