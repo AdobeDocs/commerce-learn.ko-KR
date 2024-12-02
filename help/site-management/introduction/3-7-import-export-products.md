@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 제품 가져오기 및 내보내기"
+title: 비즈니스 사용자용 [!DNL Commerce] - 제품 가져오기 및 내보내기
 description: 카탈로그 제품을 가져오고 내보내는 방법에 대해 알아봅니다.
 kt: 5773
 doc-type: video

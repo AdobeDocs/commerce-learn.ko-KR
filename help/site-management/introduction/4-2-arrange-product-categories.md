@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 범주 위치"
+title: 비즈니스 사용자용 [!DNL Commerce] - 범주 위치 지정
 description: 고객이 원하는 제품을 맨 위에 볼 수 있도록 카테고리 내에 제품을 배치합니다.
 kt: 5776
 doc-type: video

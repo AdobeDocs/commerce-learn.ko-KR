@@ -1,5 +1,5 @@
 ---
-title: 권장 사항에 대한 '[!DNL Live Search]'
+title: 권장 사항에 대한 [!DNL Live Search]
 description: 스토어에 제품 추천을 위해  [!DNL Live Search] 을(를) 추가하여 매우 매력적이고 관련성이 높으며 개인화된 쇼핑 경험을 생성하는 방법을 알아봅니다.
 doc-type: feature video
 audience: all

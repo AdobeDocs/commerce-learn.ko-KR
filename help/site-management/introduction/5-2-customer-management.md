@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 고객 관리"
+title: 비즈니스 사용자용 [!DNL Commerce] - 고객 관리
 description: 고객 서비스에 대한 권장 권한,  [!DNL Admin]에서 고객 만들기, 고객 정보 관리 및 고객 그룹 만들기에 대해 알아봅니다.
 kt: 5779
 doc-type: video

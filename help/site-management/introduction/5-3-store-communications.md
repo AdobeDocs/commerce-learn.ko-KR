@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 전자 메일 통신"
+title: 비즈니스 사용자용 [!DNL Commerce] - 전자 메일 통신
 description: 상점 첫 화면에서 액션으로 트리거된 트랜잭션 이메일을 사용하여 고객과 커뮤니케이션합니다. 스토어에 대한 이메일 템플릿을 사용자 정의하고 구성합니다.
 kt: 5780
 doc-type: video

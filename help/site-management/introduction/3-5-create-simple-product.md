@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 단순 제품"
+title: 비즈니스 사용자용 [!DNL Commerce] - 간단한 제품
 description: 제품 속성 세트를 사용하여 간단한 제품을 만드는 방법을 알아봅니다.
 kt: 5771
 doc-type: video

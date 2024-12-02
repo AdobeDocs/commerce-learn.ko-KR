@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 랜딩 페이지"
+title: 비즈니스 사용자용 [!DNL Commerce] - 랜딩 페이지
 description: 카테고리 랜딩 페이지를 설정하고 모양을 제어하는 방법을 알아봅니다.
 kt: 5766
 doc-type: video

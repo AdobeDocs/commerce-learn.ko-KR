@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 특성"
+title: 비즈니스 사용자용 [!DNL Commerce] - 특성
 description: 제품의 사용자 지정 및 시스템 특성에 대해 알아봅니다.
 kt: 5769
 doc-type: video

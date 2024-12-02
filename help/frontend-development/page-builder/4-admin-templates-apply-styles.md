@@ -1,6 +1,6 @@
 ---
 title: 개발자용 페이지 빌더 - 템플릿 및 스타일
-description: "[!DNL Admin] 및 스테이지 테마 설정 작업  [!DNL Admin] 템플릿을 만듭니다​. 스테이지에서 콘텐츠 유형에 스타일을 적용합니다(실시간 미리 보기)."
+description: '[!DNL Admin] 및 단계 테마 설정 작업.  [!DNL Admin] 템플릿을 만듭니다​. 스테이지에서 콘텐츠 유형에 스타일을 적용합니다(실시간 미리 보기).'
 kt: 5653
 doc-type: video
 activity: use

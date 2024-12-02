@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 제품 설정"
+title: 비즈니스 사용자용 [!DNL Commerce] - 제품 설정
 description: 제품을 만들고, 설정을 구성하고, 특성을 사용하는 방법을 알아봅니다.
 kt: 5768
 doc-type: video

@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 구성 가능한 특성"
+title: 비즈니스 사용자용 [!DNL Commerce] - 구성 가능한 특성
 description: 구성 가능한 제품 속성을 설정하는 방법을 알아봅니다.
 kt: 5772
 doc-type: video

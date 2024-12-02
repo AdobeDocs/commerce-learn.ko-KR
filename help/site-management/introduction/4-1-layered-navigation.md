@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 계층화된 탐색"
+title: 비즈니스 사용자용 [!DNL Commerce] - 계층화된 탐색
 description: 고객이 쉽고 빠르게 제품을 찾을 수 있도록  [!DNL Commerce] 스토어에서 계층화된 탐색을 활성화합니다.
 kt: 5775
 doc-type: video

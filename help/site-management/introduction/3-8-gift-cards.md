@@ -1,10 +1,10 @@
 ---
-title: "[!DNL Commerce] 비즈니스 사용자용 - 기프트 카드"
+title: 비즈니스 사용자용 [!DNL Commerce] - 기프트 카드
 description: ' [!DNL Commerce] 스토어에 기프트 카드를 포함하는 방법을 알아봅니다.'
 kt: 5774
 doc-type: video
 activity: use
-badge1: "Adobe Commerce 2.3.1"
+badge1: Adobe Commerce 2.3.1
 badge2: label="Adobe Commerce에서만" type="Positive"
 last-substantial-update: 2022-12-28T00:00:00Z
 feature: Configuration, System, Catalogs, Shopping Cart

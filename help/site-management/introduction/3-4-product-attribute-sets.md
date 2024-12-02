@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 특성 집합"
+title: 비즈니스 사용자용 [!DNL Commerce] - 특성 집합
 description: 제품 속성 세트와 이러한 속성 세트를 카탈로그에서 사용하는 방법에 대해 알아봅니다.
 kt: 5770
 doc-type: video

@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 저장소 보기 및 캐시 지우기"
+title: 비즈니스 사용자용 [!DNL Commerce] - 저장소 보기 및 캐시 지우기
 description: 저장소 보기를 만들고 캐시를 지우는 방법을 알아봅니다.
 kt: 5761
 doc-type: video

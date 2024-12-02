@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 역할 범위 및 권한"
+title: 비즈니스 사용자용 [!DNL Commerce] - 역할 범위 및 권한
 description: 사이트 또는 스토어별로 역할 범위(Adobe Commerce 전용) 및 관련 권한을 정의하는 방법을 알아봅니다.
 kt: 5763
 doc-type: video

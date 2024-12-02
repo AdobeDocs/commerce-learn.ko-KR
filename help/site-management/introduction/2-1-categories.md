@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 제품 범주"
+title: 비즈니스 사용자용 [!DNL Commerce] - 제품 범주
 description: 범주를 설정하여 제품 카탈로그를 관리하는 방법을 알아봅니다.
 kt: 5765
 doc-type: videos

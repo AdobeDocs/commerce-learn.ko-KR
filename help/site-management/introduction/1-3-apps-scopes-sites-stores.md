@@ -1,5 +1,5 @@
 ---
-title: " 사이트, 스토어 및 보기 등 비즈니스 사용자용 [!DNL Commerce]"
+title: 사이트, 스토어 및 보기용 비즈니스 사용자용 [!DNL Commerce]
 description: 웹 사이트, 스토어, 스토어 보기 및 응용 프로그램 범위의 차이점을 포함하여  [!DNL Commerce] 아키텍처의 기본 사항에 대해 알아봅니다. 색인 지정 및 캐싱을 이해합니다.
 kt: 5760
 doc-type: video

@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce](비즈니스 사용자용) - [!DNL Admin] 메뉴"
+title: 비즈니스 사용자용 [!DNL Commerce] - [!DNL Admin] 메뉴
 description: ' [!DNL Commerce] v2.3 [!DNL Admin]의 기능 메뉴 개요.'
 landing-page-description: 이 비디오 시리즈를 통해 Adobe Commerce 및 관리 작업 기본 사항에 대해 살펴보십시오.
 short-description: 이 비디오 시리즈를 통해 Adobe Commerce 및 관리 작업 기본 사항에 대해 살펴보십시오.

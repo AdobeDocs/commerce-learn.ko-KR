@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 사용자 및 역할"
+title: 비즈니스 사용자용 [!DNL Commerce] - 사용자 및 역할
 description: 권한을 결정하는  [!DNL Admin] 사용자 계정 및 사용자 역할에 대한 기본 사항을 알아봅니다.
 kt: 5762
 doc-type: video

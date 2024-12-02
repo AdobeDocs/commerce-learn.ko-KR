@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 스토어 설정"
+title: 비즈니스 사용자용 [!DNL Commerce] - 스토어 설정
 description: 로케일 설정, 저장 정보, 보안 및 비보안 URL, 웹 사이트 제목, 로고, 저작권 정보, 커뮤니케이션 이메일 로고, 저장 이메일 주소, 통화 옵션 및 환율에 대해 알아봅니다.
 kt: 5764
 doc-type: video

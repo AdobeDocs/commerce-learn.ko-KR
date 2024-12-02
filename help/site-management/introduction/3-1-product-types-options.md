@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 제품 유형"
+title: 비즈니스 사용자용 [!DNL Commerce] - 제품 유형
 description: ' [!DNL Commerce] 제품 유형 및 각 옵션에 대해 알아봅니다.'
 kt: 5767
 doc-type: video

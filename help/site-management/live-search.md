@@ -1,6 +1,6 @@
 ---
-title: " [!DNL Live Search] 소개"
-description: "스토어에  [!DNL Live Search] 을(를) 추가하여 매우 매력적이고 관련성이 높으며 개인화된 쇼핑 경험을 생성하는 방법에 대해 알아봅니다."
+title: ' [!DNL Live Search] 소개'
+description: 스토어에  [!DNL Live Search] 을(를) 추가하여 매우 매력적이고 관련성이 높으며 개인화된 쇼핑 경험을 생성하는 방법을 알아봅니다.
 doc-type: feature video
 audience: all
 last-substantial-update: 2023-04-27T00:00:00Z

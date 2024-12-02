@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] 비즈니스 사용자용 - Storefront"
+title: 비즈니스 사용자용 [!DNL Commerce] - Storefront
 description: 계정 만들기, 위시리스트 및 장바구니에 위시리스트 항목 추가 등 상점 내 고객 경험에 대해 알아봅니다
 kt: 5778
 doc-type: video

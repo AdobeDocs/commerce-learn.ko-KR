@@ -1,5 +1,5 @@
 ---
-title: " 비즈니스 사용자용 [!DNL Commerce] - 데이터 그리드"
+title: 비즈니스 사용자용 [!DNL Commerce] - 데이터 그리드
 description: ' [!DNL Commerce Admin]에서 데이터 그리드로 작업하는 방법을 알아봅니다.'
 kt: 5759
 doc-type: video
