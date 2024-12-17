@@ -9,16 +9,17 @@ doc-type: Technical Video
 duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
-source-git-commit: cbc159d0b77613d49f66ddc0a2bc4001994e5429
+exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
+source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '262'
 ht-degree: 1%
 
 ---
 
 # 장바구니 항목에 대한 제품 속성 사용
 
-녹취록에서 Acme 브랜드의 Ali라는 개발자는 Adobe Commerce 장바구니를 사용자 정의하고 확장하는 방법을 보여줍니다. Ali는 3가지 프로젝트 요구 사항을 해결합니다. 역주문 제품에 대한 배달 타임라인 표시, 반품 및 최종 판매 알림 표시, 소계가 75달러 이상인 장바구니에 대해 25% 할인 적용. Ali는 제품 속성 및 슬롯을 활용하여 이러한 기능을 장바구니에 성공적으로 통합함으로써 전반적인 사용자 경험을 개선하고 모든 프로젝트 요구 사항을 충족합니다.
+Adobe Commerce 장바구니를 사용자 정의하고 확장하는 방법을 알아봅니다. 이 데모에서는 세 가지 업데이트가 있습니다.  데모는 역주문 상품에 대한 배송 타임라인을 표시하고, 반납 및 최종 판매 공지를 보여주며, 소계가 75달러 이상인 카트에 대해 25% 할인을 적용하는 것으로 시작한다. 제품 속성 및 슬롯을 활용하여 이러한 기능을 장바구니에 추가하면 전반적인 사용자 경험이 향상됩니다.
 
 ## 이 비디오를 통해 기대할 수 있는 사항
 

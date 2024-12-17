@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
-source-git-commit: c736f5d0a7277a0540f6257fb43a4224424b22bd
+exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
+source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '201'
 ht-degree: 1%
 
 ---
@@ -22,7 +23,7 @@ Edge Delivery Services 장바구니 드롭인을 사용하여 체크아웃을 �
 
 ## 이 비디오를 통해 기대할 수 있는 사항
 
-몇 가지 코드 행을 변경하여 고객에게 새로운 기능 세트를 보여 주기 위해 Adobe Commerce 장바구니 드롭인을 사용하고 트랜잭션 흐름을 조정하는 방법을 알아봅니다.  또한 AB 테스트를 수행하기 위해 Sharepoint에서 이러한 변경 내용을 관리하도록 변환하는 방법에 대해 알아봅니다.
+에서 Adobe Commerce 장바구니 드롭인을 사용하는 방법을 이해하고, 코드 몇 줄을 변경하여 고객에게 새로운 기능 세트를 보여 주기 위해 트랜잭션 흐름을 조정합니다.  또한 AB 테스트를 수행하기 위해 Sharepoint에서 이러한 변경 내용을 관리하도록 변환하는 방법에 대해 알아봅니다.
 
 ## 이 비디오는 누구의 것입니까?
 
