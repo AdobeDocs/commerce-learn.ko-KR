@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services
+title: Edge Delivery Services 트랜잭션 흐름
 description: Adobe Edge 게재 서비스 및 트랜잭션 흐름을 변경하는 방법에 대해 알아봅니다.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,10 +10,10 @@ duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
+source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -38,3 +38,7 @@ Edge Delivery Services 장바구니 드롭인을 사용하여 체크아웃을 �
 * 향상된 마케팅 제어. 구성을 쉽게 관리 및 테스트하여 사용자 경험과 마케팅 효과를 개선합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441102?learn=on)
+
+## 추가 설명서
+
+* [장바구니 요약 구성](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)

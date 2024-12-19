@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services
+title: Edge Delivery Services 장바구니 항목
 description: Adobe Edge Delivery Services 및 제품 특성을 사용하여 장바구니 항목에 대한 새 정보를 표시하는 방법에 대해 알아봅니다.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,10 +10,10 @@ duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
+source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 1%
+source-wordcount: '272'
+ht-degree: 0%
 
 ---
 
@@ -39,3 +39,8 @@ Adobe Commerce 장바구니를 사용자 정의하고 확장하는 방법을 알
 * 제품 속성 및 슬롯을 사용하여 장바구니 기능을 확장하고 사용자 정의하여 모든 프로젝트 요구 사항이 충족되도록 합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+
+
+## 추가 설명서
+
+* [장바구니에 제품 라인 추가](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)
