@@ -1,6 +1,6 @@
 ---
-title: Edge Delivery Services 순서 요약
-description: Adobe Edge Delivery Services 및 Commerce 드롭인의 주문 요약 섹션을 업데이트하는 방법에 대해 알아봅니다.
+title: 체크아웃 시 Edge Delivery Services 주문 요약
+description: Adobe Edge Delivery Services에 대해 알아보고 체크아웃 시 Commerce 드롭인의 주문 요약 섹션을 업데이트하는 방법에 대해 알아봅니다.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -10,14 +10,14 @@ duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+source-git-commit: f36cc18bd855c21967f58920409431e219568fc0
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-# 장바구니 요약 업데이트
+# 체크아웃 시 장바구니 요약 업데이트
 
 Edge Delivery Services을 위한 Adobe Commerce 장바구니 드롭인의 주문 요약을 변경하는 방법을 알아봅니다.  체크아웃할 때 고객에게 제공되는 레이아웃 또는 정보를 빠르게 개선하는 방법에 대한 몇 가지 예가 있습니다.
 

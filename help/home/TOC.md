@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 7d10b42c5ff4753eed616de8b472d0c662d3ed9d
+source-git-commit: d902059666b3c812442f66e8e982785b79cbce9b
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '797'
 ht-degree: 3%
 
 ---
@@ -80,7 +80,7 @@ ht-degree: 3%
    + {#getting-started} 시작
       + [트랜잭션 플로우 변경](../edge-delivery-services/transactional-flow.md)
       + [장바구니 항목에 대한 제품 속성 사용](../edge-delivery-services/product-attributes-cart-items.md)
-      + [주문 요약 업데이트](../edge-delivery-services/update-order-summary.md)
+      + [체크아웃 시 주문 요약 업데이트](../edge-delivery-services/update-order-summary.md)
       + [체크아웃에 BOPI 추가](../edge-delivery-services/add-bopis-to-checkout.md)
 + 웨비나 및 이벤트 {#webinars-and-events}
    + 지원 시리즈 {#enablement-series}
