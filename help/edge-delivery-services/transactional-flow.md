@@ -10,7 +10,7 @@ duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+source-git-commit: 18559dd4c970217497470494009e392fccddfe34
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Edge Delivery Services 장바구니 드롭인을 사용하여 체크아웃을 �
 * A/B 테스트 유연성. SharePoint을 통해 구성을 활성화하여 마케터가 이러한 기능을 제어하고 테스트할 수 있도록 했습니다.
 * 향상된 마케팅 제어. 구성을 쉽게 관리 및 테스트하여 사용자 경험과 마케팅 효과를 개선합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441102?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
 ## 추가 설명서
 
