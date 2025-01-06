@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: d902059666b3c812442f66e8e982785b79cbce9b
+source-git-commit: 916586d3b71b8b74baa04af2ab39abc86ec94f5b
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '807'
 ht-degree: 3%
 
 ---
@@ -72,10 +72,15 @@ ht-degree: 3%
       + [마지막 마일 통합](../back-office-integrations/last-mile-integration.md)
       + [Webhook 수집](../back-office-integrations/webhook-ingestion.md)
       + [재시도 메커니즘](../back-office-integrations/retry-mechanism.md)
-   + 도움말 및 지원 {#help-and-support}
-      + [지원 티켓 만들기](../help-and-support/create-a-support-ticket.md)
-      + [지원 티켓 검색, 추적, 댓글 달기 및 에스컬레이션](../help-and-support/search-track-comment-escalate-support-ticket.md)
-      + [감시자 추가 및 제거, 티켓 닫기 및 다시 열기](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ 전역 참조 아키텍처 {#global-reference-architecture-implementation-techniques}
+   + [개요](../global-reference-architecture/overview.md)
+   + [Git 분할](../global-reference-architecture/split-git.md)
+   + [대량 패키지](../global-reference-architecture/bulk-packages.md)
+   + [개별 패키지](../global-reference-architecture/separate-packages.md)
++ 도움말 및 지원 {#help-and-support}
+   + [지원 티켓 만들기](../help-and-support/create-a-support-ticket.md)
+   + [지원 티켓 검색, 추적, 댓글 달기 및 에스컬레이션](../help-and-support/search-track-comment-escalate-support-ticket.md)
+   + [감시자 추가 및 제거, 티켓 닫기 및 다시 열기](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + Edge Delivery Services {#edge-delivery-services}
    + {#getting-started} 시작
       + [트랜잭션 플로우 변경](../edge-delivery-services/transactional-flow.md)
