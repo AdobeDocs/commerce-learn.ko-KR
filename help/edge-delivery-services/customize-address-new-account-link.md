@@ -8,15 +8,15 @@ level: Beginner
 doc-type: Technical Video
 duration: 613
 last-substantial-update: 2025-1-13
-source-git-commit: 82303ee7bbae300dec94dec8a0bb8cb49a8d0ac4
+exl-id: 91535671-02ff-4611-b452-0325792ad70b
+source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
-
-# 업데이트 개선 전자 상거래 체크아웃: 사용자 정의 주소 양식 레이아웃 및 Google 주소 조회 통합
+# 사용자 정의 주소 양식 레이아웃 및 Google 주소 조회 통합
 
 텍스트 영역을 제외하고 모든 필드의 너비가 50%가 되도록 체크아웃 시 주소 양식 레이아웃을 사용자 지정하는 방법을 알아봅니다. 통합 타사 API, 특히 Google 주소 API를 사용하여 주소 양식에서 자동 주소 조회 및 유효성 검사를 활성화하는 방법에 대해 알아봅니다. &#x200B; 스토어 로케이터의 사용자 지정 페이지에 연결하여 사용자 계정 대시보드에 새 사이드바 메뉴 항목을 추가하는 방법을 알아봅니다.
 
