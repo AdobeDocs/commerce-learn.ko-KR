@@ -7,15 +7,16 @@ audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
+badge: label="Tony Evers, 수석 기술 설계자, Adobe 제공" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="토니 에버스의 기고문"
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: 916586d3b71b8b74baa04af2ab39abc86ec94f5b
+exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
+source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
 workflow-type: tm+mt
-source-wordcount: '2088'
+source-wordcount: '2101'
 ht-degree: 0%
 
 ---
-
 
 # 개별 패키지 글로벌 참조 아키텍처 패턴
 
