@@ -1,7 +1,7 @@
 ---
 title: 벌크 패키지 전역 참조 아키텍처로 Adobe Commerce 최적화
 description: 효율적인 코드 관리 및 버전 제어를 위해 벌크 패키지 글로벌 참조 아키텍처를 사용하여 Adobe Commerce을 설정하는 방법에 대해 알아봅니다.
-kt: 16726
+jira: KT-16726
 doc-type: tutorial
 audience: all
 last-substantial-update: 2025-1-6
@@ -11,7 +11,7 @@ badge: label="Tony Evers, 수석 기술 설계자, Adobe 제공" type="Informati
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: a182b97b7d9a8bf114944d5d920afb2328adbc18
 workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 0%
