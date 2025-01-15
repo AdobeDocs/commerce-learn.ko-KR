@@ -7,14 +7,16 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 613
-last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
-source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
+jira: KT-16729
+last-substantial-update: 2025-1-15
+source-git-commit: b2d03fed21bd54044571084206097b8455db33c8
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
 
 ---
+
 
 # 사용자 정의 주소 양식 레이아웃 및 Google 주소 조회 통합
 
@@ -36,7 +38,7 @@ ht-degree: 0%
 * Checkout Forms의 일관된 필드 너비를 사용하여 모든 필드를 확인할 수 있도록 체크아웃 시 주소 양식을 사용자 지정합니다.
 * Google 주소 API를 통합하여 자동 주소 조회 및 완료를 가능하게 함으로써 사용자 입력 오류를 줄이고 체크아웃 프로세스를 간소화합니다.
 * 주소 입력 필드에 대한 유효성 검사 및 오류 처리를 통해 사용자가 잘못되거나 불완전한 항목에 대한 즉각적인 피드백을 받을 수 있으므로 사용자 경험이 향상됩니다.
-* 새 사이드바 메뉴 항목을 사용자 계정 대시보드에 추가하는 사용자 계정 대시보드 확장명
+* 새 사이드바 메뉴 항목을 사용자 계정 대시보드에 추가하는 사용자 계정 대시보드 확장입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
