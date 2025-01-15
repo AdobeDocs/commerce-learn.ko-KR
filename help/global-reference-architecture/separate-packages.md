@@ -1,7 +1,7 @@
 ---
 title: 개별 패키지 글로벌 참조 아키텍처
 description: 별도의 패키지 GRA로 Adobe Commerce을 최적화합니다. 유연한 버전 패키지 관리를 위한 설정, 이점 및 모범 사례에 대해 알아봅니다.
-kt: 16727
+jira: KT-16727
 doc-type: tutorial
 audience: all
 last-substantial-update: 2025-1-6
@@ -11,7 +11,7 @@ badge: label="Tony Evers, 수석 기술 설계자, Adobe 제공" type="Informati
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: e0b11bbcfff830badf471206ead59fc48dd14b7c
 workflow-type: tm+mt
 source-wordcount: '2101'
 ht-degree: 0%
