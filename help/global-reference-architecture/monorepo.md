@@ -2,7 +2,7 @@
 title: 글로벌 참조 아키텍처를 활용하는 방법
 description: 글로벌 참조 아키텍처를 활용하여 확장 가능하고 복원력이 뛰어난 상거래 경험을 구축하는 방법에 대해 알아봅니다
 landing-page-description: 글로벌 참조 아키텍처와 이를 Adobe Commerce과 함께 사용하는 방법에 대해 알아봅니다
-kt: 14040
+jira: KT-16728
 doc-type: tutorial
 audience: all
 last-substantial-update: 2025-1-6
@@ -11,7 +11,7 @@ badge: label="Tony Evers, 수석 기술 설계자, Adobe 제공" type="Informati
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Intermediate, Advanced
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: 7e7c22e994ac5be6eacbcd0084d8ec92666b2024
 workflow-type: tm+mt
 source-wordcount: '1385'
 ht-degree: 0%
