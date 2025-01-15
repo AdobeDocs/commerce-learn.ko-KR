@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 7988dcc031956b880b67363a6c9b2705dbe7b4af
+source-git-commit: cf9de69246757d62cdb7cb952761a04c78953f56
 workflow-type: tm+mt
-source-wordcount: '819'
+source-wordcount: '820'
 ht-degree: 3%
 
 ---
@@ -77,6 +77,7 @@ ht-degree: 3%
    + [Git 분할](../global-reference-architecture/split-git.md)
    + [대량 패키지](../global-reference-architecture/bulk-packages.md)
    + [개별 패키지](../global-reference-architecture/separate-packages.md)
+   + [모노레포](../global-reference-architecture/monorepo.md)
 + 도움말 및 지원 {#help-and-support}
    + [지원 티켓 만들기](../help-and-support/create-a-support-ticket.md)
    + [지원 티켓 검색, 추적, 댓글 달기 및 에스컬레이션](../help-and-support/search-track-comment-escalate-support-ticket.md)
