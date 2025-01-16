@@ -10,9 +10,9 @@ duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: f36cc18bd855c21967f58920409431e219568fc0
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Edge Delivery Services을 위한 Adobe Commerce 장바구니 드롭인의 주문 요약을 변경하는 방법을 알아봅니다.  체크아웃할 때 고객에게 제공되는 레이아웃 또는 정보를 빠르게 개선하는 방법에 대한 몇 가지 예가 있습니다.
 
-## 이 비디오를 통해 기대할 수 있는 사항
+## 배울 내용
 
 Adobe Commerce 장바구니 드롭인을 사용하고 장바구니 경험을 조정하는 방법을 알아봅니다.  몇 가지 방법으로 코드를 약간 변경하거나 업데이트하여 장바구니를 향상시킬 수 있습니다.
 

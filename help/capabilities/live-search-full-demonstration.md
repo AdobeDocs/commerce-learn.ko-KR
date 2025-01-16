@@ -10,9 +10,9 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 1ef99de8-3594-4783-a5f3-227e131cecde
-source-git-commit: 3f354cbac9d0f64fec509fc06c6cf0d41c7287ae
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Adobe Live Search에 대한 전체 데모.
 
-## 이 비디오를 통해 기대할 수 있는 사항
+## 배울 내용
 
 Adobe Live 검색 구성 및 설정을 사용하는 방법을 알아봅니다. 패싯, 보고 및 동의어를 더 잘 이해하십시오.
 

@@ -10,9 +10,9 @@ duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Adobe Commerce 장바구니를 사용자 정의하고 확장하는 방법을 알아봅니다. 이 데모에서는 세 가지 업데이트가 있습니다.  데모는 역주문 상품에 대한 배송 타임라인을 표시하고, 반납 및 최종 판매 공지를 보여주며, 소계가 75달러 이상인 카트에 대해 25% 할인을 적용하는 것으로 시작한다. 제품 속성 및 슬롯을 활용하여 이러한 기능을 장바구니에 추가하면 전반적인 사용자 경험이 향상됩니다.
 
-## 이 비디오를 통해 기대할 수 있는 사항
+## 배울 내용
 
 몇 가지 코드 행을 변경하여 고객에게 새로운 기능 세트를 보여 주기 위해 Adobe Commerce 장바구니 드롭인을 사용하고 트랜잭션 흐름을 조정하는 방법을 알아봅니다.  또한 AB 테스트를 수행하기 위해 Sharepoint에서 이러한 변경 내용을 관리하도록 변환하는 방법에 대해 알아봅니다.
 

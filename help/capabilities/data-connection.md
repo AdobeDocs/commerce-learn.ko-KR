@@ -10,9 +10,9 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: f17c3be6-8ef2-4972-a8cc-089ff4a2be3b
-source-git-commit: a9712c4354967e8e53c421878be8b83bb6056e6d
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Adobe Commerce 데이터 연결에 대한 전체 데모입니다.
 
-## 이 비디오를 통해 기대할 수 있는 사항
+## 배울 내용
 
 몇 가지 기본 구성 및 설정과 함께 Adobe Commerce 데이터 연결을 사용하는 방법을 알아봅니다. 이 데모에서는 Adobe Commerce을 사용하고 다른 Adobe 서비스를 연결하여 고객에 대한 전체 360도 보기를 구현하는 방법을 보여 줍니다.
 

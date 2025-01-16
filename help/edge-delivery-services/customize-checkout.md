@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 853
 last-substantial-update: 2025-1-2
 jira: KT-16723
-source-git-commit: 1db0daa3ca352d50cbda27c1e631ad869b2ac16b
+exl-id: e6b95ff0-9a41-43ac-9f02-c84a70747d64
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 배송 옵션을 수정하고 여러 단계의 체크아웃 프로세스를 구현하는 데 중점을 두고 Edge Delivery Services 장바구니 드롭다운 구성 요소에서 Adobe Commerce의 체크아웃 경험을 사용자 지정하는 방법에 대해 알아봅니다.
 
-## 이 비디오를 통해 기대할 수 있는 사항
+## 배울 내용
 
 기존 코드와 다음 모범 사례를 재사용하는 동안 배송 옵션 및 예상 비용과 같은 요소를 제거 및 다시 추가하고 여러 단계의 체크아웃 프로세스를 구현하여 Edge Delivery Services 장바구니 체크인 체크아웃 경험을 사용자 지정하는 예를 알아봅니다. &#x200B;
 
