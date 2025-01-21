@@ -1,7 +1,7 @@
 ---
 title: 위젯 만들기
 description: 위젯을 만들고 기존 위젯을 수정하여 스토어 전체에 자동으로 콘텐츠를 업데이트하는 방법에 대해 알아봅니다.
-kt: null
+jira: KT-17155
 doc-type: feature video
 audience: all
 activity: use
@@ -10,8 +10,9 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
+duration: 216
 exl-id: ffb1312c-2686-48a4-945e-e6f58cb0ad18
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: ee2c20d3faab8eb441c8112dcf6bba51906820a5
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
