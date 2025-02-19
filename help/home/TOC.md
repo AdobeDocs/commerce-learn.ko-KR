@@ -3,15 +3,15 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: cf9de69246757d62cdb7cb952761a04c78953f56
+source-git-commit: 8dc009c1a7234ac251b0a29533fa188287c0c862
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '814'
 ht-degree: 3%
 
 ---
 
 
-# Adobe Commerce 비디오 및 Tutorials {#tutorials}
+# Adobe Commerce 비디오 및 자습서 {#tutorials}
 
 + [[!DNL Commerce] 튜토리얼](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
@@ -89,13 +89,13 @@ ht-degree: 3%
       + [체크아웃 시 주문 요약 업데이트](../edge-delivery-services/update-order-summary.md)
       + [체크아웃에 BOPI 추가](../edge-delivery-services/add-bopis-to-checkout.md)
       + [사용자 지정 체크아웃](../edge-delivery-services/customize-checkout.md)
-      + [자동 완성 및 새 내 계정 링크를 포함한 주소 조정](../edge-delivery-services/customize-address-new-account-link.md)
+      + [주소 레이아웃 사용자 지정](../edge-delivery-services/customize-address-new-account-link.md)
 + 웨비나 및 이벤트 {#webinars-and-events}
    + 지원 시리즈 {#enablement-series}
       + [Commerce 통합을 위한 TOC 줄이기](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
       + [최신 Adobe Commerce 구현 계획](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
       + [론치, 론치 후, 모니터링 및 문제 해결](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
-      + [Adobe Commerce을 사용한 Edge Delivery Services](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
+      + [Edge Delivery Services과 Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
 + GraphQL 및 REST {#graphql-rest}
    + [GraphQL 기본 사항](../graphql-rest/intro-graphql.md)
    + [쿼리](../graphql-rest/graphql-queries.md)
@@ -156,7 +156,7 @@ ht-degree: 3%
    + [범주의 제품 관리](../site-management/category-products.md)
    + [Inventory management](../site-management/inventory-management.md)
    + [제품 속성 만들기](../site-management/product-attributes-create.md)
-   + [PWA Studio에 제품 속성 사용](../site-management/product-attributes-pwa.md)
+   + [PWA Studio에서 제품 속성 사용](../site-management/product-attributes-pwa.md)
    + [SEO 메타데이터 관리](../site-management/seo-metadata.md)
    + [SEO에 대한 URL 재작성 관리](../site-management/seo-url-rewrites.md)
    + [AR 뷰어](../site-management/augmented-reality.md)
@@ -172,7 +172,7 @@ ht-degree: 3%
    + [카탈로그 가격 규칙 만들기](../site-management/catalog-price-rules.md)
    + [장바구니 가격 규칙 만들기](../site-management/cart-price-rules.md)
    + [관련 제품 규칙 관리](../site-management/related-product-rules.md)
-   + [제품 Recommendations 설정](../site-management/product-recommendations.md)
+   + [제품 추천 설정](../site-management/product-recommendations.md)
    + [라이브 검색 소개](../site-management/live-search.md)
    + [권장 사항에 대한 실시간 검색](../site-management/live-search-recommendations.md)
    + [Commerce과 AJO 통합](../site-management/integrate-commerce-ajo.md)
@@ -206,7 +206,7 @@ ht-degree: 3%
    + [통합 및 구성](../business-intelligence/integrations-configurations.md)
    + [보고서 및 대시보드](../business-intelligence/reports-and-dashboards.md)
    + [필터 세트](../business-intelligence/filter-sets.md)
-   + [집단 Report Builder](../business-intelligence/cohort-report-builder.md)
+   + [코호트 Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [미래를 준비하는 중](../business-intelligence/prepare-for-future.md)
 + Commerce 업그레이드 {#upgrade}
@@ -235,12 +235,12 @@ ht-degree: 3%
 + Headless 아키텍처 {#headless-architecture}
    + Headless {#introduction-to-headless} 소개
       + [헤드리스 아키텍처 - 세션 1](../headless/session-1.md)
-   + {#introduction} PWA Studio 소개
+   + PWA Studio {#introduction} 소개
       + [1 - 개요](../pwa/introduction/1-overview.md)
       + [2 - PWA Studio 도구](../pwa/introduction/2-pwa-studio-tools.md)
       + [3 - 시작](../pwa/introduction/3-launch.md)
       + [4 - 위쪽](../pwa/introduction/4-upward.md)
       + [5 - 시작](../pwa/introduction/5-getting-started.md)
       + [6 - 페레그린](../pwa/introduction/6-peregrine.md)
-   + [PWA 도커 개발](../pwa/pwa-docker-development.md)
+   + [PWA Docker 개발](../pwa/pwa-docker-development.md)
    + [개발을 위한 Venia 설정](../pwa/set-up-venia-for-dev.md)

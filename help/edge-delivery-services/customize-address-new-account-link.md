@@ -10,15 +10,15 @@ duration: 613
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: 097d5a74f1a74fb0e1e8ff739272e32752d5aa78
+source-git-commit: 9bb310a586c707ff02c3d8a1d13e86075baec603
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
 
-# 사용자 정의 주소 양식 레이아웃 및 Google 주소 조회 통합
+# 주소 레이아웃 사용자 지정
 
 텍스트 영역을 제외하고 모든 필드의 너비가 50%가 되도록 체크아웃 시 주소 양식 레이아웃을 사용자 지정하는 방법을 알아봅니다. 통합 타사 API, 특히 Google 주소 API를 사용하여 주소 양식에서 자동 주소 조회 및 유효성 검사를 활성화하는 방법에 대해 알아봅니다. &#x200B; 스토어 로케이터의 사용자 지정 페이지에 연결하여 사용자 계정 대시보드에 새 사이드바 메뉴 항목을 추가하는 방법을 알아봅니다.
 
