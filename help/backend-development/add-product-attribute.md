@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
+source-git-commit: d6aeac0c4c66bd8117cc9ef1e0186bbb19cf23e9
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 0%
 - app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
 - app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
 - app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
-- app/code/Learning/ClothingMaterial/Setup/installData.php
+- app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ### app/code/Learning/ClothingMaterial/registration.php
 
@@ -64,7 +64,9 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->모듈에서 선언적 스키마를 사용하는 경우 및 대부분의 모듈에 2.3.0 이후 버전이 있는 경우 setup_version 을 생략해야 합니다. 그러나 일부 레거시 프로젝트가 있는 경우 이 메서드가 사용되는 것을 볼 수 있습니다.  자세한 내용은 [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}을(를) 참조하십시오.
+>모듈에서 선언적 스키마를 사용하는 경우 및 대부분의 모듈에 2.3.0 이후 버전이 있는 경우 setup_version 을 생략해야 합니다. 그러나 일부 레거시 프로젝트가 있는 경우 이 메서드가 사용되는 것을 볼 수 있습니다.  자세한 내용은 [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}을(를) 참조하십시오.\
+>참고: 이 예제 코드가 작동하려면 setup_version을 포함해야 합니다. 그렇지 않으면 InstallData.php가 실행되지 않습니다.
+
 
 
 ```xml
@@ -76,6 +78,10 @@ ComponentRegistrar::register(
 ```
 
 ### app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
+
+>[!NOTE]
+>
+>프로젝트에 있는 속성 세트 ID를 사용해야 합니다. 이 예에서는 숫자 9입니다.
 
 ```php
 <?php
@@ -161,7 +167,7 @@ class Material extends AbstractSource
 }
 ```
 
-### app/code/Learning/ClothingMaterial/Setup/installData.php
+### app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ```php
 <?php
@@ -205,7 +211,7 @@ class InstallData implements InstallDataInterface
             Product::ENTITY,
             'clothing_material',
             [
-                'group'         => 'General',
+                'group'         => 'Product Details',
                 'type'          => 'varchar',
                 'label'         => 'Clothing Material',
                 'input'         => 'select',
@@ -228,7 +234,5 @@ class InstallData implements InstallDataInterface
 ```
 
 ## 유용한 리소스
-
-[제품 특성 만들기](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
 [사용자 지정 텍스트 필드 특성 추가](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
