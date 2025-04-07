@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: b90aa9eb8759391a16dfb29ca25b0d2d271956ed
+source-git-commit: 3f6d35a8c11e86524b5e97b19bd481d2b715fdbe
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '831'
 ht-degree: 3%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 3%
       + [2가지 일반적인 사이트 오류를 분류하고 해결합니다.](../cloud/troubleshooting/triage-two-common-site-errors.md)
       + [구성 값](../cloud/troubleshooting/config-values.md)
       + [로그 자르기](../cloud/troubleshooting/truncate-logs.md)
+   + [IP 주소 감지](../cloud/detect-ip-address.md)
    + [마케팅 기법](../cloud/marketecture.md)
    + [글로벌 게재 모델](../cloud/global-delivery-model.md)
    + [관리자 역할](../cloud/admin-roles.md)
