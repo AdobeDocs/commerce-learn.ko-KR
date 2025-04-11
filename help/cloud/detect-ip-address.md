@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 0
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17553
-source-git-commit: a14a878217a145ecee0b29247ec7ccb224edd883
+exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
+source-git-commit: 3acec65129773a8ba94eb52c53d15d7633440717
 workflow-type: tm+mt
-source-wordcount: '1106'
+source-wordcount: '1095'
 ht-degree: 0%
 
 ---
 
-
-# Commerce Cloud 프로젝트의 모든 유형의 환경에 대한 IP 주소를 감지하는 방법을 알아봅니다
+# 다양한 환경에 대한 IP 주소 감지
 
 Adobe Commerce Cloud 프로젝트에서 다양한 환경의 IP 주소를 감지하는 방법에 대해 알아봅니다. Adobe Commerce CLI, sed, xargs, dig, grep 및 sort -u를 포함한 일련의 명령을 사용하여 개발, 스테이징 및 프로덕션 환경에 대한 IP 주소를 식별할 수 있습니다.
 
