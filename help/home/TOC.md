@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 3f6d35a8c11e86524b5e97b19bd481d2b715fdbe
+source-git-commit: 5b9590d7acd87077bcabcf4dad98a0175d912c90
 workflow-type: tm+mt
-source-wordcount: '831'
+source-wordcount: '853'
 ht-degree: 3%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 + [[!DNL Commerce] 튜토리얼](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
-   + {#troubleshooting} 문제 해결
+   + 문제 해결 {#troubleshooting}
       + [잘못된 SSL](../cloud/troubleshooting/invalid-ssl.md)
       + [2가지 일반적인 사이트 오류를 분류하고 해결합니다.](../cloud/troubleshooting/triage-two-common-site-errors.md)
       + [구성 값](../cloud/troubleshooting/config-values.md)
@@ -37,22 +37,22 @@ ht-degree: 3%
       + [구성 및 디버깅](../cloud/configuration-and-debugging.md)
       + [배포, 테스트, 모니터링 및 보안](../cloud/deployments-testing-monitoring-security.md)
       + [SaaS 서비스, 지원 및 커뮤니케이션 및 다음 단계](../cloud/saas-offerings-support-communications-next-steps.md)
-   + 모범 사례 {#commerce-cloud-best-practices}
+   + 우수 사례 {#commerce-cloud-best-practices}
       + [지원 요청](../cloud/best-practices/support-request.md)
       + [실행 전 검사 목록](../cloud/best-practices/pre-launch-checklist.md)
-+ {#getting-started} 시작
++ 시작 {#getting-started}
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [개요](../commerce-as-a-cloud-service/overview.md)
       + [아키텍처](../commerce-as-a-cloud-service/architecture.md)
-   + Adobe Commerce{#migrating-to-adobe-commerce}(으)로 마이그레이션
+   + Adobe Commerce으로 마이그레이션{#migrating-to-adobe-commerce}
       + [개요](../migrating-to-adobe-commerce/overview.md)
       + 준비{#preparation}
          + [팀 및 프로젝트 평가](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
-      + 사용자 지정{#customizations}
+      + 사용자 정의{#customizations}
          + [In-Process 코드 표준](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
       + QA{#qa}
          + [코드 고정](../migrating-to-adobe-commerce/qa/code-freeze.md)
-   + 전역 참조 아키텍처{#global-reference-architecture}
+   + 글로벌 참조 아키텍처{#global-reference-architecture}
       + [글로벌 참조 아키텍처](../global-reference-architecture/what-is-global-reference-architecture.md)
       + [글로벌 참조 아키텍처 활용](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [건축가 GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
@@ -62,7 +62,7 @@ ht-degree: 3%
       + [라이브 검색 전체 데모](../capabilities/live-search-full-demonstration.md)
       + [구성 가능한 Commerce](../capabilities/what-is-composable-commerce.md)
       + [품질 패치 도구](../capabilities/quality-patch-tool.md)
-   + {#create-products} 제품 만들기
+   + 제품 만들기 {#create-products}
       + [간단한 제품](../site-management/create-simple-product.md)
       + [가상 제품](../site-management/create-virtual-product.md)
       + [다운로드 가능한 제품](../site-management/create-downloadable-product.md)
@@ -70,7 +70,7 @@ ht-degree: 3%
       + [구성 가능한 제품](../site-management/create-configurable-product.md)
       + [번들 제품](../site-management/create-bundle-product.md)
       + [기프트 카드 제품](../site-management/create-gift-card-product.md)
-   + 백 오피스 통합 시작 키트 {#back-office-integration-starter-kit}
+   + 백오피스 통합 시작 키트 {#back-office-integration-starter-kit}
       + [스타터 키트 데모](../back-office-integrations/starter-kit-demo.md)
       + [통합](../back-office-integrations/integrations.md)
       + [Source 코드 조직](../back-office-integrations/source-code-organization.md)
@@ -79,7 +79,7 @@ ht-degree: 3%
       + [재시도 메커니즘](../back-office-integrations/retry-mechanism.md)
 + Adobe Commerce Optimizer {#adobe-commerce-optimizer}
    + [개요](../adobe-commerce-optimizer/overview.md)
-+ 전역 참조 아키텍처 {#global-reference-architecture-implementation-techniques}
++ 글로벌 참조 아키텍처 {#global-reference-architecture-implementation-techniques}
    + [개요](../global-reference-architecture/overview.md)
    + [Git 분할](../global-reference-architecture/split-git.md)
    + [대량 패키지](../global-reference-architecture/bulk-packages.md)
@@ -90,7 +90,7 @@ ht-degree: 3%
    + [지원 티켓 검색, 추적, 댓글 달기 및 에스컬레이션](../help-and-support/search-track-comment-escalate-support-ticket.md)
    + [감시자 추가 및 제거, 티켓 닫기 및 다시 열기](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + Edge Delivery Services {#edge-delivery-services}
-   + {#getting-started} 시작
+   + 시작 {#getting-started}
       + [트랜잭션 플로우 변경](../edge-delivery-services/transactional-flow.md)
       + [장바구니 항목에 대한 제품 속성 사용](../edge-delivery-services/product-attributes-cart-items.md)
       + [체크아웃 시 주문 요약 업데이트](../edge-delivery-services/update-order-summary.md)
@@ -104,6 +104,12 @@ ht-degree: 3%
       + [최신 Adobe Commerce 구현 계획](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
       + [론치, 론치 후, 모니터링 및 문제 해결](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
       + [Edge Delivery Services과 Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
+   + Commerce 대화 {#commerce-conversations}
+      + [전문가의 성공 개요](../commerce-conversations/what-is-expert-success.md)
+      + [Commerce 지원 추가 기능](../commerce-conversations/commerce-support-add-ons.md)
+      + [최종 성공이란 무엇입니까?](../commerce-conversations/what-is-ultimate-success.md)
+      + [Success Accelerator 기술 준비](../commerce-conversations/success-accelerators-technical-readiness.md)
+      + [Success Accelerator 채택 및 지원](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
 + GraphQL 및 REST {#graphql-rest}
    + [GraphQL 기본 사항](../graphql-rest/intro-graphql.md)
    + [쿼리](../graphql-rest/graphql-queries.md)
@@ -115,7 +121,7 @@ ht-degree: 3%
    + [App Builder용 기능 데모](../app-builder/app-builder-functional-demonstration.md)
    + [App Builder에 대한 기술 개요](../app-builder/app-builder-technical-overview.md)
    + [마켓플레이스에 앱 제출](../app-builder/submit-app-process.md)
-   + 첫 번째 App Builder 앱 {#first-app} 빌드
+   + 첫 번째 App Builder 앱 빌드 {#first-app}
       + [개요](../app-builder/first-app/overview.md)
       + [.env 파일 생성 및 구성](../app-builder/first-app/env-file.md)
       + [app.config.yaml 파일에 대한 설명 및 사용](../app-builder/first-app/app-config-yaml-file.md)
@@ -126,7 +132,7 @@ ht-degree: 3%
       + [App Builder URL을 사용하여 테스트](../app-builder/first-app/testing-app-builder-url.md)
       + [결론](../app-builder/first-app/conclusion.md)
       + [샘플 모듈 소스 코드](https://github.com/magento/app-builder-samples){target="_blank"}
-   + Adobe Commerce {#io-events}에 대한 IO 이벤트
+   + Adobe Commerce에 대한 IO 이벤트 {#io-events}
       + [IO 이벤트 시작](../io-events/getting-started-io-events.md)
       + [Adobe Commerce 2.4.5 설치](../io-events/2-4-5-installation.md)
       + [Adobe Commerce 2.4.6 설치](../io-events/2-4-6-installation.md)
@@ -134,7 +140,7 @@ ht-degree: 3%
       + [Adobe Commerce 구성](../io-events/configure-commerce.md)
       + [Adobe Commerce 모듈 개발](../io-events/commerce-module-development.md)
       + [Adobe Commerce 조건부 이벤트](../io-events/conditional-events.md)
-   + API Mesh {#api-mesh}
+   + API 메쉬 {#api-mesh}
       + [API Mesh 시작](../api-mesh/getting-started-api-mesh.md)
       + [Adobe IO 및 메쉬 플러그인 설치](../api-mesh/installing-aio-mesh-plugin.md)
       + [프로젝트 및 작업 공간 작업](../api-mesh/aio-projects-workspaces.md)
@@ -184,16 +190,16 @@ ht-degree: 3%
    + [라이브 검색 소개](../site-management/live-search.md)
    + [권장 사항에 대한 실시간 검색](../site-management/live-search-recommendations.md)
    + [Commerce과 AJO 통합](../site-management/integrate-commerce-ajo.md)
-+ 주문 및 주문 처리 {#orders}
++ 주문 및 이행 {#orders}
    + [스토어 이행 개요](../orders-and-fulfillment/store-fulfillment.md)
    + [주문 상태 관리](../orders-and-fulfillment/order-status.md)
    + [재고 상태 확인](../orders-and-fulfillment/checking-inventory-status.md)
-+ Adobe Commerce {#b2b}용 B2B
++ Adobe Commerce용 B2B {#b2b}
    + [회사 계정 관리](../b2b/company-accounts.md)
    + [공유 카탈로그 관리](../b2b/shared-catalogs.md)
    + [회사 크레딧 관리](../b2b/company-credit.md)
    + [구매 주문 및 승인](../b2b/purchase-orders.md)
-   + {#b2b-quote} 견적
+   + 견적 {#b2b-quote}
       + [영업 담당자가 견적 시작](../b2b/sales-rep-initiates-quote.md)
       + [관리자의 견적 유효성 검사](../b2b/quote-validation-admin-panel.md)
       + [영업 담당자가 견적 REST API 시작](../b2b/sales-rep-initiates-quote-api.md)
@@ -221,7 +227,7 @@ ht-degree: 3%
    + [Adobe Commerce 2.4 업그레이드 워크숍](../upgrade/2-4-upgrade-workshop.md)
    + [업그레이드 호환성 도구 개요](../upgrade/upgrade-compatibility-tool-overview.md)
    + [PHP Storm에서 호환성 업그레이드 도구 사용](../upgrade/uct-phpstorm.md)
-+ 백 엔드 개발 {#backend-development}
++ 백엔드 개발 {#backend-development}
    + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [모듈 만들기](../backend-development/create-module.md)
    + [제품 속성 추가](../backend-development/add-product-attribute.md)
@@ -240,10 +246,10 @@ ht-degree: 3%
       + [6 - 사용자 지정 콘텐츠 유형](../frontend-development/page-builder/6-custom-content-types.md)
    + [JavaScript 모듈 추가](../frontend-development/add-javascript-module.md)
    + [페이지 만들기](../frontend-development/create-page.md)
-+ Headless 아키텍처 {#headless-architecture}
-   + Headless {#introduction-to-headless} 소개
++ 헤드리스 아키텍처 {#headless-architecture}
+   + Headless 소개 {#introduction-to-headless}
       + [헤드리스 아키텍처 - 세션 1](../headless/session-1.md)
-   + PWA Studio {#introduction} 소개
+   + PWA Studio 소개 {#introduction}
       + [1 - 개요](../pwa/introduction/1-overview.md)
       + [2 - PWA Studio 도구](../pwa/introduction/2-pwa-studio-tools.md)
       + [3 - 시작](../pwa/introduction/3-launch.md)
