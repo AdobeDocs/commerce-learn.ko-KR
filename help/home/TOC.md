@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 5b9590d7acd87077bcabcf4dad98a0175d912c90
+source-git-commit: cd7b4deea3bb30a05a6d0d1cad4a30e8e6fb34cd
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '857'
 ht-degree: 3%
 
 ---
@@ -110,6 +110,7 @@ ht-degree: 3%
       + [최종 성공이란 무엇입니까?](../commerce-conversations/what-is-ultimate-success.md)
       + [Success Accelerator 기술 준비](../commerce-conversations/success-accelerators-technical-readiness.md)
       + [Success Accelerator 채택 및 지원](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
+      + [Success Accelerator 조직 준비](../commerce-conversations/success-accelerators-organizational-readiness.md)
 + GraphQL 및 REST {#graphql-rest}
    + [GraphQL 기본 사항](../graphql-rest/intro-graphql.md)
    + [쿼리](../graphql-rest/graphql-queries.md)
