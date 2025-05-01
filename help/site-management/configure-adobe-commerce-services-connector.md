@@ -11,16 +11,17 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 3ddfab5e-18a4-47ce-8b80-d66db10eebee
-source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
+badgePaas: label="PaaS만" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Adobe Commerce 온 클라우드 프로젝트(Adobe 관리 PaaS 인프라) 및 온프레미스 프로젝트에만 적용됩니다."
+source-git-commit: 03fab8e76116374c69240173572a276652197d9b
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce 서비스 커넥터 구성
 
-Commerce 서비스 커넥터는 다양한 SaaS 기능의 잠금을 해제하는 Adobe에서 개발한 구성입니다. Adobe Commerce 및 Magento Open Source에 대해 결제 서비스를 사용하려면 프로덕션 및 샌드박스 API 키를 사용하여 Commerce 인스턴스를 연결하고 설정에 대한 구성에 데이터 공간을 지정해야 합니다.
+Commerce 서비스 커넥터는 Adobe에서 개발한 구성으로 다양한 SaaS 기능을 잠금 해제합니다. Adobe Commerce 및 Magento Open Source용 결제 서비스를 사용하려면 프로덕션 및 샌드박스 API 키를 사용하여 Commerce 인스턴스를 연결하고 설정에 대한 구성에 데이터 공간을 지정해야 합니다.
 
 결제 서비스 설정에 도움이 되는 _Adobe Commerce 서비스 커넥터 구성_ 비디오를 시청하십시오.
 
@@ -35,7 +36,7 @@ Commerce 서비스 커넥터는 다양한 SaaS 기능의 잠금을 해제하는 
 
 ## 구성 FAQ
 
-Commerce 서비스 커넥터는 다양한 SaaS 기능의 잠금을 해제하는 Adobe에서 개발한 구성입니다. 다음은 구성에 대해 가장 자주 묻는 질문 중 일부입니다.
+Commerce 서비스 커넥터는 Adobe에서 개발한 구성으로 다양한 SaaS 기능의 잠금을 해제합니다. 다음은 구성에 대해 가장 자주 묻는 질문 중 일부입니다.
 
 - 잘못된 또는 공개 키를 수정합니다.
 - 스토어의 API 키를 회전합니다.
