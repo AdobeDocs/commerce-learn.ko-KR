@@ -31,10 +31,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)를 참조하세요.
+>이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=ko)를 참조하세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36186?quality=12&learn=on)
 
 ## 추가 리소스
 
-[계층화된 탐색 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-layered.html)
+[계층화된 탐색 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-layered.html?lang=ko)

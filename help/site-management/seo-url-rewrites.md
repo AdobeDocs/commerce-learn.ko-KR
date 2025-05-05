@@ -11,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
-badgePaas: label="PaaS만" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Adobe Commerce 온 클라우드 프로젝트(Adobe 관리 PaaS 인프라) 및 온프레미스 프로젝트에만 적용됩니다."
+badgePaas: label="PaaS만" type="Informative" url="https://experienceleague.adobe.com/ko/docs/commerce/user-guides/product-solutions" tooltip="Adobe Commerce 온 클라우드 프로젝트(Adobe 관리 PaaS 인프라) 및 온프레미스 프로젝트에만 적용됩니다."
 source-git-commit: 29d48213b0f7d4425925ea8234d09867aa6d7577
 workflow-type: tm+mt
 source-wordcount: '115'
@@ -35,5 +35,5 @@ URL 재작성 도구를 사용하면 제품, 카테고리 또는 CMS 페이지�
 
 ## 추가 리소스
 
-- [URL 재작성 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
-- [일반 > 웹 - [!DNL Commerce] 구성 참조 안내서](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)
+- [URL 재작성 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html?lang=ko)
+- [일반 > 웹 - [!DNL Commerce] 구성 참조 안내서](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html?lang=ko)

@@ -89,4 +89,4 @@ drwxr-xr-x 6 web web 4.0K Jan 10  2024 ..
 
 ## 관련 설명서
 
-- [상태 알림](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+- [상태 알림](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

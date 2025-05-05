@@ -35,9 +35,9 @@ Adobe Commerce용 Fastly의 클라우드 사용에 대해 알아봅니다.
 ## 비디오에 언급된 Experience League 설명서 및 Fastly Adobe Commerce 검사기
 
 - [빠르게 확인](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
-- [Experience League의 Fastly 서비스](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html)
-- [Fastly WAF FAQ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html)
-- [이미지 최적화](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html)
+- [Experience League의 Fastly 서비스](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html?lang=ko)
+- [Fastly WAF FAQ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html?lang=ko)
+- [이미지 최적화](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html?lang=ko)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
 

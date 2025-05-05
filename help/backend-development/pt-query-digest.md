@@ -46,4 +46,4 @@ $ pt-query-digest mysql-slow.log.7 > mysql-slow.log.7.DIGEST
 ## 유용한 리소스
 
 - [Percona Toolkit](https://docs.percona.com/percona-toolkit/pt-query-digest.html){target="_blank"}
-- [MySQL의 교착 상태](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html){target="_blank"}
+- [MySQL의 교착 상태](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html?lang=ko){target="_blank"}

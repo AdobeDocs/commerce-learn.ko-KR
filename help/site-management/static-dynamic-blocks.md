@@ -34,5 +34,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [블록 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
-- [동적 블록 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)
+- [블록 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html?lang=ko)
+- [동적 블록 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html?lang=ko)

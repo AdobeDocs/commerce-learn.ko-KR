@@ -33,6 +33,6 @@ Adobe Commerce 및 Magento Open Source용 결제 서비스 사용을 시작하�
 
 ## 추가 리소스
 
-- [결제 서비스 온보딩](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
-- [결제 서비스 안내서](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
-- [Commerce 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}
+- [결제 서비스 온보딩](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html?lang=ko){target="_blank"}
+- [결제 서비스 안내서](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=ko){target="+blank"}
+- [Commerce 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=ko){target="+blank"}

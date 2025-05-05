@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## 수동으로 제품 만들기 {#manual-import}
 
-카탈로그가 제한되어 있고 업데이트를 자주 사용하지 않는 경우 수동으로 만드는 것이 가장 좋습니다. 각 제품을 입력하는 데 시간이 필요하고 Commerce 관리자 사용 방법에 대한 일부 제한된 교육도 필요합니다. 수동 카탈로그 관리는 대부분의 상점에 대한 적절한 옵션이 아니지만, 특정 상황에서, 그것은 이치에 맞을 수 있습니다. 이 프로세스에 대한 추가 설명서를 보려면 [제품 만들기](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}를 방문하세요. 두 개 이상의 방법을 사용하여 카탈로그를 관리할 수 있지만 자동화를 사용한 후에는 수동 편집이 제한되어야 합니다. 자동 업데이트에서는 수동으로 수행한 모든 변경 사항을 덮어쓸 수 있으므로 혼동을 일으킬 수 있습니다. 카탈로그를 관리하기 위해 Adobe Commerce과의 통합에서 자동화 및 API를 사용하고 있으면 [사용자 역할 및 권한](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}을 통해 관리자의 카탈로그 관리를 제한하는 것이 좋습니다.
+카탈로그가 제한되어 있고 업데이트를 자주 사용하지 않는 경우 수동으로 만드는 것이 가장 좋습니다. 각 제품을 입력하는 데 시간이 필요하고 Commerce 관리자 사용 방법에 대한 일부 제한된 교육도 필요합니다. 수동 카탈로그 관리는 대부분의 상점에 대한 적절한 옵션이 아니지만, 특정 상황에서, 그것은 이치에 맞을 수 있습니다. 이 프로세스에 대한 추가 설명서를 보려면 [제품 만들기](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=ko){target="_blank"}를 방문하세요. 두 개 이상의 방법을 사용하여 카탈로그를 관리할 수 있지만 자동화를 사용한 후에는 수동 편집이 제한되어야 합니다. 자동 업데이트에서는 수동으로 수행한 모든 변경 사항을 덮어쓸 수 있으므로 혼동을 일으킬 수 있습니다. 카탈로그를 관리하기 위해 Adobe Commerce과의 통합에서 자동화 및 API를 사용하고 있으면 [사용자 역할 및 권한](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=ko){target="_blank"}을 통해 관리자의 카탈로그 관리를 제한하는 것이 좋습니다.
 
 ### 이 접근 방식을 고려해야 하는 경우
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 ## 관리 CSV 가져오기 도구 {#admin-csv}
 
 이 도구를 사용하면 스토어 소유자가 상거래 관리자의 CSV 권한을 사용하여 카탈로그를 가져올 수 있습니다.
-[Commerce 관리자로부터 데이터 가져오기](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
+[Commerce 관리자로부터 데이터 가져오기](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=ko){target="_blank"}
 
 장점:
 관리자로부터 CSV를 업로드하는 것은 카탈로그 관리에 대한 직접적인 접근 방식입니다. 이를 통해 중간 크기의 카탈로그에 대한 카탈로그 제품 업데이트를 더 빠르게 수행할 수 있습니다.
@@ -139,6 +139,6 @@ CSV 형식이 아닌 대용량 데이터 세트를 가져오는 기능.
 ## 추가 리소스
 
 - [새 REST CSV를 사용하여 데이터 가져오기](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-- [데이터 주 문서 가져오기](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
-- [Adobe Commerce 버전 2.4.6 릴리스 노트](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
+- [데이터 주 문서 가져오기](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=ko){target="_blank"}
+- [Adobe Commerce 버전 2.4.6 릴리스 노트](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html?lang=ko){target="_blank"}
 - [사용자, 역할 및 권한](../site-management/users-roles-permissions.md){target="_blank"}

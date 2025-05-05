@@ -50,7 +50,7 @@ magento-cloud CLI 도구는 개발자와 시스템 관리자가 Adobe Commerce C
 
 예제 코드의 이 초기 섹션 `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1`에서 환경에 대한 URL을 요청하고 있습니다. 반환된 값은 이 `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`과(와) 비슷합니다. 가끔씩 이 `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`과(와) 비슷하게 보입니다.  이 첫 번째 명령은 다소 간단하며, 이제 다음 명령으로 이동할 차례입니다.
 
-자세한 내용은 [Cloud CLI 개요](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}를 참조하십시오.
+자세한 내용은 [Cloud CLI 개요](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}를 참조하십시오.
 
 ## 검색 및 바꾸기에 `sed` 사용
 

@@ -43,4 +43,4 @@ Adobe Commerce 장바구니를 사용자 정의하고 확장하는 방법을 알
 
 ## 추가 설명서
 
-* [장바구니에 제품 라인 추가](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)
+* [장바구니에 제품 라인 추가](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=ko)

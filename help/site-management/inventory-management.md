@@ -33,5 +33,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [Inventory management 안내서](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+- [Inventory management 안내서](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=ko)
 - [Inventory management - 개발자 REST 설명서](https://developer.adobe.com/commerce/webapi/rest/inventory/)

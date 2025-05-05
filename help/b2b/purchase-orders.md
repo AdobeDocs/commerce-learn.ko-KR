@@ -41,5 +41,5 @@ ht-degree: 1%
 
 ## 추가 리소스
 
-- [회사의 구매 주문](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
-- [구매 주문 승인 규칙](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}
+- [회사의 구매 주문](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html?lang=ko){target="_blank"}
+- [구매 주문 승인 규칙](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html?lang=ko){target="_blank"}

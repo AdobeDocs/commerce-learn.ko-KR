@@ -32,5 +32,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [[!DNL Page Builder] 템플릿 - [!DNL Page Builder] 사용 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+- [[!DNL Page Builder] 템플릿 - [!DNL Page Builder] 사용 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=ko)
 - [템플릿 추가 - [!DNL Page Builder] 개발자 안내서](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

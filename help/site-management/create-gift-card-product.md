@@ -325,6 +325,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## 추가 리소스
 
-- [Commerce 관리자로부터 기프트 카드 제품 만들기](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
+- [Commerce 관리자로부터 기프트 카드 제품 만들기](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=ko){target="_blank"}
 - [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

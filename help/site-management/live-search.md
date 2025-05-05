@@ -35,7 +35,7 @@ Adobe Commerce의 [!DNL Live Search]에 대해 간략하게 소개합니다. Ado
 
 ## 추가 리소스
 
-- [라이브 검색 전체 데모](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html){target="_blank"}
-- [[!DNL Live Search] 권장 사항](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html){target="_blank"}
-- [[!DNL Live Search] 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html){target="_blank"}
-- [Commerce 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+- [라이브 검색 전체 데모](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html?lang=ko){target="_blank"}
+- [[!DNL Live Search] 권장 사항](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html?lang=ko){target="_blank"}
+- [[!DNL Live Search] 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=ko){target="_blank"}
+- [Commerce 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=ko){target="_blank"}

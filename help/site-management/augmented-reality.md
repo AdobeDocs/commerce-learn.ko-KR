@@ -57,8 +57,8 @@ AR 뷰어는 물리적 소매점과 디지털 소매점 사이의 격차를 [!DN
 
 ## 유용한 리소스
 
-Adobe Commerce용 [AR 뷰어](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
-[Adobe Commerce용 AR 뷰어로 제품 3D 모델 관리](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
+Adobe Commerce용 [AR 뷰어](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html?lang=ko){target="_blank"}
+[Adobe Commerce용 AR 뷰어로 제품 3D 모델 관리](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html?lang=ko){target="_blank"}
 
 ## Adobe Commerce Marketplace 확장
 

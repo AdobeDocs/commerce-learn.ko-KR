@@ -33,5 +33,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [고객 그룹 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+- [고객 그룹 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=ko)
 - [웹 사이트별 고객 그룹 제한 - [!DNL Commerce] 고객 관리 안내서](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

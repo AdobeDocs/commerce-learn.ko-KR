@@ -38,5 +38,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [결제 서비스 안내서](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
-- [Commerce 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+- [결제 서비스 안내서](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=ko)
+- [Commerce 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=ko)

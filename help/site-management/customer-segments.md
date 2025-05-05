@@ -35,5 +35,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [고객 세그먼트 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
-- [가격 규칙의 고객 세그먼트 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)
+- [고객 세그먼트 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html?lang=ko)
+- [가격 규칙의 고객 세그먼트 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html?lang=ko)

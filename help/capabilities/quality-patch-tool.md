@@ -71,8 +71,8 @@ Quality Patches Tool을 사용하면 전자 상거래 플랫폼에서 패치를 
 
 ## 관련 문서 및 비디오
 
-* [품질 패치 도구 검색](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-* [릴리스 정보](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [품질 패치 도구 검색](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=ko)
+* [릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * 패치에 대한 [Github](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [품질 패치 도구 사용](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [QPT의 기술 비디오](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [품질 패치 도구 사용](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [QPT의 기술 비디오](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/tools/quality-patch-tool)

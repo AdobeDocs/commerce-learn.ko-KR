@@ -33,5 +33,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [제품 특성 - [!DNL Commerce] 카탈로그 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+- [제품 특성 - [!DNL Commerce] 카탈로그 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=ko)
 - [PWA Studio - 개발자 설명서](https://developer.adobe.com/commerce/pwa-studio/)

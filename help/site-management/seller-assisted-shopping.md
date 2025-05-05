@@ -33,5 +33,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [쇼핑객 지원 제공 - [!DNL Commerce] 경험 가이드 저장 및 구매](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
-- [쇼핑 지원 - [!DNL Commerce] 경험 가이드 저장 및 구매](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
+- [쇼핑객 지원 제공 - [!DNL Commerce] 경험 가이드 저장 및 구매](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html?lang=ko)
+- [쇼핑 지원 - [!DNL Commerce] 경험 가이드 저장 및 구매](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html?lang=ko#shopping-assistance)

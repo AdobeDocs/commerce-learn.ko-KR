@@ -41,4 +41,4 @@ Edge Delivery Services 장바구니 드롭인을 사용하여 체크아웃을 �
 
 ## 추가 설명서
 
-* [장바구니 요약 구성](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
+* [장바구니 요약 구성](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=ko)

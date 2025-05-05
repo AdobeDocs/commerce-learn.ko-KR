@@ -34,7 +34,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Commerce Intelligence을 처음 사용하는 경우 [Adobe Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}에서 데이터 집계, 분석 및 시각화를 통해 더 나은 비즈니스 통찰력과 결과를 얻을 수 있는 전체 개요를 제공합니다.
+>Commerce Intelligence을 처음 사용하는 경우 [Adobe Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=ko){target="_blank"}에서 데이터 집계, 분석 및 시각화를 통해 더 나은 비즈니스 통찰력과 결과를 얻을 수 있는 전체 개요를 제공합니다.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -47,6 +47,6 @@ ht-degree: 0%
 
 ## 유용한 리소스
 
-[필터 집합 만들기 - Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
+[필터 집합 만들기 - Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html?lang=ko)
 
-[세그먼테이션 및 필터링에 권장되는 데이터 Dimension - Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[세그먼테이션 및 필터링에 권장되는 데이터 Dimension - Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=ko)

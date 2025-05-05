@@ -39,4 +39,4 @@ ht-degree: 0%
 
 ## 추가 설명서
 
-* [여러 단계 게스트 체크아웃](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [여러 단계 게스트 체크아웃](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=ko)

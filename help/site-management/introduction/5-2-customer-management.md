@@ -36,6 +36,6 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-[개별 고객 계정 만들기 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+[개별 고객 계정 만들기 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=ko)
 
-[고객 그룹 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+[고객 그룹 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=ko)

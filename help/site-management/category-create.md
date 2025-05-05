@@ -33,6 +33,6 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [범주 만들기 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
-- [범주 권한 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
-- [위쪽 탐색 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)
+- [범주 만들기 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html?lang=ko)
+- [범주 권한 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html?lang=ko)
+- [위쪽 탐색 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html?lang=ko)

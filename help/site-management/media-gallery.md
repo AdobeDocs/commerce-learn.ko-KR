@@ -32,5 +32,5 @@ Adobe Commerce 또는 Magento Open Source 2.4를 사용하면 판매자는 새�
 
 ## 추가 리소스
 
-- [미디어 갤러리 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
-- [대체 미디어 저장소 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)
+- [미디어 갤러리 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/ko/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
+- [대체 미디어 저장소 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/ko/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Adobe Commerce 및 Adobe Journey Optimizer 통합
 
-Adobe Commerce에서 [데이터 연결](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"}을(를) 사용하여 Commerce 데이터의 잠금을 해제하고 Adobe Journey Optimizer의 도움을 받아 개인화된 엔드 투 엔드 쇼핑객 경험을 실시간으로 전달하는 방법을 알아봅니다.
+Adobe Commerce에서 [데이터 연결](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=ko){target="blank"}을(를) 사용하여 Commerce 데이터의 잠금을 해제하고 Adobe Journey Optimizer의 도움을 받아 개인화된 엔드 투 엔드 쇼핑객 경험을 실시간으로 전달하는 방법을 알아봅니다.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -41,5 +41,5 @@ Adobe Commerce에서 [데이터 연결](https://experienceleague.adobe.com/docs/
 
 ## 추가 리소스
 
-[데이터 연결 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"}
-[데이터 연결 설치](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html){target="_blank"}
+[데이터 연결 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=ko){target="_blank"}
+[데이터 연결 설치](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html?lang=ko){target="_blank"}

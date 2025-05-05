@@ -34,6 +34,6 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-[웹 사이트, 스토어 및 보기 - [!DNL Commerce] 시작 안내서](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[웹 사이트, 스토어 및 보기 - [!DNL Commerce] 시작 안내서](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=ko)
 
-[캐시 관리 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)
+[캐시 관리 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html?lang=ko)

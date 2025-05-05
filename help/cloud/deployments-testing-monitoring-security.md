@@ -34,12 +34,12 @@ Adobe Commerce Cloud 배포 전략, 테스트 모범 사례, 모니터링 및 �
 
 ## 비디오에 언급된 Experience League 설명서
 
-- [배포 프로세스](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
-- [SWAT 사이트 전체 분석 도구](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [ECE 도구 스마트 마법사](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
-- [보안 검사](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
-- [Fastly WAF 웹 응용 프로그램 방화벽](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
-- [New Relic 서비스 개요](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
+- [배포 프로세스](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html?lang=ko)
+- [SWAT 사이트 전체 분석 도구](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=ko)
+- [ECE 도구 스마트 마법사](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html?lang=ko)
+- [보안 검사](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html?lang=ko)
+- [Fastly WAF 웹 응용 프로그램 방화벽](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html?lang=ko)
+- [New Relic 서비스 개요](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=ko)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
 

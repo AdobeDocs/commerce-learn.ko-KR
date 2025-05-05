@@ -44,5 +44,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [페이지 빌더 사용 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
+- [페이지 빌더 사용 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html?lang=ko)
 - [페이지 빌더 개발자 안내서](https://developer.adobe.com/commerce/frontend-core/page-builder/)

@@ -30,7 +30,7 @@ ht-degree: 29%
 - 최신 Adobe Commerce 버전으로 업그레이드하는 데 필요한 오류 및 수정 사항을 신속하게 식별하는 데 도움이 되는 방법
 - 심각도 및 비호환성 수로 모듈을 시각화하는 데 도움이 되는 HTML 결과에 액세스하는 방법
 
-도구에 대한 자세한 내용은 [호환성 도구 업그레이드 설명서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)를 참조하세요. 업그레이드 수행 및 단순화에 대한 자세한 내용은 [업그레이드 안내서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)를 참조하세요.
+도구에 대한 자세한 내용은 [호환성 도구 업그레이드 설명서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=ko)를 참조하세요. 업그레이드 수행 및 단순화에 대한 자세한 내용은 [업그레이드 안내서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=ko)를 참조하세요.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -43,7 +43,7 @@ ht-degree: 29%
 
 ## 추가 리소스
 
-- [호환성 도구 설명서 업그레이드](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
-- [업그레이드 안내서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
-- [릴리스 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
-- [릴리스 일정](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
+- [호환성 도구 설명서 업그레이드](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=ko)
+- [업그레이드 안내서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=ko)
+- [릴리스 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=ko)
+- [릴리스 일정](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=ko)

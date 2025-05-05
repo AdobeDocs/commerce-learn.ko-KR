@@ -32,5 +32,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [Adobe Commerce 관찰 - 지원 문서](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
-- [Adobe Commerce에 관찰 사용](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
+- [Adobe Commerce 관찰 - 지원 문서](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?lang=ko&)
+- [Adobe Commerce에 관찰 사용](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html?lang=ko)

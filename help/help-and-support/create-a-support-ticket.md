@@ -36,4 +36,4 @@ Adobe Commerce용 Experience League 내에서 지원 티켓을 만드는 방법�
 
 ## Commerce 기술 자료 도움말 센터 안내서
 
-[지원 사례 제출](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[지원 사례 제출](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

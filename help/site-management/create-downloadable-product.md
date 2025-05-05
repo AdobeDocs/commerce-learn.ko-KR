@@ -54,7 +54,7 @@ REST API 및 Adobe Commerce 관리자를 사용하여 다운로드 가능한 제
 
 도메인이 `env.php`에 추가되었으므로 이제 Adobe Commerce 관리자 또는 REST API를 사용하여 다운로드 가능한 제품을 만들 수 있습니다.
 
-자세한 내용은 [구성 참조](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains)를 참조하세요.
+자세한 내용은 [구성 참조](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=ko#downloadable_domains)를 참조하세요.
 
 >[!IMPORTANT]
 >일부 Adobe Commerce 버전에서는 Adobe Commerce 관리에서 제품을 편집할 때 다음 오류가 발생할 수 있습니다. REST API를 사용하여 제품이 만들어졌지만 연결된 다운로드의 가격은 `null`입니다.
@@ -236,7 +236,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## 추가 리소스
 
-- [다운로드 가능한 제품 유형](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
-- [다운로드 가능한 도메인 구성 가이드](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
+- [다운로드 가능한 제품 유형](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=ko){target="_blank"}
+- [다운로드 가능한 도메인 구성 가이드](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=ko#downloadable_domains){target="_blank"}
 - [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
