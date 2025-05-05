@@ -30,6 +30,6 @@ REST API를 통해 Adobe Commerce B2B 견적에 대한 라인 항목 노트를 �
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3420418?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443492?learn=on&captions=kor)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

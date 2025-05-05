@@ -30,7 +30,7 @@ Adobe Commerce Cloud 배포 전략, 테스트 모범 사례, 모니터링 및 �
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3427818?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432826?learn=on&captions=kor)
 
 ## 비디오에 언급된 Experience League 설명서
 

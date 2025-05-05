@@ -37,4 +37,4 @@ Adobe Commerce 백오피스 통합 시작 키트에 대해 알아봅니다. 이 
 * I/O 이벤트 구성
 * 데이터를 동기화하기 위해 서드파티에 연결
 
->[!VIDEO](https://video.tv.adobe.com/v/3428629?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452021?learn=on&captions=kor)

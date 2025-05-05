@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/35784?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430972?quality=12&learn=on&captions=kor)
 
 ## 유용한 리소스
 

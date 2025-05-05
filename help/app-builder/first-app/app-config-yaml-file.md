@@ -31,7 +31,7 @@ ht-degree: 0%
 * `app.config.yaml` 파일이 논의되었습니다.
 * 다른 `.js`개 파일에 대한 정의 연결 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430841?quality=12&learn=on&captions=kor)
 
 ## 코드 샘플
 

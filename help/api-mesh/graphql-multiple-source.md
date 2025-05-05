@@ -34,7 +34,7 @@ ht-degree: 0%
 * 이름 충돌, 스키마 가용성 및 기타 스키마 구문 문제와 같은 오류를 해결하는 방법
 * 수정된 구성으로 메쉬 업데이트
 
->[!VIDEO](https://video.tv.adobe.com/v/3414125?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419790?quality=12&learn=on&captions=kor)
 
 ## JSON 구성 파일 만들기
 

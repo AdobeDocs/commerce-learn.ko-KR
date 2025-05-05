@@ -38,7 +38,7 @@ Adobe Sensei에서 제공하는 Adobe Commerce의 고급 검색 기능과 강력
 - 고급 통합 및 사용자 정의.
 - 향상된 쇼핑 경험.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434071?learn=on&captions=kor)
 
 ## 라이브 검색
 
@@ -50,7 +50,7 @@ Adobe Sensei의 AI 기반 라이브 검색에서 제공하는 Adobe Commerce의 
 - 사용자 정의 가능한 검색 경험: 고급 검색 규칙, 동의어 및 패싯과 같은 기능을 통해 고객을 위한 맞춤형의 최적화된 검색 경험을 제공할 수 있습니다.
 - B2B 통합: Live Search는 공유 카탈로그와 특정 가격으로 B2B 모델을 지원하므로 다양한 비즈니스 요구 사항에 대한 범용성을 향상시킵니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434049?learn=on&captions=kor)
 
 ## 프로모션  
 
@@ -62,5 +62,5 @@ Adobe Commerce은 스토어 관리자가 코딩 기술 없이 제품 번들 및 
 - 고급 판촉 전략
 - 타사 시스템과의 원활한 통합을 통해 유연성과 자동화를 향상시킵니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434060?learn=on&captions=kor)
 >

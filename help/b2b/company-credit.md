@@ -39,7 +39,7 @@ _[!UICONTROL Payment on Account]_&#x200B;을(를) 사용하도록 설정하고 �
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/344445?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410762?quality=12&learn=on&captions=kor)
 
 ## 추가 리소스
 

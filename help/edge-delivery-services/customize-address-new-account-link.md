@@ -40,7 +40,7 @@ ht-degree: 0%
 * 주소 입력 필드에 대한 유효성 검사 및 오류 처리를 통해 사용자가 잘못되거나 불완전한 항목에 대한 즉각적인 피드백을 받을 수 있으므로 사용자 경험이 향상됩니다.
 * 새 사이드바 메뉴 항목을 사용자 계정 대시보드에 추가하는 사용자 계정 대시보드 확장입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442913?learn=on&captions=kor)
 
 ## 추가 설명서
 

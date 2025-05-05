@@ -39,7 +39,7 @@ ht-degree: 0%
 
 이러한 패치는 Adobe 개발자 및 Magento Open Source 커뮤니티에서 개발하여 안정성과 성능을 향상시킵니다. 향후 업그레이드를 복잡하게 만들 수 있으므로 많은 수의 패치를 적용하는 것은 권장되지 않습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454076?learn=on&captions=kor)
 
 ## 품질 패치 도구를 사용하는 이유
 

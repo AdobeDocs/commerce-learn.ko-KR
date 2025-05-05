@@ -33,6 +33,6 @@ Adobe Commerce 마켓플레이스에서 이제 App Builder 앱 목록에 대한 
 * 앱 제출의 기술 및 마케팅 섹션
 * 앱이 검토를 통과한 후 받게 되는 예제 이메일입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420313)
+>[!VIDEO](https://video.tv.adobe.com/v/3447351?captions=kor)
 
 {{$include /help/_includes/app-builder-related-links.md}}

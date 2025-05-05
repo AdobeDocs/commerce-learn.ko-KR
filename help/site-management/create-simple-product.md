@@ -30,7 +30,7 @@ REST API 및 Adobe Commerce 관리자를 사용하여 간단한 제품을 만드
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443909?learn=on&captions=kor)
 
 ## curl을 사용하여 제품 만들기
 

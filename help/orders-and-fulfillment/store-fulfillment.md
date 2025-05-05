@@ -45,7 +45,7 @@ Store Fulfillment for Adobe Commerce by Walmart Commerce Technologies는 고급 
 >
 >이 비디오의 콘텐츠는 Adobe Commerce 2.4가 있는 상점에 설치된 스토어 이행 솔루션 1.0 릴리스를 반영합니다. 최신 정보는 [스토어 이행 사용 안내서](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html?lang=ko)를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447542?quality=12&learn=on&captions=kor)
 
 ## 추가 리소스
 

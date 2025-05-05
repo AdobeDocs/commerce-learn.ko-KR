@@ -33,7 +33,7 @@ ht-degree: 0%
 * 파일을 추가하여 새 암호를 추가하는 방법
 * 이 파일에는 중요한 정보가 포함되어 있으므로 커밋하지 마십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421070?quality=12&learn=on&captions=kor)
 
 ## 코드 샘플
 

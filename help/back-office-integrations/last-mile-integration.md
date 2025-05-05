@@ -43,6 +43,6 @@ ht-degree: 0%
 * 원본 시스템과 대상 시스템 간에 데이터 개체를 변환할 때 사용되는 변환 후크의 역할에 대해 알아봅니다.
 * 대상 시스템으로 실제 데이터를 전송하는 데 사용되는 전송 후크의 중요성에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451931?learn=on&captions=kor)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

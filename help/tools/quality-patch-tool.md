@@ -34,7 +34,7 @@ Adobe Commerce 지원 팀과 Magento Open Source 커뮤니티는 품질 패치�
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/344000?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410786?quality=12&learn=on&captions=kor)
 
 ## 추가 리소스
 

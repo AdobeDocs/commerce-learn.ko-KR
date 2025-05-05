@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/343835?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410807?quality=12&learn=on&captions=kor)
 
 ## 가격 표시 문제
 

@@ -34,7 +34,7 @@ ht-degree: 0%
 * 단위 테스트 파일 및 해당 구성 요소에 대한 간단한 설명
 * 엔드 투 엔드 테스트 소개
 
->[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421064?quality=12&learn=on&captions=kor)
 
 ## 코드 샘플
 

@@ -37,7 +37,7 @@ Adobe Commerce에서 [데이터 연결](https://experienceleague.adobe.com/docs/
 - Adobe Journey Optimizer에서 데이터 연결에서 사용할 수 있는 기본 여정을 사용하여 1:1 고객 이벤트를 쉽게 작성하고 활성화합니다
 - Adobe Journey Optimizer의 기본 메시징 기능을 사용하여 모든 채널에서 실시간으로 쇼핑객과 소통
 
->[!VIDEO](https://video.tv.adobe.com/v/3426855/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452477/?learn=on&captions=kor)
 
 ## 추가 리소스
 

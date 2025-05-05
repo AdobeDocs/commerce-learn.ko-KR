@@ -36,7 +36,7 @@ Adobe Commerce 장바구니 드롭인을 사용하고 장바구니 경험을 조
 * 장바구니 요약에 대해 저장된 총 금액을 포함하는 방법을 알아봅니다.
 * 장바구니 요약의 줄을 하나의 접기 가능한 섹션으로 병합하는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441192?learn=on&captions=kor)
 
 ## 추가 설명서
 

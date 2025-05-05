@@ -32,6 +32,6 @@ Adobe Commerce B2B 견적에 대한 라인 항목 노트를 사용하는 방법�
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3420417?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423695?learn=on&captions=kor)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

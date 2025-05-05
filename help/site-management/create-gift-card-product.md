@@ -31,7 +31,7 @@ REST API 및 Adobe Commerce 관리자를 사용하여 기프트 카드 제품을
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453084?learn=on&captions=kor)
 
 ## 간단한 페이로드로 기프트 카드 만들기
 

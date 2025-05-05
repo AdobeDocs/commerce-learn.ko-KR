@@ -31,7 +31,7 @@ Adobe Commerce용 Experience League 내에서 지원 티켓을 닫거나 다시 
 * 지원 티켓을 닫는 방법에 대해 알아봅니다.
 * 지원 티켓을 다시 여는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441359?learn=on&captions=kor)
 
 ## Commerce 기술 자료 도움말 센터 안내서
 

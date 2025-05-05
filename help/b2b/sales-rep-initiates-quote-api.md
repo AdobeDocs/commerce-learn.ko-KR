@@ -32,6 +32,6 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3420414?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423713?learn=on&captions=kor)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

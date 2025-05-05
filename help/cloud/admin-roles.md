@@ -33,4 +33,4 @@ Adobe ID 또는 Federated ID을 사용하여 Adobe Commerce 관리 포털에 로
 - 역할 생성 및 관리에 대한 이해 향상
 - 사용자 할당 및 액세스 수준을 이해합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433520?learn=on&captions=kor)

@@ -31,7 +31,7 @@ Adobe Commerce의 [!DNL Live Search]은(는) 추가 비용 없이 Adobe Commerce
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3412586?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432507?quality=12&learn=on&captions=kor)
 
 
 ## 추가 리소스

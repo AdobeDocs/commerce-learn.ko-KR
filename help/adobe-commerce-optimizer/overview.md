@@ -33,4 +33,4 @@ Adobe Commerce Optimizer은 유기 트래픽을 강화하고 A/B 테스트와 �
 * 플랫폼을 다시 구축할 필요 없이 기존 ERP, CRM, OMS 및 기타 시스템과의 원활한 통합
 * 디지털 운영 확장
 
->[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450470?learn=on&captions=kor)

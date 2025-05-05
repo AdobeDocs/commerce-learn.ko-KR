@@ -30,4 +30,4 @@ ht-degree: 0%
 
 ## Adobe Commerce Intelligence 보고서 및 대시보드
 
->[!VIDEO](https://video.tv.adobe.com/v/3428252?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453150?learn=on&captions=kor)

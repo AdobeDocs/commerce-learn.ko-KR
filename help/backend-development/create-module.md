@@ -34,7 +34,7 @@ ht-degree: 0%
 - 스크립트를 업그레이드하여 새 모듈을 설치합니다.
 - 모듈이 작동하는지 확인합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412457?learn=on&captions=kor)
 
 ### module.xml
 

@@ -33,6 +33,6 @@ ht-degree: 0%
 * E2E 테스트
 * 수동 테스트
 
->[!VIDEO](https://video.tv.adobe.com/v/3416594?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421058?quality=12&learn=on&captions=kor)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

@@ -26,4 +26,4 @@ ht-degree: 0%
 
 - 의심되는 IP 또는 악의적인 IP를 식별하여 Fastly&#x200B;에서 차단에 사용
 
->[!VIDEO](https://video.tv.adobe.com/v/3412088?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417130?quality=12&learn=on&captions=kor)

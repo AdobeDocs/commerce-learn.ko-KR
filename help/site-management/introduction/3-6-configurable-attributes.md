@@ -33,7 +33,7 @@ ht-degree: 0%
 >
 >이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=ko)를 참조하세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/35957?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329981?quality=12&learn=on&captions=kor)
 
 ## 추가 리소스
 

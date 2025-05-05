@@ -26,7 +26,7 @@ Adobe Commerce on cloud 프로젝트에 연결하고, 오프사이트 사용을 
 * MysqlWorkbench 또는 TablesPlus와 같은 도구를 사용하여 원격 Adobe Commerce Cloud 프로젝트에 빠르게 연결하는 방법을 알아봅니다.
 * 명령줄을 통해 SQL을 실행하기 위해 Adobe Commerce 프로젝트에 빠르게 연결하는 방법에 대해 알아봅니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450043?learn=on&captions=kor)
 
 Adobe Commerce on cloud 프로젝트에 연결하고, 오프사이트에서 사용할 데이터베이스를 덤프하고, PII를 마스킹하고 제거하는 방법을 알아봅니다.
 

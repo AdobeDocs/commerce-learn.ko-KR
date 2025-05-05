@@ -30,7 +30,7 @@ REST API 및 Adobe Commerce 관리자를 사용하여 다운로드 가능한 제
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453951?learn=on&captions=kor)
 
 ## 허용된 다운로드 가능한 도메인
 

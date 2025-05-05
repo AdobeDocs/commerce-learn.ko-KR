@@ -61,7 +61,7 @@ Adobe Commerce 관리에서 번들 제품을 만들 때 먼저 간단한 제품�
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454508?learn=on&captions=kor)
 
 ## REST를 사용하여 제품 만들기
 

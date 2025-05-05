@@ -35,4 +35,4 @@ Adobe Commerce 데이터 연결에 대한 전체 데모입니다.
 * Real-Time CDP 대상 은 브라우저 데이터, 서버측 데이터(주문 내역 포함) 및 다른 소스의 데이터(즉, 충성도 데이터)를 기반으로 실시간으로 세그먼테이션을 업데이트하고 수정합니다.
 * Real-Time CDP 대상을 활용하여 Adobe Commerce의 장바구니 가격 규칙과 동적 블록을 모두 개인화합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453825?learn=on&captions=kor)

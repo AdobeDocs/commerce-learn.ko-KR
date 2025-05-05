@@ -36,7 +36,7 @@ ht-degree: 0%
 * CLI에서 선택한 조직, 프로젝트 또는 작업 공간 변경
 * 간단한 API Mesh 명령 테스트
 
->[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419741?quality=12&learn=on&captions=kor)
 
 ## Adobe Developer Console에 대해 알아보기
 

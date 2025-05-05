@@ -46,7 +46,7 @@ SQL Report Builder을 사용하면 데이터 웨어하우스를 직접 쿼리하
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/342406?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346414?quality=12&learn=on&captions=kor)
 
 ## 유용한 리소스
 

@@ -32,7 +32,7 @@ ht-degree: 0%
 * 일반적으로 포함된 파일 및 폴더
 * 샘플 응용 프로그램에서 `web-src` 폴더와 내부 내용을 사용하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421042?quality=12&learn=on&captions=kor)
 
 ## 코드 샘플
 

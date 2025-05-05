@@ -37,7 +37,7 @@ Edge Delivery Services에서 Adobe Commerce 장바구니를 사용하여 BOPIS �
 * 게재 및 매장 픽업 간 전환
 * 픽업 위치 가져오는 중
 
->[!VIDEO](https://video.tv.adobe.com/v/3441699?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441707?learn=on&captions=kor)
 
 ## 추가 설명서
 

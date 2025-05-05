@@ -32,4 +32,4 @@ AI와 Adobe Commerce의 통합은 자산 관리를 중앙 집중화하여 개인
 - 제품과 자산 간의 원활한 동기화.
 - 승인, 제거 및 만료가 포함된 라이프사이클 제어를 완료합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434083?learn=on&captions=kor)

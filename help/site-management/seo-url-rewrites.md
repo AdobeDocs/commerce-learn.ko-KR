@@ -31,7 +31,7 @@ URL 재작성 도구를 사용하면 제품, 카테고리 또는 CMS 페이지�
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/343751?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410127?quality=12&learn=on&captions=kor)
 
 ## 추가 리소스
 

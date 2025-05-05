@@ -37,7 +37,7 @@ Galera 클러스터는 성능과 확장성에 도움이 됩니다. 보조 데이
 - 대량 실행은 기본 실행에서만 발생합니다. 복제는 한 번에 1개씩 수행됩니다.
 - 대규모 커밋을 일괄 처리하여 복제가 기본 커밋을 따라갈 수 있도록 지원
 
->[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423543?learn=on&captions=kor)
 
 ## 유용한 리소스
 
