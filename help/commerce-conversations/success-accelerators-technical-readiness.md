@@ -1,7 +1,6 @@
 ---
 title: Success Accelerator 기술 준비
-description: Adobe Commerce Success Accelerator 기술 준비, 솔루션 검토, 이벤트 계획 및 최적의 성능을 위한 연중무휴 모니터링.
-feature: Site Management, Support
+description: Commerce Success Accelerator 기술 준비, 솔루션 검토, 이벤트 계획 및 최적의 성능을 위한 연중무휴 모니터링에 대해 알아봅니다.
 topic: Administration, Commerce
 role: User
 level: Beginner
@@ -9,13 +8,13 @@ doc-type: Value Video
 duration: 160
 last-substantial-update: 2025-04-16T00:00:00Z
 jira: KT-17804
-source-git-commit: 080c355e656e918415de74156830d787aad20af4
+exl-id: 7a031aa0-40d6-4a90-a71f-4297107e42f2
+source-git-commit: a79bc113cbedb89c56e74571a68538fa94a3945c
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
-
 
 # Success Accelerator 기술 준비
 
