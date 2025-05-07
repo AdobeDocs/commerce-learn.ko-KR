@@ -1,6 +1,6 @@
 ---
 title: Success Accelerator 채택 및 지원
-description: Adobe Commerce Success Accelerator 채택 및 전략 개발, 스킬 향상 및 거버넌스 지원
+description: Adobe Commerce Success Accelerator 채택 및 전략적 개발, 스킬 향상 및 거버넌스에 대한 지원에 대해 알아봅니다.
 feature: Site Management, Support
 topic: Administration, Commerce
 role: User
@@ -9,13 +9,13 @@ doc-type: Value Video
 duration: 95
 last-substantial-update: 2025-04-16T00:00:00Z
 jira: KT-17808
-source-git-commit: 11384ef49c6cfe3d59a7cee22cdca8ceb123d7d6
+exl-id: 8957dbbe-9bed-41e4-b21e-5371f91085fd
+source-git-commit: 34e15bd8c440b2f63fbf43e29fdd2961c72301f6
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # Success Accelerator 채택 및 지원
 
