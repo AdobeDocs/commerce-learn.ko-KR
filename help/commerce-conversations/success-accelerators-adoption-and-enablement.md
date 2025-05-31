@@ -34,4 +34,4 @@ ht-degree: 0%
 * 멀티 세션 데스크 사이드 코칭을 통해 기술 격차를 줄이고 전략적 우선 순위에 맞춥니다.
 * 적절한 제품 채택 및 모범 사례를 보장하기 위한 액세스, 권한 및 디자인 거버넌스 창출
 
->[!VIDEO](https://video.tv.adobe.com/v/3457657/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463085/?learn=on&enablevpops&captions=kor)
