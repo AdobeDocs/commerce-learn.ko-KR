@@ -37,7 +37,7 @@ Adobe Commerce은 의료 기업이 HIPAA 규정을 준수할 수 있도록 설�
 
 ## 추가 설명서
 
-* [HIPAA 준비 - 데이터 연결](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
-* [HIPAA 준비 - 준수](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
-* [데이터 연결 설치](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)
+* [HIPAA 준비 - 데이터 연결](https://experienceleague.adobe.com/ko/docs/commerce/data-connection/hipaa-readiness)
+* [HIPAA 준비 - 준수](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
+* [데이터 연결 설치](https://experienceleague.adobe.com/ko/docs/commerce/data-connection/fundamentals/install)
 
