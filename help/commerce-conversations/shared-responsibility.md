@@ -9,13 +9,13 @@ doc-type: Technical Video
 duration: 152
 last-substantial-update: 2025-05-12T00:00:00Z
 jira: KT-18082
-source-git-commit: 3dd00fba9c51b7bd636008aa341206c71b4ac6c5
+exl-id: 8a109d90-a11c-4323-9486-abe48a2e1bff
+source-git-commit: bd2ae796c91bbec5b07e3f9aaf4967e67f31ceb7
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # 공동 책임
 
@@ -34,3 +34,10 @@ Adobe 및 판매자가 Adobe Commerce Cloud의 보안을 유지하기 위한 책
 * 우수 사례: Adobe에서는 이중 인증 활성화, 보안 관리자 액세스 설정, 최소 권한 원칙 준수 등 판매자를 위한 우수 사례를 권장합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458392/?learn=on&enablevpops)
+
+## 추가 설명서
+
+* [보안 패치 릴리스 노트](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
+* [알림 채널](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
+* [Adobe 보안 게시판](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&amp;context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [상거래 사이트 및 인프라 보안](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
