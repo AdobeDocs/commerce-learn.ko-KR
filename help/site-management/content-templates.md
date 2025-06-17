@@ -10,7 +10,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
-badgePaas: label="PaaS만" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Adobe Commerce 온 클라우드 프로젝트(Adobe 관리 PaaS 인프라) 및 온프레미스 프로젝트에만 적용됩니다."
+badgePaas: label="PaaS만" type="Informative" url="https://experienceleague.adobe.com/ko/docs/commerce/user-guides/product-solutions" tooltip="Adobe Commerce 온 클라우드 프로젝트(Adobe 관리 PaaS 인프라) 및 온프레미스 프로젝트에만 적용됩니다."
 source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
 workflow-type: tm+mt
 source-wordcount: '108'
@@ -33,5 +33,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- [[!DNL Page Builder] 템플릿 - [!DNL Page Builder] 사용 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+- [[!DNL Page Builder] 템플릿 - [!DNL Page Builder] 사용 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=ko)
 - [템플릿 추가 - [!DNL Page Builder] 개발자 안내서](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)
