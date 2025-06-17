@@ -12,9 +12,10 @@ level: Beginner, Intermediate
 jira: KT-17150
 duration: 374
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
-source-git-commit: bfb7fe605c5912df18b1ef5d3becb4a3021ca9e7
+badgePaas: label="PaaS만" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Adobe Commerce 온 클라우드 프로젝트(Adobe 관리 PaaS 인프라) 및 온프레미스 프로젝트에만 적용됩니다."
+source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -30,9 +31,9 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3411071?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/343783?quality=12&learn=on)
 
 ## 추가 리소스
 
-- [블록 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html?lang=ko)
-- [동적 블록 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html?lang=ko)
+- [블록 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
+- [동적 블록 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)

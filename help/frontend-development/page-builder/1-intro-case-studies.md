@@ -11,9 +11,10 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
-source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
+badgePaas: label="PaaS만" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Adobe Commerce 온 클라우드 프로젝트(Adobe 관리 PaaS 인프라) 및 온프레미스 프로젝트에만 적용됩니다."
+source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -34,12 +35,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 콘텐츠는 Adobe Commerce 2.3.1용 Page Builder 1.0.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [Page Builder 릴리스 정보](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=ko)를 참조하십시오.
+>이 콘텐츠는 Adobe Commerce 2.3.1용 Page Builder 1.0.0 릴리스를 반영합니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [Page Builder 릴리스 정보](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html)를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430888?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/35709?quality=12&learn=on)
 
 ## 유용한 리소스
 
 [페이지 빌더 개발자 설명서](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[페이지 빌더 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=ko)
+[페이지 빌더 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
