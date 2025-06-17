@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 8fada712c51193fc6f3fe9e75b9324a6826f7570
+source-git-commit: ca8cdbb42dcf89cd0ce4c2b8b13b9fd454e8c597
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '879'
 ht-degree: 3%
 
 ---
@@ -147,12 +147,13 @@ ht-degree: 3%
       + [Adobe Commerce 구성](../io-events/configure-commerce.md)
       + [Adobe Commerce 모듈 개발](../io-events/commerce-module-development.md)
       + [Adobe Commerce 조건부 이벤트](../io-events/conditional-events.md)
-   + API 메쉬 {#api-mesh}
-      + [API Mesh 시작](../api-mesh/getting-started-api-mesh.md)
-      + [Adobe IO 및 메쉬 플러그인 설치](../api-mesh/installing-aio-mesh-plugin.md)
-      + [프로젝트 및 작업 공간 작업](../api-mesh/aio-projects-workspaces.md)
-      + [단일 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-single-source.md)
-      + [여러 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-multiple-source.md)
++ API 메쉬 {#api-mesh}
+   + [GitHub Codespaces를 사용한 API Mesh 스타터 키트](../api-mesh/starter-kit-github-codespaces.md)
+   + [API Mesh 시작](../api-mesh/getting-started-api-mesh.md)
+   + [Adobe IO 및 메쉬 플러그인 설치](../api-mesh/installing-aio-mesh-plugin.md)
+   + [프로젝트 및 작업 공간 작업](../api-mesh/aio-projects-workspaces.md)
+   + [단일 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-single-source.md)
+   + [여러 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-multiple-source.md)
 + 저장소 관리 {#admin}
    + [사용자 역할 및 권한 관리](../site-management/users-roles-permissions.md)
    + [이중 인증](../site-management/two-factor-authentication.md)
@@ -235,7 +236,7 @@ ht-degree: 3%
    + [업그레이드 호환성 도구 개요](../upgrade/upgrade-compatibility-tool-overview.md)
    + [PHP Storm에서 호환성 업그레이드 도구 사용](../upgrade/uct-phpstorm.md)
 + 백엔드 개발 {#backend-development}
-   + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+   + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [모듈 만들기](../backend-development/create-module.md)
    + [제품 속성 추가](../backend-development/add-product-attribute.md)
    + [종속성 삽입 예](../backend-development/dependency-injection.md)
@@ -265,4 +266,3 @@ ht-degree: 3%
       + [6 - 페레그린](../pwa/introduction/6-peregrine.md)
    + [PWA Docker 개발](../pwa/pwa-docker-development.md)
    + [개발을 위한 Venia 설정](../pwa/set-up-venia-for-dev.md)
-
