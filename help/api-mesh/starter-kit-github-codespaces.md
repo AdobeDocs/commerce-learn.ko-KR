@@ -33,7 +33,7 @@ ht-degree: 0%
 * 테스트를 위한 내장 도구: 사전 구성된 GraphQL 서버(Yoga)와 원활한 개발을 위한 자동 서버 재시작이 포함되어 있습니다.
 * 실습 학습: 시작 키트를 복제하고 끝점을 구성하고 브라우저에서 직접 API 응답을 테스트합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464017?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464024?learn=on&enablevpops&captions=kor)
 
 ## 관련 설명서
 
