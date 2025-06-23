@@ -51,6 +51,6 @@ Commerce 애플리케이션에는 REST API 및 GraphQL 엔드포인트가 있습
 Adobe App Builder 및 API Mesh를 사용하는 개발자는 역방향 프록시가 무엇인지 이해할 필요가 없습니다. 그러나 Adobe App Builder과 관련된 전반적인 기능에 관심이 있는 경우 다음 리소스를 사용하십시오.
 
 * [역방향 프록시란](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [Experience League 커뮤니티 - 역방향 프록시](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772){target="_blank"}
+* [Experience League 커뮤니티 - 역방향 프록시](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772?profile.language=ko){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}
