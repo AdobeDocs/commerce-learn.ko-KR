@@ -12,10 +12,10 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: faa0bd681f8fea32e5e2203db0d1a86c7ed71e1c
+source-git-commit: 15fe8a3387ca3f1c1f0cdc9f8e4cd58ce99260f4
 workflow-type: tm+mt
-source-wordcount: '311'
-ht-degree: 15%
+source-wordcount: '305'
+ht-degree: 16%
 
 ---
 
@@ -40,7 +40,7 @@ API Mesh는 여러 데이터 소스를 결합하여 애플리케이션이 사용
 * 체크아웃 시 실시간 인벤토리 확인을 위한 사용 사례
 * 개발 노력 및 리소스 사용을 상거래 애플리케이션에서 멀리 이동
 
->[!VIDEO](https://video.tv.adobe.com/v/3421889?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## 예시 사용 사례
 
@@ -51,6 +51,6 @@ Commerce 애플리케이션에는 REST API 및 GraphQL 엔드포인트가 있습
 Adobe App Builder 및 API Mesh를 사용하는 개발자는 역방향 프록시가 무엇인지 이해할 필요가 없습니다. 그러나 Adobe App Builder과 관련된 전반적인 기능에 관심이 있는 경우 다음 리소스를 사용하십시오.
 
 * [역방향 프록시란](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [Experience League 커뮤니티 - 역방향 프록시](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772?profile.language=ko){target="_blank"}
+
 
 {{$include /help/_includes/api-mesh-related-links.md}}
