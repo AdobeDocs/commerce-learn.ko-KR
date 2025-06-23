@@ -12,16 +12,16 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 366a7988dfa1de39ebccb8ab0e281d80b27dbb36
+source-git-commit: 441d8b177c8bf486b47c763c2854eb1772ffe331
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '311'
 ht-degree: 15%
 
 ---
 
 # API Mesh 시작
 
-Adobe Developer App BuilderAdobe 용 API Mesh를 처음 사용하는 경우 다른 비디오 및 튜토리얼로 진행하기 전에 이 소개 튜토리얼로 시작하는 것이 좋습니다.
+Adobe Developer App Builder용 API Mesh를 처음 사용하는 경우 Adobe에서는 다른 비디오 및 튜토리얼로 진행하기 전에 이 소개 튜토리얼로 시작하는 것이 좋습니다.
 
 ## API Mesh란?
 
@@ -40,7 +40,7 @@ API Mesh는 여러 데이터 소스를 결합하여 애플리케이션이 사용
 * 체크아웃 시 실시간 인벤토리 확인을 위한 사용 사례
 * 개발 노력 및 리소스 사용을 상거래 애플리케이션에서 멀리 이동
 
->[!VIDEO](https://video.tv.adobe.com/v/3421889?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## 예시 사용 사례
 
@@ -48,9 +48,9 @@ Commerce 애플리케이션에는 REST API 및 GraphQL 엔드포인트가 있습
 
 ## 역방향 프록시란 무엇입니까?
 
-Adobe App Builder 및 API Mesh를 사용하는 개발자로서 역방향 프록시가 무엇인지 이해할 필요는 없습니다. 그러나 App Builder Adobe과 관련된 전반적인 기능에 관심이 있는 경우 다음 리소스를 사용하십시오.
+Adobe App Builder 및 API Mesh를 사용하는 개발자는 역방향 프록시가 무엇인지 이해할 필요가 없습니다. 그러나 Adobe App Builder과 관련된 전반적인 기능에 관심이 있는 경우 다음 리소스를 사용하십시오.
 
 * [역방향 프록시란](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [역방향 프록시의 정의 및 이유](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
+* [Experience League 커뮤니티 - 모든 프록시](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}
