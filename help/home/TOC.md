@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: ca8cdbb42dcf89cd0ce4c2b8b13b9fd454e8c597
+source-git-commit: ce2e7415b2d30dbd46a0a40a1c32b5933234e8f1
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '884'
 ht-degree: 3%
 
 ---
@@ -149,6 +149,7 @@ ht-degree: 3%
       + [Adobe Commerce 조건부 이벤트](../io-events/conditional-events.md)
 + API 메쉬 {#api-mesh}
    + [GitHub Codespaces를 사용한 API Mesh 스타터 키트](../api-mesh/starter-kit-github-codespaces.md)
+   + [API Mesh 스타터 키트 워크플로](../api-mesh/starter-kit-workflows.md)
    + [API Mesh 시작](../api-mesh/getting-started-api-mesh.md)
    + [Adobe IO 및 메쉬 플러그인 설치](../api-mesh/installing-aio-mesh-plugin.md)
    + [프로젝트 및 작업 공간 작업](../api-mesh/aio-projects-workspaces.md)
@@ -236,7 +237,7 @@ ht-degree: 3%
    + [업그레이드 호환성 도구 개요](../upgrade/upgrade-compatibility-tool-overview.md)
    + [PHP Storm에서 호환성 업그레이드 도구 사용](../upgrade/uct-phpstorm.md)
 + 백엔드 개발 {#backend-development}
-   + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+   + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [모듈 만들기](../backend-development/create-module.md)
    + [제품 속성 추가](../backend-development/add-product-attribute.md)
    + [종속성 삽입 예](../backend-development/dependency-injection.md)
