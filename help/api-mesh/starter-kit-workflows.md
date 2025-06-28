@@ -31,7 +31,7 @@ ht-degree: 0%
 * 메쉬를 자동으로 배포하거나 업데이트하는 deployMesh 워크플로
 * K6 부하 테스트 워크플로우를 사용한 부하 테스트
 
->[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464531?learn=on&enablevpops&captions=kor)
 
 ## 관련 설명서
 
