@@ -31,7 +31,7 @@ Fastly Edge ACL 및 사용자 지정 VCL을 사용하여 Adobe Commerce 사이�
 * Adobe Commerce 개발자
 * Site Reliability Engineer
 
->[!VIDEO](https://video.tv.adobe.com/v/3464779/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464786/?learn=on&enablevpops&captions=kor)
 
 ## 코드 샘플
 
