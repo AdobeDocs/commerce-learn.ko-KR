@@ -37,5 +37,5 @@ ht-degree: 0%
 
 ## 관련 컨텐츠
 
-* [Adobe Commerce Optimizer 소개](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
+* [Adobe Commerce Optimizer 소개](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
