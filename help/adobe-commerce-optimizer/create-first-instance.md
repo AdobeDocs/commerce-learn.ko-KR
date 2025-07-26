@@ -33,7 +33,7 @@ ht-degree: 0%
 * 인스턴스에 적합한 환경과 지역을 선택합니다.
 * 향후 튜토리얼에서 카탈로그 설정을 신속하게 배포하고 준비하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469885?learn=on&enablevpops&captions=kor)
 
 ## 관련 컨텐츠
 
