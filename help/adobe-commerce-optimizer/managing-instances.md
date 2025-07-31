@@ -33,7 +33,7 @@ ht-degree: 0%
 * 이름 및 설명 업데이트
 * 통합을 위한 주요 엔드포인트 및 식별자 찾기
 
->[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470239?learn=on&enablevpops&captions=kor)
 
 ## 관련 컨텐츠
 
