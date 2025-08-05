@@ -37,5 +37,5 @@ Adobe Commerce Optimizer 인스턴스에 대한 샘플 데이터를 수집하는
 ## 관련 컨텐츠
 
 * [GitHub 저장소 샘플 데이터](https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion){target="_blank"}
-* [관리자 사용 사례](https://experienceleague.adobe.com/en/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
-* [Adobe Commerce Optimizer 시작](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
+* [관리자 사용 사례](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
+* [Adobe Commerce Optimizer 시작](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/get-started){target="_blank"}
