@@ -33,7 +33,7 @@ Adobe Commerce Optimizer 인스턴스에 대한 샘플 데이터를 수집하는
 * 정책 만들기.
 * 카탈로그 보기를 만듭니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470472?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470481?learn=on&enablevpops&captions=kor)
 
 ## 관련 컨텐츠
 
