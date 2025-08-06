@@ -9,13 +9,13 @@ doc-type: Tutorial
 duration: 97
 last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-18610
-source-git-commit: 25082c5dea237d7ce1b325fbe7d0eb709d112008
+exl-id: 7136b0d6-a29f-42f4-8363-5bd4a2d828fc
+source-git-commit: b65f10c09df2487f9ec566dad83f475fc757b5e3
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce Optimizer의 첫 번째 인스턴스 만들기
 
@@ -33,9 +33,9 @@ ht-degree: 0%
 * 인스턴스에 적합한 환경과 지역을 선택합니다.
 * 향후 튜토리얼에서 카탈로그 설정을 신속하게 배포하고 준비하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469885?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on&enablevpops)
 
 ## 관련 컨텐츠
 
-* [Adobe Commerce Optimizer 소개](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
+* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
