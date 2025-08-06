@@ -10,7 +10,7 @@ duration: 180
 last-substantial-update: 2025-03-6
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
-source-git-commit: b055a568d53755ec9e30b58dd8f638fcc37213ab
+source-git-commit: aa80d0af5e08fc9ebf09b09b2dd156d91a87ebc7
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -33,8 +33,8 @@ Adobe Commerce Optimizer은 유기 트래픽을 강화하고 A/B 테스트와 �
 * 플랫폼을 다시 구축할 필요 없이 기존 ERP, CRM, OMS 및 기타 시스템과의 원활한 통합
 * 디지털 운영 확장
 
->[!VIDEO](https://video.tv.adobe.com/v/3450470?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
 
 ## 추가 리소스
 
-[[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview)
+[[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
