@@ -37,6 +37,6 @@ ht-degree: 0%
 
 ## 관련 컨텐츠
 
-* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer 시작](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [Adobe Commerce Optimizer 시작](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/get-started){target="_blank"}
