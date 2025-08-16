@@ -29,7 +29,7 @@ Adobe Commerce Optimizer 인스턴스에서 GraphQL을 사용하여 데이터를
 * GraphQL을 사용하여 데이터 쿼리
 * jq를 사용하여 json을 읽기 쉽게 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/3470800?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470807?learn=on&enablevpops&captions=kor)
 
 ## 코드 샘플
 
