@@ -34,7 +34,7 @@ Adobe Commerce Cloud를 사용하여 프로젝트 및 환경을 관리하는 방
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3474960/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474968/?learn=on&enablevpops&captions=kor)
 
 ## 관련 컨텐츠 및 설명서
 
