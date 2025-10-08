@@ -38,5 +38,5 @@ MySQL 쿼리 캐시가 무엇인지 알아보고 작동 방식에 대한 몇 가
 
 ## 유용한 리소스
 
-- [일반 MySQL 지침](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
-- [Galera 복제 및 느린 쿼리](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}
+- [일반 MySQL 지침](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=ko){target="_blank"}
+- [Galera 복제 및 느린 쿼리](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=ko){target="_blank"}
