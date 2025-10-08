@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
 exl-id: 77e91f1b-b3ae-4c6d-bb6d-4fd7ebbb0baf
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: a2d644de420f9188be108fad36ae97dfbf1a75eb
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ pt-query-digest와 몇 가지 실제 사례를 사용하여 추론을 심화하�
 - 이 Percona Toolkit 기능의 장점과 단점에 대해 알아보십시오
 - 결과를 이해하고 가능한 성능 단계를 고려해야 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452301?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
 
 ## 코드 참조
 
@@ -46,4 +46,3 @@ $ pt-query-digest mysql-slow.log.7 > mysql-slow.log.7.DIGEST
 ## 유용한 리소스
 
 - [Percona Toolkit](https://docs.percona.com/percona-toolkit/pt-query-digest.html){target="_blank"}
-- [MySQL의 교착 상태](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html?lang=ko){target="_blank"}
