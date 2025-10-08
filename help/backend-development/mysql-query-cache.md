@@ -34,7 +34,7 @@ MySQL 쿼리 캐시가 무엇인지 알아보고 작동 방식에 대한 몇 가
 - SQL을 저장하고 일치하는 쿼리 캐시를 찾는 데 사용하는 방법을 확인하십시오.
 - 구성 설정에 대한 몇 가지 팁
 
->[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423387?learn=on&captions=kor)
 
 ## 유용한 리소스
 
