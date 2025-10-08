@@ -10,7 +10,7 @@ duration: 0
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
-source-git-commit: 3acec65129773a8ba94eb52c53d15d7633440717
+source-git-commit: b015b9c64be631b43ad63d180c003dda8fdd198a
 workflow-type: tm+mt
 source-wordcount: '1095'
 ht-degree: 0%
@@ -50,7 +50,7 @@ magento-cloud CLI 도구는 개발자와 시스템 관리자가 Adobe Commerce C
 
 예제 코드의 이 초기 섹션 `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1`에서 환경에 대한 URL을 요청하고 있습니다. 반환된 값은 이 `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`과(와) 비슷합니다. 가끔씩 이 `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`과(와) 비슷하게 보입니다.  이 첫 번째 명령은 다소 간단하며, 이제 다음 명령으로 이동할 차례입니다.
 
-자세한 내용은 [Cloud CLI 개요](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}를 참조하십시오.
+자세한 내용은 [Cloud CLI 개요](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}를 참조하십시오.
 
 ## 검색 및 바꾸기에 `sed` 사용
 
@@ -73,13 +73,13 @@ UNIX®Linux®의 `xargs` 명령은 표준 입력에서 명령줄을 만들고 �
 
 도메인 정보 수집기의 약어로, `dig` 명령은 DNS(Domain Name System) 서버를 쿼리하는 데 사용되는 네트워크 관리 도구입니다. A, AAAA, MX 및 CNAME 레코드와 같은 DNS 레코드에 대한 정보를 검색하는 데 도움이 됩니다. `dig` 명령은 일반적으로 DNS 문제를 해결하고 DNS 구성을 확인하고 도메인 이름과 관련 IP 주소에 대한 자세한 정보를 수집하는 데 사용됩니다. 다양한 옵션과 플래그를 사용하여 특정 세부 사항이나 간결한 요약을 표시하도록 출력을 사용자 지정할 수 있습니다.
 
-`dig`과(와) 함께 `xargs`을(를) 사용하면 복잡해지지만 필요합니다. 목표는 정리된 URL을 가져와서 저장하는 것입니다.  URL이 변수로 저장되면 `dig` 명령에 삽입됩니다.
+`xargs`과(와) 함께 `dig`을(를) 사용하면 복잡해지지만 필요합니다. 목표는 정리된 URL을 가져와서 저장하는 것입니다.  URL이 변수로 저장되면 `dig` 명령에 삽입됩니다.
 
-DNS 정보를 수집하기 위해 `dig` 명령을 만들었습니다. 반환되는 데이터의 양을 줄이기 위해 인수 `+short`을(를) 사용합니다. `+short`과(와) 결합된 `dig`을(를) 사용하면 IP 주소와 때로 문자열이 반환됩니다.
+DNS 정보를 수집하기 위해 `dig` 명령을 만들었습니다. 반환되는 데이터의 양을 줄이기 위해 인수 `+short`을(를) 사용합니다. `dig`과(와) 결합된 `+short`을(를) 사용하면 IP 주소와 때로 문자열이 반환됩니다.
 
 명령의 해당 부분에서 `xargs`이(가) 해당 URL `abcikdxbg789.ent.magento.cloud`을(를) 저장하고 다음 명령 `dig`에 삽입하고 있습니다. 반복과 결합된 URL을 저장하는 기술로 `dig` 명령을 더 쉽게 사용할 수 있습니다. 샘플 코드가 목표를 달성하기 위한 한 가지 방법임을 기억하고, 요구 사항과 기대에 맞게 자유롭게 항목을 수정할 수 있습니다.
 
-이제 URL이 준비되었습니다. 다음으로 클러스터의 각 서버를 확인하는 방법을 살펴보겠습니다. Adobe Commerce Cloud의 경우 클러스터에 있는 각 서버에는 숫자가 있습니다. 서버 식별자는 방금 정리되어 사용할 준비가 된 URL의 접두사입니다. `{1..3}`을(를) 사용하면 서버를 빠르고 쉽게 확인할 수 있습니다. `dig` 명령을 세 번 실행함을 알리는 `{1..3}`을(를) 사용합니다. 다음은 실행을 실시간으로 지켜볼 경우 발생하는 상황을 나타낸 것입니다.
+이제 URL이 준비되었습니다. 다음으로 클러스터의 각 서버를 확인하는 방법을 살펴보겠습니다. Adobe Commerce Cloud의 경우 클러스터에 있는 각 서버에는 숫자가 있습니다. 서버 식별자는 방금 정리되어 사용할 준비가 된 URL의 접두사입니다. `{1..3}`을(를) 사용하면 서버를 빠르고 쉽게 확인할 수 있습니다. `{1..3}` 명령을 세 번 실행함을 알리는 `dig`을(를) 사용합니다. 다음은 실행을 실시간으로 지켜볼 경우 발생하는 상황을 나타낸 것입니다.
 
 ```bash
 dig +short 1.<projectid>.ent.magento.cloud
@@ -120,4 +120,4 @@ dig +short 6.abcikdxbg789.ent.magento.cloud
 
 ## 관련 설명서
 
-* [지역 IP 주소](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses|https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [지역 IP 주소](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
