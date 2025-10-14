@@ -1,5 +1,5 @@
 ---
-title: Adobe이 구성 가능한 Commerce을 만드는 방법
+title: Adobe에서 구성 가능한 Commerce을 만드는 방법
 description: 구성 가능한 상거래에 대해 알아보고, API 우선 접근 방식의 우선 순위를 지정하고, 모듈식 및 서비스 지향 아키텍처를 구현합니다.
 feature: App Builder, Saas
 topic: Architecture, Commerce, Development, Headless, Integrations, Performance, Personalization
@@ -7,10 +7,10 @@ role: Admin, Architect, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-06-27T00:00:00Z
+last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: d578c066f3e51827694c8bf85aa2324035a8b07b
+source-git-commit: 57082a851e508653ed9fcafd013a2201c8082873
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 컴포저블 커머스는 프론트엔드 프레젠테이션 레이어와 백엔드 커머스 기능을 분리하는 것을 포함하는 전자 상거래의 아키텍처 접근법입니다. &#x200B; 이를 통해 기업은 최적의 구성 요소나 모듈을 선택 및 결합하여 맞춤형 솔루션을 만들 수 있습니다. 이러한 접근 방식에는 기존의 획일적인 전자 상거래 플랫폼을 함께 구성할 수 있는 작고 독립적인 서비스나 마이크로 서비스로 분류하는 작업이 포함됩니다. 컴포저블 커머스는 유연성, 확장성, 맞춤화, 민첩성, 다른 시스템 및 기술과의 손쉬운 통합 기능 등의 이점을 제공합니다.
 
-Adobe Commerce은 판매자가 구성 가능한 상거래를 채택하고 구현할 수 있도록 지원하는 다양한 기능과 도구를 제공합니다. Adobe Commerce은 구성 가능한 상거래 방법론과 하이브리드 헤드리스 및 헤드리스 이외의 프론트엔드 경험을 제공합니다. Adobe은 프로세스 외부 확장성을 염두에 두고 여러 서비스를 통합하기 위한 API Mesh와 사용자 지정 마이크로 서비스 생성을 위한 App Builder Adobe을 제공합니다.
+Adobe Commerce은 판매자가 구성 가능한 상거래를 채택하고 구현할 수 있도록 지원하는 다양한 기능과 도구를 제공합니다. Adobe Commerce은 구성 가능한 상거래 방법론과 하이브리드 헤드리스 및 헤드리스 이외의 프론트엔드 경험을 제공합니다. Adobe은 프로세스 확장성 부족을 고려하여 여러 서비스를 통합하기 위한 API Mesh와 사용자 정의 마이크로 서비스를 만들기 위한 Adobe App Builder을 제공합니다.
 
 ## 구성 가능한 상거래가 중요한 이유
 
@@ -73,7 +73,7 @@ Adobe Commerce에서 제공하는 이러한 기능을 통해 구성 가능한 �
 
 **고려 사항:** 구성 가능한 상거래를 고려할 때 복잡성, 내부 기술 성숙도, 프로젝트 크기 및 구조, 사용자 지정 대 표준화, 총 소유 비용, 보안 및 데이터 개인 정보 보호 등의 요소를 신중하게 평가해야 합니다.
 
-**Adobe Commerce:** Adobe Commerce은 상인이 구성 가능한 상거래를 채택하고 구현할 수 있도록 지원하는 기능과 도구를 제공합니다. 여기에는 구성 가능한 상거래 방법론, 다양한 기능, 하이브리드 프론트엔드 경험, 통합을 위한 API Mesh 및 맞춤형 마이크로 서비스를 위한 App Builder Adobe 등이 포함됩니다.
+**Adobe Commerce:** Adobe Commerce은 상인이 구성 가능한 상거래를 채택하고 구현할 수 있도록 지원하는 기능과 도구를 제공합니다. 여기에는 구성 가능한 상거래 방법론, 다양한 기능, 하이브리드 프론트엔드 경험, 통합을 위한 API Mesh 및 맞춤형 마이크로 서비스를 위한 Adobe App Builder이 포함됩니다.
 
 **비즈니스 영향:** 구성 가능한 상거래를 통해 기업은 유연하고 확장 가능하며 사용자 지정 가능한 전자 상거래 플랫폼을 만들 수 있습니다. 이를 통해 고유한 고객 경험을 제공하고, 수요에 따라 확장하며, 다른 시스템과 통합하고, 향후 운영을 보장하고, 개발자 전문 지식을 활용할 수 있습니다.
 
