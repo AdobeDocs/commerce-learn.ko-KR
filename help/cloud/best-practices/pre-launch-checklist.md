@@ -113,7 +113,7 @@ Adobe Commerce Cloud은 MariaDB Galera 클러스터를 스테이징 및 프로�
    > - 이메일 통신을 비활성화하는 방법:
    >   _스토어 > 구성 > 고급 > 시스템 > 전자 메일 전송 설정_(으)로 이동합니다.
 
-4. [공유 권한 보안 모델](https://business.adobe.com/products/magento/secure-ecommerce.html){target="_blank"}의 일부로 프로덕션 인스턴스에서 보안 침투 테스트를 수행합니다. PCI(Payment Card Industry) 규정 준수를 위해 맞춤화된 사이트에는 침투 테스트가 필요합니다.
+4. [공유 권한 보안 모델](https://business.adobe.com/kr/products/magento/secure-ecommerce.html){target="_blank"}의 일부로 프로덕션 인스턴스에서 보안 침투 테스트를 수행합니다. PCI(Payment Card Industry) 규정 준수를 위해 맞춤화된 사이트에는 침투 테스트가 필요합니다.
 
 ## 8. 기타 구성
 
