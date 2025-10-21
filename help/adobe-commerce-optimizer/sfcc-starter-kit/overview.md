@@ -7,9 +7,9 @@ role: Architect, Developer
 level: Beginner
 doc-type: Technical Video
 duration: 194
-last-substantial-update: 2025-10-17T00:00:00Z
+last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-18990
-source-git-commit: 3d9387f529729020771e03b5162404af19ed6329
+source-git-commit: 2b95d22d417229e95a9829cd04d0538b537e0c0e
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -32,4 +32,4 @@ SFCC(Commerce Optimizer Commerce Cloud)를 Adobe의 Commerce Optimizer과 통합
 * Salesforce Commerce Cloud 통합 시작 키트의 목적에 대해 알아봅니다.
 * Starter Kit의 설치 위치 이해
 
->[!VIDEO](https://video.tv.adobe.com/v/3476020?captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3476013?learn=on)
