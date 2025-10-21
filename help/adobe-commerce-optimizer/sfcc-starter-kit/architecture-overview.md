@@ -32,4 +32,4 @@ SFCC(Salesforce Commerce Cloud), Adobe App Builder을 통합하는 Commerce Opti
 * 사용자 지정 SFCC 카트리지 및 API는 델타 내보내기를 통해 카탈로그 변경 사항을 감지하므로 Adobe App Builder과의 효율적인 데이터 동기화를 지원합니다.
 * App Builder 런타임 작업은 전체 및 델타 동기화, 유효성 검사 및 상태 추적을 관리하여 정확하고 충돌이 없는 Commerce Optimizer 업데이트를 보장합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476058?captions=kor&learn=on)
