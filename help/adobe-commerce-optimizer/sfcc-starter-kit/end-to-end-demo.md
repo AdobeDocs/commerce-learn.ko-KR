@@ -34,4 +34,4 @@ ht-degree: 0%
 * SFC 카탈로그의 제품 세부 사항 및 가격에 대한 변경 사항은 델타 동기화 프로세스를 통해 Commerce Optimizer에서 자동으로 감지하고 업데이트됩니다.
 * 실시간 업데이트 및 시스템 간의 원활한 데이터 흐름 및 동기화를 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476100?captions=kor&learn=on)
