@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: c00df1105c757705faabf51bb31192c2eff64329
+source-git-commit: 12fc97fe5de44b3ba60aa92a1e2202c517897ddc
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '947'
 ht-degree: 3%
 
 ---
@@ -234,6 +234,7 @@ ht-degree: 3%
       + [견적 라인 항목 할인 REST API](../b2b/quote-rest-api-line-item-notes.md)
 + 도구 및 외부 서비스 {#tools}
    + [사이트 전체 분석 도구 대시보드](../tools/site-wide-analysis-tool.md)
+   + [Cloud Automation 패치 서비스](../tools/cloud-automation-patching-service.md)
    + [Adobe Commerce 관찰](../tools/observation-tool.md)
    + [품질 패치 도구](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
@@ -253,7 +254,7 @@ ht-degree: 3%
    + [업그레이드 호환성 도구 개요](../upgrade/upgrade-compatibility-tool-overview.md)
    + [PHP Storm에서 호환성 업그레이드 도구 사용](../upgrade/uct-phpstorm.md)
 + 백엔드 개발 {#backend-development}
-   + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+   + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [모듈 만들기](../backend-development/create-module.md)
    + [제품 속성 추가](../backend-development/add-product-attribute.md)
    + [종속성 삽입 예](../backend-development/dependency-injection.md)
