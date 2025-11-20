@@ -1,6 +1,6 @@
 ---
 title: GraphQL 소개
-description: Adobe Commerce 및  [!DNL Magento Open Source]에서 GraphQL을 사용하는 방법을 알아봅니다. Adobe Commerce 및 [!DNL Magento Open Source]에 대해 GraphQL GET 및 POST 호출을 사용합니다.
+description: Adobe Commerce 및  [!DNL Magento Open Source]에서 GraphQL을 사용하는 방법을 알아봅니다. Adobe Commerce 및  [!DNL Magento Open Source]에 대해 GraphQL GET 및 POST 호출을 사용합니다.
 short-description: Adobe Commerce 및 [!DNL Magento Open Source]에 대한 GraphQL GET 및 POST 호출을 사용하는 방법을 알아봅니다.
 kt: 11524
 doc-type: video
@@ -24,7 +24,7 @@ GraphQL 및 Adobe Commerce에 대한 시리즈 중 1부입니다. GraphQL은 클
 
 GraphQL을 처음 사용하는 경우 이 섹션에서는 기본 개념과 사용법을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443948?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
 
 ## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
 
@@ -36,7 +36,7 @@ GraphQL을 처음 사용하는 경우 이 섹션에서는 기본 개념과 사�
 
 GraphQL은 고유한 API 쿼리 언어 및 해당 쿼리 언어에 대한 응답으로 데이터를 제공하는 런타임에 대한 사양입니다.
 
-REST와 같은 기존 웹 API는 서로 다른 시스템에서 데이터를 주고받는 데는 유용했지만 Progressive Web Application과 같은 최신 앱 링크 경험에는 최고 성능보다 낮은 성능을 제공했습니다. 이와 같은 응용 프로그램에서는 _same_ 응용 프로그램의 프런트 엔드 및 백 엔드 계층이 웹 API를 통해 통신합니다. REST와 같은 체계의 제한된 접근법은 종종 많은 종류의 데이터를 빨리 가져와야 하는 이 맥락에서 적절한 유연성을 제공하지 않는다.
+REST와 같은 기존 웹 API는 서로 다른 시스템에서 데이터를 주고받는 데는 유용했지만 점진적 웹 애플리케이션과 같은 최신 앱 링크 경험에 대해서는 최고 성능보다 낮은 성능을 제공했습니다. 이와 같은 응용 프로그램에서는 _same_ 응용 프로그램의 프런트 엔드 및 백 엔드 계층이 웹 API를 통해 통신합니다. REST와 같은 체계의 제한된 접근법은 종종 많은 종류의 데이터를 빨리 가져와야 하는 이 맥락에서 적절한 유연성을 제공하지 않는다.
 
 GraphQL을 사용하면 클라이언트가 필요한 데이터를 _정확하게_&#x200B;설명할 수 있습니다. 여러 데이터 형식을 가져오기 위해 여러 네트워크 요청을 필요로 하는 대신 하나의 요청으로 여러 형식을 쿼리할 수 있습니다. 또한, 요청된 유형과 필드만 포함하여(쿼리를 직관적으로 미러링하는 형식으로) 응답을 희박하게 유지합니다.
 
@@ -49,12 +49,12 @@ GraphQL 사양을 구현하는 런타임은 모든 언어로 작성할 수 있�
 
 코드 샘플 및 튜토리얼을 테스트하려면 GUI GraphQL 클라이언트가 필요합니다. 다음과 같은 몇 가지 옵션이 있습니다.
 
-* [Altair](https://altairgraphql.dev/){target="_blank"}은(는) GraphQL용으로 특별히 빌드된 훌륭한 완전한 기능을 갖춘 클라이언트입니다. Adobe은 워크스루 비디오에서 알테어를 사용합니다.
+* [Altair](https://altairgraphql.dev/){target="_blank"}은(는) GraphQL을 위해 특별히 빌드된 모든 기능을 갖춘 훌륭한 클라이언트입니다. Adobe은 Altair를 둘러보기 비디오에 사용합니다.
 * 데스크탑 애플리케이션을 설치하지 않으려는 경우
   [Chrome](https://chromewebstore.google.com/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox 또는 [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} 브라우저.
 * [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"}은(는) GraphQL Foundation에서 GraphQL IDE를 구현한 것입니다. 이것은 설치 가능한 도구가 아니라 직접 인터페이스를 빌드하는 데 사용할 수 있는 패키지입니다.
-* 이미 [Postman](https://www.postman.com/){target="_blank"}에 익숙하다면 전용 GraphQL 클라이언트만큼 완전한 기능은 아니지만 GraphQL 쿼리에 대한 적절한 지원을 받을 수 있습니다.
+* [Postman](https://www.postman.com/){target="_blank"}에 이미 익숙하다면 전용 GraphQL 클라이언트만큼 완전한 기능은 아니지만 GraphQL 쿼리에 대한 적절한 지원이 제공됩니다.
 
-GraphQL 클라이언트에서 Adobe Commerce 또는 [!DNL Magento Open Source] 인스턴스의 URL 경로 `/graphql`에 요청을 제출해야 합니다. 기존 인스턴스를 테스트에 사용하려면 Venia 테마의 데모(PWA Studio 구현의 예)를 사용할 수 있습니다. `https://venia.magento.com/graphql`
+GraphQL 클라이언트에서 Adobe Commerce 또는 `/graphql` 인스턴스의 URL 경로 [!DNL Magento Open Source]에 요청을 제출해야 합니다. 기존 인스턴스를 테스트에 사용하려면 Venia 테마 데모(PWA Studio 구현 예)를 사용할 수 있습니다. `https://venia.magento.com/graphql`
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

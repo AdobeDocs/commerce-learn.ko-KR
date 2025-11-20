@@ -38,10 +38,10 @@ ht-degree: 33%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3432519?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/340038?quality=12&learn=on)
 
 ## 추가 리소스
 
-- [업그레이드 안내서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=ko)
-- [릴리스 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=ko)
-- [릴리스 일정](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=ko)
+- [업그레이드 안내서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [릴리스 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [릴리스 일정](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
