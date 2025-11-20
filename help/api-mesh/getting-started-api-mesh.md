@@ -40,7 +40,7 @@ API Mesh는 여러 데이터 소스를 결합하여 애플리케이션이 사용
 * 체크아웃 시 실시간 인벤토리 확인을 위한 사용 사례
 * 개발 노력 및 리소스 사용을 상거래 애플리케이션에서 멀리 이동
 
->[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421889?captions=kor&quality=12&learn=on)
 
 ## 예시 사용 사례
 

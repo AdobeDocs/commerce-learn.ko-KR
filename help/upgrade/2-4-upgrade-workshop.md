@@ -38,7 +38,7 @@ ht-degree: 33%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/340038?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432519?captions=kor&quality=12&learn=on)
 
 ## 추가 리소스
 
