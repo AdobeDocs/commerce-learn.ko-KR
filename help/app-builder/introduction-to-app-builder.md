@@ -89,6 +89,6 @@ App Builder은 사용자 정의 애플리케이션을 개발하는 데 도움이
 
 ## 지원 {#support}
 
-개발자 지원 요청의 경우 도움이 필요하면 [Experience League 포럼](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"}을 사용하십시오.
+개발자 지원 요청의 경우 도움이 필요하면 [Experience League 포럼](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=ko){target="_blank"}을 사용하십시오.
 
 {{$include /help/_includes/app-builder-related-links.md}}
