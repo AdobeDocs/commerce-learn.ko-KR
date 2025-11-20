@@ -31,7 +31,7 @@ API Mesh는 여러 데이터 소스를 결합하여 애플리케이션이 사용
 
 ## 이 비디오는 누구의 것입니까?
 
-* [!DNL Adobe Commerce]Adobe I/O Runtime[ 및 API Mesh를 사용하여 경험이 제한된 API Mesh 또는 ](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"}을(를) 처음 사용하는 개발자입니다.
+* [!DNL Adobe Commerce]Adobe I/O Runtime[&#x200B; 및 API Mesh를 사용하여 경험이 제한된 API Mesh 또는 &#x200B;](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"}을(를) 처음 사용하는 개발자입니다.
 
 ## 비디오 콘텐츠
 
