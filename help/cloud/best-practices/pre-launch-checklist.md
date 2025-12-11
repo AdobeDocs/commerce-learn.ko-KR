@@ -38,7 +38,7 @@ ht-degree: 0%
 1. 테스트 및 라이브에 대한 설명서를 검토하십시오. [사이트 시작 설명서](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"}
 
    >[!NOTE]
-   >필요한 모든 작업 항목을 통합하여 파트너 또는 시스템 통합자와 함께 포괄적인 _&quot;go-live 준비 계획&quot;_&#x200B;이(가) 완전히 준비되었는지 확인하십시오. 출시 전 체크리스트에서는 Adobe의 모범 사례를 강조하지만 _**자체 Go-Live 준비 계획의 필요성을 대체하지 않습니다**_.
+   >필요한 모든 작업 항목을 통합하여 파트너 또는 시스템 통합자와 함께 포괄적인 _&quot;go-live 준비 계획&quot;_&#x200B;이(가) 완전히 준비되었는지 확인하십시오. 출시 전 체크리스트에서는 Adobe의 모범 사례를 강조하지만 _&#x200B;**자체 Go-Live 준비 계획의 필요성을 대체하지 않습니다**&#x200B;_.
 
 2. [!BADGE Blocker]{type=caution tooltip="잠재적 차단제"} SWAT(지원 인사이트) 권장 사항 및 정보 검토([사용 안내서](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
 3. 최종 사용자/판매자가 백엔드 작업을 포함하여 UAT(사용자 승인 테스트)를 수행했습니다.
@@ -88,7 +88,7 @@ Adobe Commerce Cloud는 스테이징 및 프로덕션 환경 모두에 대해 Ma
 - [Galera 클러스터 복제 및 흐름 제어에 대한 심층 분석.](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication){target="_blank"}
 
 1. 데이터베이스 로드가 많은 경우 성능을 향상시키려면 [MYSQL 슬레이브 연결](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"}을 사용하는 것이 좋습니다.
-2. 모든 데이터베이스 테이블의 행 형식이 COMPACT[이(가) 아닌 ](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"}DYNAMIC으로 설정되어 있는지 확인하십시오(온-프레미스 대 클라우드 마이그레이션의 경우 특히 그러함).
+2. 모든 데이터베이스 테이블의 행 형식이 COMPACT[이(가) 아닌 &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"}DYNAMIC으로 설정되어 있는지 확인하십시오(온-프레미스 대 클라우드 마이그레이션의 경우 특히 그러함).
 3. 모든 테이블에 대해 데이터베이스 저장소 엔진을 [MyISAM에서 InnoDB](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud#convert-all-myisam-tables-to-innodb){target="_blank"}(으)로 변경합니다.
 4. 크기가 1GB를 초과하는 데이터베이스 테이블을 미리 검토하고 최적화합니다.
 5. 데이터베이스 스키마 정보가 최신 상태입니다. ([이 안내서](https://mariadb.com/kb/en/engine-independent-table-statistics/#collecting-statistics-with-the-analyze-table-statement){target="_blank"}를 참조하세요.)
