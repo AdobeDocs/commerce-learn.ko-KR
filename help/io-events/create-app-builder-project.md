@@ -1,18 +1,19 @@
 ---
 title: Commerce 이벤트를 사용하여 App Builder 프로젝트를 만드는 방법 알아보기
 description: Commerce 이벤트와 함께 사용할 App Builder 프로젝트를 만드는 방법을 알아봅니다
-landing-page-description: Adobe Commerce 이벤트를 사용할 Adobe App Builder 프로젝트를 만드는 방법을 알아봅니다
-short-description: Adobe Commerce 이벤트를 사용할 Adobe App Builder 프로젝트를 만드는 방법을 알아봅니다
+landing-page-description: Adobe Commerce 이벤트를 사용하기 위해 Adobe App Builder 프로젝트를 만드는 방법을 알아봅니다
+short-description: Adobe Commerce 이벤트를 사용하기 위해 Adobe App Builder 프로젝트를 만드는 방법을 알아봅니다
 kt: 11888
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
 feature: App Builder, Configuration, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: ec746cde-856b-4076-8ea4-e1c3f2f4b97b
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 # App Builder 프로젝트 만들기
 
-Adobe Developer App Builder 프로젝트를 만들어 Adobe Commerce의 이벤트를 사용하는 방법에 대해 알아봅니다. [Adobe Commerce에 대한 Adobe I/O 이벤트 설치](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}에서 추가 설명서를 찾았습니다.
+Adobe Developer App Builder 프로젝트를 만들어 Adobe Commerce의 이벤트를 사용하는 방법에 대해 알아봅니다. [Adobe Commerce용 Adobe I/O Events 설치](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}에서 추가 설명서를 찾았습니다.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -33,7 +34,7 @@ Adobe Developer App Builder 프로젝트를 만들어 Adobe Commerce의 이벤�
 * Adobe Developer Console 사용
 * Adobe I/O 사용
 
->[!VIDEO](https://video.tv.adobe.com/v/3419808?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3415797?quality=12&learn=on)
 
 ## 유용한 명령 {#useful-commands}
 

@@ -8,10 +8,11 @@ last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 badge: label="Tony Evers, 수석 기술 설계자, Adobe 제공" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="토니 에버스의 기고문"
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 0%
@@ -31,7 +32,7 @@ Adobe Commerce에서 코드 재사용을 최적화하는 방법에는 몇 가지
 1. **다른 저장소 소유자**: 각각 고유한 저장소가 있는 여러 저장소 소유자에 대한 코드를 유지 관리하는 경우 개별 요구 사항을 효과적으로 유지하기 위해 별도의 인스턴스가 필요할 수 있습니다.
 2. **국가 규정 준수**: 특정 규정에서는 고객 데이터를 특정 지역에 저장해야 합니다. 이러한 경우 이러한 규정을 준수하기 위해서는 별도의 인스턴스가 필수적입니다.
 3. **지리적 영역에 따른 운영 차이**: 여러 지역에서 운영하는 경우 유지 관리 일정과 요구 사항이 다를 수 있습니다. 별도의 인스턴스를 사용하면 이러한 변형을 효율적으로 관리할 수 있습니다.
-4. **고강도 Flash 판매**: 대규모 플래시 판매를 수행하는 매장에서는 종종 최적화된 서버 성능이 필요합니다. 별도의 인스턴스가 제공하는 전용 인프라는 이러한 높은 수요 기간 동안 최적의 성능을 보장합니다.
+4. **고강도 플래시 판매**: 대규모 플래시 판매를 수행하는 스토어에는 최적화된 서버 성능이 필요한 경우가 많습니다. 별도의 인스턴스가 제공하는 전용 인프라는 이러한 높은 수요 기간 동안 최적의 성능을 보장합니다.
 5. **브랜드 또는 국가 간의 중요한 차이점**: 브랜드 또는 국가 간의 차이가 큰 경우 단일 인스턴스를 사용하면 일부 브랜드 또는 국가에만 사용되는 코드가 발생합니다. 별도의 인스턴스를 사용하면 불필요한 코드를 불필요한 브랜드와 국가에서 제거하여 성능과 안정성을 향상시킬 수 있습니다.
 
 ## 글로벌 참조 아키텍처 패턴

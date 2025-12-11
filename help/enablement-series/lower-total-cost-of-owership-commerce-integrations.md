@@ -3,7 +3,8 @@ title: Adobe Commerce 통합을 위한 TOC 낮추기
 description: Adobe Commerce과의 통합을 위해 TCO를 절감하기 위한 모범 사례에 대해 알아봅니다.
 feature: API Mesh, App Builder, Backend Development, Best Practices, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
-role: Architect, Data Architect, Leader
+old-role: Architect, Data Architect, Leader
+role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 3558
@@ -11,7 +12,7 @@ last-substantial-update: 2024-04-26T00:00:00Z
 jira: KT-15393
 auto-video-transcripts: true
 exl-id: 3c31c204-a33f-4f8a-b74d-d81f5ad6c433
-source-git-commit: 1293fcc506043601ced55286ea4d31b47a68d546
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%

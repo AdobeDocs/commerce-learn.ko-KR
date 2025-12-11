@@ -3,14 +3,14 @@ title: Adobe에서 구성 가능한 Commerce을 만드는 방법
 description: 구성 가능한 상거래에 대해 알아보고, API 우선 접근 방식의 우선 순위를 지정하고, 모듈식 및 서비스 지향 아키텍처를 구현합니다.
 feature: App Builder, Saas
 topic: Architecture, Commerce, Development, Headless, Integrations, Performance, Personalization
-role: Admin, Architect, User
+role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 0
 last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: 57082a851e508653ed9fcafd013a2201c8082873
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%

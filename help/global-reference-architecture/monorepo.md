@@ -8,15 +8,16 @@ last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 badge: label="Tony Evers, 수석 기술 설계자, Adobe 제공" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="토니 에버스의 기고문"
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Experienced
-source-git-commit: cc6a79b20ae1864f7a7e9b99f90df7b0aa61ef6e
+exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1371'
 ht-degree: 0%
 
 ---
-
 
 # Monorepo 글로벌 참조 아키텍처 패턴
 
@@ -271,7 +272,7 @@ GitHub의 [AntonEvers/gra-meta-foundation](https://github.com/AntonEvers/gra-met
 
 필요한 경우 `packages` 디렉터리 내에 여러 네임스페이스를 사용할 수 있습니다.
 
-개발은 패키지 디렉터리에서 수행됩니다. `composer update`을(를) 실행하면 `packages` 디렉터리 내의 패키지에 대한 심볼릭 링크가 `vendor` 디렉터리에 생성됩니다. 이렇게 하면 코드가 Adobe Commerce 설치의 일부가 됩니다.
+개발은 패키지 디렉터리에서 수행됩니다. `packages`을(를) 실행하면 `vendor` 디렉터리 내의 패키지에 대한 심볼릭 링크가 `composer update` 디렉터리에 생성됩니다. 이렇게 하면 코드가 Adobe Commerce 설치의 일부가 됩니다.
 
 `bin/magento module:enable --all` 또는 특정 모듈에 대해서만 실행하여 추가된 모듈을 사용하도록 설정하십시오.
 

@@ -3,19 +3,20 @@ title: 팀 및 프로젝트 평가
 description: 성공적인 마이그레이션을 위한 역할, 기술적 강점, 프론트엔드 및 백엔드 고려 사항에 중점을 두고 Adobe Commerce에 대한 팀과 프로젝트를 평가합니다.
 feature: Backend Development, Saas, Storefront, Tools and External Services
 topic: Architecture, Collaboration, Development, Migration, Upgrade
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 270
 last-substantial-update: 2024-10-24T00:00:00Z
 jira: KT-16275
-source-git-commit: da9c7062f0b9ef1f26b07b9bd02abc306d06fbb6
+exl-id: 7b521465-db0b-4755-91bd-013368a9fe5e
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce으로 마이그레이션 - 팀 및 프로젝트 평가
 
@@ -35,8 +36,8 @@ Adobe Commerce으로 이동할 때는 팀과 프로젝트를 철저히 평가하
 * 프론트엔드 및 백엔드 고려 사항에 대해 알아봅니다.
 * 기존 모듈을 평가하고, 핵심 애플리케이션을 업그레이드하고, 다른 Adobe 솔루션과 통합하여 원활한 마이그레이션을 계획합니다.
  
->[!VIDEO](https://video.tv.adobe.com/v/3447452/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3435682/?learn=on)
 
 ## 관련 설명서
 
-[Adobe Commerce 소개](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/about)
+[Adobe Commerce 소개](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)

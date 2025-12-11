@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-* `web-src` 폴더 및 해당 콘텐츠에 대해 학습하는 개발자로서 Adobe App Builder을 사용하여 경험이 제한된 Adobe Commerce을 처음 사용하는 개발자입니다.
+* Adobe App Builder을 사용하여 경험이 제한된 Adobe Commerce을 처음 사용하는 개발자로서 `web-src` 폴더 및 해당 콘텐츠에 대해 학습하고 있습니다.
 
 ## 비디오 콘텐츠
 
@@ -32,7 +33,7 @@ ht-degree: 0%
 * 일반적으로 포함된 파일 및 폴더
 * 샘플 응용 프로그램에서 `web-src` 폴더와 내부 내용을 사용하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3421042?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 
 ## 코드 샘플
 

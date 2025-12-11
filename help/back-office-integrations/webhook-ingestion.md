@@ -9,9 +9,11 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: 45c018813ed8d5487e1491e09afc34e2de39c5b2
+exl-id: f2654873-256e-4c1b-abed-8bfbc4db3fbb
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -20,7 +22,7 @@ ht-degree: 0%
 
 # 수집 Webhook 구성, 배포 및 사용자 정의
 
-Commerce과 서드파티 백오피스 시스템을 통합하기 위한 수집 웹후크의 설정 및 사용자 정의에 대해 알아봅니다&#x200B;. 이 비디오에서는 타사 시스템의 메시지를 Adobe IO 이벤트 API로 조정하기 위해 공개적으로 사용 가능한 끝점을 제공하여 Webhook이 시스템 간의 이벤트 통신에서 제한 사항을 해결하는 방법을 설명합니다. 이 프로세스에는 `actions.config.yaml` 파일에서 Webhook를 구성하고 `app.config.yaml` 파일에서 활성화한 다음 배포하여 적절한 기능을 유지하는 작업이 포함됩니다.
+Commerce과 서드파티 백오피스 시스템을 통합하기 위한 수집 웹후크의 설정 및 사용자 정의에 대해 알아봅니다&#x200B;. 이 비디오에서는 타사 시스템의 메시지를 Adobe IO Eventing API로 조정하기 위해 공개적으로 사용 가능한 끝점을 제공하여 Webhook이 시스템 간의 이벤트 통신에서 제한 사항을 해결하는 방법을 설명합니다. 이 프로세스에는 `actions.config.yaml` 파일에서 Webhook를 구성하고 `app.config.yaml` 파일에서 활성화한 다음 배포하여 적절한 기능을 유지하는 작업이 포함됩니다.
 
 이 비디오에서는 타사 이벤트를 통합의 구독 이벤트 유형과 호환되는 형식으로 변환하는 웹후크 코드를 수정하는 단계를 다룹니다. 이 단원에서는 이 번역을 용이하게 하기 위해 `event-mapping.json` 파일을 추가하는 방법에 대해 설명하고 변경 후 런타임 작업을 다시 배포하는 것의 중요성을 강조합니다&#x200B;. 또한 이 비디오에서는 수신 이벤트 페이로드를 확인 및 변환하여 예상 스키마에 맞게 함으로써 성공적인 처리를 보장하고 고객 생성을 위해 Commerce API와 통합됩니다.
 

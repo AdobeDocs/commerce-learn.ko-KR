@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 GraphQL 및 Adobe Commerce 시리즈 3부입니다. 돌연변이는 GraphQL을 사용하여 값을 저장, 업데이트 및 반환하는 기능입니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441932?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
 
 ## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
 
@@ -36,7 +37,7 @@ GraphQL 및 Adobe Commerce 시리즈 3부입니다. 돌연변이는 GraphQL을 �
 
 모든 전체 API 사양은 데이터를 쿼리할 뿐만 아니라 만들고 업데이트하는 기능도 제공해야 합니다.
 
-REST는 데이터를 변경하는 요청과 요청 유형 또는 &quot;동사&quot;(GET 대 POST 또는 PUT)가 없는 요청을 구별합니다.
+REST는 데이터를 변경하는 요청과 요청 유형 또는 &quot;동사&quot;가 없는 요청(GET과 POST 또는 PUT)을 구별합니다.
 GraphQL을 사용하는 경우 데이터 수정 쿼리는 다른 키워드에 해당하는 `mutation` 키워드로 구분됩니다
 서버에 정의된 스키마의 루트 유형입니다.
 
@@ -97,12 +98,12 @@ mutation doAddToCart(
 }
 ```
 
-위의 예에서 주의해야 할 주요 사항은 `query` 대신 `mutation` 키워드를 사용하는 것과 별도로,
+위의 예에서 주의해야 할 주요 사항은 `mutation` 대신 `query` 키워드를 사용하는 것과 별도로,
 구문은 쿼리와 동일합니다. 쿼리와 마찬가지로 돌연변이는 다음을 포함합니다.
 
 * 임의의 작업 이름(`doAddToCart`)
 * 변수 목록(예: `$cartId`)
-* 괄호로 묶인 인수(예: `cartId`, `$cartId` 값으로 설정됨)가 있는 초기 필드(`addProductsToCart`)
+* 괄호로 묶인 인수(예: `addProductsToCart`, `cartId` 값으로 설정됨)가 있는 초기 필드(`$cartId`)
 * 중괄호로 묶인 필드의 하위 선택
 
 필드 하위 선택을 사용하면 (으로 지정된 유형에서) 반환할 필드를 유연하게 정의할 수 있습니다.
@@ -114,8 +115,8 @@ mutation doAddToCart(
 
 위의 예제에 대한 몇 가지 다른 참고 사항:
 
-* `String` 및 `CartItemInput`을(를) 접두사로 사용하는 `!`은(는) 변수가 필요함을 나타냅니다.
-* `$cartItems`에 대해 지정된 `CartItemInput` 형식의 대괄호(`[]`)는 목록을 나타냅니다
+* `!` 및 `String`을(를) 접두사로 사용하는 `CartItemInput`은(는) 변수가 필요함을 나타냅니다.
+* `[]`에 대해 지정된 `CartItemInput` 형식의 대괄호(`$cartItems`)는 목록을 나타냅니다
 단일 값이 아닌 해당 형식의
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

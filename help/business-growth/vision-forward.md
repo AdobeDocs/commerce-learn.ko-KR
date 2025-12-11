@@ -3,13 +3,14 @@ title: Adobe의 Vision Forward 로드맵을 통한 비즈니스 성장
 description: Adobe Commerce의 B2B 상점 로드맵, 실시간 개인화, 결제, AI 기반 판매자 및 개발자 경험을 살펴보십시오.
 feature: App Builder,  B2B, Catalog Management,  Cloud,  Extensibility, Observability, Payments, Personalization, Storefront, Saas
 topic: Administration, Artificial Intelligence,  Commerce,  Development, Headless,  Performance, Personalization, Security
-role: Data Engineer, Developer
+old-role: Data Engineer, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 976
 last-substantial-update: 2025-10-10T00:00:00Z
 jira: KT-19377
-source-git-commit: 58a2c94860a278b1f618c3944b2da1be54623814
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -35,4 +36,4 @@ Adobe Commerce의 2026년 로드맵에서는 실시간 데이터 공유, 개인�
 * 판매자 센터 및 관리자 경험
 * 개발자 경험 및 가시성 개선 사항
 
->[!VIDEO](https://video.tv.adobe.com/v/3475713/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475695/?learn=on&enablevpops)

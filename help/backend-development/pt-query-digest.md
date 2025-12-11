@@ -7,10 +7,11 @@ activity: use
 last-substantial-update: 2023-8-28
 feature: Backend Development, Tools and External Services, Logs
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 77e91f1b-b3ae-4c6d-bb6d-4fd7ebbb0baf
-source-git-commit: a2d644de420f9188be108fad36ae97dfbf1a75eb
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -33,7 +34,7 @@ pt-query-digest와 몇 가지 실제 사례를 사용하여 추론을 심화하�
 - 이 Percona Toolkit 기능의 장점과 단점에 대해 알아보십시오
 - 결과를 이해하고 가능한 성능 단계를 고려해야 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452301?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
 
 ## 코드 참조
 

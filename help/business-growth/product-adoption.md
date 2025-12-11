@@ -3,13 +3,14 @@ title: AI 도구를 사용하여 Adobe Commerce 마이그레이션 간소화
 description: Adobe Commerce이 확장 가능한 비즈니스 성장을 위해 AI 도구, 모듈식 채택 및 신속한 개발을 통해 클라우드 마이그레이션을 간소화하는 방법에 대해 알아봅니다.
 feature: App Builder, Storefront, Extensions, Merchandising
 topic: Artificial Intelligence, Migration, Commerce
-role: Data Engineer, Developer
+old-role: Data Engineer, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 694
 last-substantial-update: 2025-10-13T00:00:00Z
 jira: KT-19378
-source-git-commit: a296152e8c8f94bbf4e3b882be6b8de7e4473d95
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -35,4 +36,4 @@ Adobe Commerce은 단계적 접근 방식으로 Adobe Commerce as a Cloud Servic
 * App Builder 확장성을 사용하면 사용자 정의 논리를 서버리스 함수로 분리하여 간편하게 유지 관리할 수 있습니다.
 * Storefront 개선 사항은 드롭인 구성 요소 및 Edge 전달을 통해 성능과 콘텐츠 생성을 개선합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475755/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737/?learn=on&enablevpops)

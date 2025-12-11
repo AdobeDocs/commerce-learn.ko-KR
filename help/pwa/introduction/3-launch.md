@@ -1,27 +1,28 @@
 ---
-title: 개발자용 PWA Studio - Launch 및 load
-description: PWA 시작 전에 필요한 단계, 로드 ​ 시간에 대한 기준 및 성능이 전환을 개선하는 ​ 방법에 대해 알아봅니다.
+title: 개발자용 PWA Studio - Launch 및 로드
+description: PWA ​ 시작 전에 필요한 단계, 로드 시간에 대한 기준 및 성능이 전환을 향상시키는 방법​에 대해 알아봅니다.
 kt: 5646
 doc-type: video
 activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services
 topic: Commerce, Headless, Development
-role: Architect, Developer, User
+old-role: Architect, Developer
+role: Developer, User
 level: Beginner, Intermediate
 exl-id: d1744a5c-7e56-48d3-971e-5abf21196cfa
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# 개발자용 PWA Studio - Launch 및 load
+# 개발자용 PWA Studio - Launch 및 로드
 
 이 비디오에서:
 
-- PWA 시작 필수 &#x200B; 단계
+- PWA을 시작하는 데 필요한 &#x200B; 단계
 - 로드 시간의 &#x200B; 기준선
 - 성능이 전환을 개선하는 방법
 

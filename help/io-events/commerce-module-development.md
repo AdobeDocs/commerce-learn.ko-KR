@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 # Adobe Commerce 모듈 개발
 
-사용자 지정 모듈 개발에서 이벤트를 등록하고, 지원되는 이벤트를 찾고, 새 XML 파일 `io_events.xml`을(를) 사용하는 방법을 알아봅니다. 또한 이 비디오에서는 개발자에게 이미 정의되어 있을 수 있는 모든 이벤트에 대한 구독을 취소하는 방법과 을 사용할 수 있는 등록된 이벤트를 찾는 방법을 보여 줍니다. [Adobe Commerce에 대한 Adobe I/O 이벤트 설치](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}에서 추가 설명서를 찾았습니다.
+사용자 지정 모듈 개발에서 이벤트를 등록하고, 지원되는 이벤트를 찾고, 새 XML 파일 `io_events.xml`을(를) 사용하는 방법을 알아봅니다. 또한 이 비디오에서는 개발자에게 이미 정의되어 있을 수 있는 모든 이벤트에 대한 구독을 취소하는 방법과 을 사용할 수 있는 등록된 이벤트를 찾는 방법을 보여 줍니다. [Adobe Commerce용 Adobe I/O Events 설치](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}에서 추가 설명서를 찾았습니다.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -35,7 +36,7 @@ ht-degree: 0%
 * Commerce 인스턴스 `app/etc/config.php`에서 이벤트를 등록하는 방법 알아보기
 * 이벤트 구독을 취소하는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3419838?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
 
 ## 유용한 명령 {#useful-commands}
 

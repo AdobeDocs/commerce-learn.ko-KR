@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -36,11 +37,11 @@ ht-degree: 0%
 * CLI에서 선택한 조직, 프로젝트 또는 작업 공간 변경
 * 간단한 API Mesh 명령 테스트
 
->[!VIDEO](https://video.tv.adobe.com/v/3419741?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
 
 ## Adobe Developer Console에 대해 알아보기
 
-Adobe Developer Console에서 `Organization > Project > Workspace > [API]` 계층은 API가 조직에 맞는 방식을 나타냅니다. App Builder Adobe, 콘솔에 로그인 및 기본 문제 해결에 대한 자세한 내용을 보려면 [첫 번째 App Builder 애플리케이션 만들기](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}를 참조하세요.
+Adobe Developer Console에서 `Organization > Project > Workspace > [API]` 계층은 API가 조직에 맞는 방식을 나타냅니다. Adobe App Builder, 콘솔에 로그인 및 기본 문제 해결에 대한 자세한 내용을 보려면 [첫 번째 App Builder 애플리케이션 만들기](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}를 참조하세요.
 
 ## Adobe Developer Console에서 프로젝트 소개
 

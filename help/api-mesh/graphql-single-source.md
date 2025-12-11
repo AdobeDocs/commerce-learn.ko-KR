@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -35,7 +36,7 @@ ht-degree: 0%
 * JSON 구성 파일에서 메쉬 만들기
 * 새로 생성된 GraphQL 엔드포인트 액세스
 
->[!VIDEO](https://video.tv.adobe.com/v/3419722?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
 
 ## JSON 구성 파일 만들기
 

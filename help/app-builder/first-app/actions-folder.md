@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -26,7 +27,7 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-* 샘플 애플리케이션의 작업 폴더에 대해 학습하고 있는 App Builder Adobe 경험이 제한된 Adobe Commerce을 처음 사용하는 개발자.
+* Adobe App Builder 경험이 부족한 Adobe Commerce을 처음 사용하는 개발자로서 샘플 애플리케이션의 작업 폴더에 대해 학습하고 있는 개발자입니다.
 
 ## 비디오 콘텐츠
 
@@ -35,7 +36,7 @@ ht-degree: 0%
 * `actions` 및 `commerce` 폴더에 있는 JavaScript 파일의 용도
 * OAuth 인증 파일에 대한 빠른 개요
 
->[!VIDEO](https://video.tv.adobe.com/v/3421082?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)
 
 ## 코드 샘플
 

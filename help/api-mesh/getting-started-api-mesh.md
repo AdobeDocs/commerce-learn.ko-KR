@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-8-27
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 15fe8a3387ca3f1c1f0cdc9f8e4cd58ce99260f4
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 16%
@@ -31,7 +32,7 @@ API Mesh는 여러 데이터 소스를 결합하여 애플리케이션이 사용
 
 ## 이 비디오는 누구의 것입니까?
 
-* [!DNL Adobe Commerce]Adobe I/O Runtime[&#x200B; 및 API Mesh를 사용하여 경험이 제한된 API Mesh 또는 &#x200B;](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"}을(를) 처음 사용하는 개발자입니다.
+* [!DNL Adobe Commerce]Adobe I/O Runtime[ 및 API Mesh를 사용하여 경험이 제한된 API Mesh 또는 ](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"}을(를) 처음 사용하는 개발자입니다.
 
 ## 비디오 콘텐츠
 
@@ -40,7 +41,7 @@ API Mesh는 여러 데이터 소스를 결합하여 애플리케이션이 사용
 * 체크아웃 시 실시간 인벤토리 확인을 위한 사용 사례
 * 개발 노력 및 리소스 사용을 상거래 애플리케이션에서 멀리 이동
 
->[!VIDEO](https://video.tv.adobe.com/v/3421889?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## 예시 사용 사례
 

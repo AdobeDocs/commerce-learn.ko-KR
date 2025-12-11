@@ -8,10 +8,11 @@ last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 badge: label="Tony Evers, 수석 기술 설계자, Adobe 제공" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="토니 에버스의 기고문"
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: e0b11bbcfff830badf471206ead59fc48dd14b7c
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '2101'
 ht-degree: 0%
@@ -184,7 +185,7 @@ Git 동기화를 사용하면 개인 Composer 저장소가 Git 저장소의 새 
 
 Satis를 사용하여 개인 리포지토리를 호스팅할 수 있습니다. <https://composer.github.io/satis/>. <https://antonevers.github.io/gra-composer-repository/>의 예제 공용 리포지토리를 참조하십시오. 이 리포지토리는 코드 예에서 작성기 리포지토리로 사용됩니다. Satis 저장소를 비공개로 설정하려면 추가 조치가 필요합니다.
 
-Composer 또는 JFrog Artifactory <https://jfrog.com/artifactory/>을(를) 작성한 동일한 사용자가 만든 비공개 패키지 목록 <https://packagist.com/>을(를) 구성하고 잊어버릴 수 있는 해결 방법이 있습니다.
+Composer 또는 JFrog Artifactory <https://packagist.com/>을(를) 작성한 동일한 사용자가 만든 비공개 패키지 목록 <https://jfrog.com/artifactory/>을(를) 구성하고 잊어버릴 수 있는 해결 방법이 있습니다.
 
 ## 코드 전달
 
@@ -237,7 +238,7 @@ Composer 또는 JFrog Artifactory <https://jfrog.com/artifactory/>을(를) 작�
 
 언급된 패키지의 새 버전을 릴리스하는 즉시 Composer 업데이트와 함께 자동으로 설치됩니다.
 
-시맨틱 버전 관리를 적용합니다. <https://semver.org/>에서 시맨틱 버전 관리에 대한 모든 것을 배울 수 있습니다. 특히 FAQ는 반드시 읽어야 합니다. 시맨틱 버전 관리를 사용할 때 &quot;1.0.0&quot;의 숫자는 MAJOR.MINOR.PATCH으로 불립니다. 패키지의 마이너 및 패치 릴리스는 애플리케이션을 중단하지 않고 안전하게 제공되어야 합니다.
+시맨틱 버전 관리를 적용합니다. <https://semver.org/>에서 시맨틱 버전 관리에 대한 모든 것을 배울 수 있습니다. 특히 FAQ는 반드시 읽어야 합니다. 시맨틱 버전 관리를 사용하는 경우 &quot;1.0.0&quot;의 숫자를 MAJOR.MINOR.PATCH라고 합니다. 패키지의 마이너 및 패치 릴리스는 애플리케이션을 중단하지 않고 안전하게 제공되어야 합니다.
 패치를 자동으로 포함하고 작은 업그레이드를 수동으로 선택할 수 있습니다. 이렇게 하면 각 사소한 변경 사항을 수동으로 선택하여 추가 오버헤드가 발생합니다.
 
 ```json

@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-2-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
-source-git-commit: 241f99eaed68488b952e8ed76186499ca1a20417
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '728'
 ht-degree: 6%
@@ -89,6 +90,6 @@ App Builder은 사용자 정의 애플리케이션을 개발하는 데 도움이
 
 ## 지원 {#support}
 
-개발자 지원 요청의 경우 도움이 필요하면 [Experience League 포럼](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=ko){target="_blank"}을 사용하십시오.
+개발자 지원 요청의 경우 도움이 필요하면 [Experience League 포럼](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"}을 사용하십시오.
 
 {{$include /help/_includes/app-builder-related-links.md}}

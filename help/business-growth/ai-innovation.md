@@ -3,13 +3,14 @@ title: AI 혁신을 통한 비즈니스 성장
 description: Adobe Commerce을 통해 AI 기반의 전자 상거래 성장을 탐색하여 검색 기능을 강화하고, 매장을 최적화하고, 전 세계로 확장할 수 있습니다.
 feature: App Builder, Catalog Service, Extensibility, Observability,  Personalization, Reporting, Saas, Storefront
 topic: Artificial Intelligence, Migration, Commerce
-role: Data Engineer, Developer
+old-role: Data Engineer, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 1419
 last-substantial-update: 2025-10-10T00:00:00Z
 jira: KT-19376
-source-git-commit: 522ed06396f2512ff87f1a7b59ff081944b2c9af
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -33,4 +34,4 @@ Adobe Commerce이 첨단 AI 솔루션과 SaaS 우선 전략을 통해 전자 상
 * 카탈로그 혁신을 통한 글로벌 확장 가속화
 * 대화형 Commerce을 통해 Storefront 경험 향상
 
->[!VIDEO](https://video.tv.adobe.com/v/3475702/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3475691/?learn=on&enablevpops)

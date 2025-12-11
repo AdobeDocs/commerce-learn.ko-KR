@@ -3,13 +3,14 @@ title: Salesforce Commerce Cloud용 App Builder 스타터 키트 개요
 description: Adobe Commerce Optimizer과 함께 Salesforce App Builder을 위한 Adobe Commerce Cloud 스타터 키트에 대해 알아보십시오.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 598
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
-source-git-commit: a23c2fd3c9bcaad40cf649a8c46cd1ff5e535823
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -33,4 +34,4 @@ Adobe Commerce Optimizer을 사용하여 Salesforce Commerce Cloud용 App Builde
 * App Builder Starter Kit를 복제하고 Adobe IO CLI를 사용하여 환경 파일을 구성합니다.
 * 앱을 배포하고 작업 공간에 작업 및 이벤트가 성공적으로 등록되었는지 확인합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476089?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)

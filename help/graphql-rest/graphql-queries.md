@@ -1,18 +1,19 @@
 ---
 title: GraphQL을 사용하여 쿼리 수행
-description: Adobe Commerce 및  [!DNL Magento Open Source]에서 GraphQL을 사용하여 쿼리를 수행하는 방법을 알아봅니다. GET 및 POST 호출을 사용하는 GraphQL에 대한 소개입니다.
-landing-page-description: Adobe Commerce 및  [!DNL Magento Open Source]에서 GraphQL을 사용하여 쿼리를 수행하는 방법을 알아봅니다. GET 및 POST 호출을 사용하는 GraphQL에 대한 소개입니다.
-short-description: Adobe Commerce 및  [!DNL Magento Open Source]에서 GraphQL을 사용하여 쿼리를 수행하는 방법을 알아봅니다. GET 및 POST 호출을 사용하는 GraphQL에 대한 소개입니다.
+description: Adobe Commerce 및  [!DNL Magento Open Source]에서 GraphQL을 사용하여 쿼리를 수행하는 방법을 알아봅니다. GET 및 POST 호출을 사용한 GraphQL에 대해 소개합니다.
+landing-page-description: Adobe Commerce 및  [!DNL Magento Open Source]에서 GraphQL을 사용하여 쿼리를 수행하는 방법을 알아봅니다. GET 및 POST 호출을 사용한 GraphQL에 대해 소개합니다.
+short-description: Adobe Commerce 및  [!DNL Magento Open Source]에서 GraphQL을 사용하여 쿼리를 수행하는 방법을 알아봅니다. GET 및 POST 호출을 사용한 GraphQL에 대해 소개합니다.
 kt: 13937
 doc-type: video
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -23,7 +24,7 @@ ht-degree: 0%
 
 GraphQL 및 Adobe Commerce 시리즈 2부입니다. 이 자습서와 비디오에서는 GraphQL 쿼리와 Adobe Commerce에서 쿼리를 수행하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450065?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
 
 ## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
 
@@ -146,7 +147,7 @@ GraphQL 및 Adobe Commerce 시리즈 2부입니다. 이 자습서와 비디오�
 
 반환할 필드는 각 유형의 중괄호 안에 지정되지만, 해당 필드의 명명된 인수와 값은 형식 이름 뒤에 있는 괄호 안에 지정됩니다. 인수는 종종 선택 사항이며 쿼리 결과가 필터링, 서식 지정 또는 변환되는 방식에 영향을 줍니다.
 
-`country`에 `id` 인수를 전달하고 쿼리할 특정 국가를 지정하고 `categories`에 대한 `filters` 인수를 지정하고 있습니다.
+`id`에 `country` 인수를 전달하고 쿼리할 특정 국가를 지정하고 `filters`에 대한 `categories` 인수를 지정하고 있습니다.
 
 ## 필드 끝까지
 
@@ -154,7 +155,7 @@ GraphQL 및 Adobe Commerce 시리즈 2부입니다. 이 자습서와 비디오�
 
 모든 GraphQL 데이터 그래프에는 트리를 시작하는 단일 &quot;루트&quot; 형식(일반적으로 `Query`)이 있으며 엔터티로 간주되는 형식은 이 루트의 필드에 할당됩니다. 예제 쿼리는 실제로 루트 형식에 대해 하나의 일반 쿼리를 만들고 필드 `country` 및 `categories`을(를) 선택합니다. 그런 다음 해당 필드의 하위 필드를 선택하고, 잠재적으로 여러 수준 깊이를 선택합니다. 필드의 반환 형식이 복잡한 형식(예: 스칼라 형식이 아닌 자체 필드가 있는 형식)이면 원하는 필드를 계속 선택합니다.
 
-이러한 중첩 필드 개념으로 인해 최상위 `categories` 필드에 대해 수행한 것과 같은 방식으로 `products`(`pageSize` 및 `currentPage`)에 대한 인수를 전달할 수 있습니다.
+이러한 중첩 필드 개념으로 인해 최상위 `products` 필드에 대해 수행한 것과 같은 방식으로 `pageSize`(`currentPage` 및 `categories`)에 대한 인수를 전달할 수 있습니다.
 
 ![GraphQL 필드 트리](../assets/graphql-field-tree.png)
 
@@ -184,11 +185,11 @@ fragment productDetails on ProductInterface {
 }
 ```
 
-먼저 쿼리 여는 중괄호 앞에 작업 이름(`getProducts`)과 함께 키워드 `query`을(를) 추가하였습니다. 이 작업 이름은 임의로 지정되며 서버 스키마의 어떤 이름과도 일치하지 않습니다. 변수 도입을 지원하기 위해 이 구문이 추가되었습니다.
+먼저 쿼리 여는 중괄호 앞에 작업 이름(`query`)과 함께 키워드 `getProducts`을(를) 추가하였습니다. 이 작업 이름은 임의로 지정되며 서버 스키마의 어떤 이름과도 일치하지 않습니다. 변수 도입을 지원하기 위해 이 구문이 추가되었습니다.
 
 이전 쿼리에서는 필드의 인수에 대한 값을 문자열 또는 정수로 직접 하드 코딩했습니다. 그러나 GraphQL 사양에서는 변수를 사용하여 사용자 입력을 기본 쿼리에서 구분하는 데 대한 첫 번째 클래스 지원을 제공합니다.
 
-새 쿼리에서 전체 쿼리의 여는 중괄호 앞에 괄호를 사용하여 `$search` 변수를 정의합니다(변수는 항상 달러 기호 접두사 구문을 사용). `products`의 `search` 인수에 제공되는 변수는 이 변수입니다.
+새 쿼리에서 전체 쿼리의 여는 중괄호 앞에 괄호를 사용하여 `$search` 변수를 정의합니다(변수는 항상 달러 기호 접두사 구문을 사용). `search`의 `products` 인수에 제공되는 변수는 이 변수입니다.
 
 쿼리에 변수가 있으면 GraphQL 요청에 쿼리 자체와 함께 별도의 JSON 인코딩 값 사전이 포함되어야 합니다. 위의 쿼리의 경우 쿼리 본문 외에 다음 JSON의 변수 값을 전송할 수 있습니다.
 

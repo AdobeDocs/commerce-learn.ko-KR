@@ -3,14 +3,14 @@ title: 품질 패치 도구
 description: 문제 진단, 솔루션 찾기 및 사용 가능한 기존 패치 목록에 있는 패치 적용 시 품질 패치 도구를 사용하는 방법에 대해 알아봅니다.
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
-role: Admin, Architect, User
+role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -31,15 +31,15 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
-품질 패치 도구는 Adobe Commerce 및 Magento Open Source에 대한 명령줄 유틸리티입니다. 이를 통해 수행할 수 있는 작업:
+품질 패치 도구는 Adobe Commerce 및 Magento Open Source용 명령줄 유틸리티입니다. 이를 통해 수행할 수 있는 작업:
 
 * 최신 품질 패치에 대한 일반 정보를 확인합니다.
 * 설치에 품질 패치를 적용합니다.
 * 필요한 경우 적용된 패치 되돌리기
 
-이러한 패치는 Adobe 개발자 및 Magento Open Source 커뮤니티에서 개발하여 안정성과 성능을 향상시킵니다. 향후 업그레이드를 복잡하게 만들 수 있으므로 많은 수의 패치를 적용하는 것은 권장되지 않습니다.
+이러한 패치는 안정성과 성능을 향상시키기 위해 Adobe 개발자 및 Magento Open Source 커뮤니티에서 개발되었습니다. 향후 업그레이드를 복잡하게 만들 수 있으므로 많은 수의 패치를 적용하는 것은 권장되지 않습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454076?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
 ## 품질 패치 도구를 사용하는 이유
 
@@ -71,8 +71,8 @@ Quality Patches Tool을 사용하면 전자 상거래 플랫폼에서 패치를 
 
 ## 관련 문서 및 비디오
 
-* [품질 패치 도구 검색](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=ko)
-* [릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [품질 패치 도구 검색](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [릴리스 정보](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * 패치에 대한 [Github](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [품질 패치 도구 사용](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [QPT의 기술 비디오](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [품질 패치 도구 사용](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [QPT의 기술 비디오](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)

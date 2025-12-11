@@ -7,10 +7,11 @@ activity: use
 last-substantial-update: 2023-7-18
 feature: Backend Development, Logs, Services
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -37,7 +38,7 @@ Galera 클러스터는 성능과 확장성에 도움이 됩니다. 보조 데이
 - 대량 실행은 기본 실행에서만 발생합니다. 복제는 한 번에 1개씩 수행됩니다.
 - 대규모 커밋을 일괄 처리하여 복제가 기본 커밋을 따라갈 수 있도록 지원
 
->[!VIDEO](https://video.tv.adobe.com/v/3423543?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## 유용한 리소스
 

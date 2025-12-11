@@ -9,16 +9,18 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: aed143b96f13a413f85fc461e11f358b4c657015
+exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-# Adobe 시작 키트를 사용한 마지막 마일 통합
+# Adobe 스타터 키트를 사용한 마지막 마일 통합
 
 타사 시스템과의 연결을 향상시키기 위해 확장성 후크를 사용하는 데 중점을 두고 Adobe Commerce과의 마지막 마일 통합을 시작할 때 고려해야 할 항목에 대해 알아봅니다. 이 비디오에서는 유효성 검사, 변환, 전처리, 전송 및 후처리와 같은 다양한 후크를 통해 원활한 데이터 흐름과 시스템 동기화를 보장하는 구조화된 접근 방식에 대해 설명합니다. 각 후크는 다음을 포함한 고유한 목적을 제공합니다.
 
@@ -43,6 +45,6 @@ ht-degree: 0%
 * 원본 시스템과 대상 시스템 간에 데이터 개체를 변환할 때 사용되는 변환 후크의 역할에 대해 알아봅니다.
 * 대상 시스템으로 실제 데이터를 전송하는 데 사용되는 전송 후크의 중요성에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451931?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: b8b1e40a2f4d38954f0d21bc6f1a91b7ec0bd8c9
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
@@ -24,7 +25,7 @@ GraphQL 및 Adobe Commerce에 대한 시리즈 중 1부입니다. GraphQL은 클
 
 GraphQL을 처음 사용하는 경우 이 섹션에서는 기본 개념과 사용법을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443948?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
 
 ## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
 

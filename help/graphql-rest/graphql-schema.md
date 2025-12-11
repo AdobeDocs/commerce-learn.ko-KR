@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -23,7 +24,7 @@ ht-degree: 0%
 
 GraphQL 및 Adobe Commerce 시리즈 4부입니다. 사용된 쿼리 및 돌연변이는 GraphQL 런타임에서 쿼리를 해결하기 위해 사용하고 서버에서 구현하는 특정 데이터 그래프를 사용합니다. GraphQL 사양은 데이터 그래프의 유형 및 관계를 표현하기 위한 불가지론적 언어를 정의합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446617?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
 
 ## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
 
@@ -105,7 +106,7 @@ type Mutation {
 }
 ```
 
-[GraphQL 설명서](https://graphql.org/learn/schema/){target="_blank"}를 자세히 살펴보고 여기에 표시되지 않는 일부 개념에 대한 구문을 포함하여 유형 시스템의 세부 사항에 대해 알아볼 수 있습니다. 그러나 위의 예는 자명합니다. (또한 구문이 쿼리 구문과 얼마나 유사한지 확인합니다.) GraphQL 스키마를 정의하는 것은 해당 필드의 유형과 함께 해당 유형의 사용 가능한 인수 및 필드를 표현하는 문제일 뿐입니다. `String`과(와) 같은 간단한 스칼라 형식에 도달할 때까지 트리를 통해 각 복합 필드 형식 자체에 정의가 있어야 합니다.
+[GraphQL 설명서](https://graphql.org/learn/schema/){target="_blank"}를 자세히 살펴보고 여기에 표시되지 않은 일부 개념에 대한 구문을 포함하여 유형 시스템의 세부 정보에 대해 알아볼 수 있습니다. 그러나 위의 예는 자명합니다. (또한 구문이 쿼리 구문과 얼마나 유사한지 확인합니다.) GraphQL 스키마를 정의하는 것은 해당 필드의 유형과 함께 해당 유형의 사용 가능한 인수 및 필드를 표현하는 문제일 뿐입니다. `String`과(와) 같은 간단한 스칼라 형식에 도달할 때까지 트리를 통해 각 복합 필드 형식 자체에 정의가 있어야 합니다.
 
 `input` 선언은 `type`과(와) 같은 모든 측면에서 사용되지만 인수의 입력으로 사용할 수 있는 형식을 정의합니다. `interface` 선언도 참고하십시오. 이것은 PHP의 인터페이스와 거의 동일한 기능을 제공합니다. 다른 형식은 이 인터페이스에서 상속합니다.
 

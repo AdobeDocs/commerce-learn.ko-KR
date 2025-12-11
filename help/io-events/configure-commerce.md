@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Configuration, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer, User
+old-role: Architect, Developer
+role: Developer, User
 level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 # Adobe Commerce 구성
 
-이벤트를 노출하도록 Adobe Commerce을 구성하는 방법에 대해 알아봅니다. [Adobe Commerce에 대한 Adobe I/O 이벤트 설치](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}에서 추가 설명서를 찾았습니다.
+이벤트를 노출하도록 Adobe Commerce을 구성하는 방법에 대해 알아봅니다. [Adobe Commerce용 Adobe I/O Events 설치](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}에서 추가 설명서를 찾았습니다.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 * Commerce 관리자에 고유 식별자 저장
 * 이벤트 공급자 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/3419716?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)
 
 ## 유용한 명령 {#useful-commands}
 

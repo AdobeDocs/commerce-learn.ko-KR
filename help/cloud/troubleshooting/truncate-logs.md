@@ -3,13 +3,15 @@ title: 로그 자르기
 description: 큰 로그 파일을 잘라내어 전체 하드 드라이브로 인해 실패한 배포를 평가하는 방법에 대해 알아봅니다.
 feature: Cloud, Site Management
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 206
 last-substantial-update: 2025-3-25
 jira: KT-17595
-source-git-commit: b90aa9eb8759391a16dfb29ca25b0d2d271956ed
+exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -33,7 +35,7 @@ ht-degree: 0%
 - 일반적인 대용량 로그 파일이 있는 경우
 - 로그 파일을 자르는 빠른 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3454590?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## 비디오에 사용된 명령
@@ -89,4 +91,4 @@ drwxr-xr-x 6 web web 4.0K Jan 10  2024 ..
 
 ## 관련 설명서
 
-- [상태 알림](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+- [상태 알림](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

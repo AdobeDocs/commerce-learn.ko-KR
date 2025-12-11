@@ -7,10 +7,11 @@ activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Security, Tools and External Services
 topic: Commerce, Administration
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: d3d42654-8574-48d1-814c-ec46107f1371
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # 품질 패치 도구 사용
 
-품질 패치 도구는 Adobe Commerce 및 Magento Open Source에 대한 품질 패치를 제공하는 명령줄 도구입니다. 이를 통해 다음을 수행할 수 있습니다.
+품질 패치 도구는 Adobe Commerce 및 Magento Open Source용 품질 패치를 제공하는 명령줄 도구입니다. 이를 통해 다음을 수행할 수 있습니다.
 
 - 최신 품질 패치에 대한 일반 정보 보기
 - 품질 패치 적용
@@ -34,9 +35,9 @@ Adobe Commerce 지원 팀과 Magento Open Source 커뮤니티는 품질 패치�
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3410786?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/344000?quality=12&learn=on)
 
 ## 추가 리소스
 
-- [품질 패치 도구](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=ko)
+- [품질 패치 도구](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
 - [GitHub의 품질 패치 도구](https://github.com/magento/quality-patches)

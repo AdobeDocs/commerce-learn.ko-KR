@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -26,7 +27,7 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-* Adobe App Builder을 사용하여 경험이 제한된 Adobe Commerce을 처음 사용하는 개발자로서 `test` 폴더에 대해 학습하고자 하는 사람.
+* Adobe App Builder을 사용하여 경험이 제한된 Adobe Commerce을 처음 사용하는 개발자로서 `test` 폴더에 대해 알아보고자 하는 사람.
 
 ## 비디오 콘텐츠
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 * 단위 테스트 파일 및 해당 구성 요소에 대한 간단한 설명
 * 엔드 투 엔드 테스트 소개
 
->[!VIDEO](https://video.tv.adobe.com/v/3421064?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
 
 ## 코드 샘플
 

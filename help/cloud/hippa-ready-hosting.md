@@ -3,19 +3,19 @@ title: HIPAA 지원 호스팅
 description: HIPPA 지원 호스팅에 대해 알아봅니다. Adobe Commerce의 HIPAA 지원 솔루션은 의료 비즈니스에 안전하고 규정을 준수하는 전자 상거래를 보장합니다.
 feature: Cloud, Compliance, System
 topic: Commerce, Security
-role: Admin, Architect, Leader, User
+role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 268
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-14593
-source-git-commit: 22eaf9d107c6aa80344b1ec224944b53b3178857
+exl-id: 60314a97-1922-490f-be18-e5e5998075e2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce에서의 HIPAA 지원 호스팅
 
@@ -33,11 +33,10 @@ Adobe Commerce은 의료 기업이 HIPAA 규정을 준수할 수 있도록 설�
 * 이 솔루션에는 PHI를 위한 향상된 로깅 메커니즘이 포함되어 있으며 내부 Adobe 제품 및 외부 서드파티 서비스 모두와 통합 기능을 제공합니다.
 * Adobe Commerce은 지원 및 문제 해결을 위한 특수 스테이징 환경을 제공하여 민감한 데이터를 보호하고 환경이 프로덕션을 면밀히 미러링하도록 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463184/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3463177/?learn=on&enablevpops)
 
 ## 추가 설명서
 
-* [HIPAA 준비 - 데이터 연결](https://experienceleague.adobe.com/ko/docs/commerce/data-connection/hipaa-readiness)
-* [HIPAA 준비 - 준수](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
-* [데이터 연결 설치](https://experienceleague.adobe.com/ko/docs/commerce/data-connection/fundamentals/install)
-
+* [HIPAA 준비 - 데이터 연결](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
+* [HIPAA 준비 - 준수](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
+* [데이터 연결 설치](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)
