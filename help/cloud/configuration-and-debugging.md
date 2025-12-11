@@ -35,16 +35,16 @@ ht-degree: 0%
 
 ## 비디오에 언급된 Experience League 설명서
 
-- [Xdebug 구성](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
+- [Xdebug 구성](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html?lang=ko)
 - [Cloud Docker 구성 Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
-- [디버깅 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html)
-- [구성 파일 개요](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
-- [ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html)
-- [ECE-Tools 패키지 업데이트](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html)
-- [New Relic 개요](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
-- [로그 파일 보기 및 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)
-- [New Relic 로그 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html)
-- [품질 패치 도구](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-- [품질 패치 도구 사용](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html)
+- [디버깅 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html?lang=ko)
+- [구성 파일 개요](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html?lang=ko)
+- [ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html?lang=ko)
+- [ECE-Tools 패키지 업데이트](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html?lang=ko)
+- [New Relic 개요](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=ko)
+- [로그 파일 보기 및 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=ko)
+- [New Relic 로그 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html?lang=ko)
+- [품질 패치 도구](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=ko)
+- [품질 패치 도구 사용](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html?lang=ko)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

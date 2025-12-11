@@ -39,5 +39,5 @@ Adobe Commerce 지원 팀과 Magento Open Source 커뮤니티는 품질 패치�
 
 ## 추가 리소스
 
-- [품질 패치 도구](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+- [품질 패치 도구](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=ko)
 - [GitHub의 품질 패치 도구](https://github.com/magento/quality-patches)

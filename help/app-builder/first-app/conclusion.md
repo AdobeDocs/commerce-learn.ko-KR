@@ -40,7 +40,7 @@ ht-degree: 0%
 * [Adobe Developer App Builder](https://developer.adobe.com/app-builder/){target="_blank"}
 * [Adobe Developer App Builder 평가판](https://developer.adobe.com/app-builder/trial/){target="_blank"}
 * [Adobe Developer App Builder 문서](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Adobe Developer App Builder 포럼](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
+* [Adobe Developer App Builder 포럼](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly?profile.language=ko){target="_blank"}
 * [Adobe Developer App Builder 기여 지침](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

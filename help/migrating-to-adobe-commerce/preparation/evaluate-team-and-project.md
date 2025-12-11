@@ -40,4 +40,4 @@ Adobe Commerce으로 이동할 때는 팀과 프로젝트를 철저히 평가하
 
 ## 관련 설명서
 
-[Adobe Commerce 소개](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)
+[Adobe Commerce 소개](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/about)
