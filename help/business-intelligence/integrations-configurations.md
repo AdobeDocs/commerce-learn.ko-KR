@@ -34,4 +34,4 @@ ht-degree: 0%
 
 ## 통합 및 구성
 
->[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452697?captions=kor&learn=on)

@@ -35,7 +35,7 @@ ht-degree: 0%
 - 일반적인 대용량 로그 파일이 있는 경우
 - 로그 파일을 자르는 빠른 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454590?captions=kor&learn=on)
 
 
 ## 비디오에 사용된 명령

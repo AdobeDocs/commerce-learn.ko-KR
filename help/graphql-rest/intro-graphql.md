@@ -25,7 +25,7 @@ GraphQL 및 Adobe Commerce에 대한 시리즈 중 1부입니다. GraphQL은 클
 
 GraphQL을 처음 사용하는 경우 이 섹션에서는 기본 개념과 사용법을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443948?captions=kor&learn=on)
 
 ## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
 

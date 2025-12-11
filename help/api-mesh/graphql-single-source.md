@@ -36,7 +36,7 @@ ht-degree: 0%
 * JSON 구성 파일에서 메쉬 만들기
 * 새로 생성된 GraphQL 엔드포인트 액세스
 
->[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419722?captions=kor&quality=12&learn=on)
 
 ## JSON 구성 파일 만들기
 

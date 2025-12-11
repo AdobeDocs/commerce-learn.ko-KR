@@ -36,4 +36,4 @@ Adobe Commerce은 단계적 접근 방식으로 Adobe Commerce as a Cloud Servic
 * App Builder 확장성을 사용하면 사용자 정의 논리를 서버리스 함수로 분리하여 간편하게 유지 관리할 수 있습니다.
 * Storefront 개선 사항은 드롭인 구성 요소 및 Edge 전달을 통해 성능과 콘텐츠 생성을 개선합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475737/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475755/?captions=kor&learn=on&enablevpops)

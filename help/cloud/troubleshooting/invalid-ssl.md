@@ -33,4 +33,4 @@ ht-degree: 0%
 - 프로세스 중에 새 인증서가 생성되는 시점을 식별합니다.
 - 새 인증서가 예상대로 작동하는지 확인합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439766?captions=kor&learn=on)

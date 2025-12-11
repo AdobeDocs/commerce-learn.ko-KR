@@ -35,6 +35,6 @@ ht-degree: 0%
 * 요구 사항 수집
 * QA 팀은 언제 참여합니까
 
->[!VIDEO](https://video.tv.adobe.com/v/3424604?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456007?captions=kor&learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

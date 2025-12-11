@@ -34,4 +34,4 @@ ht-degree: 0%
 * Adobe Commerce으로의 성공적인 마이그레이션을 위한 필수 단계 및 모범 사례에 대해 알아봅니다.
 * 사용자 지정 코드, 타사 모듈을 평가 및 최적화하고 주요 QA 개념을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444327/?captions=kor&learn=on)

@@ -33,7 +33,7 @@ ht-degree: 0%
 * 다른 개발자에 연결하는 방법
 * 댓글 닫기
 
->[!VIDEO](https://video.tv.adobe.com/v/3416741?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421076?captions=kor&quality=12&learn=on)
 
 ## 추가 App Builder 리소스
 

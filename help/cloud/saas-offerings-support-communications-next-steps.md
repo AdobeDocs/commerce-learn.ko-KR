@@ -31,7 +31,7 @@ Adobe Commerce Cloud SaaS 서비스, 지원 및 기타 커뮤니케이션 및 �
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432840?captions=kor&learn=on&enablevpops)
 
 ## 두문자어
 

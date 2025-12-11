@@ -33,7 +33,7 @@ Adobe Commerce Cloud 프로젝트에 표시되는 두 가지 일반적인 오류
 - 유지 관리 모드
 - 효율적인 문제 해결 팁
 
->[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447700?captions=kor&learn=on)
 
 
 ## 비디오에 사용된 명령

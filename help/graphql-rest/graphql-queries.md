@@ -24,7 +24,7 @@ ht-degree: 0%
 
 GraphQL 및 Adobe Commerce 시리즈 2부입니다. 이 자습서와 비디오에서는 GraphQL 쿼리와 Adobe Commerce에서 쿼리를 수행하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450065?captions=kor&learn=on)
 
 ## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
 

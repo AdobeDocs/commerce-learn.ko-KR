@@ -24,7 +24,7 @@ ht-degree: 0%
 
 GraphQL 및 Adobe Commerce 시리즈 4부입니다. 사용된 쿼리 및 돌연변이는 GraphQL 런타임에서 쿼리를 해결하기 위해 사용하고 서버에서 구현하는 특정 데이터 그래프를 사용합니다. GraphQL 사양은 데이터 그래프의 유형 및 관계를 표현하기 위한 불가지론적 언어를 정의합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446617?captions=kor&learn=on)
 
 ## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
 

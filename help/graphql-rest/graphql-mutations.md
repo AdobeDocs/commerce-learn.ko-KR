@@ -25,7 +25,7 @@ ht-degree: 0%
 GraphQL 및 Adobe Commerce 시리즈 3부입니다. 돌연변이는 GraphQL을 사용하여 값을 저장, 업데이트 및 반환하는 기능입니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441932?captions=kor&learn=on)
 
 ## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
 
