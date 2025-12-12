@@ -3,19 +3,19 @@ title: 코드 고정
 description: Adobe Commerce 마이그레이션 도중 코드 동결 구현의 중요성에 대해 알아봅니다. QA, 테스트 및 유효성 검사에 대한 우수 사례를 따라 안정성, 신뢰도 및 성공적인 시작을 보장합니다.
 feature: Best Practices
 topic: Commerce, Development
-role: Architect
+role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 199
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15993
-source-git-commit: 00b97157e20778d1eeaa30236b9d340cccaf3a38
+exl-id: dc1d609f-af81-44ea-b0f0-f48ed6fc8d47
+source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce으로 마이그레이션 - 코드 동결
 
@@ -35,4 +35,4 @@ Adobe Commerce 마이그레이션 중에 코드 동결을 구현하는 것은 �
 * 수동 및 자동화된 테스트, 로드 테스트 및 침투 테스트를 조정하여 사이트의 모든 측면이 예상대로 작동하도록 합니다.
 * 비즈니스 관련자, 개발자 및 IT 팀을 유효성 검사 프로세스에 참여시켜 원활하고 성공적인 출시를 보장합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445492/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3432965/?learn=on)
