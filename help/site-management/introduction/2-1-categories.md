@@ -37,4 +37,4 @@ feature: Configuration, System, Catalogs, Site Navigation
 
 ## 추가 리소스
 
-[범주 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)
+[범주 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html?lang=ko)
