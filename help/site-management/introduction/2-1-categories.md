@@ -33,7 +33,7 @@ feature: Configuration, System, Catalogs, Site Navigation
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/35950?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330029?captions=kor&quality=12&learn=on)
 
 ## 추가 리소스
 
