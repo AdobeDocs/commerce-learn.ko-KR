@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 12fc97fe5de44b3ba60aa92a1e2202c517897ddc
+source-git-commit: 1aaf018e8bed6122cc2dd3a03ebdffdbf0e539fa
 workflow-type: tm+mt
-source-wordcount: '947'
+source-wordcount: '957'
 ht-degree: 3%
 
 ---
@@ -92,6 +92,11 @@ ht-degree: 3%
       + [SFCC 카트리지 설치](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
       + [App Builder 시작 키트](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
       + [엔드투엔드 데모](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
++ 가시성 {#observability}
+   + [가시성 개요](../observability/overview.md)
+   + [원격 분석 열기](../observability/open-telemetry.md)
+   + [데모 설정 및 구성](../observability/demo-setup-configuration.md)
+   + [데모](../observability/demo.md)
 + 글로벌 참조 아키텍처 {#global-reference-architecture-implementation-techniques}
    + [개요](../global-reference-architecture/overview.md)
    + [Git 분할](../global-reference-architecture/split-git.md)
@@ -254,7 +259,7 @@ ht-degree: 3%
    + [업그레이드 호환성 도구 개요](../upgrade/upgrade-compatibility-tool-overview.md)
    + [PHP Storm에서 호환성 업그레이드 도구 사용](../upgrade/uct-phpstorm.md)
 + 백엔드 개발 {#backend-development}
-   + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+   + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [모듈 만들기](../backend-development/create-module.md)
    + [제품 속성 추가](../backend-development/add-product-attribute.md)
    + [종속성 삽입 예](../backend-development/dependency-injection.md)
