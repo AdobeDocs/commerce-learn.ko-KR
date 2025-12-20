@@ -33,7 +33,7 @@ Open Telemetry가 단일 모니터링 도구로 잠그지 않고 로그, 추적 
 * 로그, 추적 및 지표의 상관 관계를 파악하여 근본 원인 분석 속도 향상
 * 데이터 스트림을 통합하면서 기존 모니터링 도구 유지
 
->[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478330?captions=kor&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

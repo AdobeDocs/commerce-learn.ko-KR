@@ -33,7 +33,7 @@ ht-degree: 0%
 * 자동화된 신호에 Commerce Observability Module 사용
 * IO Live 원격 분석 라이브러리로 모니터링 확장
 
->[!VIDEO](https://video.tv.adobe.com/v/3478288?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478341?captions=kor&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

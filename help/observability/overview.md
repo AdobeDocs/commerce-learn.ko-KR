@@ -33,7 +33,7 @@ ht-degree: 0%
 * 중앙 집중식 Observability Is Key: 모든 구성 요소에서 로그와 지표를 상호 연관시킵니다.
 * 체크아웃 성능 향상: 병목 현상을 빠르게 식별하여 원활한 쇼핑을 유지합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478286?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478295?captions=kor&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
