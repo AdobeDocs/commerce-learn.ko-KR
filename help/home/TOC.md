@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 1aaf018e8bed6122cc2dd3a03ebdffdbf0e539fa
+source-git-commit: f54e9b57d07043f2ca8eca67b895f6b738a4fa21
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '998'
 ht-degree: 3%
 
 ---
@@ -47,6 +47,20 @@ ht-degree: 3%
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [개요](../commerce-as-a-cloud-service/overview.md)
       + [아키텍처](../commerce-as-a-cloud-service/architecture.md)
+      + 제품 개요{#product-overview}
+         + [소개](../commerce-as-a-cloud-service/product-overview/introduction.md)
+         + [환경 설정](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
+         + [콘텐츠 작성](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+         + [콘텐츠 현지화 및 예약](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
+         + [GenAI 기반 콘텐츠 제작](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
+         + [카탈로그 관리 및 머천다이징 서비스](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
+         + [Commerce storefront 실험](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
+         + [Commerce 상점 속도](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
+         + [Commerce 상점 전체 쇼핑객 여정](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
+         + [컴포저블 상점 및 모듈식 아키텍처](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
+         + [확장성](../commerce-as-a-cloud-service/product-overview/extensibility.md)
+         + [현대화 및 마이그레이션](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
+         + [닫기](../commerce-as-a-cloud-service/product-overview/closing.md)
    + Adobe Commerce으로 마이그레이션{#migrating-to-adobe-commerce}
       + [개요](../migrating-to-adobe-commerce/overview.md)
       + 준비{#preparation}
@@ -259,7 +273,7 @@ ht-degree: 3%
    + [업그레이드 호환성 도구 개요](../upgrade/upgrade-compatibility-tool-overview.md)
    + [PHP Storm에서 호환성 업그레이드 도구 사용](../upgrade/uct-phpstorm.md)
 + 백엔드 개발 {#backend-development}
-   + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+   + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [모듈 만들기](../backend-development/create-module.md)
    + [제품 속성 추가](../backend-development/add-product-attribute.md)
    + [종속성 삽입 예](../backend-development/dependency-injection.md)
