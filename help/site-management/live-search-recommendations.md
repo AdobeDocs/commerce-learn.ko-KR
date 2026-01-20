@@ -36,7 +36,7 @@ Adobe Commerce의 [!DNL Live Search]은(는) 추가 비용 없이 Adobe Commerce
 
 ## 추가 리소스
 
-- [소개 [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
-- [[!DNL Live Search] 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
-- [Commerce 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
-- [제품 추천 소개](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
+- [소개 [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html?lang=ko)
+- [[!DNL Live Search] 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=ko)
+- [Commerce 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=ko)
+- [제품 추천 소개](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=ko)
