@@ -34,4 +34,4 @@ Adobe Commerce이 첨단 AI 솔루션과 SaaS 우선 전략을 통해 전자 상
 * 카탈로그 혁신을 통한 글로벌 확장 가속화
 * 대화형 Commerce을 통해 Storefront 경험 향상
 
->[!VIDEO](https://video.tv.adobe.com/v/3475691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475702/?captions=kor&learn=on&enablevpops)
