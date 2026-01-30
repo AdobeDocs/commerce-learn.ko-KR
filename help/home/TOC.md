@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 6c512ca371bb3721b3e6ef4fdd66b1620bc176f0
+source-git-commit: 2a85225a77ab92def17b30cd96aa0c2c6f79d083
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '864'
 ht-degree: 3%
 
 ---
@@ -120,29 +120,7 @@ ht-degree: 3%
       + [사용자 지정 체크아웃](../edge-delivery-services/customize-checkout.md)
       + [주소 레이아웃 사용자 지정](../edge-delivery-services/customize-address-new-account-link.md)
       + [구매자 경험](../edge-delivery-services/shopper-experience.md)
-+ 웨비나 및 이벤트 {#webinars-and-events}
-   + 비즈니스 성장 {#business-growth}
-      + [AI 혁신](../business-growth/ai-innovation.md)
-      + [전방 시력](../business-growth/vision-forward.md)
-      + [제품 채택](../business-growth/product-adoption.md)
-   + Commerce의 미래 {#future-of-commerce}
-      + [새 제품 공지](../future-of-commerce/new-product-announcements.md)
-      + [비용 대폭 절감](../future-of-commerce/drastically-cut-costs.md)
-      + [수퍼차지 전환율](../future-of-commerce/supercharge-conversion-rates.md)
-      + [빠른 경로 확장](../future-of-commerce/fast-track-expansion.md)
-   + 지원 시리즈 {#enablement-series}
-      + [Commerce 통합을 위한 TOC 줄이기](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
-      + [최신 Adobe Commerce 구현 계획](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
-      + [론치, 론치 후, 모니터링 및 문제 해결](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
-      + [Edge Delivery Services과 Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
-   + Commerce 대화 {#commerce-conversations}
-      + [전문가의 성공 개요](../commerce-conversations/what-is-expert-success.md)
-      + [Commerce 지원 추가 기능](../commerce-conversations/commerce-support-add-ons.md)
-      + [최종 성공이란 무엇입니까?](../commerce-conversations/what-is-ultimate-success.md)
-      + [Success Accelerator 기술 준비](../commerce-conversations/success-accelerators-technical-readiness.md)
-      + [Success Accelerator 채택 및 지원](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
-      + [Success Accelerator 조직 준비](../commerce-conversations/success-accelerators-organizational-readiness.md)
-      + [공동 책임](../commerce-conversations/shared-responsibility.md)
+
 + GraphQL 및 REST {#graphql-rest}
    + [GraphQL 기본 사항](../graphql-rest/intro-graphql.md)
    + [쿼리](../graphql-rest/graphql-queries.md)
@@ -261,7 +239,7 @@ ht-degree: 3%
    + [업그레이드 호환성 도구 개요](../upgrade/upgrade-compatibility-tool-overview.md)
    + [PHP Storm에서 호환성 업그레이드 도구 사용](../upgrade/uct-phpstorm.md)
 + 백엔드 개발 {#backend-development}
-   + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+   + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [모듈 만들기](../backend-development/create-module.md)
    + [제품 속성 추가](../backend-development/add-product-attribute.md)
    + [종속성 삽입 예](../backend-development/dependency-injection.md)
