@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 3bc038fb3af74822c3ab4cbc6d4fdc2c81442b14
+source-git-commit: 6c512ca371bb3721b3e6ef4fdd66b1620bc176f0
 workflow-type: tm+mt
-source-wordcount: '990'
+source-wordcount: '945'
 ht-degree: 3%
 
 ---
@@ -96,18 +96,6 @@ ht-degree: 3%
       + [마지막 마일 통합](../back-office-integrations/last-mile-integration.md)
       + [Webhook 수집](../back-office-integrations/webhook-ingestion.md)
       + [재시도 메커니즘](../back-office-integrations/retry-mechanism.md)
-+ Adobe Commerce Optimizer {#adobe-commerce-optimizer}
-   + [개요](../adobe-commerce-optimizer/overview.md)
-   + [Adobe Commerce Optimizer의 첫 번째 인스턴스 만들기](../adobe-commerce-optimizer/create-first-instance.md)
-   + [Adobe Commerce Optimizer 인스턴스 관리](../adobe-commerce-optimizer/managing-instances.md)
-   + [샘플 데이터 수집](../adobe-commerce-optimizer/ingest-sample-data.md)
-   + [GraphQL을 사용한 첫 번째 쿼리](../adobe-commerce-optimizer/first-query.md)
-   + Salesforce Commerce 클라우드 스타터 키트 {#sfcc-starter-kit}
-      + [개요](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
-      + [아키텍처 개요](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
-      + [SFCC 카트리지 설치](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
-      + [App Builder 시작 키트](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
-      + [엔드투엔드 데모](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
 + 가시성 {#observability}
    + [가시성 개요](../observability/overview.md)
    + [원격 분석 열기](../observability/open-telemetry.md)
@@ -273,7 +261,7 @@ ht-degree: 3%
    + [업그레이드 호환성 도구 개요](../upgrade/upgrade-compatibility-tool-overview.md)
    + [PHP Storm에서 호환성 업그레이드 도구 사용](../upgrade/uct-phpstorm.md)
 + 백엔드 개발 {#backend-development}
-   + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+   + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [모듈 만들기](../backend-development/create-module.md)
    + [제품 속성 추가](../backend-development/add-product-attribute.md)
    + [종속성 삽입 예](../backend-development/dependency-injection.md)
