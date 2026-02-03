@@ -42,6 +42,6 @@ ht-degree: 0%
 * 글로벌 컨트롤 보드 - 작업 기능
 * 모듈 마켓플레이스로 GRA를 사용하기 위한 대체 개념
 
->[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457215?captions=kor&learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}
