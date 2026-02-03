@@ -2,9 +2,9 @@
 user-guide-title: Adobe Commerce 웨비나 및 이벤트
 user-guide-description: 웨비나 및 이벤트를 통해 Adobe Commerce에 대해 알아봅니다.
 breadcrumb-title: Adobe Commerce 웨비나 및 이벤트
-source-git-commit: 7a3cccd690a39fd2a5f84f577102f83e0ba85e09
+source-git-commit: 1a73be30f2ee55c9f767b7b10fd3c47172e4057d
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -34,3 +34,8 @@ ht-degree: 0%
    + [Success Accelerator 채택 및 지원](./commerce-conversations/success-accelerators-adoption-and-enablement.md)
    + [Success Accelerator 조직 준비](./commerce-conversations/success-accelerators-organizational-readiness.md)
    + [공동 책임](./commerce-conversations/shared-responsibility.md)
++ 글로벌 참조 아키텍처{#global-reference-architecture}
+   + [글로벌 참조 아키텍처](../global-reference-architecture/what-is-global-reference-architecture.md)
+   + [글로벌 참조 아키텍처 활용](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
+   + [건축가 GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
+   + [글로벌 참조 아키텍처 구현](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
