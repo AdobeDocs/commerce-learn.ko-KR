@@ -13,13 +13,13 @@ ht-degree: 0%
 ## EE 전용 기능 {#ee-feature}
 
 <table style="border:1px solid red">
-<tr><td><img alt="Adobe Commerce 기능" src="../assets/adobe-logo.svg" width="20" height="20" /> Adobe Commerce의 전용 기능(<a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html#product-editions">자세히 알아보기</a>)</td></tr>
+<tr><td><img alt="Adobe Commerce 기능" src="../assets/adobe-logo.svg" width="20" height="20" /> Adobe Commerce의 전용 기능(<a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=ko#product-editions">자세히 알아보기</a>)</td></tr>
 </table>
 
 ## B2B 전용 기능 {#b2b-feature}
 
 <table style="border:1px solid green">
-<tr><td><img alt="Adobe Commerce 기능" src="../assets/b2b.svg" width="20" height="20" /> Adobe Commerce용 <a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html">B2B</a>에서만 사용할 수 있는 전용 기능</td></tr>
+<tr><td><img alt="Adobe Commerce 기능" src="../assets/b2b.svg" width="20" height="20" /> Adobe Commerce용 <a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html?lang=ko">B2B</a>에서만 사용할 수 있는 전용 기능</td></tr>
 </table>
 
 ## 400개 문제 {#avoid-400-error}
