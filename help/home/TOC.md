@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 2a85225a77ab92def17b30cd96aa0c2c6f79d083
+source-git-commit: 6d60f35abdffb4fc828832dfc3eb25ab0dc9caa7
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '866'
 ht-degree: 3%
 
 ---
@@ -96,6 +96,89 @@ ht-degree: 3%
       + [마지막 마일 통합](../back-office-integrations/last-mile-integration.md)
       + [Webhook 수집](../back-office-integrations/webhook-ingestion.md)
       + [재시도 메커니즘](../back-office-integrations/retry-mechanism.md)
+
++ 확장성 {#extensibility}
+   + 백엔드 개발 {#backend-development}
+      + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+      + [모듈 만들기](../backend-development/create-module.md)
+      + [제품 속성 추가](../backend-development/add-product-attribute.md)
+      + [종속성 삽입 예](../backend-development/dependency-injection.md)
+      + [Galera Cluster 느린 복제](../backend-development/galera-db-slow-replication.md)
+      + [MySQL 쿼리 캐시](../backend-development/mysql-query-cache.md)
+      + [PT 쿼리 다이제스트](../backend-development/pt-query-digest.md)
+      + [Adobe Commerce 데이터베이스에 연결 및 다운로드](../backend-development/remote-db-connection-execute-queries.md)
+      + Commerce 업그레이드 {#upgrade}
+         + [Adobe Commerce 2.4 업그레이드 워크숍](../upgrade/2-4-upgrade-workshop.md)
+         + [업그레이드 호환성 도구 개요](../upgrade/upgrade-compatibility-tool-overview.md)
+         + [PHP Storm에서 호환성 업그레이드 도구 사용](../upgrade/uct-phpstorm.md)
+   + 프론트엔드 Luma 개발 {#frontend-development}
+      + 개발자용 PaaS/SaaS 페이지 빌더 {#page-builder}
+         + [1 - 소개](../frontend-development/page-builder/1-intro-case-studies.md)
+         + [2 - 구성 및 콘텐츠](../frontend-development/page-builder/2-config-create-content.md)
+         + [3 - 테마](../frontend-development/page-builder/3-themes.md)
+         + [4 - 템플릿 및 스타일](../frontend-development/page-builder/4-admin-templates-apply-styles.md)
+         + [5 - 사용자 지정 테마](../frontend-development/page-builder/5-customize-theme.md)
+         + [6 - 사용자 지정 콘텐츠 유형](../frontend-development/page-builder/6-custom-content-types.md)
+      + [JavaScript 모듈 추가](../frontend-development/add-javascript-module.md)
+      + [페이지 만들기](../frontend-development/create-page.md)
+      + Edge Delivery Services {#edge-delivery-services}
+         + 시작 {#getting-started}
+            + [트랜잭션 플로우 변경](../edge-delivery-services/transactional-flow.md)
+            + [장바구니 항목에 대한 제품 속성 사용](../edge-delivery-services/product-attributes-cart-items.md)
+            + [체크아웃 시 주문 요약 업데이트](../edge-delivery-services/update-order-summary.md)
+            + [체크아웃에 BOPI 추가](../edge-delivery-services/add-bopis-to-checkout.md)
+            + [사용자 지정 체크아웃](../edge-delivery-services/customize-checkout.md)
+            + [주소 레이아웃 사용자 지정](../edge-delivery-services/customize-address-new-account-link.md)
+            + [구매자 경험](../edge-delivery-services/shopper-experience.md)
+      + 헤드리스 아키텍처 {#headless-architecture}
+         + Headless 소개 {#introduction-to-headless}
+            + [헤드리스 아키텍처 - 세션 1](../headless/session-1.md)
+         + PWA Studio 소개 {#introduction}
+            + [1 - 개요](../pwa/introduction/1-overview.md)
+            + [2 - PWA Studio 도구](../pwa/introduction/2-pwa-studio-tools.md)
+            + [3 - 시작](../pwa/introduction/3-launch.md)
+            + [4 - 위쪽](../pwa/introduction/4-upward.md)
+            + [5 - 시작](../pwa/introduction/5-getting-started.md)
+            + [6 - 페레그린](../pwa/introduction/6-peregrine.md)
+         + [PWA Docker 개발](../pwa/pwa-docker-development.md)
+         + [개발을 위한 Venia 설정](../pwa/set-up-venia-for-dev.md)
+   + GraphQL 및 REST {#graphql-rest}
+      + [GraphQL 기본 사항](../graphql-rest/intro-graphql.md)
+      + [쿼리](../graphql-rest/graphql-queries.md)
+      + [돌연변이](../graphql-rest/graphql-mutations.md)
+      + [스키마](../graphql-rest/graphql-schema.md)
+   + Adobe Developer App Builder {#adobe-developer-app-builder}
+      + [Adobe Exchange에서 앱 설치](../app-builder/install-app-builder-app.md)
+      + [App Builder 소개](../app-builder/introduction-to-app-builder.md)
+      + [App Builder용 확장성 프레임워크](../app-builder/extensibility-framework-commerce-eventing.md)
+      + 첫 번째 App Builder 앱 빌드 {#first-app}
+         + [개요](../app-builder/first-app/overview.md)
+         + [.env 파일 생성 및 구성](../app-builder/first-app/env-file.md)
+         + [app.config.yaml 파일에 대한 설명 및 사용](../app-builder/first-app/app-config-yaml-file.md)
+         + [작업 폴더에 대해 알아보기](../app-builder/first-app/actions-folder.md)
+         + [테스트 폴더에 대해 알아보기](../app-builder/first-app/test-folder.md)
+         + [web-src 폴더의 목적 살펴보기](../app-builder/first-app/web-src-folder.md)
+         + [로컬에서 테스트](../app-builder/first-app/testing-locally.md)
+         + [App Builder URL을 사용하여 테스트](../app-builder/first-app/testing-app-builder-url.md)
+         + [결론](../app-builder/first-app/conclusion.md)
+         + [샘플 모듈 소스 코드](https://github.com/magento/app-builder-samples){target="_blank"}
+      + Adobe Commerce에 대한 IO 이벤트 {#io-events}
+         + [IO 이벤트 시작](../io-events/getting-started-io-events.md)
+         + [Adobe Commerce 2.4.5 설치](../io-events/2-4-5-installation.md)
+         + [Adobe Commerce 2.4.6 설치](../io-events/2-4-6-installation.md)
+         + [App Builder 프로젝트 만들기](../io-events/create-app-builder-project.md)
+         + [Adobe Commerce 구성](../io-events/configure-commerce.md)
+         + [Adobe Commerce 모듈 개발](../io-events/commerce-module-development.md)
+         + [Adobe Commerce 조건부 이벤트](../io-events/conditional-events.md)
+   + API 메쉬 {#api-mesh}
+      + [GitHub Codespaces를 사용한 API Mesh 스타터 키트](../api-mesh/starter-kit-github-codespaces.md)
+      + [API Mesh 스타터 키트 워크플로](../api-mesh/starter-kit-workflows.md)
+      + [API Mesh 시작](../api-mesh/getting-started-api-mesh.md)
+      + [Adobe IO 및 메쉬 플러그인 설치](../api-mesh/installing-aio-mesh-plugin.md)
+      + [프로젝트 및 작업 공간 작업](../api-mesh/aio-projects-workspaces.md)
+      + [단일 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-single-source.md)
+      + [여러 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-multiple-source.md)
+
 + 가시성 {#observability}
    + [가시성 개요](../observability/overview.md)
    + [원격 분석 열기](../observability/open-telemetry.md)
@@ -111,52 +194,7 @@ ht-degree: 3%
    + [지원 티켓 만들기](../help-and-support/create-a-support-ticket.md)
    + [지원 티켓 검색, 추적, 댓글 달기 및 에스컬레이션](../help-and-support/search-track-comment-escalate-support-ticket.md)
    + [감시자 추가 및 제거, 티켓 닫기 및 다시 열기](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-+ Edge Delivery Services {#edge-delivery-services}
-   + 시작 {#getting-started}
-      + [트랜잭션 플로우 변경](../edge-delivery-services/transactional-flow.md)
-      + [장바구니 항목에 대한 제품 속성 사용](../edge-delivery-services/product-attributes-cart-items.md)
-      + [체크아웃 시 주문 요약 업데이트](../edge-delivery-services/update-order-summary.md)
-      + [체크아웃에 BOPI 추가](../edge-delivery-services/add-bopis-to-checkout.md)
-      + [사용자 지정 체크아웃](../edge-delivery-services/customize-checkout.md)
-      + [주소 레이아웃 사용자 지정](../edge-delivery-services/customize-address-new-account-link.md)
-      + [구매자 경험](../edge-delivery-services/shopper-experience.md)
 
-+ GraphQL 및 REST {#graphql-rest}
-   + [GraphQL 기본 사항](../graphql-rest/intro-graphql.md)
-   + [쿼리](../graphql-rest/graphql-queries.md)
-   + [돌연변이](../graphql-rest/graphql-mutations.md)
-   + [스키마](../graphql-rest/graphql-schema.md)
-+ Adobe Developer App Builder {#adobe-developer-app-builder}
-   + [Adobe Exchange에서 앱 설치](../app-builder/install-app-builder-app.md)
-   + [App Builder 소개](../app-builder/introduction-to-app-builder.md)
-   + [App Builder용 확장성 프레임워크](../app-builder/extensibility-framework-commerce-eventing.md)
-   + 첫 번째 App Builder 앱 빌드 {#first-app}
-      + [개요](../app-builder/first-app/overview.md)
-      + [.env 파일 생성 및 구성](../app-builder/first-app/env-file.md)
-      + [app.config.yaml 파일에 대한 설명 및 사용](../app-builder/first-app/app-config-yaml-file.md)
-      + [작업 폴더에 대해 알아보기](../app-builder/first-app/actions-folder.md)
-      + [테스트 폴더에 대해 알아보기](../app-builder/first-app/test-folder.md)
-      + [web-src 폴더의 목적 살펴보기](../app-builder/first-app/web-src-folder.md)
-      + [로컬에서 테스트](../app-builder/first-app/testing-locally.md)
-      + [App Builder URL을 사용하여 테스트](../app-builder/first-app/testing-app-builder-url.md)
-      + [결론](../app-builder/first-app/conclusion.md)
-      + [샘플 모듈 소스 코드](https://github.com/magento/app-builder-samples){target="_blank"}
-   + Adobe Commerce에 대한 IO 이벤트 {#io-events}
-      + [IO 이벤트 시작](../io-events/getting-started-io-events.md)
-      + [Adobe Commerce 2.4.5 설치](../io-events/2-4-5-installation.md)
-      + [Adobe Commerce 2.4.6 설치](../io-events/2-4-6-installation.md)
-      + [App Builder 프로젝트 만들기](../io-events/create-app-builder-project.md)
-      + [Adobe Commerce 구성](../io-events/configure-commerce.md)
-      + [Adobe Commerce 모듈 개발](../io-events/commerce-module-development.md)
-      + [Adobe Commerce 조건부 이벤트](../io-events/conditional-events.md)
-+ API 메쉬 {#api-mesh}
-   + [GitHub Codespaces를 사용한 API Mesh 스타터 키트](../api-mesh/starter-kit-github-codespaces.md)
-   + [API Mesh 스타터 키트 워크플로](../api-mesh/starter-kit-workflows.md)
-   + [API Mesh 시작](../api-mesh/getting-started-api-mesh.md)
-   + [Adobe IO 및 메쉬 플러그인 설치](../api-mesh/installing-aio-mesh-plugin.md)
-   + [프로젝트 및 작업 공간 작업](../api-mesh/aio-projects-workspaces.md)
-   + [단일 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-single-source.md)
-   + [여러 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-multiple-source.md)
 + 저장소 관리 {#admin}
    + [사용자 역할 및 권한 관리](../site-management/users-roles-permissions.md)
    + [이중 인증](../site-management/two-factor-authentication.md)
@@ -234,38 +272,6 @@ ht-degree: 3%
    + [코호트 Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [미래를 준비하는 중](../business-intelligence/prepare-for-future.md)
-+ Commerce 업그레이드 {#upgrade}
-   + [Adobe Commerce 2.4 업그레이드 워크숍](../upgrade/2-4-upgrade-workshop.md)
-   + [업그레이드 호환성 도구 개요](../upgrade/upgrade-compatibility-tool-overview.md)
-   + [PHP Storm에서 호환성 업그레이드 도구 사용](../upgrade/uct-phpstorm.md)
-+ 백엔드 개발 {#backend-development}
-   + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
-   + [모듈 만들기](../backend-development/create-module.md)
-   + [제품 속성 추가](../backend-development/add-product-attribute.md)
-   + [종속성 삽입 예](../backend-development/dependency-injection.md)
-   + [Galera Cluster 느린 복제](../backend-development/galera-db-slow-replication.md)
-   + [MySQL 쿼리 캐시](../backend-development/mysql-query-cache.md)
-   + [PT 쿼리 다이제스트](../backend-development/pt-query-digest.md)
-   + [Adobe Commerce 데이터베이스에 연결 및 다운로드](../backend-development/remote-db-connection-execute-queries.md)
-+ 기본 프론트엔드 Luma 개발 {#frontend-development}
-   + 개발자용 페이지 빌더 {#page-builder}
-      + [1 - 소개](../frontend-development/page-builder/1-intro-case-studies.md)
-      + [2 - 구성 및 콘텐츠](../frontend-development/page-builder/2-config-create-content.md)
-      + [3 - 테마](../frontend-development/page-builder/3-themes.md)
-      + [4 - 템플릿 및 스타일](../frontend-development/page-builder/4-admin-templates-apply-styles.md)
-      + [5 - 사용자 지정 테마](../frontend-development/page-builder/5-customize-theme.md)
-      + [6 - 사용자 지정 콘텐츠 유형](../frontend-development/page-builder/6-custom-content-types.md)
-   + [JavaScript 모듈 추가](../frontend-development/add-javascript-module.md)
-   + [페이지 만들기](../frontend-development/create-page.md)
-+ 헤드리스 아키텍처 {#headless-architecture}
-   + Headless 소개 {#introduction-to-headless}
-      + [헤드리스 아키텍처 - 세션 1](../headless/session-1.md)
-   + PWA Studio 소개 {#introduction}
-      + [1 - 개요](../pwa/introduction/1-overview.md)
-      + [2 - PWA Studio 도구](../pwa/introduction/2-pwa-studio-tools.md)
-      + [3 - 시작](../pwa/introduction/3-launch.md)
-      + [4 - 위쪽](../pwa/introduction/4-upward.md)
-      + [5 - 시작](../pwa/introduction/5-getting-started.md)
-      + [6 - 페레그린](../pwa/introduction/6-peregrine.md)
-   + [PWA Docker 개발](../pwa/pwa-docker-development.md)
-   + [개발을 위한 Venia 설정](../pwa/set-up-venia-for-dev.md)
+
+
+
