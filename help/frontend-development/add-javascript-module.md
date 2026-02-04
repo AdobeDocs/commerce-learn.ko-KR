@@ -9,7 +9,7 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
-source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -17,6 +17,8 @@ ht-degree: 0%
 ---
 
 # JavaScript 모듈 추가
+
+{{only-for-on-prem-commerce-cloud}}
 
 이 비디오는 인사말 &quot;Hello World&quot;를 제공하는 간단한 JS 모듈 개발에 대한 설명을 제공합니다.
 

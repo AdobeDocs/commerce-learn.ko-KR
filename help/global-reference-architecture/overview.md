@@ -12,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 0%
@@ -20,6 +20,8 @@ ht-degree: 0%
 ---
 
 # 글로벌 참조 아키텍처 구현 기술
+
+{{only-for-on-prem-commerce-cloud}}
 
 Adobe Commerce에서 코드 재사용을 최적화하는 방법에는 몇 가지가 있습니다. 이 네 가지 구현 기술에는 각각 고유한 장점이 있습니다. 이 문서의 예는 간단명료한 것부터 더 복잡한 것까지 나열되어 있다. 프로젝트 및 향후 로드맵에 가장 적합한 전략을 선택하십시오. 한 전략에서 다른 전략으로의 마이그레이션은 시간이 많이 걸릴 수 있습니다.
 

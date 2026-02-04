@@ -14,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: fba4a08b-5633-433b-bf87-fa85457e4578
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 33%
@@ -22,6 +22,8 @@ ht-degree: 33%
 ---
 
 # Adobe Commerce 2.4 업그레이드 워크숍
+
+{{only-for-on-prem-commerce-cloud}}
 
 이 녹화된 웨비나를 시청하여 2.4.4 이상으로의 다음 업그레이드를 준비할 때 따라야 할 단계 및 모범 사례를 알아보십시오.
 
@@ -39,10 +41,10 @@ ht-degree: 33%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3432519?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340038?quality=12&learn=on)
 
 ## 추가 리소스
 
-- [업그레이드 안내서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=ko)
-- [릴리스 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=ko)
-- [릴리스 일정](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=ko)
+- [업그레이드 안내서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [릴리스 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [릴리스 일정](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

@@ -11,7 +11,7 @@ duration: 167
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-11767
 exl-id: 9b9504c1-0888-46da-b25e-0a5e16833d84
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -19,6 +19,8 @@ ht-degree: 0%
 ---
 
 # Adobe Commerce으로 마이그레이션 - 개요
+
+{{only-for-on-prem-commerce-cloud}}
 
 이 포괄적인 Adobe Commerce 마이그레이션 자습서 시리즈를 시작합니다. 개발자 및 기업을 위해 설계된 이 튜토리얼은 준비, 사용자 지정 코드 평가, QA, 성능 및 보안과 같은 필수 주제를 다룹니다. 모범 사례를 배우고 숙련된 Adobe 전문가로부터 중요한 통찰력을 얻어 Adobe Commerce으로 원활하고 성공적으로 마이그레이션할 수 있도록 하십시오.
 
@@ -34,4 +36,4 @@ ht-degree: 0%
 * Adobe Commerce으로의 성공적인 마이그레이션을 위한 필수 단계 및 모범 사례에 대해 알아봅니다.
 * 사용자 지정 코드, 타사 모듈을 평가 및 최적화하고 주요 QA 개념을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444327/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)

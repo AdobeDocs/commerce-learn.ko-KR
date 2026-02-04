@@ -11,7 +11,7 @@ duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
 exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -19,6 +19,8 @@ ht-degree: 0%
 ---
 
 # Adobe Commerce으로 마이그레이션 - In-Process 코딩 표준
+
+{{only-for-on-prem-commerce-cloud}}
 
 PHP, JavaScript 및 사용자 지정에 대한 몇 가지 필수 코딩 표준과 모범 사례에 대해 알아봅니다. 개발자이든 비즈니스든 이 튜토리얼 세트는 Adobe Commerce으로 마이그레이션하는 과정의 복잡성을 탐색하고 원활하고 성공적인 전환을 보장하는 데 도움이 됩니다.
 
@@ -32,4 +34,4 @@ PHP, JavaScript 및 사용자 지정에 대한 몇 가지 필수 코딩 표준�
 * 원활한 마이그레이션을 보장하기 위한 PHP, JavaScript 및 사용자 지정에 대한 모범 사례에 대해 알아봅니다.
 * 성공적인 Adobe Commerce 프로젝트를 위한 준비, 성능 및 보안에 대해 Adobe 전문가로부터 통찰력을 얻으십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434864?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)
