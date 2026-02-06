@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 263
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20087
-source-git-commit: f54e9b57d07043f2ca8eca67b895f6b738a4fa21
+exl-id: ed0e1d8f-794f-4bc5-9b7b-7cf8faf36e7f
+source-git-commit: 91ed274a4f1eb466addfd1b629f83fd52279e6e0
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-
-# GenAI를 사용하여 콘텐츠 제작 가속화
+# genAI를 사용하여 콘텐츠 제작 가속화
 
 Adobe Commerce이 Firefly 및 Express와 같은 생성 AI 도구를 콘텐츠 생성 워크플로에 통합하는 방법에 대해 알아봅니다. 이미지 및 텍스트 변형을 빠르게 만들고, 캠페인을 최적화하며, 외부 리소스에 대한 의존도를 줄이는 방법을 알아봅니다.
 
