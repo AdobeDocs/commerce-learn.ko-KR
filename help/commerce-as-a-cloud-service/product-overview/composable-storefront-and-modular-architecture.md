@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 279
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20092
-source-git-commit: 86fb1a84f431726e282bd8af664dc668bdb5bc61
+exl-id: fdbb45ca-b1dc-4015-bd4d-bbe90c442dbb
+source-git-commit: 8463195b62972d064f8b126ae286b30c050c3226
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-
-# 구성 가능으로 유연한 Commerce 경험 구축
+# 구성 가능으로 유연한 상거래 경험 구축
 
 Adobe Commerce as a Cloud Service이 민첩성과 확장성을 위한 컴포저블 아키텍처를 통해 비즈니스를 향상시키는 방법을 알아봅니다. 모듈식 서비스, API 우선 통합 및 관리 UI 확장성을 통해 성능을 저하시키지 않으면서 맞춤화된 상거래 경험을 구현하는 방법을 알아봅니다.
 
