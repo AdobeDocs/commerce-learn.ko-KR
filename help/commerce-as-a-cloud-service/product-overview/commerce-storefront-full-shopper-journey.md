@@ -9,13 +9,13 @@ doc-type: Technical Video
 duration: 301
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20091
-source-git-commit: 86fb1a84f431726e282bd8af664dc668bdb5bc61
+exl-id: 00697a95-139d-4032-bc72-66173a9e1675
+source-git-commit: d95cff3b820efb6685d3bbbdc6b293b1775326be
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
-
 
 # 엔드 투 엔드 쇼핑 여정 제공
 
