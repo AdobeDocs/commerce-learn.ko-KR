@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 195
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20084
-source-git-commit: 9a05cac9fe45aa709ca98a9e8f91a94b37588a5a
+exl-id: b4d22bc1-20a9-4876-be7e-df46a24c1330
+source-git-commit: 37fe84da708a76a5695f4b9d4ad4ca3f425332c3
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-
-# 경험 설정
+# 환경 설정
 
 Adobe Commerce as a Cloud Service이 셀프 서비스 설정 및 보안 엔드포인트를 통해 팀이 상점 전면을 빠르게 시작할 수 있도록 지원하는 방법에 대해 알아봅니다. Edge 기반 아키텍처가 번개처럼 빠른 성능과 확장성을 제공하는 방법에 대해 알아봅니다.
 
