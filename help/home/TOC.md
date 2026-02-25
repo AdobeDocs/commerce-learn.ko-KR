@@ -96,7 +96,7 @@ ht-degree: 3%
 
 + 확장성 {#extensibility}
    + 백엔드 개발 {#backend-development}
-      + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+      + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
       + [모듈 만들기](../backend-development/create-module.md)
       + [제품 속성 추가](../backend-development/add-product-attribute.md)
       + [종속성 삽입 예](../backend-development/dependency-injection.md)
