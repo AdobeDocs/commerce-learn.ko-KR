@@ -3,7 +3,7 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: e8a3473a986c67f81f47497aff026c1ec3e60eab
+source-git-commit: a0394aea5f4fc3cb5cbe3cb66eec3fae8a4683a1
 workflow-type: tm+mt
 source-wordcount: '853'
 ht-degree: 3%
@@ -44,7 +44,6 @@ ht-degree: 3%
       + [지원 요청](../cloud/best-practices/support-request.md)
       + [실행 전 검사 목록](../cloud/best-practices/pre-launch-checklist.md)
 + 시작 {#getting-started}
-   + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [개요](../commerce-as-a-cloud-service/overview.md)
       + [아키텍처](../commerce-as-a-cloud-service/architecture.md)
@@ -74,6 +73,7 @@ ht-degree: 3%
          + [코드 고정](../migrating-to-adobe-commerce/qa/code-freeze.md)
 
    + Commerce 기능 {#capabilities}
+      + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
       + [데이터 연결](../capabilities/data-connection.md)
       + [라이브 검색 전체 데모](../capabilities/live-search-full-demonstration.md)
       + [구성 가능한 Commerce](../capabilities/what-is-composable-commerce.md)
@@ -96,7 +96,7 @@ ht-degree: 3%
 
 + 확장성 {#extensibility}
    + 백엔드 개발 {#backend-development}
-      + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+      + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [모듈 만들기](../backend-development/create-module.md)
       + [제품 속성 추가](../backend-development/add-product-attribute.md)
       + [종속성 삽입 예](../backend-development/dependency-injection.md)
