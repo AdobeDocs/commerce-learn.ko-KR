@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: a0394aea5f4fc3cb5cbe3cb66eec3fae8a4683a1
+source-git-commit: ec9d6444696968c72cabb1b532e205f92a2d9e5a
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '864'
 ht-degree: 3%
 
 ---
@@ -96,7 +96,7 @@ ht-degree: 3%
 
 + 확장성 {#extensibility}
    + 백엔드 개발 {#backend-development}
-      + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+      + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [모듈 만들기](../backend-development/create-module.md)
       + [제품 속성 추가](../backend-development/add-product-attribute.md)
       + [종속성 삽입 예](../backend-development/dependency-injection.md)
@@ -148,6 +148,8 @@ ht-degree: 3%
       + [Adobe Exchange에서 앱 설치](../app-builder/install-app-builder-app.md)
       + [App Builder 소개](../app-builder/introduction-to-app-builder.md)
       + [App Builder용 확장성 프레임워크](../app-builder/extensibility-framework-commerce-eventing.md)
+      + AI 도구를 사용하여 맞춤형 배송률 만들기 {#custom-shipping-rates-ai-tools}
+         + [Adobe에 피드백 제공](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
       + 첫 번째 App Builder 앱 빌드 {#first-app}
          + [개요](../app-builder/first-app/overview.md)
          + [.env 파일 생성 및 구성](../app-builder/first-app/env-file.md)
