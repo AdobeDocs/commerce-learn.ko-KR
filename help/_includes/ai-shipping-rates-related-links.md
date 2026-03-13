@@ -1,9 +1,9 @@
 ---
 title: AI 도구 배송 요금 관련 페이지
 description: ai 도구 배송 요금의 관련 페이지 링크
-source-git-commit: 1a3f532ec03fb38ae43d5593e0e2499060699147
+source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
 workflow-type: tm+mt
-source-wordcount: '27'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
@@ -12,5 +12,7 @@ ht-degree: 0%
 
 ## 관련 자습서
 
-* [소개 및 설정](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+* [Introduction and setup](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+* [AI Tools and Adobe starter kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+* [Implementation and testing](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
 * [피드백](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
