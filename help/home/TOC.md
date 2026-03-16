@@ -3,7 +3,7 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
+source-git-commit: ad0e7639accf3b127bb11c062c9c22a3b03c362f
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 3%
@@ -96,7 +96,7 @@ ht-degree: 3%
 
 + 확장성 {#extensibility}
    + 백엔드 개발 {#backend-development}
-      + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+      + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [모듈 만들기](../backend-development/create-module.md)
       + [제품 속성 추가](../backend-development/add-product-attribute.md)
       + [종속성 삽입 예](../backend-development/dependency-injection.md)
