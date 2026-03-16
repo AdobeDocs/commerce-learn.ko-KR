@@ -34,7 +34,7 @@ Adobe의 상거래 옵션에 대해 알아봅니다. 몇 가지 주요 기능에
 * 백엔드를 교체하지 않고 상점 프론트를 현대화할 시기를 이해합니다.
 * DevOps 리소스, 확장성 및 비즈니스 목표를 기반으로 최적의 솔루션 파악
 
->[!VIDEO](https://video.tv.adobe.com/v/3480242?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480250?captions=kor&learn=on)
 
 ## 관련 설명서
 
