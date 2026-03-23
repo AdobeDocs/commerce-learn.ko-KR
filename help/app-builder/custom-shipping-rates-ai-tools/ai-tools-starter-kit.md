@@ -1,16 +1,16 @@
 ---
-title: AI 도구를 사용하여 맞춤형 배송률 만들기 | 기능 빌드
+title: AI 도구를 사용하여 맞춤형 배송률 만들기 | 기능 구축
 description: Adobe의 AI 도구를 사용하여 사용자 정의 배송 요금을 만들고 모의 API 및 보안 구성으로 체크아웃 기능을 확장하는 방법을 알아봅니다.
 feature: Extensibility
 topic: Artificial Intelligence
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 290
+duration: 337
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
 exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
-source-git-commit: 5fba398a85232393321e3dc8b79c3de93d660ad8
+source-git-commit: cb70f3e9bd02146b9c2f50106730583683d7cfca
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -34,6 +34,6 @@ Adobe의 AI 기반 도구를 활용하여 개발 워크플로를 간소화하고
 * MCP 도구는 에이전트가 코드를 계획하고 생성하는 데 사용하는 명령 및 데이터를 노출합니다.
 * AI는 요구 사항, 아키텍처 및 구현 결정을 자동화합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481351/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481344/?learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
