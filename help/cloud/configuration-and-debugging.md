@@ -33,7 +33,7 @@ ht-degree: 0%
 * 유효성 검사, 최적화 및 디버깅 워크플로
 * ECE-Tools, Quality Patches Tool, New Relic, Xdebug 및 로그 관리
 
->[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432819?captions=kor&learn=on)
 
 ## 비디오에 언급된 Experience League 설명서
 
