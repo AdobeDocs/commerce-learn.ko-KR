@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Development, Headless, Integrations, Performance,
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
-duration: 0
+duration: 323
 last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 구성 가능한 상거래
 
-컴포저블 커머스는 프론트엔드 프레젠테이션 레이어와 백엔드 커머스 기능을 분리하는 것을 포함하는 전자 상거래의 아키텍처 접근법입니다. &#x200B; 이를 통해 기업은 최적의 구성 요소나 모듈을 선택 및 결합하여 맞춤형 솔루션을 만들 수 있습니다. 이러한 접근 방식에는 기존의 획일적인 전자 상거래 플랫폼을 함께 구성할 수 있는 작고 독립적인 서비스나 마이크로 서비스로 분류하는 작업이 포함됩니다. 컴포저블 커머스는 유연성, 확장성, 맞춤화, 민첩성, 다른 시스템 및 기술과의 손쉬운 통합 기능 등의 이점을 제공합니다.
+구성 가능한 상거래는 프론트엔드 프레젠테이션 레이어와 백엔드 상거래 기능을 분리하는 것을 포함하는 전자 상거래의 아키텍처 접근법입니다&#x200B;. 이를 통해 기업은 최적의 구성 요소나 모듈을 선택 및 결합하여 맞춤형 솔루션을 만들 수 있습니다. 이러한 접근 방식에는 기존의 획일적인 전자 상거래 플랫폼을 함께 구성할 수 있는 작고 독립적인 서비스나 마이크로 서비스로 분류하는 작업이 포함됩니다. 컴포저블 커머스는 유연성, 확장성, 맞춤화, 민첩성, 다른 시스템 및 기술과의 손쉬운 통합 기능 등의 이점을 제공합니다.
 
 Adobe Commerce은 판매자가 구성 가능한 상거래를 채택하고 구현할 수 있도록 지원하는 다양한 기능과 도구를 제공합니다. Adobe Commerce은 구성 가능한 상거래 방법론과 하이브리드 헤드리스 및 헤드리스 이외의 프론트엔드 경험을 제공합니다. Adobe은 프로세스 확장성 부족을 고려하여 여러 서비스를 통합하기 위한 API Mesh와 사용자 정의 마이크로 서비스를 만들기 위한 Adobe App Builder을 제공합니다.
 

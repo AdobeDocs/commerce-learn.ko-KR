@@ -1,16 +1,16 @@
 ---
 title: Edge Delivery Services 장바구니 항목
-description: Adobe Edge Delivery Services 및 제품 특성을 사용하여 장바구니 항목에 대한 새 정보를 표시하는 방법에 대해 알아봅니다.
+description: Adobe Edge Delivery Services와 제품 특성을 사용하여 장바구니 항목에 대한 새 정보를 표시하는 방법에 대해 알아봅니다.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 363
+duration: 429
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -38,9 +38,9 @@ Adobe Commerce 장바구니를 사용자 정의하고 확장하는 방법을 알
 * 이 정보를 효과적으로 표시하기 위해 장바구니 규칙 및 바닥글 슬롯을 사용하여 표시되는 쿠폰 할인.
 * 제품 속성 및 슬롯을 사용하여 장바구니 기능을 확장하고 사용자 정의하여 모든 프로젝트 요구 사항이 충족되도록 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441123?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
 
 
 ## 추가 설명서
 
-* [장바구니에 제품 라인 추가](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=ko)
+* [장바구니에 제품 라인 추가](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)

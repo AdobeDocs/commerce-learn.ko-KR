@@ -3,6 +3,7 @@ title: Adobe Commerce을 사용하여 코드 재사용 최적화
 description: 글로벌 참조 아키텍처 패턴을 사용하여 Adobe Commerce에서 코드 재사용을 최적화하여 여러 인스턴스에서 성능과 규정 준수를 향상시키는 방법에 대해 알아봅니다.
 kt: 15773
 doc-type: tutorial
+duration: 287
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 0%

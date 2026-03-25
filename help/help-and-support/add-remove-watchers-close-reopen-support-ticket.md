@@ -1,16 +1,16 @@
 ---
 title: 감시자를 추가 및 제거하고 지원 티켓을 닫았다가 다시 엽니다.
-description: Experience League을 사용하여 감시자를 추가 및 제거하고 지원 티켓을 닫았다가 다시 엽니다.
+description: Experience League을 사용하여 감시자를 추가 및 제거하고 지원 티켓을 닫았다가 다시 엽니다
 feature: Customer Service, Support
 topic: Commerce
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 131
+duration: 173
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-16050
 exl-id: 15212a32-5b6b-4b49-8bf7-acc3bf39b6fa
-source-git-commit: 82e4e3e2a922a513c7d45ce3833971bda093a86f
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -31,8 +31,8 @@ Adobe Commerce용 Experience League 내에서 지원 티켓을 닫거나 다시 
 * 지원 티켓을 닫는 방법에 대해 알아봅니다.
 * 지원 티켓을 다시 여는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3441359?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
 
 ## Commerce 기술 자료 도움말 센터 안내서
 
-[지원 사례 제출](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[지원 사례 제출](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

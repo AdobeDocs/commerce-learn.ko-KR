@@ -7,16 +7,16 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 381
+duration: 429
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+exl-id: 0b7d6adb-e535-4dc1-82cc-cb3a5be9a124
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
-
 
 # Salesforce Commerce Cloud 스타터 키트 전체 데모
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 * Salesforce Commerce Cloud 카탈로그의 제품 세부 사항 및 가격에 대한 변경 사항은 델타 동기화 프로세스를 통해 Commerce Optimizer에서 자동으로 감지하고 업데이트됩니다.
 * 실시간 업데이트 및 시스템 간의 원활한 데이터 흐름 및 동기화를 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476100?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)

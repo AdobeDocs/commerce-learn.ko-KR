@@ -4,7 +4,7 @@ description: 유효성 검사, 변환, 전처리, 전송 및 후처리와 같은
 landing-page-description: Commerce 시스템용 라스트 마일 통합에서 확장성 후크의 구조와 기능에 대해 알아봅니다.
 kt: 15869
 doc-type: video
-duration: 465
+duration: 557
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -36,15 +36,15 @@ ht-degree: 0%
 ## 대상자
 
 * 확장성 후크의 구조와 기능 및 이러한 후크가 서드파티 시스템과의 연결을 향상시키는 방법에 대해 알아보고자 하는 개발자입니다.
-* 원활한 데이터 흐름, 시스템 동기화 및 효율적인 통합 설정 유지 관리를 용이하게 하기 위해 유효성 검사, 변형, 전처리, 전송 및 후처리와 같은 각 확장성 후크와 관련된 일반적인 사용 사례와 모범 사례를 배우고자 하는 개발자입니다. &#x200B;
+* 원활한 데이터 흐름, 시스템 동기화 및 효율적인 통합 설정 유지 관리를 용이하게 하기 위해 유효성 검사, 변형, 전처리, 전송 및 후처리와 같은 각 확장성 후크와 관련된 일반적인 사용 사례와 모범 사례를 배우고자 하는 개발자입니다&#x200B;.
 
 ## 비디오 콘텐츠
 
 * 마지막 마일 통합에서 호출된 작업의 구조에 대해 알아봅니다.
-* 스키마에 대해 들어오는 데이터의 유효성을 검사하고 특정 기준에 따라 특정 이벤트를 건너뛸 수 있는 등 유효성 검사 후크 내의 일반적인 사용 사례를 이해합니다. &#x200B;
+* 스키마에 대해 들어오는 데이터의 유효성을 검사하고 특정 기준에 따라 특정 이벤트를 건너뛸 수 있는 등 유효성 검사 후크 내의 일반적인 사용 사례를 이해합니다&#x200B;.
 * 원본 시스템과 대상 시스템 간에 데이터 개체를 변환할 때 사용되는 변환 후크의 역할에 대해 알아봅니다.
 * 대상 시스템으로 실제 데이터를 전송하는 데 사용되는 전송 후크의 중요성에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451931?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

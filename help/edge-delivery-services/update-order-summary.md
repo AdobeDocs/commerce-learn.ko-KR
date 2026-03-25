@@ -1,16 +1,16 @@
 ---
 title: 체크아웃 시 Edge Delivery Services 주문 요약
-description: Adobe Edge Delivery Services에 대해 알아보고 체크아웃 시 Commerce 드롭인의 주문 요약 섹션을 업데이트하는 방법에 대해 알아봅니다.
+description: Adobe Edge Delivery Services와 체크아웃 시 Commerce 드롭인의 주문 요약 섹션을 업데이트하는 방법에 대해 알아봅니다.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 269
+duration: 292
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 체크아웃 시 장바구니 요약 업데이트
 
-Edge Delivery Services을 위한 Adobe Commerce 장바구니 드롭인의 주문 요약을 변경하는 방법을 알아봅니다.  체크아웃할 때 고객에게 제공되는 레이아웃 또는 정보를 빠르게 개선하는 방법에 대한 몇 가지 예가 있습니다.
+Edge Delivery Services용 Adobe Commerce 장바구니 드롭인의 주문 요약을 변경하는 방법을 알아봅니다.  체크아웃할 때 고객에게 제공되는 레이아웃 또는 정보를 빠르게 개선하는 방법에 대한 몇 가지 예가 있습니다.
 
 ## 배울 내용
 
@@ -36,8 +36,8 @@ Adobe Commerce 장바구니 드롭인을 사용하고 장바구니 경험을 조
 * 장바구니 요약에 대해 저장된 총 금액을 포함하는 방법을 알아봅니다.
 * 장바구니 요약의 줄을 하나의 접기 가능한 섹션으로 병합하는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441192?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
 
 ## 추가 설명서
 
-* [주문 요약](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=ko)
+* [주문 요약](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)

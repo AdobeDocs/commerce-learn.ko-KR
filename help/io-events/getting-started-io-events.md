@@ -5,6 +5,7 @@ landing-page-description: Adobe Commerce 이벤트에 App Builder 런타임 작�
 short-description: Adobe Commerce 이벤트에 대한 App Builder 런타임 작업 만들기.
 kt: 14583
 doc-type: tutorial
+duration: 750
 audience: all
 last-substantial-update: 2023-11-27T00:00:00Z
 feature: App Builder, Eventing, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 266d13ac-439e-4590-a0be-e22ea8e34014
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 # Adobe Commerce용 IO 이벤트 시작하기
 
-Adobe I/O 이벤트에 대해 알아봅니다. 이 데모에서는 Adobe Commerce의 이벤트와 Adobe Commerce의 이벤트를 사용하여 Slack Adobe Developer App Builder 채널로 보냅니다.
+Adobe I/O 이벤트에 대해 알아봅니다. 이 데모에서는 Adobe Commerce의 이벤트와 Adobe Commerce의 이벤트를 사용하여 Slack 채널로 보냅니다.
 
 ## 이 비디오는 누구의 것입니까?
 

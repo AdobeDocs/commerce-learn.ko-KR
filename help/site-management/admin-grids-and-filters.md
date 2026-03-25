@@ -6,16 +6,16 @@ topic: Administration, Commerce
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 195
+duration: 218
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16565
-source-git-commit: e1dc4bf5b4434869667ab3601445f2965421829f
+exl-id: 70b66d2a-7f20-49de-ad4e-c0f665ca7eba
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # 관리 그리드 필터
 
@@ -29,6 +29,6 @@ Adobe Commerce 관리자에서 사용할 필터를 찾고 조정하는 방법을
 
 * 필터로 활성화 또는 비활성화하기 위해 각 속성에 대한 구성 값을 찾을 위치
 * 필터를 사용하여 관리자 격자의 결과를 제한하는 방법을 이해합니다
-* 필터가 Adobe Commerce Admin Console에서 다른 관리자에게 미치는 영향 알아보기
+* 필터가 Adobe Commerce Admin Console의 다른 관리자에게 어떻게 영향을 미치는지 알아봅니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3440389?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3440382?learn=on)

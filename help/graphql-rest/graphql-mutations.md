@@ -5,6 +5,7 @@ landing-page-description: Adobe Commerce 및  [!DNL Magento Open Source]에서 G
 short-description: Adobe Commerce 및  [!DNL Magento Open Source]에서 GraphQL을 사용하여 돌연변이를 수행하는 방법에 대해 소개합니다. POST 호출을 사용하여 첫 번째 돌연변이를 수행합니다.
 kt: 13938
 doc-type: video
+duration: 268
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -25,7 +26,7 @@ ht-degree: 0%
 GraphQL 및 Adobe Commerce 시리즈 3부입니다. 돌연변이는 GraphQL을 사용하여 값을 저장, 업데이트 및 반환하는 기능입니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441932?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
 
 ## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
 
