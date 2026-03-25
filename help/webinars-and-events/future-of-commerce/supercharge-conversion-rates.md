@@ -6,11 +6,11 @@ topic: Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 781
+duration: 816
 last-substantial-update: 2025-05-16T00:00:00Z
 jira: KT-18121
 exl-id: a93ba2c4-1a72-496c-b993-d5105be9ca49
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Adobe Commerce이 전환율을 최대 8%까지 과급하도록 설계된 첨단 
 * 개발자 지원 구성 요소 및 SDK
 * 통합된 비주얼 편집 도구
 
->[!VIDEO](https://video.tv.adobe.com/v/3458517/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458517?learn=on)
 
 ## 이 시리즈의 추가 비디오
 

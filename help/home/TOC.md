@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: ad0e7639accf3b127bb11c062c9c22a3b03c362f
+source-git-commit: 3015914bce0b6fc1eba125f6a9c0b52a0b5c057f
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '871'
 ht-degree: 3%
 
 ---
@@ -96,18 +96,18 @@ ht-degree: 3%
 
 + 확장성 {#extensibility}
    + 백엔드 개발 {#backend-development}
-      + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+      + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [모듈 만들기](../backend-development/create-module.md)
       + [제품 속성 추가](../backend-development/add-product-attribute.md)
       + [종속성 삽입 예](../backend-development/dependency-injection.md)
       + [Galera Cluster 느린 복제](../backend-development/galera-db-slow-replication.md)
       + [MySQL 쿼리 캐시](../backend-development/mysql-query-cache.md)
       + [PT 쿼리 다이제스트](../backend-development/pt-query-digest.md)
-      + [Adobe Commerce 데이터베이스에 연결 및 다운로드](../backend-development/remote-db-connection-execute-queries.md)
+      + [Adobe Commerce 데이터베이스에 대한 쿼리 연결 및 실행](../backend-development/remote-db-connection-execute-queries.md)
       + Commerce 업그레이드 {#upgrade}
          + [Adobe Commerce 2.4 업그레이드 워크숍](../upgrade/2-4-upgrade-workshop.md)
          + [업그레이드 호환성 도구 개요](../upgrade/upgrade-compatibility-tool-overview.md)
-         + [PHP Storm에서 호환성 업그레이드 도구 사용](../upgrade/uct-phpstorm.md)
+         + [PhpStorm에서 호환성 업그레이드 도구 사용](../upgrade/uct-phpstorm.md)
    + 프론트엔드 Luma 개발 {#frontend-development}
       + 개발자용 PaaS/SaaS 페이지 빌더 {#page-builder}
          + [1 - 소개](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -126,17 +126,17 @@ ht-degree: 3%
             + [체크아웃에 BOPI 추가](../edge-delivery-services/add-bopis-to-checkout.md)
             + [사용자 지정 체크아웃](../edge-delivery-services/customize-checkout.md)
             + [주소 레이아웃 사용자 지정](../edge-delivery-services/customize-address-new-account-link.md)
-            + [구매자 경험](../edge-delivery-services/shopper-experience.md)
+            + [쇼핑객 경험](../edge-delivery-services/shopper-experience.md)
       + 헤드리스 아키텍처 {#headless-architecture}
          + Headless 소개 {#introduction-to-headless}
             + [헤드리스 아키텍처 - 세션 1](../headless/session-1.md)
          + PWA Studio 소개 {#introduction}
-            + [1 - 개요](../pwa/introduction/1-overview.md)
-            + [2 - PWA Studio 도구](../pwa/introduction/2-pwa-studio-tools.md)
-            + [3 - 시작](../pwa/introduction/3-launch.md)
-            + [4 - 위쪽](../pwa/introduction/4-upward.md)
-            + [5 - 시작](../pwa/introduction/5-getting-started.md)
-            + [6 - 페레그린](../pwa/introduction/6-peregrine.md)
+            + [개요](../pwa/introduction/1-overview.md)
+            + [PWA Studio 도구](../pwa/introduction/2-pwa-studio-tools.md)
+            + [시작](../pwa/introduction/3-launch.md)
+            + [위로](../pwa/introduction/4-upward.md)
+            + [시작](../pwa/introduction/5-getting-started.md)
+            + [페레그린](../pwa/introduction/6-peregrine.md)
          + [PWA Docker 개발](../pwa/pwa-docker-development.md)
          + [개발을 위한 Venia 설정](../pwa/set-up-venia-for-dev.md)
    + GraphQL 및 REST {#graphql-rest}

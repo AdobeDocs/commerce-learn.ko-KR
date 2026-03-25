@@ -1,21 +1,21 @@
 ---
 title: Adobe Commerce 마케팅 흐름
-description: 마케팅 흐름에 도움이 되는 Adobe의 Edge 게재 상점 첫 화면의 컨텐츠 관리에 대해 자세히 알아보십시오.
+description: 마케팅 흐름에 도움이 되는 컨텐츠 관리를 선보이는 Adobe의 Edge 게재 상점에 대해 자세히 알아보십시오.
 feature: Marketing Tools, Storefront
 topic: Architecture, Commerce
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 423
+duration: 637
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16188
-source-git-commit: fad5703d870d90175418916766a83942dc3e7b7f
+exl-id: b5a9a043-0420-4096-b915-565eaf37a288
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce 마케팅 흐름
 
@@ -23,14 +23,14 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까
 
-- 마케터, 콘텐츠 관리자 및 전자 상거래 전문가.
+* 마케터, 콘텐츠 관리자 및 전자 상거래 전문가.
 Adobe Commerce의 Edge 게재 매장을 둘러보는 신규 고객 및 기존 고객
-- Adobe Commerce은 특히 새로운 제품 홍보를 위해 효과적인 콘텐츠 관리 및 최적화를 모색하는 프로젝트를 수립합니다.
+* Adobe Commerce은 특히 새로운 제품 홍보를 위해 효과적인 콘텐츠 관리 및 최적화를 모색하는 프로젝트를 수립합니다.
 
 ## 비디오 콘텐츠
 
-- Edge Delivery Services을 위한 최신 컨텐츠 생성 및 관리 옵션에 대해 알아봅니다.
-- A/B 테스트를 통해 최적화에 대한 이해를 얻으십시오.
-- 콘텐츠를 세분화하고, 변형을 생성하고, 전반적인 홍보 전략을 개선하기 위한 몇 가지 고급 도구와 AI 통합에 대해 알아봅니다.
+* Edge Delivery Services의 최신 콘텐츠 생성 및 관리 옵션에 대해 알아봅니다.
+* A/B 테스트를 통해 최적화에 대한 이해를 얻으십시오.
+* 콘텐츠를 세분화하고, 변형을 생성하고, 전반적인 홍보 전략을 개선하기 위한 몇 가지 고급 도구와 AI 통합에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433539?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)

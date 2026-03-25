@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 206
+duration: 302
 last-substantial-update: 2025-3-25
 jira: KT-17595
 exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -26,16 +26,16 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까
 
-- 개발자 및 IT 전문가
-- 시스템 관리자
+* 개발자 및 IT 전문가
+* 시스템 관리자
 
 ## 비디오 콘텐츠
 
-- 실패한 배포 진단 및 해결
-- 일반적인 대용량 로그 파일이 있는 경우
-- 로그 파일을 자르는 빠른 방법
+* 실패한 배포 진단 및 해결
+* 일반적인 대용량 로그 파일이 있는 경우
+* 로그 파일을 자르는 빠른 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3454590?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## 비디오에 사용된 명령
@@ -91,4 +91,4 @@ drwxr-xr-x 6 web web 4.0K Jan 10  2024 ..
 
 ## 관련 설명서
 
-- [상태 알림](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [상태 알림](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

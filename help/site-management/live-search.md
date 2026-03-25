@@ -2,6 +2,7 @@
 title: ' [!DNL Live Search] 소개'
 description: 스토어에  [!DNL Live Search] 을(를) 추가하여 매우 매력적이고 관련성이 높으며 개인화된 쇼핑 경험을 생성하는 방법을 알아봅니다.
 doc-type: feature video
+duration: 543
 audience: all
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Personalization, Search
@@ -10,7 +11,7 @@ role: Admin, User
 level: Beginner, Intermediate
 jira: KT-17151
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
-source-git-commit: f992a1c30652b41568d5cc8a45994047e9807fa7
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -25,17 +26,17 @@ Adobe Commerce의 [!DNL Live Search]에 대해 간략하게 소개합니다. Ado
 
 ## 이 비디오는 누구의 것입니까?
 
-- 웹 사이트 관리자
-- 웹 머천다이저
+* 웹 사이트 관리자
+* 웹 머천다이저
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3452576?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418797?learn=on)
 
 
 ## 추가 리소스
 
-- [라이브 검색 전체 데모](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html?lang=ko){target="_blank"}
-- [[!DNL Live Search] 권장 사항](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html?lang=ko){target="_blank"}
-- [[!DNL Live Search] 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=ko){target="_blank"}
-- [Commerce 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=ko){target="_blank"}
+* [라이브 검색 전체 데모](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html){target="_blank"}
+* [[!DNL Live Search] 권장 사항](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html){target="_blank"}
+* [[!DNL Live Search] 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html){target="_blank"}
+* [Commerce 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}

@@ -10,9 +10,9 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner
 jira: KT-17149
-duration: 124
+duration: 153
 exl-id: 0bdbedb1-5aa8-44ba-aef1-6e5cf06d35ce
-source-git-commit: c3f992e4ec71632629500adc7c0b8f2feef34364
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -25,14 +25,14 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-- eCommerce 마케터
-- 웹 사이트 관리자
+* eCommerce 마케터
+* 웹 사이트 관리자
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3410851?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/343834?learn=on)
 
 ## 추가 리소스
 
-- [카탈로그 가격 규칙 만들기 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html?lang=ko)
-- [여러 SKU를 사용하는 카탈로그 가격 규칙 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html?lang=ko)
+* [카탈로그 가격 규칙 만들기 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
+* [여러 SKU를 사용하는 카탈로그 가격 규칙 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)

@@ -6,11 +6,11 @@ topic: Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 663
+duration: 705
 last-substantial-update: 2025-05-15T00:00:00Z
 jira: KT-18110
 exl-id: 87b6200e-79e0-48ed-8926-eaa7bfea36d4
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Adobe Commerce의 클라우드 기반 플랫폼은 완벽하게 관리되는 인
 * 빠른 배포 - 셀프서비스 도구를 사용하여 사전 구성된 환경을 몇 분 만에 시작합니다.
 * 유연한 통합 - API 및 가속기를 사용하여 ERP, CRM 등과 쉽게 연결할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458485/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458485?learn=on)
 
 ## 이 시리즈의 추가 비디오
 

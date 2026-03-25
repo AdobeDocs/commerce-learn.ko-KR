@@ -3,6 +3,7 @@ title: 종속성 삽입 예
 description: 종속성 삽입을 통해 외부 개체가 제공하는 종속성을 선언할 수 있으므로 유연성 및 모듈성이 향상됩니다.
 kt: 5621
 doc-type: video
+duration: 313
 activity: use
 last-substantial-update: 2023-2-10
 feature: Configuration, System, Backend Development
@@ -10,7 +11,7 @@ topic: Commerce, Development
 role: Admin, Developer
 level: Beginner, Intermediate
 exl-id: 17203385-6786-4dd2-9fff-8fb6c4024eb2
-source-git-commit: fb3a2bce59b2d12922f50eaa791420a4835281ca
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -23,13 +24,13 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-- 개발자
+* 개발자
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3412449?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/35799?learn=on)
 
 ## 유용한 리소스
 
-- [종속성 삽입](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
-- [PHP 개발자 안내서](https://developer.adobe.com/commerce/php/development/)
+* [종속성 삽입](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
+* [PHP 개발자 안내서](https://developer.adobe.com/commerce/php/development/)

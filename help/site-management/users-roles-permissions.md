@@ -3,6 +3,7 @@ title: 사용자 역할 및 권한 관리
 description: ' [!DNL Commerce] 웹 사이트에 대한 액세스를 제어하고 관리자에 데이터를 저장하는 데 사용되는 사용자 계정 및 권한에 대해 알아봅니다.'
 kt: 5610
 doc-type: feature video
+duration: 189
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: d06815c2-4b2a-4219-8c4e-7aa41a2be25d
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -24,14 +25,14 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-- 저장소 관리자
+* 저장소 관리자
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3443514?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/343654?learn=on)
 
 ## 추가 리소스
 
-[관리 사용자 계정 관리 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=ko)
+[관리 사용자 계정 관리 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[사용자 역할 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=ko)
+[사용자 역할 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

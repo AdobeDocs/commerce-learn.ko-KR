@@ -3,6 +3,7 @@ title: Adobe Commerce에 기본적으로 제공되는 카탈로그 가져오기 
 description: 카탈로그를 Adobe Commerce 스토어로 가져오기 위한 몇 가지 기본 옵션에 대해 알아봅니다.
 kt: 13634
 doc-type: tutorial
+duration: 211
 audience: all
 activity: use
 last-substantial-update: 2023-8-15
@@ -11,7 +12,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
-source-git-commit: b0fe49352b00a68554e662327cd66983c30d8285
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -30,40 +31,40 @@ ht-degree: 0%
 
 ## 수동으로 제품 만들기 {#manual-import}
 
-카탈로그가 제한되어 있고 업데이트를 자주 사용하지 않는 경우 수동으로 만드는 것이 가장 좋습니다. 각 제품을 입력하는 데 시간이 필요하고 Commerce 관리자 사용 방법에 대한 일부 제한된 교육도 필요합니다. 수동 카탈로그 관리는 대부분의 상점에 대한 적절한 옵션이 아니지만, 특정 상황에서, 그것은 이치에 맞을 수 있습니다. 이 프로세스에 대한 추가 설명서를 보려면 [제품 만들기](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=ko){target="_blank"}를 방문하세요. 두 개 이상의 방법을 사용하여 카탈로그를 관리할 수 있지만 자동화를 사용한 후에는 수동 편집이 제한되어야 합니다. 자동 업데이트에서는 수동으로 수행한 모든 변경 사항을 덮어쓸 수 있으므로 혼동을 일으킬 수 있습니다. 카탈로그를 관리하기 위해 Adobe Commerce과의 통합에서 자동화 및 API를 사용하고 있으면 [사용자 역할 및 권한](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=ko){target="_blank"}을 통해 관리자의 카탈로그 관리를 제한하는 것이 좋습니다.
+카탈로그가 제한되어 있고 업데이트를 자주 사용하지 않는 경우 수동으로 만드는 것이 가장 좋습니다. 각 제품을 입력하는 데 시간이 필요하고 Commerce 관리자 사용 방법에 대한 일부 제한된 교육도 필요합니다. 수동 카탈로그 관리는 대부분의 상점에 대한 적절한 옵션이 아니지만, 특정 상황에서, 그것은 이치에 맞을 수 있습니다. 이 프로세스에 대한 추가 설명서를 보려면 [제품 만들기](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}를 방문하세요. 두 개 이상의 방법을 사용하여 카탈로그를 관리할 수 있지만 자동화를 사용한 후에는 수동 편집이 제한되어야 합니다. 자동 업데이트에서는 수동으로 수행한 모든 변경 사항을 덮어쓸 수 있으므로 혼동을 일으킬 수 있습니다. 카탈로그를 관리하기 위해 Adobe Commerce과의 통합에서 자동화 및 API를 사용하고 있다면 [사용자 역할 및 권한](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}을 통해 관리자의 카탈로그 관리를 제한하는 것이 좋습니다.
 
 ### 이 접근 방식을 고려해야 하는 경우
 
-- 매우 작은 카탈로그(예: 50개 미만의 제품)
-- 업데이트가 자주 수행되지 않습니다.
-- 모든 제품 세부 사항, 이미지, 비디오가 있으며 데이터를 CSV로 변환하는 방법에 대해 배우는 데 시간을 할애하고 싶지 않을 것입니다
-- 제품을 만들 때 이미지 및 비디오 추가를 포함하려는 경우
-- 귀하의 팀은 API 및 OAUTH 작동 방식에 익숙합니다. `not`
+* 매우 작은 카탈로그(예: 50개 미만의 제품)
+* 업데이트가 자주 수행되지 않습니다.
+* 모든 제품 세부 사항, 이미지, 비디오가 있으며 데이터를 CSV로 변환하는 방법에 대해 배우는 데 시간을 할애하고 싶지 않을 것입니다
+* 제품을 만들 때 이미지 및 비디오 추가를 포함하려는 경우
+* 귀하의 팀은 API 및 OAUTH 작동 방식에 익숙합니다. `not`
 
 >[!TAB 관리자 CSV]
 
 ## 관리 CSV 가져오기 도구 {#admin-csv}
 
 이 도구를 사용하면 스토어 소유자가 상거래 관리자의 CSV 권한을 사용하여 카탈로그를 가져올 수 있습니다.
-[Commerce 관리자로부터 데이터 가져오기](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=ko){target="_blank"}
+[Commerce 관리자로부터 데이터 가져오기](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
 
 장점:
 관리자로부터 CSV를 업로드하는 것은 카탈로그 관리에 대한 직접적인 접근 방식입니다. 이를 통해 중간 크기의 카탈로그에 대한 카탈로그 제품 업데이트를 더 빠르게 수행할 수 있습니다.
 
 단점:
 
-- 느림
-- 서버에서 정의된 최대 업로드 파일 크기이며 스토어 소유자가 쉽게 조정할 수 없습니다.
-- 작업을 수행하기 위해 관리자 액세스 권한 및 누군가가 필요합니다. 자동화는 제한되어 있습니다.
-- 예약 가져오기는 하루에 최대 1회로 제한됩니다.
-- 연결된 이미지와 비디오를 별도로 업로드해야 합니다
+* 느림
+* 서버에서 정의된 최대 업로드 파일 크기이며 스토어 소유자가 쉽게 조정할 수 없습니다.
+* 작업을 수행하기 위해 관리자 액세스 권한 및 누군가가 필요합니다. 자동화는 제한되어 있습니다.
+* 예약 가져오기는 하루에 최대 1회로 제한됩니다.
+* 연결된 이미지와 비디오를 별도로 업로드해야 합니다
 
 ### 이 접근 방식을 고려해야 하는 경우
 
-- 카탈로그 크기가 보통입니다.
-- 업데이트는 하루에 두 번 이상 수행되지 않습니다.
-- 최대 파일 업로드 크기를 늘려야 하는 경우 서버 구성에 액세스할 수 있습니다.
-- 귀하의 팀은 API 및 OAUTH 작동 방식에 익숙합니다. `not`
+* 카탈로그 크기가 보통입니다.
+* 업데이트는 하루에 두 번 이상 수행되지 않습니다.
+* 최대 파일 업로드 크기를 늘려야 하는 경우 서버 구성에 액세스할 수 있습니다.
+* 귀하의 팀은 API 및 OAUTH 작동 방식에 익숙합니다. `not`
 
 >[!TAB 대량 REST API]
 
@@ -77,15 +78,15 @@ CSV 형식이 아닌 대용량 데이터 세트를 가져오는 기능.
 
 단점:
 
-- 연결된 이미지와 비디오를 별도로 업로드해야 합니다
-- 호스팅 공급자의 대역폭 제한에 의해 제한될 수 있습니다.
+* 연결된 이미지와 비디오를 별도로 업로드해야 합니다
+* 호스팅 공급자의 대역폭 제한에 의해 제한될 수 있습니다.
 
 ### 이 접근 방식을 고려해야 하는 경우
 
-- 카탈로그가 모든 크기입니다.
-- 업데이트는 빈번하며 하루에 1회 이상 허용됩니다.
-- 가져오는 시간은 중요하지만 중요하지 않으며 가져오기 데이터 처리에 짧은 지연이 허용됩니다.
-- 데이터는 CSV 형식으로 구조화되지 않으며 자동화를 사용하여 변환할 수 없습니다
+* 카탈로그가 모든 크기입니다.
+* 업데이트는 빈번하며 하루에 1회 이상 허용됩니다.
+* 가져오는 시간은 중요하지만 중요하지 않으며 가져오기 데이터 처리에 짧은 지연이 허용됩니다.
+* 데이터는 CSV 형식으로 구조화되지 않으며 자동화를 사용하여 변환할 수 없습니다
 
 >[!TAB 비동기 REST API]
 
@@ -96,17 +97,17 @@ CSV 형식이 아닌 대용량 데이터 세트를 가져오는 기능.
 
 장점:
 
-- 데이터를 빠르게 가져오기
-- 저장소 범위가 지원되거나 기존의 모든 저장소에서 작업을 수행하도록 `all`을(를) 지정할 수 있습니다.
+* 데이터를 빠르게 가져오기
+* 저장소 범위가 지원되거나 기존의 모든 저장소에서 작업을 수행하도록 `all`을(를) 지정할 수 있습니다.
 
 단점:
 
-- GET 요청이 지원되지 않음
+* GET 요청이 지원되지 않음
 
 ### 이 접근 방식을 고려해야 하는 경우
 
-- 수입이 빈번하다
-- API를 통해 제출한 후 메시지 큐에서 처리되는 시간으로부터 약간의 지연은 문제가 없습니다.
+* 수입이 빈번하다
+* API를 통해 제출한 후 메시지 큐에서 처리되는 시간으로부터 약간의 지연은 문제가 없습니다.
 
 
 >[!TAB CSV REST API]
@@ -118,27 +119,27 @@ CSV 형식이 아닌 대용량 데이터 세트를 가져오는 기능.
 [데이터 REST CSV API 가져오기](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
 장점:
 
-- 들어오는 데이터를 처리하는 가장 빠른 방법
-- 하루에 여러 번 수행 가능
-- HTTP 요청 크기 제한을 방지하기 위해 큰 요청에 gzip을 사용하여 데이터를 압축할 수 있습니다.
+* 들어오는 데이터를 처리하는 가장 빠른 방법
+* 하루에 여러 번 수행 가능
+* HTTP 요청 크기 제한을 방지하기 위해 큰 요청에 gzip을 사용하여 데이터를 압축할 수 있습니다.
 
 단점:
 
-- 연결된 이미지와 비디오를 별도로 업로드해야 합니다
-- 데이터는 CSV 형식이어야 합니다.
+* 연결된 이미지와 비디오를 별도로 업로드해야 합니다
+* 데이터는 CSV 형식이어야 합니다.
 
 ### 이 접근 방식을 고려해야 하는 경우
 
-- 카탈로그가 모든 크기입니다.
-- 업데이트는 빈번하며 하루에 1회 이상 허용됩니다.
-- 가져올 전체 시간이 중요합니다
-- 데이터는 이미 CSV 형식이거나 자동화를 사용하여 쉽게 변환할 수 있습니다
+* 카탈로그가 모든 크기입니다.
+* 업데이트는 빈번하며 하루에 1회 이상 허용됩니다.
+* 가져올 전체 시간이 중요합니다
+* 데이터는 이미 CSV 형식이거나 자동화를 사용하여 쉽게 변환할 수 있습니다
 
 >[!ENDTABS]
 
 ## 추가 리소스
 
-- [새 REST CSV를 사용하여 데이터 가져오기](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-- [데이터 주 문서 가져오기](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=ko){target="_blank"}
-- [Adobe Commerce 버전 2.4.6 릴리스 노트](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html?lang=ko){target="_blank"}
-- [사용자, 역할 및 권한](../site-management/users-roles-permissions.md){target="_blank"}
+* [새 REST CSV를 사용하여 데이터 가져오기](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
+* [데이터 주 문서 가져오기](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
+* [Adobe Commerce 버전 2.4.6 릴리스 노트](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
+* [사용자, 역할 및 권한](../site-management/users-roles-permissions.md){target="_blank"}

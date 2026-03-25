@@ -8,12 +8,12 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 518
+duration: 543
 last-substantial-update: 2024-04-03T00:00:00Z
 jira: KT-15213
 kt: 15213
 exl-id: 56ee5ec9-803c-4ec3-a620-d4e5185ca707
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -29,9 +29,9 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-- 비즈니스 사용자
-- 데이터 분석가
+* 비즈니스 사용자
+* 데이터 분석가
 
 ## 통합 및 구성
 
->[!VIDEO](https://video.tv.adobe.com/v/3452697?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)

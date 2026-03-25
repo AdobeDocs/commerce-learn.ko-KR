@@ -6,11 +6,11 @@ topic: Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 783
+duration: 838
 last-substantial-update: 2025-05-15T00:00:00Z
 jira: KT-18109
 exl-id: e3b7ca08-e8a7-4ff0-a408-4e7e0460e5ed
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 * Adobe Commerce Optimizer을 사용하면 복잡하거나 레거시 시스템을 보유한 기업이 전체 플랫폼 재구축 없이 고객 경험을 현대화할 수 있으므로 클라우드 서비스의 가교 역할을 할 수 있습니다.
 * 기존 솔루션에 대한 지속적인 지원과 확장된 버전 지원 타임라인을 통해 유연한 증분 채택 경로를 통해 기업이 원하는 속도로 전환할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458484/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458484?learn=on)
 
 ## 이 시리즈의 추가 비디오
 

@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 118
+duration: 141
 last-substantial-update: 2024-10-29T00:00:00Z
 jira: KT-16406
 exl-id: 48d22302-b2ab-415a-a83c-a28eea45d87e
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까
 
-- Adobe Commerce Cloud 통합 및 기타 개발자 분기를 사용하여 테스트하는 개발자입니다.
-- 테스트 기능에 Luma 스토어를 사용하는 새로운 Adobe Commerce Cloud 팀원
+* Adobe Commerce Cloud 통합 및 기타 개발자 분기를 사용하여 테스트하는 개발자입니다.
+* 테스트 기능에 Luma 스토어를 사용하는 새로운 Adobe Commerce Cloud 팀원
 
 ## 비디오 콘텐츠
 
-- 잘못된 SSL 인증서를 검색하는 방법을 알아봅니다.
-- 프로세스 중에 새 인증서가 생성되는 시점을 식별합니다.
-- 새 인증서가 예상대로 작동하는지 확인합니다. &#x200B;
+* 잘못된 SSL 인증서를 검색하는 방법을 알아봅니다.
+* 프로세스 중에 새 인증서가 생성되는 시점을 식별합니다.
+* 새 인증서가 예상대로 작동하는지 확인합니다&#x200B;.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439766?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)

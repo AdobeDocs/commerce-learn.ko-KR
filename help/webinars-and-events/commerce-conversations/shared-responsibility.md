@@ -6,11 +6,11 @@ topic: Commerce, Security
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 152
+duration: 195
 last-substantial-update: 2025-05-12T00:00:00Z
 jira: KT-18082
 exl-id: 8a109d90-a11c-4323-9486-abe48a2e1bff
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -33,11 +33,11 @@ Adobe 및 판매자가 Adobe Commerce Cloud의 보안을 유지하기 위한 책
 * 인시던트 응답: 판매자는 보안 경고에 신속하게 응답해야 하며, 이 경고는 이메일 및 관리자 알림과 같은 다양한 채널을 통해 전달될 수 있습니다.
 * 우수 사례: Adobe에서는 이중 인증 활성화, 보안 관리자 액세스 설정, 최소 권한 원칙 준수 등 판매자를 위한 우수 사례를 권장합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458392/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458392?learn=on)
 
 ## 추가 설명서
 
-* [보안 패치 릴리스 노트](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/security-patches/overview)
+* [보안 패치 릴리스 노트](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
 * [알림 채널](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
-* [Adobe 보안 게시판](https://helpx.adobe.com/kr/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
-* [상거래 사이트 및 인프라 보안](https://experienceleague.adobe.com/ko/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+* [Adobe 보안 게시판](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [상거래 사이트 및 인프라 보안](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)

@@ -3,6 +3,7 @@ title: 글로벌 참조 아키텍처 Monorepo
 description: 글로벌 참조 아키텍처에 대한 모노레포 접근 방식을 사용하여 확장 가능하고 탄력적인 상거래 경험을 구축하는 방법에 대해 알아봅니다
 jira: KT-16728
 doc-type: tutorial
+duration: 441
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Experienced
 exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1371'
 ht-degree: 0%
@@ -33,18 +34,18 @@ ht-degree: 0%
 
 장점:
 
-- 기능 테스트에 적합
-- 공유 코드 저장소를 통해 코드 재사용
-- 패키지 설치의 완벽한 유연성, 각 GRA 패키지를 개별적으로 업그레이드, 다운그레이드 또는 백포팅할 수 있습니다.
-- 시맨틱 버전 관리를 위한 완벽한 지원
-- 특별한 도구, 복잡한 인프라 또는 특별한 분기 전략이 필요하지 않음
-- Composer가 지원하는 모든 패키지 유형 지원
-- 사용 후 삭제되는 환경에 적합하지만, 대량 게재 팀의 경우 매우 유용합니다.
+* 기능 테스트에 적합
+* 공유 코드 저장소를 통해 코드 재사용
+* 패키지 설치의 완벽한 유연성, 각 GRA 패키지를 개별적으로 업그레이드, 다운그레이드 또는 백포팅할 수 있습니다.
+* 시맨틱 버전 관리를 위한 완벽한 지원
+* 특별한 도구, 복잡한 인프라 또는 특별한 분기 전략이 필요하지 않음
+* Composer가 지원하는 모든 패키지 유형 지원
+* 사용 후 삭제되는 환경에 적합하지만, 대량 게재 팀의 경우 매우 유용합니다.
 
 단점:
 
-- 동일한 구성에서 개발되지 않은 패키지 조합을 배포할 수 있으므로 엄격한 테스트 절차가 필요합니다.
-- 모노레포 GRA 패턴은 시작 부분에서 복잡할 수 있다. 팀이 시스템과 협력하는 데 도움이 되는 리드 할당
+* 동일한 구성에서 개발되지 않은 패키지 조합을 배포할 수 있으므로 엄격한 테스트 절차가 필요합니다.
+* 모노레포 GRA 패턴은 시작 부분에서 복잡할 수 있다. 팀이 시스템과 협력하는 데 도움이 되는 리드 할당
 
 ## 개별 패키지 GRA 패턴으로 Adobe Commerce 설정
 
@@ -348,5 +349,5 @@ GitHub에서 [GRA Monorepo Brand X](https://github.com/AntonEvers/gra-monorepo-b
 
 이 문서의 코드 예는 개념 증명으로 재생하는 데 사용할 수 있는 Git 저장소 집합에 결합되었습니다.
 
-- 예제 Monorepo 리포지토리: <https://github.com/AntonEvers/gra-monorepo>
-- 예제 프로덕션 저장소: <https://github.com/AntonEvers/gra-monorepo-brand-x>
+* 예제 Monorepo 리포지토리: <https://github.com/AntonEvers/gra-monorepo>
+* 예제 프로덕션 저장소: <https://github.com/AntonEvers/gra-monorepo-brand-x>

@@ -3,6 +3,7 @@ title: 범주 만들기
 description: 제품 카탈로그의 기본 범주 구조를 정의하는 방법을 알아봅니다.
 kt: 10549
 doc-type: feature video
+duration: 164
 audience: all
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 2193b580-c8c1-4371-aefc-94720b560360
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -24,15 +25,15 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-- 웹 사이트 관리자
-- 전자 상거래 머천다이저
+* 웹 사이트 관리자
+* 전자 상거래 머천다이저
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3410137?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/343746?learn=on)
 
 ## 추가 리소스
 
-- [범주 만들기 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html?lang=ko)
-- [범주 권한 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html?lang=ko)
-- [위쪽 탐색 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html?lang=ko)
+* [범주 만들기 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
+* [범주 권한 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
+* [위쪽 탐색 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)

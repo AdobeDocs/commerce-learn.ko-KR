@@ -3,6 +3,7 @@ title: 고객 그룹 만들기
 description: 고객 그룹을 생성하는 방법과 사용 가능한 할인 및 관련 세금 분류를 결정하는 특정 그룹에 고객을 할당하는 방법을 알아봅니다.
 kt: 10546
 doc-type: feature video
+duration: 141
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: b43c5464-e103-4956-8352-3444f09e1ceb
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -24,14 +25,14 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-- 저장소 관리자
-- eCommerce 마케터
+* 저장소 관리자
+* eCommerce 마케터
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3410172?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/343660?learn=on)
 
 ## 추가 리소스
 
-- [고객 그룹 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=ko)
-- [웹 사이트별 고객 그룹 제한 - [!DNL Commerce] 고객 관리 안내서](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)
+* [고객 그룹 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+* [웹 사이트별 고객 그룹 제한 - [!DNL Commerce] 고객 관리 안내서](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

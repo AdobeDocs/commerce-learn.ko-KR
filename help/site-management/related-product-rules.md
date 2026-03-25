@@ -2,6 +2,7 @@
 title: 관련 제품 규칙 관리
 description: 고객을 관련 제품, 상향 판매 및 교차 판매로 저장하기 위한 타기팅된 제품 선택 방법을 알아봅니다.
 doc-type: feature video
+duration: 160
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -10,7 +11,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 894523ce-5855-447a-be3b-aa751fb366f2
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -25,13 +26,13 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-- eCommerce 마케터
-- 웹 사이트 관리자
+* eCommerce 마케터
+* 웹 사이트 관리자
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3411065?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/343837?learn=on)
 
 ## 추가 리소스
 
-[관련 제품 규칙 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html?lang=ko)
+[관련 제품 규칙 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)

@@ -3,6 +3,7 @@ title: Inventory management
 description: Inventory management 기능과 이를 사용하여 단일 웨어하우스 또는 복잡한 배송 네트워크에서 작업하는 방법에 대해 알아봅니다.
 kt: 10551
 doc-type: feature video
+duration: 383
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: c2f154e0-c5b3-4fcc-aa7b-20dcaabfadbe
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -24,14 +25,14 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-- 웹 사이트 관리자
-- 전자 상거래 머천다이저
+* 웹 사이트 관리자
+* 전자 상거래 머천다이저
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3410199?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/343748?learn=on)
 
 ## 추가 리소스
 
-- [Inventory management 안내서](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=ko)
-- [Inventory management - 개발자 REST 설명서](https://developer.adobe.com/commerce/webapi/rest/inventory/)
+* [Inventory management 안내서](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+* [Inventory management - 개발자 REST 설명서](https://developer.adobe.com/commerce/webapi/rest/inventory/)

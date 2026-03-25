@@ -2,6 +2,7 @@
 title: GraphQL 사용 시 라인 항목 할인 표시
 description: GraphQL을 사용한 B2B 주문 오퍼 라인 항목 할인에 대한 견적에 대해 알아봅니다.
 doc-type: feature video
+duration: 117
 audience: all
 activity: use
 kt: 13800
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: c30457dc-0eca-4f94-bb7c-b493d173ebab
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -26,7 +27,7 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-- 개발자
+* 개발자
 
 ## 비디오 콘텐츠
 

@@ -5,16 +5,16 @@ topic: Administration,Commerce
 role: User
 level: Beginner
 doc-type: Technical Video
-duration: 422
+duration: 461
 last-substantial-update: 2025-09-16T00:00:00Z
 jira: KT-19185
-source-git-commit: ac71d30083c1bb44fcb706411cb90d4ca1b70f59
+exl-id: 5e92894a-dc12-4ca6-ac04-d1d584551f8f
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce 클라우드 프로젝트 및 환경 관리
 
@@ -34,10 +34,10 @@ Adobe Commerce Cloud를 사용하여 프로젝트 및 환경을 관리하는 방
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3474968/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3474960?learn=on)
 
 ## 관련 컨텐츠 및 설명서
 
-* [사용자 액세스 관리](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/project/user-access)
-* [원격 환경에 대한 보안 연결](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/develop/secure-connections)
-* [클라우드 인프라 프로젝트](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/project/overview)
+* [사용자 액세스 관리](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access)
+* [원격 환경에 대한 보안 연결](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/secure-connections)
+* [클라우드 인프라 프로젝트](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)

@@ -2,6 +2,7 @@
 title: 제품 추천 설정
 description: Adobe Commerce 스토어에서 제품 추천을 사용하는 방법을 알아봅니다.
 doc-type: feature video
+duration: 395
 audience: all
 activity: use
 kt: 13790
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
-source-git-commit: f992a1c30652b41568d5cc8a45994047e9807fa7
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -28,14 +29,14 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-- eCommerce 마케터
-- 웹 사이트 관리자
+* eCommerce 마케터
+* 웹 사이트 관리자
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3449965?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343991?learn=on)
 
 ## 추가 리소스
 
-- [제품 추천 가이드](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=ko){target="_blank"}
-- [Commerce 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=ko){target="_blank"}
+* [제품 추천 가이드](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
+* [Commerce 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}

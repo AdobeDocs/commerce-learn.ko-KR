@@ -6,11 +6,11 @@ topic: Artificial Intelligence
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 337
+duration: 341
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
 exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
-source-git-commit: cb70f3e9bd02146b9c2f50106730583683d7cfca
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -34,6 +34,6 @@ Adobe의 AI 기반 도구를 활용하여 개발 워크플로를 간소화하고
 * MCP 도구는 에이전트가 코드를 계획하고 생성하는 데 사용하는 명령 및 데이터를 노출합니다.
 * AI는 요구 사항, 아키텍처 및 구현 결정을 자동화합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481351/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481344?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

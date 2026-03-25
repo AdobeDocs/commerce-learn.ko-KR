@@ -2,6 +2,7 @@
 title: 권장 사항에 대한 [!DNL Live Search]
 description: 스토어에 제품 추천을 위해  [!DNL Live Search] 을(를) 추가하여 매우 매력적이고 관련성이 높으며 개인화된 쇼핑 경험을 생성하는 방법을 알아봅니다.
 doc-type: feature video
+duration: 1897
 audience: all
 activity: use
 kt: 13792
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: af13f1c2-d888-4774-8254-efdb3ce383bb
-source-git-commit: f992a1c30652b41568d5cc8a45994047e9807fa7
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -26,17 +27,17 @@ Adobe Commerce의 [!DNL Live Search]은(는) 추가 비용 없이 Adobe Commerce
 
 ## 이 비디오는 누구의 것입니까?
 
-- 웹 사이트 관리자
-- 웹 머천다이저
+* 웹 사이트 관리자
+* 웹 머천다이저
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3432507?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412586?learn=on)
 
 
 ## 추가 리소스
 
-- [소개 [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html?lang=ko)
-- [[!DNL Live Search] 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=ko)
-- [Commerce 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=ko)
-- [제품 추천 소개](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=ko)
+* [소개 [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
+* [[!DNL Live Search] 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+* [Commerce 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+* [제품 추천 소개](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)

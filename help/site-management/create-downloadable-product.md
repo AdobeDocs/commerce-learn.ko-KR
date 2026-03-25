@@ -3,6 +3,7 @@ title: 다운로드 가능한 제품 만들기
 description: REST API 및 Adobe Commerce 관리자를 사용하여 다운로드 가능한 제품을 만드는 방법을 알아봅니다.
 kt: 14464
 doc-type: video
+duration: 946
 audience: all
 activity: use
 last-substantial-update: 2023-11-16T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
-source-git-commit: eba043cd4169cd762653557bf9283b8d6a208ef0
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '584'
 ht-degree: 0%
@@ -24,13 +25,13 @@ REST API 및 Adobe Commerce 관리자를 사용하여 다운로드 가능한 제
 
 ## 이 비디오는 누구의 것입니까?
 
-- 웹 사이트 관리자
-- 전자 상거래 머천다이저
-- REST API를 사용하여 Adobe Commerce에서 제품을 만드는 방법을 배우고자 하는 새로운 Adobe Commerce 개발자
+* 웹 사이트 관리자
+* 전자 상거래 머천다이저
+* REST API를 사용하여 Adobe Commerce에서 제품을 만드는 방법을 배우고자 하는 새로운 Adobe Commerce 개발자
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3453951?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
 
 ## 허용된 다운로드 가능한 도메인
 
@@ -44,7 +45,7 @@ REST API 및 Adobe Commerce 관리자를 사용하여 다운로드 가능한 제
 
 도메인을 설정하려면 `bin/magento downloadable:domains:add www.example.com` 서버에 연결하십시오.
 
-완료되면 _downloadable_domains_ 배열 내에서 `env.php`이(가) 수정됩니다.
+완료되면 `env.php`downloadable_domains _배열 내에서_&#x200B;이(가) 수정됩니다.
 
 ```php
     'downloadable_domains' => [
@@ -54,7 +55,7 @@ REST API 및 Adobe Commerce 관리자를 사용하여 다운로드 가능한 제
 
 도메인이 `env.php`에 추가되었으므로 이제 Adobe Commerce 관리자 또는 REST API를 사용하여 다운로드 가능한 제품을 만들 수 있습니다.
 
-자세한 내용은 [구성 참조](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=ko#downloadable_domains)를 참조하세요.
+자세한 내용은 [구성 참조](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains)를 참조하세요.
 
 >[!IMPORTANT]
 >일부 Adobe Commerce 버전에서는 Adobe Commerce 관리에서 제품을 편집할 때 다음 오류가 발생할 수 있습니다. REST API를 사용하여 제품이 만들어졌지만 연결된 다운로드의 가격은 `null`입니다.
@@ -118,18 +119,18 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 이 사용 사례에서는 카탈로그를 관리하는 관리자가 `upload file`을(를) 선택하면 파일이 `pub/media/downloadable/files/links/` 디렉터리로 전송됩니다.  자동화는 다음 패턴을 기반으로 파일을 만들어 해당 위치로 이동합니다.
 
-- 업로드된 각 파일은 파일 이름의 처음 두 문자를 기준으로 폴더에 저장됩니다.
-- 업로드가 시작되면 Commerce 애플리케이션은 기존 폴더를 생성 또는 사용하여 파일을 전송합니다.
-- 파일을 다운로드할 때 경로의 `link_file` 섹션은 `pub/media/downloadable/files/links/` 디렉터리에 추가된 경로의 일부를 사용합니다.
+* 업로드된 각 파일은 파일 이름의 처음 두 문자를 기준으로 폴더에 저장됩니다.
+* 업로드가 시작되면 Commerce 애플리케이션은 기존 폴더를 생성 또는 사용하여 파일을 전송합니다.
+* 파일을 다운로드할 때 경로의 `link_file` 섹션은 `pub/media/downloadable/files/links/` 디렉터리에 추가된 경로의 일부를 사용합니다.
 
 예를 들어 업로드된 파일의 이름이 `download-example.zip`인 경우:
 
-- 파일이 `pub/media/downloadable/files/links/d/o/` 경로에 업로드되었습니다.
+* 파일이 `pub/media/downloadable/files/links/d/o/` 경로에 업로드되었습니다.
 하위 디렉터리 `/d` 및 `/d/o`이(가) 없는 경우 만들어집니다.
 
-- 파일의 최종 경로는 `/pub/media/downloadable/files/links/d/o/download-example.zip`입니다.
+* 파일의 최종 경로는 `/pub/media/downloadable/files/links/d/o/download-example.zip`입니다.
 
-- 이 예제의 `link_url` 값은 `d/o/download-example.zip`입니다.
+* 이 예제의 `link_url` 값은 `d/o/download-example.zip`입니다.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -236,7 +237,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## 추가 리소스
 
-- [다운로드 가능한 제품 유형](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=ko){target="_blank"}
-- [다운로드 가능한 도메인 구성 가이드](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=ko#downloadable_domains){target="_blank"}
-- [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [다운로드 가능한 제품 유형](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
+* [다운로드 가능한 도메인 구성 가이드](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
+* [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

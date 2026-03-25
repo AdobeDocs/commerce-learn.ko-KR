@@ -5,6 +5,7 @@ landing-page-description: Adobe Developer App Builder에서 사용하기 위해 
 short-description: Adobe Developer App Builder에서 사용하기 위해 이벤트 메커니즘을 사용하도록 Adobe Commerce을 구성하는 방법에 대해 알아봅니다.
 kt: 11889
 doc-type: tutorial
+duration: 299
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Configuration, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -35,7 +36,7 @@ ht-degree: 0%
 * Commerce 관리자에 고유 식별자 저장
 * 이벤트 공급자 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/3419716?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415799?learn=on)
 
 ## 유용한 명령 {#useful-commands}
 

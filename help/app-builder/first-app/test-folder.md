@@ -4,6 +4,7 @@ description: 이 샘플 애플리케이션의 테스트 폴더에 있는 파일 
 landing-page-description: Adobe Commerce에서 사용되는 Adobe Developer App Builder과 테스트 폴더에 있는 파일 유형에 대해 알아봅니다.
 kt: 12424
 doc-type: tutorial
+duration: 233
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -35,7 +36,7 @@ ht-degree: 0%
 * 단위 테스트 파일 및 해당 구성 요소에 대한 간단한 설명
 * 엔드 투 엔드 테스트 소개
 
->[!VIDEO](https://video.tv.adobe.com/v/3421064?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?learn=on)
 
 ## 코드 샘플
 

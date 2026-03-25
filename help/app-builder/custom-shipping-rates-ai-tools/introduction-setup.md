@@ -6,11 +6,11 @@ topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 191
+duration: 195
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: cb70f3e9bd02146b9c2f50106730583683d7cfca
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -33,6 +33,6 @@ ht-degree: 0%
 * 저장소 체크 아웃, Starter-kit 구조 검토, 필요한 도구 설치 등 개발 환경 설정을 안내합니다.
 * 로그인, 액세스 구성, 모든 종속성 및 사전 요구 사항이 적절한지 확인하여 AI 지원 개발을 위한 시스템을 준비합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481335/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481328?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

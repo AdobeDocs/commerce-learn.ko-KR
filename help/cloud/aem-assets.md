@@ -5,31 +5,31 @@ topic: Architecture, Commerce, Integrations
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 189
+duration: 223
 last-substantial-update: 2024-12-09T00:00:00Z
 jira: KT-16203
-source-git-commit: 33b4f9f612138656d792b40012446ce9f31cf2f5
+exl-id: afd2c688-8abd-47cb-a6ec-c7e2c3b44743
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Commerce AEM Assets
 
-AI와 Adobe Commerce의 통합은 자산 관리를 중앙 집중화하여 개인화된 콘텐츠를 통해 고객 참여를 높이고 워크플로우를 간소화합니다. &#x200B; 이 기본 통합은 효율성을 높이고 가맹점을 위한 추가 비용 없이 컨텐츠 마켓 출시 시간을 단축합니다. &#x200B; 승인, 제거 및 만료를 포함한 전체 라이프사이클 제어를 통해 제품과 자산 간의 원활한 동기화를 지원합니다. &#x200B; 이 통합을 통해 관리 패널과 상점 모두에서 에셋을 자동으로 동기화하고 표시함으로써 원활하고 효율적인 콘텐츠 관리 프로세스를 지원합니다. &#x200B;
+AI와 Adobe Commerce의 통합은 자산 관리를 중앙 집중화하여 개인화된 콘텐츠를 통해 고객 참여를 높이고 워크플로우를 간소화합니다&#x200B;. 이 기본 통합은 효율성을 높이고 가맹점을 위한 추가 비용 없이 컨텐츠 마켓 출시 시간을 단축합니다&#x200B;. 승인, 제거 및 만료를 포함한 전체 라이프사이클 제어를 통해 제품과 자산 간의 원활한 동기화를 지원합니다&#x200B;. 이 통합을 통해 관리 패널과 상점 모두에서 에셋을 자동으로 동기화하고 표시함으로써 원활하고 효율적인 콘텐츠 관리 프로세스를 지원합니다&#x200B;.
 
 ## 이 비디오는 누구의 것입니까
 
-- Adobe Commerce을 사용하는 전자 상거래 상인 및 디지털 마케터
-- IT 관리자
-- 콘텐츠 라이프사이클을 최적화하려는 콘텐츠 관리자
+* Adobe Commerce을 사용하는 전자 상거래 상인 및 디지털 마케터
+* IT 관리자
+* 콘텐츠 라이프사이클을 최적화하려는 콘텐츠 관리자
 
 ## 비디오 콘텐츠
 
-- 향상된 효율성 및 속도.
-- 제품과 자산 간의 원활한 동기화.
-- 승인, 제거 및 만료가 포함된 라이프사이클 제어를 완료합니다.
+* 향상된 효율성 및 속도.
+* 제품과 자산 간의 원활한 동기화.
+* 승인, 제거 및 만료가 포함된 라이프사이클 제어를 완료합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434083?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)

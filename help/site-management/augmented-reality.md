@@ -3,6 +3,7 @@ title: Adobe Commerce용 AR 뷰어
 description: Commerce Marketplace에서 사용할 수 있는 증강 현실 보기 모듈에 대해 알아봅니다.
 kt: 13738
 doc-type: video
+duration: 180
 activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
@@ -10,7 +11,7 @@ role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: Commerce Marketplace에서 사용 가능한 AR 뷰어
 exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -28,13 +29,13 @@ AR 뷰어는 물리적 소매점과 디지털 소매점 사이의 격차를 [!DN
 
 ## 기능
 
-- 제품의 3D 모델을 업로드하기 위한 사용하기 쉬운 인터페이스입니다.
-- 3D 모델 업로드 시 자동 QR 코드 생성.
-- AR 보기를 위해 QR 코드를 제품 페이지에 원활하게 통합합니다.
-- 모바일 장치에서 몰입형 대화형 제품 보기 환경.
-- Adobe Commerce 관리자에 직접 내장된 간소화된 판매자 경험입니다.
-- Adobe Commerce Cloud 및 온프레미스 고객과의 호환성(2.4.x+)
-- AR 뷰어를 스토어에 통합함으로써 단순한 제품 그 이상을 제공하고 있습니다. 고객은 자신감 있는 구매 결정을 할 수 있도록 유도하는 매혹적이고 몰입적인 쇼핑 경험을 만들어내고 있습니다.
+* 제품의 3D 모델을 업로드하기 위한 사용하기 쉬운 인터페이스입니다.
+* 3D 모델 업로드 시 자동 QR 코드 생성.
+* AR 보기를 위해 QR 코드를 제품 페이지에 원활하게 통합합니다.
+* 모바일 장치에서 몰입형 대화형 제품 보기 환경.
+* Adobe Commerce 관리자에 직접 내장된 간소화된 판매자 경험입니다.
+* Adobe Commerce Cloud 및 온프레미스 고객과의 호환성(2.4.x+)
+* AR 뷰어를 스토어에 통합함으로써 단순한 제품 그 이상을 제공하고 있습니다. 고객은 자신감 있는 구매 결정을 할 수 있도록 유도하는 매혹적이고 몰입적인 쇼핑 경험을 만들어내고 있습니다.
 
 ## 제품에 3D 모델 추가
 
@@ -57,8 +58,8 @@ AR 뷰어는 물리적 소매점과 디지털 소매점 사이의 격차를 [!DN
 
 ## 유용한 리소스
 
-Adobe Commerce용 [AR 뷰어](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html?lang=ko){target="_blank"}
-[Adobe Commerce용 AR 뷰어로 제품 3D 모델 관리](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html?lang=ko){target="_blank"}
+Adobe Commerce용 [AR 뷰어](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
+[Adobe Commerce용 AR 뷰어로 제품 3D 모델 관리](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
 
 ## Adobe Commerce Marketplace 확장
 

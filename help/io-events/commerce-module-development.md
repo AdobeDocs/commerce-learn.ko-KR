@@ -5,6 +5,7 @@ landing-page-description: 이벤트를 사용할 Adobe Commerce 모듈을 만드
 short-description: 이벤트를 사용할 Adobe Commerce 모듈을 만드는 방법을 알아봅니다.
 kt: 11891
 doc-type: tutorial
+duration: 348
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Eventing, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -36,7 +37,7 @@ ht-degree: 0%
 * Commerce 인스턴스 `app/etc/config.php`에서 이벤트를 등록하는 방법 알아보기
 * 이벤트 구독을 취소하는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3419838?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415802?learn=on)
 
 ## 유용한 명령 {#useful-commands}
 

@@ -7,16 +7,16 @@ old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 694
+duration: 743
 last-substantial-update: 2025-10-13T00:00:00Z
 jira: KT-19378
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+exl-id: 9326f53d-e3aa-421f-bdaa-7be523a0ecd8
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
 
 ---
-
 
 # 신제품 채택을 단순화하여 비즈니스 성장
 
@@ -36,4 +36,4 @@ Adobe Commerce은 단계적 접근 방식으로 Adobe Commerce as a Cloud Servic
 * App Builder 확장성을 사용하면 사용자 정의 논리를 서버리스 함수로 분리하여 간편하게 유지 관리할 수 있습니다.
 * Storefront 개선 사항은 드롭인 구성 요소 및 Edge 전달을 통해 성능과 콘텐츠 생성을 개선합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475755/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737?learn=on)

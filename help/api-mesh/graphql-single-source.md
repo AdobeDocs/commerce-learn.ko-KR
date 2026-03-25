@@ -5,6 +5,7 @@ landing-page-description: Adobe Commerce 및  [!DNL Adobe App Builder]에서 API
 short-description: Adobe Commerce 및  [!DNL Adobe App Builder]에서 API Mesh를 사용하는 방법을 알아봅니다. 소스가 하나인 메쉬를 만드는 방법에 대해 알아봅니다.
 kt: 11804
 doc-type: tutorial
+duration: 510
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -36,7 +37,7 @@ ht-degree: 0%
 * JSON 구성 파일에서 메쉬 만들기
 * 새로 생성된 GraphQL 엔드포인트 액세스
 
->[!VIDEO](https://video.tv.adobe.com/v/3419722?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414124?learn=on)
 
 ## JSON 구성 파일 만들기
 

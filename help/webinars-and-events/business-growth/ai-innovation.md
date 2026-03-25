@@ -7,16 +7,16 @@ old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 1419
+duration: 1449
 last-substantial-update: 2025-10-10T00:00:00Z
 jira: KT-19376
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+exl-id: 66ae4364-1918-4ca5-8709-9596ead0e4af
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
-
 
 # AI 혁신을 통한 비즈니스 성장
 
@@ -34,4 +34,4 @@ Adobe Commerce이 첨단 AI 솔루션과 SaaS 우선 전략을 통해 전자 상
 * 카탈로그 혁신을 통한 글로벌 확장 가속화
 * 대화형 Commerce을 통해 Storefront 경험 향상
 
->[!VIDEO](https://video.tv.adobe.com/v/3475702/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475691?learn=on)

@@ -6,16 +6,16 @@ topic: Migration, Architecture
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 339
+duration: 363
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20094
-source-git-commit: 86fb1a84f431726e282bd8af664dc668bdb5bc61
+exl-id: 45687736-d1be-4d9a-9355-024cfafbf08c
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce as a Cloud Service으로 마이그레이션
 
@@ -32,4 +32,4 @@ Adobe Commerce에서 Adobe Commerce as a Cloud Service으로 이전하는 비즈
 * 전체 마이그레이션, 단계별 채택 및 컴패니언 솔루션을 포함한 마이그레이션 옵션에 대해 알아봅니다.
 * Adobe이 App Builder 및 API Mesh를 통해 도구, 파트너 지원 및 확장성을 통해 마이그레이션을 지원하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478800/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478800?learn=on)

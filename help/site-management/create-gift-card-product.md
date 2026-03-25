@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-duration: 579
+duration: 815
 exl-id: c18fd80e-1a25-4346-a8c5-3b5449d49965
-source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -25,13 +25,13 @@ REST API 및 Adobe Commerce 관리자를 사용하여 기프트 카드 제품을
 
 ## 이 비디오는 누구의 것입니까?
 
-- 웹 사이트 관리자
-- 전자 상거래 머천다이저
-- REST API를 사용하여 Adobe Commerce에서 제품을 만드는 방법을 배우고자 하는 새로운 Adobe Commerce 개발자입니다.
+* 웹 사이트 관리자
+* 전자 상거래 머천다이저
+* REST API를 사용하여 Adobe Commerce에서 제품을 만드는 방법을 배우고자 하는 새로운 Adobe Commerce 개발자입니다.
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3453084?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
 
 ## 간단한 페이로드로 기프트 카드 만들기
 
@@ -325,6 +325,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## 추가 리소스
 
-- [Commerce 관리자로부터 기프트 카드 제품 만들기](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=ko){target="_blank"}
-- [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Commerce 관리자로부터 기프트 카드 제품 만들기](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
+* [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

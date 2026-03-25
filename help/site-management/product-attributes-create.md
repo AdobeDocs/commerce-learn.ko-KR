@@ -3,6 +3,7 @@ title: 제품 속성 만들기
 description: 제품, 고객 및 제품 등급과 관련된 정보를 관리하는 데 사용되는 제품 속성을 만드는 방법을 알아봅니다.
 kt: 10552
 doc-type: feature video
+duration: 348
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: c65b4e42-2cfe-4f7e-8a15-d0271461e4a2
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -24,15 +25,15 @@ Adobe Commerce은 속성을 사용하여 제품, 고객 및 제품 등급과 관
 
 ## 이 비디오는 누구의 것입니까?
 
-- 웹 사이트 관리자
-- 전자 상거래 머천다이저
+* 웹 사이트 관리자
+* 전자 상거래 머천다이저
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3410132?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/343749?learn=on)
 
 ## 추가 리소스
 
-[제품 특성 개요 - [!DNL Commerce] 카탈로그 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=ko)
+[제품 특성 개요 - [!DNL Commerce] 카탈로그 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
 
-[특성 집합 - [!DNL Commerce] 카탈로그 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=ko)
+[특성 집합 - [!DNL Commerce] 카탈로그 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

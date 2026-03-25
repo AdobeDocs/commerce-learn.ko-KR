@@ -6,11 +6,11 @@ topic: Commerce, Performance
 role: Admin, User
 level: Beginner
 doc-type: Tutorial
-duration: 139
+duration: 164
 last-substantial-update: 2025-07-29T00:00:00Z
 jira: KT-18638
 exl-id: 94efabb2-a6b2-4ec2-a82d-4d5e4cd28803
-source-git-commit: f2141e51bd029611e8ee086dbc20d56447e98faa
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -33,10 +33,10 @@ ht-degree: 0%
 * 이름 및 설명 업데이트
 * 통합을 위한 주요 엔드포인트 및 식별자 찾기
 
->[!VIDEO](https://video.tv.adobe.com/v/3470239?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on)
 
 ## 관련 컨텐츠
 
-* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer 시작](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/get-started){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [Adobe Commerce Optimizer 시작](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}

@@ -3,19 +3,20 @@ title: GitHub Codespaces를 사용한 API Mesh 스타터 키트
 description: GitHub 기반 스타터 키트를 사용하여 Adobe Commerce API Mesh를 시작하십시오. 로컬 설정은 필요하지 않습니다.
 kt: 18367
 doc-type: tutorial
+duration: 253
 audience: all
 last-substantial-update: 2025-6-17
 feature: API Mesh, Tools and External Services, Backend Development, GraphQL, Storefront
 topic: App Builder, Commerce, Development, Integrations
 role: Developer
 level: Beginner
-source-git-commit: ca8cdbb42dcf89cd0ce4c2b8b13b9fd454e8c597
+exl-id: 4a2c210d-4df1-4601-95a8-19b3efed5ac0
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
-
 
 # GitHub Codespaces를 사용한 API Mesh 스타터 키트
 
@@ -33,10 +34,10 @@ ht-degree: 0%
 * 테스트를 위한 내장 도구: 사전 구성된 GraphQL 서버(Yoga)와 원활한 개발을 위한 자동 서버 재시작이 포함되어 있습니다.
 * 실습 학습: 시작 키트를 복제하고 끝점을 구성하고 브라우저에서 직접 API 응답을 테스트합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464024?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3464017?learn=on)
 
 ## 관련 설명서
 
 * [API Mesh Starter 키트 GitHub 리포지토리](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Adobe Developer 문서 graphql-mesh-gateway](https://developer.adobe.com/graphql-mesh-gateway/)
-* [API Mesh 비디오의 재생 목록](https://experienceleague.adobe.com/ko/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [API Mesh 비디오의 재생 목록](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)

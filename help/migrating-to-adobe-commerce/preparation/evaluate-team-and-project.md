@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 270
+duration: 336
 last-substantial-update: 2024-10-24T00:00:00Z
 jira: KT-16275
 exl-id: 7b521465-db0b-4755-91bd-013368a9fe5e
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -38,8 +38,8 @@ Adobe Commerce으로 이동할 때는 팀과 프로젝트를 철저히 평가하
 * 프론트엔드 및 백엔드 고려 사항에 대해 알아봅니다.
 * 기존 모듈을 평가하고, 핵심 애플리케이션을 업그레이드하고, 다른 Adobe 솔루션과 통합하여 원활한 마이그레이션을 계획합니다.
  
->[!VIDEO](https://video.tv.adobe.com/v/3447452/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435682?learn=on)
 
 ## 관련 설명서
 
-[Adobe Commerce 소개](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/about)
+[Adobe Commerce 소개](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)

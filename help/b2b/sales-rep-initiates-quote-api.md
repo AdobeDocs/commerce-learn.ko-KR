@@ -2,6 +2,7 @@
 title: Sales Rep 는 REST API 를 사용하여 B2B 견적 시작
 description: 영업 담당자가 Adobe Commerce REST API에서 견적을 시작하는 방법에 대해 알아봅니다.
 doc-type: feature video
+duration: 250
 audience: all
 activity: use
 kt: 13797
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 560f12e2-3713-4a77-94c6-226da205ad8c
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -26,12 +27,12 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-- 웹 사이트 관리자
-- 전자 상거래 머천다이저
-- 개발자
+* 웹 사이트 관리자
+* 전자 상거래 머천다이저
+* 개발자
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3423713?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3420414?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

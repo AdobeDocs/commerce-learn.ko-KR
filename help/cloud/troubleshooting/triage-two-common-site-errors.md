@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 260
+duration: 297
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16419
 exl-id: 4c21b6a6-783a-422f-9071-3534ed68e8be
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -24,16 +24,16 @@ Adobe Commerce Cloud 프로젝트에 표시되는 두 가지 일반적인 오류
 
 ## 이 비디오는 누구의 것입니까
 
-- 개발자 및 IT 전문가
-- 시스템 관리자
+* 개발자 및 IT 전문가
+* 시스템 관리자
 
 ## 비디오 콘텐츠
 
-- 스토리지 문제 진단 및 해결:
-- 유지 관리 모드
-- 효율적인 문제 해결 팁
+* 스토리지 문제 진단 및 해결:
+* 유지 관리 모드
+* 효율적인 문제 해결 팁
 
->[!VIDEO](https://video.tv.adobe.com/v/3447700?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
 
 
 ## 비디오에 사용된 명령

@@ -11,9 +11,9 @@ old-role: Architect, Developer
 role: Developer, Admin
 level: Beginner, Intermediate
 KT: 15599
-duration: 101
+duration: 125
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -26,14 +26,14 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-- 웹 사이트 관리자
-- 개발자
+* 웹 사이트 관리자
+* 개발자
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3410780?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344001?learn=on)
 
 ## 추가 리소스
 
-- [사이트 전체 분석 도구](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=ko)
-- [로그 보기 및 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=ko)
+* [사이트 전체 분석 도구](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+* [로그 보기 및 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

@@ -1,10 +1,11 @@
 ---
 title: Commerce Intelligence - 집단 Report Builder
-description: Commerce Intelligence 집단 Report Builder을 사용하여 비즈니스와 관련된 최적화된 보고 및 분석을 만드는 방법을 알아봅니다.
-landing-page-description: 이 비디오를 통해 Commerce Intelligence 집단 Report Builder을 사용하여 비즈니스와 관련된 최적화된 보고 및 분석을 만드는 방법에 대해 알아보십시오.
-short-description: 이 비디오를 통해 Commerce Intelligence 집단 Report Builder을 사용하여 비즈니스와 관련된 최적화된 보고 및 분석을 만드는 방법에 대해 알아보십시오.
+description: Commerce Intelligence Cohort Report Builder을 사용하여 비즈니스와 관련된 최적화된 보고 및 분석을 만드는 방법을 알아봅니다.
+landing-page-description: 이 비디오를 통해 Commerce Intelligence Cohort Report Builder을 사용하여 비즈니스와 관련된 최적화된 보고 및 분석을 만드는 방법에 대해 알아보십시오.
+short-description: 이 비디오를 통해 Commerce Intelligence Cohort Report Builder을 사용하여 비즈니스와 관련된 최적화된 보고 및 분석을 만드는 방법에 대해 알아보십시오.
 kt: 10288
 doc-type: feature video
+duration: 103
 solution: Commerce,Commerce Intelligence
 audience: all
 activity: use
@@ -14,7 +15,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 1d5d6f96-3e0d-4c0d-a8fe-370be6ea1b38
-source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -27,25 +28,25 @@ ht-degree: 0%
 
 이 비디오에서:
 
-- 집단 분석이란?
-- 중요한 이유
-- 자체 집단 분석을 작성하는 방법
+* 집단 분석이란?
+* 중요한 이유
+* 자체 집단 분석을 작성하는 방법
 
 >[!TIP]
 >
->Commerce Intelligence을 처음 사용하는 경우 [Adobe Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=ko){target="_blank"}에서 데이터 집계, 분석 및 시각화를 통해 더 나은 비즈니스 통찰력과 결과를 얻을 수 있는 전체 개요를 제공합니다.
+>Commerce Intelligence을 처음 사용하는 경우 [Adobe Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}에서 데이터 집계, 분석 및 시각화를 통해 더 나은 비즈니스 통찰력과 결과를 얻을 수 있는 전체 개요를 제공합니다.
 
 ## 이 비디오는 누구의 것입니까?
 
-- 비즈니스 사용자
-- 데이터 분석가
+* 비즈니스 사용자
+* 데이터 분석가
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/346398?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/342407?learn=on)
 
 ## 유용한 리소스
 
-[집단 Report Builder 사용 - Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html?lang=ko)
+[집단 Report Builder 사용 - Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
 
-[질적 집단 분석 만들기 - Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html?lang=ko)
+[질적 집단 분석 만들기 - Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)

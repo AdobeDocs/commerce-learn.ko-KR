@@ -1,40 +1,41 @@
 ---
 title: 장바구니 가격 규칙 만들기
-description: 조건 세트에 따라 장바구니에서 할인을 적용하는 장바구니 가격 규칙을 만드는 방법을 알아봅니다.
-doc-type: feature video
-audience: all
-activity: use
+description: 정의한 조건이 충족될 때 장바구니에서 할인을 적용하는 장바구니 가격 규칙을 만드는 방법을 알아봅니다.
+doc-type: Tutorial
 last-substantial-update: 2022-12-28T00:00:00Z
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
-role: Admin, Leader, User
+role: User
 level: Beginner
-duration: 171
+duration: 353
 jira: KT-17148
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-source-git-commit: d290ba1d9c8892b4322aeb19d3c65d9d8087a309
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '677'
 ht-degree: 0%
 
 ---
 
 # 장바구니 가격 규칙 만들기
 
-장바구니 가격 규칙은 조건 세트에 따라 장바구니의 항목에 할인을 적용합니다. 해당 조건이 충족되거나 고객이 유효한 쿠폰코드를 입력하면 자동으로 할인이 적용된다. 적용하면 소계 아래의 장바구니에 할인이 표시됩니다. 장바구니 가격 규칙은 상태 및 날짜 범위를 변경하여 시즌 또는 프로모션에 필요한 만큼 사용할 수 있습니다.
+장바구니 가격 규칙은 사용자가 설정한 조건에 따라 장바구니의 항목에 할인을 적용합니다. 할인 혜택은 조건이 충족되거나 고객이 유효한 쿠폰코드를 입력하면 자동으로 적용된다. 할인액은 소계 아래의 장바구니에 표시됩니다. 상태 및 날짜 범위를 변경하여 시즌 또는 프로모션에 대한 규칙을 켜거나 끌 수 있습니다.
 
 ## 이 비디오는 누구의 것입니까?
 
-- eCommerce 마케터
-- 웹 사이트 관리자
+* eCommerce 마케터
+* 웹 사이트 관리자
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3410807?quality=12&learn=on&captions=kor)
+* 장바구니 가격 규칙 및 선택적 쿠폰 코드를 만듭니다.
+* 장바구니에 할인이 표시되는 방법 및 프로모션을 확인하십시오.
+
+>[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
 
 ## 가격 표시 문제
 
-각 라인 항목에 제공된 할인을 표시해야 하는 몇 가지 고유한 시나리오가 있지만 값이 정확히 일치하지 않을 수 있습니다. 그 이유는 장바구니 가격 규칙 할인이 여러 제품에 적용되지만 값이 소수점 두 자리로 균등하게 나누어지지 않기 때문입니다.
+경우에 따라 각 라인 항목에 적용된 할인이 표시되어야 하지만 표시된 값이 정확히 일치하지 않을 수 있습니다. 이 문제는 장바구니 가격 규칙이 여러 제품에 대해 하나의 할인을 적용하고 분할이 소수점 두 자리로 균등하게 나누어지지 않을 때 발생합니다.
 
 >[!BEGINSHADEBOX]
 
@@ -54,7 +55,7 @@ ht-degree: 0%
 
 ### 솔루션
 
-이 이슈의 영향을 받는 유일한 사람인 웹사이트 소유자를 생각하여, 달러로 할인된 가격으로 주문한 각각의 아이템을 보여주는 것이 가장 적절하다고 판단하였다. 전체 주문금액이 제대로 계산되도록 첫 번째 항목은 반올림하고 나머지 항목은 소수점 셋째를 떨어뜨리기로 했다. 이 시나리오를 검토하십시오.
+관리자의 판매자의 경우, 가장 명확한 접근 방법은 각 주문 라인을 달러로 할인된 가격으로 표시하는 것입니다. 주문 합계를 정확하게 유지하려면 첫 번째 라인 항목을 위로 반올림하고 나머지 라인 항목에 소수점 세 번째 값을 드롭합니다. 이 시나리오를 검토하십시오.
 
 >[!BEGINSHADEBOX]
 
@@ -68,7 +69,7 @@ ht-degree: 0%
 총 3.99개가 고객에게 할인으로 제공된다
 
 관리자의 스토어 소유자에게 라인 항목을 표시할 때,
-첫 번째 항목을 조정하여 2.000으로 반올림해야 합니다. 두 번째 항목은 소수점 셋째 자리까지 내림합니다
+첫 번째 항목을 조정하여 2.000으로 반올림해야 합니다. 두 번째 항목의 경우 소수점 세 번째 값을 드롭합니다.
 제품 1 = 2.00
 제품 2 = 1.99
 
@@ -125,8 +126,7 @@ ht-degree: 0%
 
 >[!ENDSHADEBOX]
 
-
 ## 추가 리소스
 
-- [장바구니 가격 규칙 만들기 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=ko)
-- [쿠폰 코드 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=ko)
+* [장바구니 가격 규칙 만들기 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
+* [쿠폰 코드 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html){target="_blank"}

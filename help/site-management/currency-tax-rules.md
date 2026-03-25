@@ -3,6 +3,7 @@ title: 통화 및 세금 규칙 관리
 description: ' [!DNL Commerce] 이(가) 고객 및 제품 클래스에 따라 적절한 세금을 계산하기 위해 사용하는 통화와 세금 규칙을 구성하는 방법을 알아봅니다.'
 kt: 10542
 doc-type: feature video
+duration: 157
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: d72fd055-1497-41e7-ae2c-2bbc837d974c
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -24,14 +25,14 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-- 저장소 관리자
-- eCommerce 관리자
+* 저장소 관리자
+* eCommerce 관리자
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3410214?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/343657?learn=on)
 
 ## 추가 리소스
 
-- [세금 규칙 - [!DNL Commerce] 경험 가이드 저장 및 구매](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html?lang=ko)
-- [통화 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html?lang=ko)
+* [세금 규칙 - [!DNL Commerce] 경험 가이드 저장 및 구매](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
+* [통화 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)

@@ -3,6 +3,7 @@ title: 제품 속성 만들기
 description: 하나의 매개 변수와 함께 json을 반환하는 페이지를 만듭니다.
 kt: 14131
 doc-type: video
+duration: 605
 activity: use
 last-substantial-update: 2023-2-10
 feature: Configuration, System, Backend Development
@@ -10,7 +11,7 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: d6aeac0c4c66bd8117cc9ef1e0186bbb19cf23e9
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -23,29 +24,29 @@ ht-degree: 0%
 
 이 비디오에서:
 
-- cotton, Leather, Silk, Denim, Fur 및 Wool 과 같은 값을 사용하여 clothing_material 이라는 속성을 추가합니다.
-- 이 속성을 제품 보기 페이지에 굵은 텍스트로 표시합니다.
-- Default 속성 세트에 지정하고 제한을 추가합니다.
-- 새 속성 추가
+* cotton, Leather, Silk, Denim, Fur 및 Wool 과 같은 값을 사용하여 clothing_material 이라는 속성을 추가합니다.
+* 이 속성을 제품 보기 페이지에 굵은 텍스트로 표시합니다.
+* Default 속성 세트에 지정하고 제한을 추가합니다.
+* 새 속성 추가
 
 ## 이 비디오는 누구의 것입니까?
 
-- 프로그래밍 방식으로 제품 특성을 만드는 방법을 배워야 하는 상거래를 처음 사용하는 개발자
+* 프로그래밍 방식으로 제품 특성을 만드는 방법을 배워야 하는 상거래를 처음 사용하는 개발자
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3412442?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/35789?learn=on)
 
 ## 코드 샘플
 
 먼저 필요한 폴더, xml 및 PHP 파일을 만듭니다.
 
-- app/code/Learning/ClothingMaterial/registration.php
-- app/code/Learning/ClothingMaterial/etc/module.xml
-- app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
-- app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
-- app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
-- app/code/Learning/ClothingMaterial/Setup/InstallData.php
+* app/code/Learning/ClothingMaterial/registration.php
+* app/code/Learning/ClothingMaterial/etc/module.xml
+* app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
+* app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
+* app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
+* app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ### app/code/Learning/ClothingMaterial/registration.php
 

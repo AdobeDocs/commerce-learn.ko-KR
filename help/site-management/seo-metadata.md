@@ -3,6 +3,7 @@ title: SEO 메타데이터 관리
 description: 검색 엔진이 사이트를 색인화하는 방법을 개선하기 위해 키워드가 풍부한 메타데이터를 통합하는 방법을 알아봅니다.
 kt: 10553
 doc-type: feature video
+duration: 223
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: affdc3d3-886f-4b39-8c82-c13ee2e79df9
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -24,14 +25,14 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-- 웹 사이트 관리자
-- 전자 상거래 머천다이저
-- eCommerce 마케터
+* 웹 사이트 관리자
+* 전자 상거래 머천다이저
+* eCommerce 마케터
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3410177?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/343750?learn=on)
 
 ## 추가 리소스
 
-[메타데이터 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html?lang=ko)
+[Meta 데이터 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
