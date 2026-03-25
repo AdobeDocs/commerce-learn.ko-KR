@@ -3,19 +3,19 @@ title: 가시성 데모 설정 및 세부 정보
 description: Adobe Commerce 및 사용자 정의 앱 전반에서 표준화되고 상관 관계가 있는 원격 분석을 통해 종단간 가시성 제공
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 170
+duration: 208
 last-substantial-update: 2025-12-18T00:00:00Z
 jira: KT-19992
-source-git-commit: 25ff63e552412a90796efb29f56d8b1675143cf2
+exl-id: b81f83de-782c-42ae-ae27-96d78caab4f5
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # 설정 및 구성
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 * 자동화된 신호에 Commerce Observability Module 사용
 * IO Live 원격 분석 라이브러리로 모니터링 확장
 
->[!VIDEO](https://video.tv.adobe.com/v/3478341?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478288?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

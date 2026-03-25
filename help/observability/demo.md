@@ -3,19 +3,19 @@ title: 가시성 데모
 description: Adobe Commerce에서 원활한 주문 추적 및 디버깅을 위해 가시성, 웹후크 및 이벤트 상관 관계를 사용하는 방법에 대해 알아봅니다
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 463
+duration: 508
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-20000
-source-git-commit: c0a2aa9b657b3ad0edc2cafb28f53970db4e1b42
+exl-id: 3ebb1778-5e15-4bcf-8efc-037d3f51c0a4
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # 가시성 데모
 
@@ -33,7 +33,7 @@ Adobe Commerce에서 가시성에 대한 라이브 데모를 시청하십시오.
 * 추적에 대한 웹 후크 및 이벤트의 상관 관계를 설명합니다.
 * 로그 및 추적에 대한 Grafana 및 New Relic과의 통합을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477867?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477867?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

@@ -3,19 +3,19 @@ title: 원격 분석 열기
 description: 원활한 모니터링 및 근본 원인 분석을 위한 로그, 추적 및 지표인 OpenTelemetry를 통해 가시성을 통합합니다.
 feature: Observability,Extensibility,App Builder
 topic: Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 137
+duration: 175
 last-substantial-update: 2025-12-18T00:00:00Z
 jira: KT-19975
-source-git-commit: 25ff63e552412a90796efb29f56d8b1675143cf2
+exl-id: 697d4290-1181-4fde-b8a8-132de9057264
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # 원격 분석 열기
 
@@ -33,7 +33,7 @@ Open Telemetry가 단일 모니터링 도구로 잠그지 않고 로그, 추적 
 * 로그, 추적 및 지표의 상관 관계를 파악하여 근본 원인 분석 속도 향상
 * 데이터 스트림을 통합하면서 기존 모니터링 도구 유지
 
->[!VIDEO](https://video.tv.adobe.com/v/3478330?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

@@ -1,50 +1,52 @@
 ---
 title: Adobe Commerce 클라우드 구성 및 디버깅
-description: DevOps, 시스템 관리자 및 백엔드 개발자에게 필수적인 Adobe Commerce Cloud의 구성 파일, 디버깅 도구 및 로그 관리에 대해 알아봅니다.
+description: YAML 구성, 유효성 검사 도구, ECE-Tools, 품질 패치 도구, New Relic 및 Xdebug가 Adobe Commerce Cloud에서 디버깅 및 로그 관리를 지원하는 방법에 대해 알아봅니다.
 feature: Cloud
 topic: Commerce, Architecture, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 500
+duration: 553
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
-kt: 15019
 exl-id: 8f5895bb-b402-4187-abf7-d7b2ac3f3c93
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-# 기술 온보딩 - 구성 및 디버깅
+# 구성 및 디버깅
 
-다양한 환경의 구성을 위해 Adobe Commerce Cloud에서 사용되는 주요 Yaml 파일, 이러한 구성의 유효성 검사 및 최적화에 사용할 수 있는 도구, 디버깅 및 로깅을 위한 프로세스에 대해 알아봅니다. 환경별 설정의 중요성, EC 도구 및 품질 패치 사용 방법, 로그 집계에서 New Relic의 역할을 이해합니다. Xdebug를 사용하여 원격 디버깅에 대한 통찰력을 얻고 여러 앱 서버에서 로그를 관리해야 합니다.
+이 비디오는 Adobe Commerce Cloud 기술 온보딩 시리즈의 일부입니다. YAML 구성 파일이 환경 간에 작동하는 방식, 이를 검증하고 최적화하는 데 도움이 되는 도구, 디버깅 및 로깅에 접근하는 방법에 대해 설명합니다. 또한 ECE-Tools 및 Quality Patches Tool의 적합성, New Relic의 로그 집계 방법, 원격 디버깅에 Xdebug를 사용하는 방법 및 여러 애플리케이션 서버에서 로그를 관리하는 방법을 살펴볼 수 있습니다.
 
 ## 이 비디오는 누구의 것입니까?
 
-- DevOp 엔지니어
-- Commerce 아키텍트
-- 백엔드 개발자
+* DevOps 엔지니어
+* Commerce 아키텍트
+* 백엔드 개발자
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3432819?captions=kor&learn=on)
+* 클라우드 환경 및 환경별 설정에서 YAML 구성.
+* 유효성 검사, 최적화 및 디버깅 워크플로
+* ECE-Tools, Quality Patches Tool, New Relic, Xdebug 및 로그 관리
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
 
 ## 비디오에 언급된 Experience League 설명서
 
-- [Xdebug 구성](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html?lang=ko)
-- [Cloud Docker 구성 Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
-- [디버깅 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html?lang=ko)
-- [구성 파일 개요](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html?lang=ko)
-- [ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html?lang=ko)
-- [ECE-Tools 패키지 업데이트](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html?lang=ko)
-- [New Relic 개요](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=ko)
-- [로그 파일 보기 및 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=ko)
-- [New Relic 로그 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html?lang=ko)
-- [품질 패치 도구](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=ko)
-- [품질 패치 도구 사용](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html?lang=ko)
+* [Xdebug 구성](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html){target="_blank"}
+* [클라우드 도커: Xdebug 구성](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"}
+* [디버깅 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html){target="_blank"}
+* [구성 파일 개요](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
+* [ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html){target="_blank"}
+* [ECE-Tools 패키지 업데이트](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html){target="_blank"}
+* [New Relic 개요](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html){target="_blank"}
+* [로그 파일 보기 및 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html){target="_blank"}
+* [New Relic 로그 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html){target="_blank"}
+* [품질 패치 도구](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html){target="_blank"}
+* [품질 패치 도구 사용](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html){target="_blank"}
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
