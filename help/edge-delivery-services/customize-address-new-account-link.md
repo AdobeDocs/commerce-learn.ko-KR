@@ -44,4 +44,4 @@ ht-degree: 0%
 
 ## 추가 설명서
 
-* [사용자 계정](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)
+* [사용자 계정](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=ko)

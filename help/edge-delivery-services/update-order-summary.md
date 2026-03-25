@@ -40,4 +40,4 @@ Adobe Commerce 장바구니 드롭인을 사용하고 장바구니 경험을 조
 
 ## 추가 설명서
 
-* [주문 요약](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)
+* [주문 요약](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=ko)
