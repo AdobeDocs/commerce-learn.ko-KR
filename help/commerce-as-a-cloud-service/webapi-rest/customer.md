@@ -244,6 +244,6 @@ curl -s -X PUT \
 
 ## 참조
 
-* [Adobe Commerce as a Cloud Service 릴리스 노트](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
+* [Adobe Commerce as a Cloud Service 릴리스 노트](https://experienceleague.adobe.com/ko/docs/commerce/cloud-service/release-notes)
 * [SaaS REST API 참조](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [사용자 인증 안내서](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
