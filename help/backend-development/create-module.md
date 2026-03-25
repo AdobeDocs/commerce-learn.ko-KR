@@ -34,7 +34,7 @@ ht-degree: 0%
 4. 모듈을 등록 및 설치하려면 `bin/magento setup:upgrade`을(를) 실행하십시오.
 5. 모듈이 작동하는지 확인합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412457?captions=kor&learn=on)
 
 ### module.xml 파일
 

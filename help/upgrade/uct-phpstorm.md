@@ -38,7 +38,7 @@ ht-degree: 0%
 * PhpStorm에서 UCT를 설치하고 실행합니다.
 * HTML 보고서를 검토하고 수정 사항의 우선 순위를 지정합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344408?captions=kor&learn=on)
 
 ## 추가 리소스
 

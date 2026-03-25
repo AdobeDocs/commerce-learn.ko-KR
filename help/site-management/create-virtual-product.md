@@ -31,7 +31,7 @@ REST API 및 Adobe Commerce 관리자를 사용하여 가상 제품을 만드는
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3425723?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444871?captions=kor&learn=on)
 
 ## curl을 사용하여 가상 제품 만들기
 

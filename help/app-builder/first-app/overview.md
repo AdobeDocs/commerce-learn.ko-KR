@@ -52,7 +52,7 @@ ht-degree: 0%
 * 샘플 모듈 사용에 대한 기대치
 * 샘플 모듈에서 재사용 가능한 부분
 
->[!VIDEO](https://video.tv.adobe.com/v/3416740?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421027?captions=kor&learn=on)
 
 {{avoid-400-error}}
 

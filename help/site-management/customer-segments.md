@@ -33,7 +33,7 @@ ht-degree: 0%
 * 고객 속성, 주문 및 장바구니 데이터에서 세그먼트를 작성합니다.
 * 세그먼트를 프로모션 및 장바구니 가격 규칙에 연결합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/343659?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410192?captions=kor&learn=on)
 
 ## 추가 리소스
 

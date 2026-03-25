@@ -36,7 +36,7 @@ Adobe Developer App Builder용 API Mesh 사용을 시작하려면 먼저 `aio` C
 * Adobe I/O Runtime CLI(명령줄 인터페이스) 설치
 * API Mesh 플러그인 설치
 
->[!VIDEO](https://video.tv.adobe.com/v/3414122?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419796?captions=kor&learn=on)
 
 ## `aio` CLI 및 API Mesh 플러그인 설치 중
 

@@ -31,7 +31,7 @@ ht-degree: 0%
 * 장바구니 가격 규칙 및 선택적 쿠폰 코드를 만듭니다.
 * 장바구니에 할인이 표시되는 방법 및 프로모션을 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410807?captions=kor&learn=on)
 
 ## 가격 표시 문제
 

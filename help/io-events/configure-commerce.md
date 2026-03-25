@@ -36,7 +36,7 @@ ht-degree: 0%
 * Commerce 관리자에 고유 식별자 저장
 * 이벤트 공급자 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/3415799?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419716?captions=kor&learn=on)
 
 ## 유용한 명령 {#useful-commands}
 

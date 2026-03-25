@@ -31,7 +31,7 @@ Adobe Commerce용 Fastly의 클라우드 사용에 대해 알아봅니다.
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3427695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432809?captions=kor&learn=on)
 
 ## 비디오에 언급된 Experience League 설명서 및 Fastly Adobe Commerce 검사기
 

@@ -31,7 +31,7 @@ ht-degree: 0%
 * 위젯이 무엇이고 어디에 표시되는지 이해합니다.
 * 관리자에서 위젯을 만들고 관리합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/343786?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411059?captions=kor&learn=on)
 
 ## 추가 리소스
 

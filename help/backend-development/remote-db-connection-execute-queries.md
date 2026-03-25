@@ -26,7 +26,7 @@ Adobe Commerce on cloud 프로젝트에 연결하고, 오프사이트 사용을 
 * MySQL Workbench 또는 TablePlus와 같은 GUI 도구를 사용하여 원격 Adobe Commerce 클라우드 프로젝트에 연결합니다.
 * 프로젝트에 연결하고 명령줄에서 SQL을 실행합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450043?captions=kor&learn=on)
 
 다음 방법 중 하나를 사용하여 클라우드 프로젝트에서 Adobe Commerce 데이터에 액세스할 수 있습니다.
 

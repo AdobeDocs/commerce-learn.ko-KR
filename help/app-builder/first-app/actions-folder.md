@@ -37,7 +37,7 @@ ht-degree: 0%
 * `actions` 및 `commerce` 폴더에 있는 JavaScript 파일의 용도
 * OAuth 인증 파일에 대한 빠른 개요
 
->[!VIDEO](https://video.tv.adobe.com/v/3416590?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421082?captions=kor&learn=on)
 
 ## 코드 샘플
 

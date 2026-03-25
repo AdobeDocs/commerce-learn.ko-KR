@@ -33,6 +33,6 @@ ht-degree: 0%
 * 응용 프로그램을 배포하는 방법
 * 배포 후 URL을 찾을 위치
 
->[!VIDEO](https://video.tv.adobe.com/v/3416664?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421050?captions=kor&learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
