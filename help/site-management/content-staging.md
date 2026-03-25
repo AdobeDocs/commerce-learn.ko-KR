@@ -11,7 +11,7 @@ feature: Configuration, System, Staging
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-badgePaas: label="PaaS만" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Adobe Commerce 온 클라우드 프로젝트(Adobe 관리 PaaS 인프라) 및 온프레미스 프로젝트에만 적용됩니다."
+badgePaas: label="PaaS만" type="Informative" url="https://experienceleague.adobe.com/ko/docs/commerce/user-guides/product-solutions" tooltip="Adobe Commerce 온 클라우드 프로젝트(Adobe 관리 PaaS 인프라) 및 온프레미스 프로젝트에만 적용됩니다."
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
 source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
@@ -37,5 +37,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-* [콘텐츠 준비 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
-* [캠페인 미리 보기 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
+* [콘텐츠 준비 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html?lang=ko){target="_blank"}
+* [캠페인 미리 보기 - [!DNL Commerce] 콘텐츠 및 디자인 가이드](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html?lang=ko){target="_blank"}

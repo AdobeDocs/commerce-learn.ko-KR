@@ -35,4 +35,4 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-[Meta 데이터 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[Meta 데이터 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html?lang=ko)

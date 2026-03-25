@@ -38,6 +38,6 @@ Adobe Commerce Cloud를 사용하여 프로젝트 및 환경을 관리하는 방
 
 ## 관련 컨텐츠 및 설명서
 
-* [사용자 액세스 관리](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access)
-* [원격 환경에 대한 보안 연결](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/secure-connections)
-* [클라우드 인프라 프로젝트](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
+* [사용자 액세스 관리](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/project/user-access)
+* [원격 환경에 대한 보안 연결](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/develop/secure-connections)
+* [클라우드 인프라 프로젝트](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/project/overview)
