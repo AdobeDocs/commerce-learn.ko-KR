@@ -31,7 +31,7 @@ Experience League for Adobe Commerce 내에서 지원 티켓을 검색, 검토, 
 * 개방형 지원 티켓에 댓글을 추가하는 방법 알아보기
 * 지원 티켓을 확대하는 방법과 몇 가지 이유를 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445318?captions=kor&learn=on)
 
 ## Commerce 기술 자료 도움말 센터 안내서
 

@@ -39,7 +39,7 @@ ht-degree: 0%
 * 실패한 이벤트에 대한 경고 아이콘 및 재시도된 이벤트에 대한 원형 화살표 아이콘과 같은 개발자 콘솔의 시각적 표시기.
 * &#39;소비자&#39; 런타임 작업은 이벤트 처리에 적합한 HTTP 응답 상태 코드를 결정하는 데 중요한 역할을 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449080?captions=kor&learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

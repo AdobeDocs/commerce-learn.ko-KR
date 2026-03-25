@@ -31,4 +31,4 @@ Adobe Commerce 관리자에서 사용할 필터를 찾고 조정하는 방법을
 * 필터를 사용하여 관리자 격자의 결과를 제한하는 방법을 이해합니다
 * 필터가 Adobe Commerce Admin Console의 다른 관리자에게 어떻게 영향을 미치는지 알아봅니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3440382?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440389?captions=kor&learn=on)

@@ -32,7 +32,7 @@ Experience League for Adobe Commerce 내에서 지원 티켓을 만드는 방법
 * 양식에 사용된 정보에 따라 권장 문서가 어떻게 변경되는지 알아보십시오
 * 양식 필드에 있는 자리 표시자 텍스트가 어떻게 유용한지 이해하는 것은 올바른 지원 요청에 필요한 정보 유형을 이해하는 데 도움이 됩니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449560?captions=kor&learn=on)
 
 ## Commerce 기술 자료 도움말 센터 안내서
 

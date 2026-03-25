@@ -37,4 +37,4 @@ Salesforce Commerce Cloud 인스턴스용 Adobe Commerce Optimizer 카트리지�
 * 사용자 정의 개체 및 작업 정의를 가져와서 추적 및 동기화를 지원합니다.
 * 사용자 지정 API 끝점을 테스트하여 성공적인 설치를 확인하고 카탈로그 동기화를 준비합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476077?captions=kor&learn=on)
