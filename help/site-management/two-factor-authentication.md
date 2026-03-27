@@ -30,13 +30,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 비디오의 콘텐츠는 2.4.0 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview)를 참조하세요.
+>이 비디오의 콘텐츠는 2.4.0 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/overview)를 참조하세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?learn=on)
 
 ## 추가 리소스
 
-* [이중 인증(2FA)](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication)
-* [사용자 계정에 대한 2단계 인증 설정](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-use)
-* [이중 인증 관리](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-manage)
+* [이중 인증(2FA)](https://experienceleague.adobe.com/ko/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication)
+* [사용자 계정에 대한 2단계 인증 설정](https://experienceleague.adobe.com/ko/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-use)
+* [이중 인증 관리](https://experienceleague.adobe.com/ko/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-manage)
 * [이중 인증 구성(2FA) - 개발자 설명서](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)
