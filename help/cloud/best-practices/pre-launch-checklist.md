@@ -139,7 +139,7 @@ Adobe Commerce Cloud는 스테이징 및 프로덕션 환경 모두에 대해 Ma
 
 5. 개발 중에 Xdebug가 활성화된 경우 비활성화되는지 확인합니다([Cloud에서 Commerce에 대한 Xdebug 구성](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/develop/test/debug){target="_blank"} 참조).
 6. OPcache 및 기타 구성이 php.ini 파일에서 정확하게 업데이트되었는지 확인합니다([이 샘플을 참조](https://github.com/magento/magento-cloud/blob/master/php.ini#L41){target="_blank"}).
-7. [**Adobe Commerce 상태 페이지**](https://status.adobe.com/cloud/experience_cloud#/){target="_blank"}에 가입하세요.
+7. [**Adobe Commerce 상태 페이지**](https://status.adobe.com/ko-kr/cloud/experience_cloud#/){target="_blank"}에 가입하세요.
 8. 지정된 성능 지표([자세히 보기](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce){target="_blank"})를 모니터링하려면 New Relic &quot;[Adobe Commerce용 관리 경고](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/monitor/new-relic/new-relic-service){target="_blank"}&quot; 알림 채널을 구독하세요.
 
 ## &#x200B;9. 보안
