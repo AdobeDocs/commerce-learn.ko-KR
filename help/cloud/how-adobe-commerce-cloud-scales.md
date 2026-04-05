@@ -3,13 +3,14 @@ title: Adobe Commerce Cloud의 확장 방법
 description: Adobe Commerce Cloud 프로젝트의 확장 방법, 자동으로 확장되는 항목, 지원 요청이 필요한 항목, 이벤트 또는 급격한 트래픽 급증에 대한 용량을 계획하는 방법에 대해 알아봅니다.
 feature: Cloud
 topic: Commerce, Architecture
-role: Admin, Architect, Leader
+role: Admin, Developer, Leader
 level: Intermediate
 doc-type: Tutorial
 duration: 285
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-15161
-source-git-commit: 24edee9f9c5fbe3173e6d5a90ac3a84ed3809917
+exl-id: 8ab5050c-61d5-4029-acb0-06043842b64f
+source-git-commit: 781febd8b00f727708941c35aef1e02dcf2094dd
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -28,10 +29,10 @@ ht-degree: 0%
 
 ## 비디오
 
->[!VIDEO](https://video.tv.adobe.com/v/3482043?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3482031?learn=on)
 
 ## 관련 설명서
 
-* [클라우드의 Commerce — 프로젝트 개요](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/project/overview)
-* [성능 테스트 지침](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/develop/test/guidance)
+* [클라우드의 Commerce — 프로젝트 개요](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
+* [성능 테스트 지침](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/guidance)
 * [실행 전 검사 목록](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud/best-practices/pre-launch-checklist)
