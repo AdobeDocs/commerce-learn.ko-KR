@@ -1,5 +1,5 @@
 ---
-title: AI 도구를 사용한 맞춤형 배송률 | 피드백 제공
+title: AI 도구를 사용하여 맞춤형 배송률에 대한 피드백 제공
 description: AI 도구를 사용하여 사용자 정의 배송 요금을 생성하는 방법에 대해 알아보십시오. 초보자 친화적인 이 튜토리얼을 통해 피드백 프로세스에 대해 알아보고 워크플로를 간소화하십시오.
 feature: Tools and External Services
 topic: Artificial Intelligence
@@ -10,9 +10,9 @@ duration: 101
 last-substantial-update: 2026-03-10T00:00:00Z
 jira: KT-20518
 exl-id: 7d1487be-2e3b-4067-8382-297a040a820b
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---

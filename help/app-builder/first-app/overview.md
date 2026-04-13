@@ -1,21 +1,18 @@
 ---
-title: 앱 빌더 첫 번째 앱 만들기
+title: 첫 번째 App Builder 앱 만들기
 description: Adobe Commerce을 사용하는 Adobe Developer App Builder에 대해 알아보고 첫 번째 앱을 만드십시오.
-landing-page-description: Adobe Commerce에서 사용되는 Adobe Developer App Builder에 대해 알아보고 첫 번째 앱을 만듭니다.
-kt: 12421
-doc-type: tutorial
+jira: KT-12421
+doc-type: Tutorial
 duration: 197
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---

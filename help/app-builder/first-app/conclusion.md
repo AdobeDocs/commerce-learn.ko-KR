@@ -1,21 +1,18 @@
 ---
 title: 결론
 description: App Builder에 대한 자세한 내용을 보려면 어디로 이동해야 하는지 알아보십시오.
-landing-page-description: App Builder에 대한 자세한 내용을 보려면 어디로 이동해야 하는지 알아보십시오.
-kt: 12428
-doc-type: tutorial
+jira: KT-12428
+doc-type: Tutorial
 duration: 100
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: bb7cb692-16bd-48fe-9e88-eb1b337bc3a3
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---

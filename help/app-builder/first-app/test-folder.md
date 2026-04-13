@@ -1,21 +1,18 @@
 ---
 title: 테스트 폴더
 description: 이 샘플 애플리케이션의 테스트 폴더에 있는 파일 유형에 대해 알아봅니다.
-landing-page-description: Adobe Commerce에서 사용되는 Adobe Developer App Builder과 테스트 폴더에 있는 파일 유형에 대해 알아봅니다.
-kt: 12424
-doc-type: tutorial
+jira: KT-12424
+doc-type: Tutorial
 duration: 233
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---

@@ -1,21 +1,18 @@
 ---
 title: web-src 폴더
 description: web-src 폴더의 파일 유형과 이 샘플 애플리케이션의 중첩된 파일 및 폴더에 대해 알아봅니다.
-landing-page-description: Adobe Commerce에서 사용되는 Adobe Developer App Builder과 web-src 폴더에 있는 파일 유형에 대해 알아봅니다.
-kt: 12425
-doc-type: tutorial
+jira: KT-12425
+doc-type: Tutorial
 duration: 285
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---

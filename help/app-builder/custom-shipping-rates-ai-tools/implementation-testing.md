@@ -1,5 +1,5 @@
 ---
-title: AI 도구를 사용한 맞춤형 배송률 | 구현 및 테스트
+title: AI 도구를 사용한 맞춤형 배송 요율 구현 및 테스트
 description: AI 기반 맞춤형 배송 속도를 구현 및 테스트하고, 환경을 구성하고, 통합을 확인하여 향상된 체크아웃 경험을 제공하는 방법에 대해 알아봅니다.
 feature: Deploy
 topic: Development
@@ -10,9 +10,9 @@ duration: 385
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20517
 exl-id: aff6de33-46ae-48f1-a6c3-e9dd342e2642
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: AI 도구를 사용하여 맞춤형 배송률 만들기 | 소개 및 설정
+title: AI 도구를 사용한 맞춤형 배송 요금 소개 및 설정
 description: 스타터 키트 복제, 구조 검토, 환경 준비 등 사용자 정의 배송 속도를 생성하는 AI 도구를 설정하는 방법에 대해 알아봅니다.
 feature: Install
 topic: Development
@@ -10,7 +10,7 @@ duration: 195
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
