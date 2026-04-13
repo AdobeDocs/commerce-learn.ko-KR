@@ -1,9 +1,8 @@
 ---
 title: Salesforce Commerce Cloud 커넥터의 아키텍처 개요
-description: Adobe Commerce Optimizer과 함께 Salesforce Commerce Cloud을 위한 아키텍처에 대해 알아봅니다.
+description: Adobe Commerce Optimizer을 사용하는 Salesforce Commerce Cloud의 아키텍처에 대해 알아봅니다.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
@@ -11,7 +10,7 @@ duration: 288
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19014
 exl-id: 1e0edcbb-5619-45c2-b06d-9133f23a634f
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
