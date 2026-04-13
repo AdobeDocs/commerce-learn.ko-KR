@@ -37,4 +37,4 @@ Adobe Commerce Optimizer은 유기 트래픽을 강화하고 A/B 테스트와 �
 
 ## 추가 리소스
 
-[[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+[[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
