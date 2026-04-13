@@ -1,23 +1,19 @@
 ---
 title: Adobe Commerce을 위한 프로세스 외부 확장성
 description: Adobe App Builder에 대해 알아보고 이 애플리케이션이 프로세스 외 확장성에 있어 중요한 이유를 알아봅니다.
-landing-page-description: App Builder란 무엇이며 Adobe Commerce 개발 전략에 어떻게 도움이 되는지 알아봅니다.
-short-description: App Builder란 무엇이며 Adobe Commerce 개발 전략에 어떻게 도움이 되는지 알아봅니다.
-kt: 11433
-doc-type: tutorial
+jira: KT-11433
+doc-type: Tutorial
 duration: 322
-audience: all
-last-substantial-update: 2023-2-16
+last-substantial-update: 2023-02-16T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '728'
-ht-degree: 6%
+source-wordcount: '698'
+ht-degree: 2%
 
 ---
 
@@ -91,6 +87,6 @@ App Builder은 사용자 정의 애플리케이션을 개발하는 데 도움이
 
 ## 지원 {#support}
 
-개발자 지원 요청의 경우 도움이 필요하면 [Experience League 포럼](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=ko){target="_blank"}을 사용하십시오.
+개발자 지원 요청의 경우 도움이 필요하면 [Experience League 포럼](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"}을 사용하십시오.
 
 {{$include /help/_includes/app-builder-related-links.md}}
