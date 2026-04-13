@@ -1,22 +1,18 @@
 ---
 title: 프로젝트 및 작업 공간 작업
 description: Adobe Developer 콘솔을 사용하여 프로젝트 및 작업 공간에서 작업하는 방법을 알아봅니다.
-landing-page-description: Adobe Developer 콘솔을 사용하는 방법을 알아봅니다. API Mesh에서 사용할 프로젝트 및 작업 공간에 대해 알아봅니다.
-short-description: Adobe Developer 콘솔을 사용하는 방법을 알아봅니다. API Mesh에서 사용할 프로젝트 및 작업 공간에 대해 알아봅니다.
-kt: 11803
-doc-type: tutorial
+jira: KT-11803
+doc-type: Tutorial
 duration: 593
-audience: all
-last-substantial-update: 2023-2-8
+last-substantial-update: 2023-02-08T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -38,11 +34,11 @@ ht-degree: 0%
 * CLI에서 선택한 조직, 프로젝트 또는 작업 공간 변경
 * 간단한 API Mesh 명령 테스트
 
->[!VIDEO](https://video.tv.adobe.com/v/3419741?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414123?learn=on)
 
 ## Adobe Developer Console에 대해 알아보기
 
-Adobe Developer Console에서 `Organization > Project > Workspace > [API]` 계층은 API가 조직에 맞는 방식을 나타냅니다. Adobe App Builder, 콘솔에 로그인 및 기본 문제 해결에 대한 자세한 내용을 보려면 [첫 번째 App Builder 애플리케이션 만들기](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}를 참조하세요.
+Adobe Developer Console에서 `Organization > Project > Workspace > [API]` 계층은 API가 조직에 맞는 방식을 나타냅니다. Adobe App Builder, 콘솔에 로그인 및 기본 문제 해결에 대한 자세한 내용을 보려면 [첫 번째 App Builder 애플리케이션 만들기](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}를 참조하세요.
 
 ## Adobe Developer Console에서 프로젝트 소개
 
