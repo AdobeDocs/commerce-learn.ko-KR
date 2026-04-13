@@ -39,4 +39,4 @@ ht-degree: 0%
 
 * [API Mesh Starter 키트 GitHub 리포지토리](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Adobe Developer 문서 graphql-mesh-gateway](https://developer.adobe.com/graphql-mesh-gateway/)
-* [API Mesh 비디오의 재생 목록](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [API Mesh 비디오의 재생 목록](https://experienceleague.adobe.com/ko/playlists/commerce-get-started-app-builder-and-api-mesh)
