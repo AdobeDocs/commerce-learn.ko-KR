@@ -3,7 +3,7 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 2b41adb47f7e6dd482a9bf071f1b48b1456c8214
+source-git-commit: 68c27de91287f83f044ec777de3ee0cda37704b2
 workflow-type: tm+mt
 source-wordcount: '932'
 ht-degree: 3%
@@ -97,7 +97,7 @@ ht-degree: 3%
 
 + 확장성 {#extensibility}
    + 백엔드 개발 {#backend-development}
-      + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+      + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [모듈 만들기](../backend-development/create-module.md)
       + [제품 속성 추가](../backend-development/add-product-attribute.md)
       + [종속성 삽입 예](../backend-development/dependency-injection.md)
@@ -152,7 +152,6 @@ ht-degree: 3%
       + AI 도구를 사용하여 분할 결제 POC 만들기 {#create-a-split-payment-poc}
          + [분할 결제 POC 만들기: App Builder 및 AI 도구](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
          + [분할 결제 POC 만들기: App Builder 전체 데모](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
-
       + AI 도구를 사용하여 맞춤형 배송률 만들기 {#custom-shipping-rates-ai-tools}
          + [소개 및 설정](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [AI 도구 및 Adobe 스타터 키트](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
