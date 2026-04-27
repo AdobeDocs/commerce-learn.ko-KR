@@ -8,17 +8,17 @@ level: Intermediate
 doc-type: Technical Video
 duration: 955
 jira: KT-20902
-last-substantial-update: 2026-04-24T00:00:00Z
-source-git-commit: b98e827d7017c59b0df4c459ea913d69a55f0d56
+last-substantial-update: 2026-04-27T00:00:00Z
+source-git-commit: b3a9cee9ab59307883444650e8ee2423ab630b6b
 workflow-type: tm+mt
-source-wordcount: '1045'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
 
 # 분할 결제 POC 만들기: App Builder 전체 데모
 
-Adobe Commerce 및 Adobe App Builder에 구축된 분할 결제 증명 개념에 대한 전체적인 연습입니다. 데모에서는 이미 AI 도구와 프롬프트를 사용하여 처리 중인 Commerce 확장 및 App Builder 앱을 생성했다고 가정합니다. 이 비디오는 해당 코드가 병합되고, 클라우드의 Commerce(Luma)에 배포되고, App Builder 프로젝트가 라이브된 후 어떻게 되는지 보여 줍니다.
+Adobe Commerce 및 Adobe App Builder에 구축된 분할 결제 증명 개념에 대한 전체적인 연습입니다. 데모에서는 이미 AI 도구와 프롬프트를 사용하여 처리 중인 Commerce 확장 및 App Builder 앱을 제작했다고 가정합니다. 이 비디오는 해당 코드가 병합되고, 기본 Luma 테마를 사용하여 Adobe Commerce Cloud 웹 사이트에 배포되고, App Builder 프로젝트가 라이브된 후 어떻게 되는지 보여 줍니다.
 
 쇼핑객이 현금 일부와 **[!UICONTROL Store Credit]** 일부를 지불합니다. Commerce은 스토어프론트에 필요한 동기 체크아웃 및 API를 소유하며 App Builder은 오케스트레이션, 운영자 워크플로 및 I/O 이벤트 소비자를 처리합니다. 참조 구현에서는 여전히 많은 판매자에게 일반적인 경로인 Edge Delivery Services 상점 대신 Commerce(PaaS) 프로젝트와 Luma 기본 체크아웃을 사용합니다. 다른 토폴로지에서 **Adobe Commerce as a Cloud service**&#x200B;을(를) 사용하는 경우 App Builder 코드는 비슷하지만 상점 및 진행 중인 작업이 다르게 보입니다. Luma의 클라우드에서 온-프레미스, 자체 호스팅 및 Commerce의 경우 이 비디오는 새로운 기능을 위해 처리 중인 코드와 App Builder 간의 실제 분할을 보여 줍니다.
 
