@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 47b35088f2d3139d58791a2f7d327159db8f2175
+source-git-commit: b98e827d7017c59b0df4c459ea913d69a55f0d56
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '924'
 ht-degree: 3%
 
 ---
@@ -149,6 +149,7 @@ ht-degree: 3%
       + [Adobe Exchange에서 앱 설치](../app-builder/install-app-builder-app.md)
       + [App Builder 소개](../app-builder/introduction-to-app-builder.md)
       + [분할 결제 POC 만들기: App Builder 및 AI 도구](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
+      + [분할 결제 POC 만들기: App Builder 전체 데모](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
       + [App Builder용 확장성 프레임워크](../app-builder/extensibility-framework-commerce-eventing.md)
       + AI 도구를 사용하여 맞춤형 배송률 만들기 {#custom-shipping-rates-ai-tools}
          + [소개 및 설정](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
@@ -276,6 +277,4 @@ ht-degree: 3%
    + [코호트 Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [미래를 준비하는 중](../business-intelligence/prepare-for-future.md)
-
-
 
