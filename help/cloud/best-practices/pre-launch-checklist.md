@@ -11,12 +11,25 @@ last-substantial-update: 2024-04-17T00:00:00.000Z
 jira: KT-15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
 TQID: https://experienceleague.adobe.com/czbb8zkX55fzgKiZthAj4whBCF-IL2bEox0M7rDr9oE
-product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-subfeature_v2: id: f8ddfd3b-6194-46e8-a176-0e918039be56
-role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c1579802-ddd4-4214-8a91-97b2066abe11id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2:
+  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
 source-wordcount: 2365
@@ -43,7 +56,7 @@ ht-degree: 0%
 1. 테스트 및 라이브에 대한 설명서를 검토하십시오. [사이트 시작 설명서](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/launch/overview){target="_blank"}
 
    >[!NOTE]
-   >필요한 모든 작업 항목을 통합하여 파트너 또는 시스템 통합자와 함께 포괄적인 _&quot;go-live 준비 계획&quot;_&#x200B;이(가) 완전히 준비되었는지 확인하십시오. 출시 전 체크리스트에서는 Adobe의 모범 사례를 강조하지만 _**자체 Go-Live 준비 계획의 필요성을 대체하지 않습니다**_.
+   >필요한 모든 작업 항목을 통합하여 파트너 또는 시스템 통합자와 함께 포괄적인 _&quot;go-live 준비 계획&quot;_&#x200B;이(가) 완전히 준비되었는지 확인하십시오. 출시 전 체크리스트에서는 Adobe의 모범 사례를 강조하지만 _&#x200B;**자체 Go-Live 준비 계획의 필요성을 대체하지 않습니다**&#x200B;_.
 
 2. [!BADGE Blocker]{type=caution tooltip="잠재적 차단제"} SWAT(지원 인사이트) 권장 사항 및 정보 검토([사용 안내서](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
 3. 최종 사용자 및 판매자가 백엔드 작업을 포함하여 UAT(사용자 승인 테스트)를 완료했는지 확인합니다.
@@ -93,7 +106,7 @@ Adobe Commerce Cloud는 스테이징 및 프로덕션 환경 모두에 대해 Ma
 * [Galera 클러스터 복제 및 흐름 제어](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"}(심층 분석)
 
 1. 데이터베이스 로드가 많은 경우 성능을 향상시키려면 [MySQL 슬레이브 연결](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"}을 사용하는 것이 좋습니다.
-2. 모든 데이터베이스 테이블의 행 형식이 COMPACT](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"}이(가) 아닌 [DYNAMIC으로 설정되어 있는지 확인하십시오(온-프레미스 대 클라우드 마이그레이션의 경우 특히 그러함).
+2. 모든 데이터베이스 테이블의 행 형식이 COMPACT[&#128279;](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"}이(가) 아닌 DYNAMIC으로 설정되어 있는지 확인하십시오(온-프레미스 대 클라우드 마이그레이션의 경우 특히 그러함).
 3. 모든 테이블에 대해 데이터베이스 저장소 엔진을 [MyISAM에서 InnoDB](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud#convert-all-myisam-tables-to-innodb){target="_blank"}(으)로 변경합니다.
 4. 크기가 1GB를 초과하는 데이터베이스 테이블을 미리 검토하고 최적화합니다.
 5. 데이터베이스 스키마 정보가 최신 상태입니다. ([이 안내서](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/query-optimizations/statistics-for-optimizing-queries/engine-independent-table-statistics#collecting-statistics-with-the-analyze-table-statement){target="_blank"}를 참조하세요.)
