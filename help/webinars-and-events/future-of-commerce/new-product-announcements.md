@@ -1,25 +1,30 @@
 ---
-title: 새 제품 공지
-description: Adobe Commerce as a Cloud Service 및 Adobe Commerce Optimizer에 대해 알아봅니다.
+title: New Product Announcements
+description: Learn about Adobe Commerce as a Cloud Service and Adobe Commerce Optimizer.
 feature: Cloud, Extensibility
 topic: Commerce
 role: User
 level: Beginner
 doc-type: Value Video
 duration: 838
-last-substantial-update: 2025-05-15T00:00:00Z
+last-substantial-update: 2025-05-15T00:00:00.000Z
 jira: KT-18109
 exl-id: e3b7ca08-e8a7-4ff0-a408-4e7e0460e5ed
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/0l0X5ZoGr4ECFKDXGx7VgiQVTHtta-gMiHVkOF9YHG8
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: 227
 ht-degree: 0%
 
 ---
 
-# 새 제품 공지
+# New product announcements
 
-4부로 구성된 웨비나 시리즈 중 첫 번째 시리즈에서 Adobe Commerce은 디지털 소매를 혁신하도록 설계된 두 가지 획기적인 제품을 소개합니다. 원활한 업데이트와 통합 AI 기반 도구를 제공하는 확장 가능한 SaaS 솔루션인 Adobe Commerce as a Cloud Service  Adobe Commerce Optimizer은 전체 플랫폼 마이그레이션 없이도 고객 경험을 현대화합니다. 이러한 혁신은 운영 비용을 절감하고 전환율을 높이며 시장 확장을 가속화하여 기업이 유연하고 점진적인 채택 경로를 통해 원하는 속도로 발전할 수 있도록 하는 것을 목표로 합니다.
+In the first of a four-part webinar series, Adobe Commerce introduces two groundbreaking products designed to transform digital retail. Adobe Commerce as a Cloud Service, a scalable SaaS solution offering seamless updates and integrated AI-powered tools.  Adobe Commerce Optimizer, which modernizes customer experiences without requiring a full platform migration. These innovations aim to reduce operational costs, boost conversion rates, and accelerate market expansion—empowering businesses to evolve at their own pace with flexible, incremental adoption paths.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -30,15 +35,15 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠 {#video-content}
 
-* 두 가지 새로운 제품: Adobe Commerce as a Cloud Service 및 Adobe Commerce Optimizer, 둘 다 디지털 상거래 작업을 현대화하고 간소화하도록 설계되었습니다.
-* Adobe Commerce as a Cloud Service은 통합된 AI 도구, 모듈식 기능 및 절감된 운영 비용을 갖춘 완전히 관리되는 다중 임차인 SaaS 플랫폼을 제공합니다.
-* Adobe Commerce Optimizer을 사용하면 복잡하거나 레거시 시스템을 보유한 기업이 전체 플랫폼 재구축 없이 고객 경험을 현대화할 수 있으므로 클라우드 서비스의 가교 역할을 할 수 있습니다.
-* 기존 솔루션에 대한 지속적인 지원과 확장된 버전 지원 타임라인을 통해 유연한 증분 채택 경로를 통해 기업이 원하는 속도로 전환할 수 있습니다.
+* Two new products: Adobe Commerce as a Cloud Service and Adobe Commerce Optimizer, both designed to modernize and streamline digital commerce operations.
+* Adobe Commerce as a Cloud Service offers a fully managed, multi-tenant SaaS platform with integrated AI tools, modular capabilities, and reduced operational costs.
+* Adobe Commerce Optimizer enables businesses with complex or legacy systems to modernize their customer experience without a full re-platform, serving as a bridge to the cloud service.
+* Flexible, incremental adoption paths allow businesses to transition at their own pace, with continued support for existing solutions and extended version support timelines.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458484?learn=on)
 
 ## 이 시리즈의 추가 비디오
 
-[비용 대폭 절감](./drastically-cut-costs.md)
-[충전 전환율](./supercharge-conversion-rates.md)
-[빠른 경로 확장](fast-track-expansion.md)
+[Drastically cut costs](./drastically-cut-costs.md)
+[Supercharge conversion rates](./supercharge-conversion-rates.md)
+[Fast track expansion](fast-track-expansion.md)

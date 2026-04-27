@@ -1,27 +1,34 @@
 ---
-title: 범주 만들기
-description: 제품 카탈로그의 기본 범주 구조를 정의하는 방법을 알아봅니다.
+title: Create a Category
+description: Learn how to define the basic category structure for your product catalog.
 kt: 10549
 doc-type: feature video
 duration: 164
 audience: all
 activity: use
-last-substantial-update: 2022-12-28T00:00:00Z
+last-substantial-update: 2022-12-28T00:00:00.000Z
 feature: Configuration, System, Site Navigation
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 2193b580-c8c1-4371-aefc-94720b560360
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/fuVZjN6sr6y-cc9UE-dFqQyEyGF7V-QsaGqJtRK6D4I
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c18ed297-2187-4aec-affb-9d9654eca6fcid: dac87252-6066-4d6e-a9d2-f6d84c323de7
+subfeature_v2: id: e91a50b1-0b31-436e-9033-00e4776e94cb
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: 127
 ht-degree: 0%
 
 ---
 
-# 범주 만들기
+# Create a Category
 
-제품을 카탈로그에 추가하기 전에 카탈로그의 기본 범주 구조를 설정해야 합니다. 제품은 0개 이상의 카테고리에 할당될 수 있습니다. 일반적으로 카테고리는 제품이 카탈로그에 추가되기 전에 미리 만들어집니다. 그러나 제품을 만드는 동안 &quot;즉석으로&quot; 카테고리를 추가할 수도 있습니다.
+Before you add products to your catalog, you must establish the basic category structure of your catalog. Products may be assigned to zero or more categories. Categories are typically created in advance, before products are added to the catalog. However, you can also add categories &quot;on the fly&quot; while creating a product.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -30,10 +37,10 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3410137?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343746?learn=on)
 
 ## 추가 리소스
 
-* [범주 만들기 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html?lang=ko)
-* [범주 권한 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html?lang=ko)
-* [위쪽 탐색 - [!DNL Commerce] 카탈로그 관리 가이드](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html?lang=ko)
+* [Create Categories - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
+* [Category Permissions - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
+* [Top Navigation - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)

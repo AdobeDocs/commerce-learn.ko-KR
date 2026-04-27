@@ -1,6 +1,6 @@
 ---
 title: Edge Delivery Services 사용자 지정 체크아웃
-description: Developer Ali가 우수 사례 및 코드 재사용을 사용하여 게재 옵션, 여러 단계 체크아웃을 포함하여 Adobe Commerce 체크아웃을 사용자 지정하는 방법을 알아봅니다​.
+description: Developer Ali가 모범 사례 및 코드 재사용을 사용하여 게재 옵션 및 여러 단계 체크아웃을 포함하여 Adobe Commerce 체크아웃을 사용자 지정하는 방법을 알아봅니다. ​
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -10,9 +10,15 @@ duration: 885
 last-substantial-update: 2025-1-2
 jira: KT-16723
 exl-id: e6b95ff0-9a41-43ac-9f02-c84a70747d64
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/sHAJy3AIwUgyWlGcViRb9ZT0ymIOap6HybG--NbI0jM
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: 160
 ht-degree: 0%
 
 ---
@@ -23,7 +29,7 @@ ht-degree: 0%
 
 ## 배울 내용
 
-기존 코드 및 다음 모범 사례를 재사용하는 동안 배송 옵션 및 예상 비용과 같은 요소를 제거 및 다시 추가하고, 여러 단계의 체크아웃 프로세스를 구현하여 Edge Delivery Services 장바구니 드롭인 체크아웃 경험을 사용자 지정하는 예를 알아봅니다&#x200B;.
+기존 코드와 다음 모범 사례를 재사용하는 동안 배송 옵션 및 예상 비용과 같은 요소를 제거 및 다시 추가하고, 여러 단계의 체크아웃 프로세스를 구현하여 Edge Delivery Services 장바구니 드롭인 체크아웃 경험을 사용자 지정하는 예를 알아봅니다. &#x200B;
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -35,8 +41,8 @@ ht-degree: 0%
 * 여러 단계 체크아웃 &#x200B; 구현
 * 기존 코드 및 모범 사례 재사용
 
->[!VIDEO](https://video.tv.adobe.com/v/3442657?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
 
 ## 추가 설명서
 
-* [여러 단계 게스트 체크아웃](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=ko)
+* [여러 단계 게스트 체크아웃](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)

@@ -4,15 +4,20 @@ description: 이 샘플 응용 프로그램의 app.config.yaml 파일에 있는 
 jira: KT-12929
 doc-type: Tutorial
 duration: 136
-last-substantial-update: 2023-03-13T00:00:00Z
+last-substantial-update: 2023-03-13T00:00:00.000Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
-source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
+TQID: https://experienceleague.adobe.com/iK4PPaI2-vxQK32DMfkMRZMgNYpLExMbNge2lXIJzLg
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: 86
 ht-degree: 0%
 
 ---
@@ -30,7 +35,7 @@ ht-degree: 0%
 * `app.config.yaml` 파일이 논의되었습니다.
 * 다른 `.js`개 파일에 대한 정의 연결 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3430841?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416592?learn=on)
 
 ## 코드 샘플
 

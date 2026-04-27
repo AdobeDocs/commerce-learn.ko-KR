@@ -1,7 +1,7 @@
 ---
-title: Adobe Commerce 통합 시작 키트 모범 사례 및 온보딩 프로세스에 대해 알아봅니다.
-description: Adobe Starter Kit를 사용하여 모범 사례 및 온보딩 팁을 학습하여 Commerce 통합 마스터하기.
-landing-page-description: 시작 키트를 사용하는 것과 관련된 설정, 구성 및 배포 프로세스에 대한 실용적인 통찰력을 제공하는 방법에 대해 알아봅니다.
+title: Learn about the Adobe Commerce Integration Starter Kit Best Practices and Onboarding Process.
+description: Mastering Commerce Integrations by learning best practices and onboarding tips with Adobe Starter Kit.
+landing-page-description: Learn offering practical insights into the setup, configuration, and deployment processes involved using the starter kit.
 kt: 15867
 doc-type: video
 duration: 602
@@ -13,35 +13,41 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 59b9016e-4327-4669-b0ae-e4299433724f
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/Vdd-DzzdFA8aFlqceP2AWwbM8lqRsz029nsWtWUkpVo
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: 187
 ht-degree: 0%
 
 ---
 
-# Adobe 스타터 키트를 사용한 백오피스 통합
+# Back office Integrations using the Adobe Starter Kit
 
-Adobe Commerce 통합 시작 키트 사용과 관련된 설정, 구성 및 배포 프로세스에 대한 실용적인 통찰력을 제공하여 Adobe Commerce을 외부 시스템과 통합하는 방법을 알아봅니다.
+Learn how to integrate Adobe Commerce with external systems, offering practical insights into the setup, configuration, and deployment processes involved in using the Adobe Commerce integration starter kit.
 
 ## 대상자
 
-* 복제에서 라이브 배포에 이르기까지 상거래 통합에 대한 모범 사례를 배우고자 하는 개발자.
-* 온보딩 및 성공적인 배포 유효성 검사에 대해 이해하려는 모든 사용자.
-* insight에서 이벤트 공급자, 구독 및 시스템 간 동기화를 구성하기를 원하는 소프트웨어 엔지니어와 프로그래머입니다.
+* Developers who want to learn best practices for commerce integration from cloning to live deployment.
+* Anyone who wants to understand onboarding and successful deployment validation.
+* Software engineers and programmers who want insight into configuring event providers, subscriptions, and synchronization between systems.
 
 ## 비디오 콘텐츠
 
-* 복제에서 라이브 배포에 이르기까지 상거래 통합에 대한 우수 사례입니다.
-* 성공적인 배포의 유효성 검사를 포함하여 온보딩에 필요한 단계입니다.
-* 구성 파일은 온보딩 프로세스를 사용자 정의합니다.
-* 스크립트를 실행하여 이벤트 공급자 및 구독을 만들고 구성합니다.
-* 동기화를 위해 Commerce 및 App Builder에서 이벤트 업데이트.
+* Best practices for commerce integration from cloning to live deployment.
+* Steps required for onboarding, including validation of successful deployment.
+* Configuration files customize the onboarding process.
+* Running scripts to create and configure event providers and subscriptions.
+* Updating events in Commerce and App Builder for synchronization.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452777?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 
 ## 코드 샘플
 
-* [등록 및 이벤트 사용자 지정](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/customize-registrations-and-events)
+* [Customize registrations and events](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/customize-registrations-and-events)

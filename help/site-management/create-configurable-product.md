@@ -6,15 +6,20 @@ doc-type: video
 duration: 1760
 audience: all
 activity: use
-last-substantial-update: 2023-12-15T00:00:00Z
+last-substantial-update: 2023-12-15T00:00:00.000Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/XAvtOnOIycqQ4z-uztWuVzzv0--eVit-I-QDnl67ba8
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c18ed297-2187-4aec-affb-9d9654eca6fcid: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '952'
+source-wordcount: 994
 ht-degree: 0%
 
 ---
@@ -31,7 +36,7 @@ ht-degree: 0%
 
 REST API를 사용하여 구성 가능한 제품을 만듭니다.
 
-1. 후속 API 호출에 ID 번호를 사용하려면 [특성 집합](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=ko)의 특성을 가져옵니다.
+1. 후속 API 호출에 ID 번호를 사용하려면 [특성 집합](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)의 특성을 가져옵니다.
 1. 구성 가능한 제품에서 사용할 간단한 제품을 만듭니다.
 1. 구성 가능한 빈 제품을 만들고 간단한 제품을 연결합니다.
 1. 구성 가능한 제품에 대한 제품 속성을 설정합니다.
@@ -102,7 +107,7 @@ API를 사용하여 cURL을 사용하여 다음 POST 요청을 전송하여 첫 
 요청을 제출하기 전에 환경에 대한 값으로 예제를 업데이트하십시오.
 
 * `"attribute-set": 10`을(를) 변경하여 `10`을(를) 환경의 특성 집합 ID로 바꾸십시오.
-* `"value": "13"`을(를) 환경의 값으로 바꾸려면 `13`을(를) 변경하십시오.
+* `13`을(를) 환경의 값으로 바꾸려면 `"value": "13"`을(를) 변경하십시오.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -348,7 +353,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 
 ## 추가 리소스
 
-* [구성 가능한 제품 자습서 만들기](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-* [구성 가능한 제품](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=ko){target="_blank"}
+* [구성 가능한 제품 튜토리얼 만들기](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
+* [구성 가능한 제품](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
 * [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

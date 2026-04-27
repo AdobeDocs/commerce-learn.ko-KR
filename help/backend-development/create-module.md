@@ -1,42 +1,47 @@
 ---
 title: 모듈 만들기
-description: Adobe Commerce에서 모듈을 생성 및 등록하고, 설정을 실행하고, 관리 영역, 상점 및 REST API 컨텍스트의 PSR 로거에 로그인하는 플러그인을 추가합니다.
+description: Create and register a module in Adobe Commerce, run setup, and add plugins that log to the PSR logger in the admin area, storefront, and REST API contexts.
 jira: KT-5614
 doc-type: Technical Video
 duration: 1113
 activity: use
-last-substantial-update: 2026-03-23T00:00:00Z
+last-substantial-update: 2026-03-23T00:00:00.000Z
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, Developer
 level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
-source-git-commit: 1e67193c9b80c929ec391acef771562fb930cc67
+TQID: https://experienceleague.adobe.com/AQGDT8dQWONS9hrlCvFZcRdN8gLW-MBmQ5N3FCs4nOA
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: 271
 ht-degree: 0%
 
 ---
 
 # 모듈 만들기
 
-모듈은 [!DNL Commerce]의 구조적 요소이며, 모듈은 시스템의 백본을 형성합니다. 일반적으로 모듈을 빌드하여 사용자 지정을 시작합니다.
+A module is a structural element of [!DNL Commerce]—modules form the backbone of the system. You typically start a customization by building a module.
 
 ## 이 비디오는 누구의 것입니까?
 
 * 백엔드 개발자
 
-## 모듈 추가 단계
+## Steps to add a module
 
-1. 모듈 폴더를 만듭니다.
-2. `etc/module.xml` 파일을 만듭니다.
-3. `registration.php` 파일을 만듭니다.
-4. 모듈을 등록 및 설치하려면 `bin/magento setup:upgrade`을(를) 실행하십시오.
-5. 모듈이 작동하는지 확인합니다.
+1. Create the module folder.
+2. Create the `etc/module.xml` file.
+3. Create the `registration.php` file.
+4. Run `bin/magento setup:upgrade` to register and install the module.
+5. Check that the module is working.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412457?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
 
-### module.xml 파일
+### The module.xml file
 
 ```xml
 <?xml version="1.0"?>
@@ -50,7 +55,7 @@ ht-degree: 0%
 </config>
 ```
 
-### registration.php 파일
+### The registration.php file
 
 ```php
 <?php
@@ -63,19 +68,19 @@ ComponentRegistrar::register(
     __DIR__);
 ```
 
-### 플러그인 추가
+### Add a plugin
 
-그런 다음 기본 모듈에 기능을 추가합니다. Adobe Commerce 개발에서 플러그인을 필수 도구로 사용합니다. 이 비디오 및 튜토리얼에서는 플러그인을 만드는 방법을 보여 줍니다.
+Next, you add functionality to your basic module. You use plugins as essential tools in Adobe Commerce development. This video and tutorial show you how to create a plugin.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420255?learn=on)
 
-### 플러그인에 대해 기억해야 할 사항
+### Things to remember for plugins
 
-* `di.xml`에서 모든 플러그인을 선언합니다.
-* 각 플러그인에 고유한 이름을 지정합니다.
-* 선택적으로 `disabled` 및 `sortOrder` 특성을 설정할 수 있습니다.
-* `di.xml` 파일이 포함된 폴더를 선택하여 플러그 인 범위를 설정합니다.
-* 대상 메서드 호출 전, 후 또는 주변에서 플러그인을 실행합니다.
+* You declare all plugins in `di.xml`.
+* You give each plugin a unique name.
+* You can optionally set the `disabled` and `sortOrder` attributes.
+* You set the plugin scope by choosing which folder contains the `di.xml` file.
+* You run plugins before, after, or around the target method call.
 * `around` 플러그인은 사용하지 마십시오. 유혹을 받지만 잘못된 선택을 나타내고 성능 문제를 일으키는 경우가 많습니다.
 
 ### 플러그인 코드 샘플

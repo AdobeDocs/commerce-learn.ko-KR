@@ -1,8 +1,8 @@
 ---
 title: 장바구니 가격 규칙 만들기
-description: 정의한 조건이 충족될 때 장바구니에서 할인을 적용하는 장바구니 가격 규칙을 만드는 방법을 알아봅니다.
+description: Learn how to create cart price rules that apply discounts in the shopping cart when conditions you define are met.
 doc-type: Tutorial
-last-substantial-update: 2022-12-28T00:00:00Z
+last-substantial-update: 2022-12-28T00:00:00.000Z
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
 role: User
@@ -10,16 +10,22 @@ level: Beginner
 duration: 353
 jira: KT-17148
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/2gmoGQBVz2foQwnGJRlXzWF-OkNGZtiJkQWy0F-0utg
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: d1e21356-0064-4f48-9089-16e3f0dbd2a6id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '677'
+source-wordcount: 701
 ht-degree: 0%
 
 ---
 
 # 장바구니 가격 규칙 만들기
 
-장바구니 가격 규칙은 사용자가 설정한 조건에 따라 장바구니의 항목에 할인을 적용합니다. 할인 혜택은 조건이 충족되거나 고객이 유효한 쿠폰코드를 입력하면 자동으로 적용된다. 할인액은 소계 아래의 장바구니에 표시됩니다. 상태 및 날짜 범위를 변경하여 시즌 또는 프로모션에 대한 규칙을 켜거나 끌 수 있습니다.
+Cart price rules apply discounts to items in the shopping cart based on conditions you set. The discount can apply automatically when conditions are met, or when the customer enters a valid coupon code. The discount appears in the cart under the subtotal. You can turn a rule on or off for a season or promotion by changing its status and date range.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -28,72 +34,72 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
-* 장바구니 가격 규칙 및 선택적 쿠폰 코드를 만듭니다.
-* 장바구니에 할인이 표시되는 방법 및 프로모션을 확인하십시오.
+* Create cart price rules and optional coupon codes.
+* See how discounts appear in the cart and for promotions.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410807?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
 
-## 가격 표시 문제
+## Pricing display issues
 
-경우에 따라 각 라인 항목에 적용된 할인이 표시되어야 하지만 표시된 값이 정확히 일치하지 않을 수 있습니다. 이 문제는 장바구니 가격 규칙이 여러 제품에 대해 하나의 할인을 적용하고 분할이 소수점 두 자리로 균등하게 나누어지지 않을 때 발생합니다.
+In some cases, each line item must show the discount applied, but displayed values may not match exactly. This happens when a cart price rule applies one discount across multiple products and the split does not divide evenly to two decimal places.
 
 >[!BEGINSHADEBOX]
 
-장바구니 가격 규칙 = 장바구니에 있는 2개 제품에 적용되는 10% 할인
-가격 규칙이 적용되는 조건: 장바구니의 총 항목은 2입니다.
-조치는 제품 가격 할인의 퍼센트를 적용하며 해당 할인 금액은 10입니다.
+Cart Price Rule = 10% discount applied to 2 products in the cart
+Condition for price rule to take effect: total items in cart is 2
+Actions apply percent of product price discount and that discount amount is 10
 
-장바구니에 2개의 항목이 추가되며, 각각 $19.95입니다.
+2 items are added to the cart, each are $19.95
 
-할인 금액에 0.1을 곱한 값을 구하려면
+To get the discount amount multiply the product price times 0.1
 
 19.95 x 0.1 = 1.995
 
-이것이 문제입니다. 우리는 소수점 이하 세 자리를 가지고 있습니다. 두 자리가 아니라. 이것을 달러로 바꾸는 것은 이제 문제가 됩니다
+This is the issue, we have 3 decimal places, instead of two. Converting this to dollars is now a problem
 
 >[!ENDSHADEBOX]
 
-### 솔루션
+### The solution
 
-관리자의 판매자의 경우, 가장 명확한 접근 방법은 각 주문 라인을 달러로 할인된 가격으로 표시하는 것입니다. 주문 합계를 정확하게 유지하려면 첫 번째 라인 항목을 위로 반올림하고 나머지 라인 항목에 소수점 세 번째 값을 드롭합니다. 이 시나리오를 검토하십시오.
+For the merchant in the Admin, the clearest approach is to show each ordered line with its discount in dollars. To keep the order total correct, round the first line item up and drop the third decimal on the remaining line items. Review this scenario:
 
 >[!BEGINSHADEBOX]
 
-적용 중인 장바구니 규칙과 동일한 10% 할인
-장바구니에 19.95 제품 2개 추가
+Same 10% discount as above cart rule in effect
+Add 2 products to the cart that are 19.95
 
-각 제품은 1달러 995센트를 할인해 드립니다
-제품 1 - 19.95 x 0.1 = 1.995
+Each product should get $1.995 in discounts
+Product 1 - 19.95 x 0.1 = 1.995
 2 - 19.95 x 0.1 = 1.995
 
-총 3.99개가 고객에게 할인으로 제공된다
+A grand total of 3.99 is provided as a discount to the customer
 
-관리자의 스토어 소유자에게 라인 항목을 표시할 때,
-첫 번째 항목을 조정하여 2.000으로 반올림해야 합니다. 두 번째 항목의 경우 소수점 세 번째 값을 드롭합니다.
-제품 1 = 2.00
-제품 2 = 1.99
+When displaying the line items to the store owner in the admin,
+we need to adjust the first item and round it up to 2.000. For the second item, drop the third decimal.
+Product 1 = 2.00
+Product 2 = 1.99
 
-두 제품의 총 할인액을 합하면 고객에게 제공된 실제 할인액과 일치합니다.
+The total discount of the two products now when summed together matches the actual discount provided to a customer.
 >[!ENDSHADEBOX]
 
-다음은 이 시나리오가 있는 주문의 관리자에게 표시되는 스크린샷입니다.
+Here is a screenshot as it would show in the admin for an order that has this scenario:
 
-![값이 다른 항목들을 표시하는 관리자 보기](../assets/commerce-admin-cart-price-rule-values-different.png)
+![Admin view showing ordered items with different values](../assets/commerce-admin-cart-price-rule-values-different.png)
 
-### 기타 잠재적 솔루션 및 사용되지 않은 이유
+### Other potential solutions and why they were not used
 
 >[!BEGINSHADEBOX]
 
-적용 중인 장바구니 규칙과 동일한 10% 할인
-장바구니에 19.95 제품 2개 추가
+Same 10% discount as above cart rule in effect
+Add 2 products to the cart that are 19.95
 
-각 제품은 1달러 995센트를 할인해 주셔야 합니다
-하지만 그냥 묶어놓으면 할인이 너무 많이 돼.
+Each product should get $1.995 in discounts,
+however if we just round them up, it shows too much discount.
 
-제품 1 - 19.95 x 0.1 = 1.995
-제품 2 - 19.95 x 0.1 = 1.995
+Product 1 - 19.95 x 0.1 = 1.995
+Product 2 - 19.95 x 0.1 = 1.995
 
-모든 항목을 반올림하도록 변환
+Convert to round up all items
 제품 1 새 값은 2.00입니다.
 제품 2 새 값은 2.00입니다.
 
@@ -128,5 +134,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-* [장바구니 가격 규칙 만들기 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=ko){target="_blank"}
-* [쿠폰 코드 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=ko){target="_blank"}
+* [장바구니 가격 규칙 만들기 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
+* [쿠폰 코드 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html){target="_blank"}

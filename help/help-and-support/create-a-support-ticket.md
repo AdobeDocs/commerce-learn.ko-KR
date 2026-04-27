@@ -7,12 +7,18 @@ role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 355
-last-substantial-update: 2024-08-23T00:00:00Z
+last-substantial-update: 2024-08-23T00:00:00.000Z
 jira: KT-15165
 exl-id: f1ade4e9-f6c3-4498-afad-27c0120242be
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/S2bl2x6FNq0bvaWUlTMoCHWSYaxmwLliNVewsDxKNh4
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: 146
 ht-degree: 0%
 
 ---
@@ -32,8 +38,8 @@ Experience League for Adobe Commerce 내에서 지원 티켓을 만드는 방법
 * 양식에 사용된 정보에 따라 권장 문서가 어떻게 변경되는지 알아보십시오
 * 양식 필드에 있는 자리 표시자 텍스트가 어떻게 유용한지 이해하는 것은 올바른 지원 요청에 필요한 정보 유형을 이해하는 데 도움이 됩니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3449560?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
 
 ## Commerce 기술 자료 도움말 센터 안내서
 
-[지원 사례 제출](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[지원 사례 제출](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

@@ -3,16 +3,22 @@ title: 고객 세그먼트 만들기
 description: 주소, 주문 내역, 장바구니 데이터 등을 사용하여 콘텐츠 및 프로모션을 타겟팅할 수 있도록 고객 세그먼트를 만드는 방법을 알아봅니다.
 doc-type: Technical Video
 duration: 221
-last-substantial-update: 2023-04-27T00:00:00Z
+last-substantial-update: 2023-04-27T00:00:00.000Z
 feature: Configuration, System, Personalization, Price Rules
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Intermediate
 jira: KT-10545
 exl-id: 17d68833-eb86-49a8-80e7-16b20e435626
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/PSUrAFZbHxtsEWQ3h-VIHv6-3GzUgyloqN6YtwXw1JA
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: 142
 ht-degree: 0%
 
 ---
@@ -33,9 +39,9 @@ ht-degree: 0%
 * 고객 속성, 주문 및 장바구니 데이터에서 세그먼트를 작성합니다.
 * 세그먼트를 프로모션 및 장바구니 가격 규칙에 연결합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410192?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343659?learn=on)
 
 ## 추가 리소스
 
-* [고객 세그먼트 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html?lang=ko){target="_blank"}
-* [가격 규칙의 고객 세그먼트 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html?lang=ko){target="_blank"}
+* [고객 세그먼트 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html){target="_blank"}
+* [가격 규칙 - [!DNL Commerce] 고객 관리 안내서의 고객 세그먼트](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html){target="_blank"}

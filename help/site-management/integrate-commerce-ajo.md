@@ -7,20 +7,26 @@ role: Admin, Developer
 level: Beginner
 doc-type: Technical Video
 duration: 570
-last-substantial-update: 2024-01-17T00:00:00Z
+last-substantial-update: 2024-01-17T00:00:00.000Z
 jira: KT-14793
 thumbnail: 3426855.jpeg
 exl-id: 2f12c90f-710b-4680-a12e-62c436793b9c
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/ip2-LMzZezPGHDGnK0KbKUB3Pe7p0gwwmSIPtX9QUCg
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157id: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: 276
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce 및 Adobe Journey Optimizer 통합
 
-Adobe Commerce의 [데이터 연결](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=ko){target="blank"}을(를) 사용하여 Commerce 데이터의 잠금을 해제하고 Adobe Journey Optimizer의 도움을 받아 개인화된 엔드 투 엔드 쇼핑객 경험을 실시간으로 제공하는 방법에 대해 알아봅니다.
+Adobe Commerce의 [데이터 연결](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"}을(를) 사용하여 Commerce 데이터의 잠금을 해제하고 Adobe Journey Optimizer의 도움을 받아 개인화된 엔드 투 엔드 쇼핑객 경험을 실시간으로 제공하는 방법에 대해 알아봅니다.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -37,9 +43,9 @@ Adobe Commerce의 [데이터 연결](https://experienceleague.adobe.com/docs/com
 * Adobe Journey Optimizer에서 데이터 연결에서 사용할 수 있는 기본 여정을 사용하여 1:1개의 고객 이벤트를 쉽게 빌드하고 활성화합니다
 * Adobe Journey Optimizer의 기본 메시징 기능을 사용하여 모든 채널에서 실시간으로 쇼핑객과 소통
 
->[!VIDEO](https://video.tv.adobe.com/v/3452477?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426855?learn=on)
 
 ## 추가 리소스
 
-[데이터 연결 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=ko){target="_blank"}
-[데이터 연결 설치](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html?lang=ko){target="_blank"}
+[데이터 연결 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"}
+[데이터 연결 설치](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html){target="_blank"}

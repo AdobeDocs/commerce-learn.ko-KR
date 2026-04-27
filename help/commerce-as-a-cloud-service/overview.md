@@ -11,9 +11,15 @@ topic: Architecture, Commerce, Headless, Performance
 role: Admin, Leader, User
 level: Beginner
 exl-id: ba6cd559-812f-4985-881f-45a9324095f3
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/5qPs-Bkz-AgLjlQfgdHMh7nXyew33l3kz58HBGiqse8
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: d1e21356-0064-4f48-9089-16e3f0dbd2a6id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2: id: db6b6496-d1b5-4ad4-9e18-dea78dae3aa8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: 267
 ht-degree: 0%
 
 ---
@@ -40,8 +46,8 @@ Adobe Commerce as a Cloud Service은 자동 업데이트 및 구성 가능한 �
 * 샌드박스 또는 프로덕션 인스턴스를 빠르고 효율적으로 설정할 수 있도록 간소화된 온보딩 및 셀프서비스 프로비저닝.
 * API 우선 확장성을 통해 서비스의 독립적인 배포, 확장 및 업데이트를 위한 구성 가능한 아키텍처입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443318?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
 
 ## 관련 설명서
 
-* [Adobe Commerce as a Cloud Service 안내서](https://experienceleague.adobe.com/ko/docs/commerce/cloud-service/overview)
+* [Adobe Commerce as a Cloud Service 안내서](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)

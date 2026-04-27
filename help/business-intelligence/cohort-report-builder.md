@@ -15,9 +15,15 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 1d5d6f96-3e0d-4c0d-a8fe-370be6ea1b38
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/H78NPo0SNXPVAnxcBJIn90lUwY4TNWOYenCJgneQzkU
+product_v2: id: cc9c1b69-d771-4a04-84d3-df2e3989418fid: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: b6935462-7263-4ced-a703-60de6a5aeb2did: f42e0a1a-0d79-488d-a83f-f2c30672b137
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: 262
 ht-degree: 0%
 
 ---
@@ -34,7 +40,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Commerce Intelligence을 처음 사용하는 경우 [Adobe Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=ko){target="_blank"}에서 데이터 집계, 분석 및 시각화를 통해 더 나은 비즈니스 통찰력과 결과를 얻을 수 있는 전체 개요를 제공합니다.
+>Commerce Intelligence을 처음 사용하는 경우 [Adobe Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}에서 데이터 집계, 분석 및 시각화를 통해 더 나은 비즈니스 통찰력과 결과를 얻을 수 있는 전체 개요를 제공합니다.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -43,10 +49,10 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/346398?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342407?learn=on)
 
 ## 유용한 리소스
 
-[집단 Report Builder 사용 - Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html?lang=ko)
+[집단 Report Builder 사용 - Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
 
-[질적 집단 분석 만들기 - Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html?lang=ko)
+[질적 집단 분석 만들기 - Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)

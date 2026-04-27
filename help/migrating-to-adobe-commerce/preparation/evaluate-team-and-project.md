@@ -8,12 +8,18 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 336
-last-substantial-update: 2024-10-24T00:00:00Z
+last-substantial-update: 2024-10-24T00:00:00.000Z
 jira: KT-16275
 exl-id: 7b521465-db0b-4755-91bd-013368a9fe5e
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/-1BqPg0V0-13eK-Xv8dr1IWslRuxgST7HQhcc-GGrKE
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c32adafa-ed01-4b31-997e-2413013911b0id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: 290
 ht-degree: 0%
 
 ---
@@ -38,8 +44,8 @@ Adobe Commerce으로 이동할 때는 팀과 프로젝트를 철저히 평가하
 * 프론트엔드 및 백엔드 고려 사항에 대해 알아봅니다.
 * 기존 모듈을 평가하고, 핵심 애플리케이션을 업그레이드하고, 다른 Adobe 솔루션과 통합하여 원활한 마이그레이션을 계획합니다.
  
->[!VIDEO](https://video.tv.adobe.com/v/3447452?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435682?learn=on)
 
 ## 관련 설명서
 
-[Adobe Commerce 소개](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/about)
+[Adobe Commerce 소개](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)

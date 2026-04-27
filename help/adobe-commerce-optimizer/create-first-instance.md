@@ -7,12 +7,16 @@ role: Admin, User
 level: Beginner
 doc-type: Tutorial
 duration: 131
-last-substantial-update: 2025-07-25T00:00:00Z
+last-substantial-update: 2025-07-25T00:00:00.000Z
 jira: KT-18610
 exl-id: 7136b0d6-a29f-42f4-8363-5bd4a2d828fc
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+TQID: https://experienceleague.adobe.com/XER1wNXU6pfVCN2pI8YWTMMsh54HimErWEzJAghTgpk
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: 167
 ht-degree: 0%
 
 ---
@@ -33,9 +37,9 @@ ht-degree: 0%
 * 인스턴스에 적합한 환경과 지역을 선택합니다.
 * 향후 튜토리얼에서 카탈로그 설정을 신속하게 배포하고 준비하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469885?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on)
 
 ## 관련 컨텐츠
 
-* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
