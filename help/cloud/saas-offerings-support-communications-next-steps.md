@@ -52,7 +52,7 @@ Learn about the Adobe Commerce Cloud SaaS offerings, support, and other communic
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432840?captions=kor&learn=on)
 
 ## Acronyms
 

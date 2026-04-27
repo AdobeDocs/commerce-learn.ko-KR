@@ -42,4 +42,4 @@ Learn how to find, install, and validate Adobe Commerce App Builder apps using A
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3471513?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471531?captions=kor&learn=on)

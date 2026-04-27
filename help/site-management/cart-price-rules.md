@@ -45,7 +45,7 @@ Cart price rules apply discounts to items in the shopping cart based on conditio
 * Create cart price rules and optional coupon codes.
 * See how discounts appear in the cart and for promotions.
 
->[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410807?captions=kor&learn=on)
 
 ## Pricing display issues
 

@@ -45,7 +45,7 @@ Learn how to triage and resolve two common errors seen on Adobe Commerce Cloud p
 * Manage Maintenance Mode
 * Efficient Troubleshooting tips
 
->[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447700?captions=kor&learn=on)
 
 
 ## Commands used in the video

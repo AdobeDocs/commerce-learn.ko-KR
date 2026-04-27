@@ -47,4 +47,4 @@ Integrating AI with Adobe Commerce centralizes asset management, enhancing custo
 * Seamless Synchronization between products and assets.
 * Complete Lifecycle Control including approval, removal, and expiration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434083?captions=kor&learn=on)

@@ -44,7 +44,7 @@ The `.env` is a special file that is not part of the sample module, but is impor
 * How to append the file to add new secrets
 * Avoid committing this file because it contains sensitive information
 
->[!VIDEO](https://video.tv.adobe.com/v/3416593?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421070?captions=kor&learn=on)
 
 ## 코드 샘플
 

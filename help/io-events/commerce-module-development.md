@@ -48,7 +48,7 @@ Learn how register events, find supported events, and how to use a new XML file 
 * Learn how to register events in the Commerce instances `app/etc/config.php`
 * Learn how to unsubscribe to an event
 
->[!VIDEO](https://video.tv.adobe.com/v/3415802?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419838?captions=kor&learn=on)
 
 ## 유용한 명령 {#useful-commands}
 

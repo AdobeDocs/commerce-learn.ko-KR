@@ -45,7 +45,7 @@ Learn how to create a downloadable product using the REST API and the Adobe Comm
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453951?captions=kor&learn=on)
 
 ## Allowed downloadable domains
 

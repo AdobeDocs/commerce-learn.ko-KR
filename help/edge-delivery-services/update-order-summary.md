@@ -48,7 +48,7 @@ Learn how to use Adobe Commerce cart drop in and adjust the cart experience.  Th
 * Learn how to include a total amount saved for the cart summary.
 * Understand how to merge lines in the cart summary into one collapsible section.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441192?captions=kor&learn=on)
 
 ## 추가 설명서
 

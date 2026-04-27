@@ -54,4 +54,4 @@ Learn how to use Adobe Commerce Data Connection along with some basic configurat
 * Real-Time CDP audiences updating and modifying segmentation in real-time based on browser data, server-side data (including order history), and data from other sources (i.e., loyalty data).
 * Utilizing Real-Time CDP audiences to personalize both cart price rules and dynamic blocks in Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453825?captions=kor&learn=on)

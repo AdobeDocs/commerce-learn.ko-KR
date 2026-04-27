@@ -41,7 +41,7 @@ The web-src folder for this sample app contains many JavaScript files and folder
 * Typically included files and folders
 * How the `web-src` folder and the contents inside are used in the sample application
 
->[!VIDEO](https://video.tv.adobe.com/v/3416665?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421042?captions=kor&learn=on)
 
 ## 코드 샘플
 

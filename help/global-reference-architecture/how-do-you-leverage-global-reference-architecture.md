@@ -54,6 +54,6 @@ Learn how to leverage Global Reference Architecture or GRA for short. 성공적�
 * Requirement gathering
 * When do you involve the QA team
 
->[!VIDEO](https://video.tv.adobe.com/v/3424604?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456007?captions=kor&learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

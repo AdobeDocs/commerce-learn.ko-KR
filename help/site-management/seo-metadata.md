@@ -47,7 +47,7 @@ Your store is loaded with places where you can enter keyword-rich metadata to im
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/343750?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410177?captions=kor&learn=on)
 
 ## 추가 리소스
 

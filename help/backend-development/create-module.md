@@ -45,7 +45,7 @@ A module is a structural element of [!DNL Commerce]—modules form the backbone 
 4. Run `bin/magento setup:upgrade` to register and install the module.
 5. Check that the module is working.
 
->[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412457?captions=kor&learn=on)
 
 ### The module.xml file
 

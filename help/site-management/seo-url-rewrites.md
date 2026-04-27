@@ -47,7 +47,7 @@ The URL Rewrite tool lets you change any URL that is associated with a product, 
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/343751?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410127?captions=kor&learn=on)
 
 ## 추가 리소스
 
