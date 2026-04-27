@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: e25c2abc470e1f3cb97b153d335482f8a004c644
+source-git-commit: 47b35088f2d3139d58791a2f7d327159db8f2175
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '915'
 ht-degree: 3%
 
 ---
@@ -97,7 +97,7 @@ ht-degree: 3%
 
 + 확장성 {#extensibility}
    + 백엔드 개발 {#backend-development}
-      + [데이터베이스 테이블 수정 모범 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+      + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
       + [모듈 만들기](../backend-development/create-module.md)
       + [제품 속성 추가](../backend-development/add-product-attribute.md)
       + [종속성 삽입 예](../backend-development/dependency-injection.md)
@@ -148,6 +148,7 @@ ht-degree: 3%
    + Adobe Developer App Builder {#adobe-developer-app-builder}
       + [Adobe Exchange에서 앱 설치](../app-builder/install-app-builder-app.md)
       + [App Builder 소개](../app-builder/introduction-to-app-builder.md)
+      + [분할 결제 POC 만들기: App Builder 및 AI 도구](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
       + [App Builder용 확장성 프레임워크](../app-builder/extensibility-framework-commerce-eventing.md)
       + AI 도구를 사용하여 맞춤형 배송률 만들기 {#custom-shipping-rates-ai-tools}
          + [소개 및 설정](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
