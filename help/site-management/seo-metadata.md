@@ -51,4 +51,4 @@ Your store is loaded with places where you can enter keyword-rich metadata to im
 
 ## 추가 리소스
 
-[Meta data - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[Meta data - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html?lang=ko)

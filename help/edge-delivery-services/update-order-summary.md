@@ -52,4 +52,4 @@ Learn how to use Adobe Commerce cart drop in and adjust the cart experience.  Th
 
 ## 추가 설명서
 
-* [Order Summary](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)
+* [Order Summary](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=ko)

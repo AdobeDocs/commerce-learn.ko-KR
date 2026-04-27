@@ -54,6 +54,6 @@ The Upgrade Compatibility Tool (UCT) analyzes incompatibilities between your cur
 
 ## 추가 리소스
 
-* [Upgrade Compatibility Tool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html){target="_blank"}
+* [Upgrade Compatibility Tool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=ko){target="_blank"}
 * [Magento PhpStorm plugin](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm){target="_blank"}
-* [릴리스된 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html){target="_blank"}
+* [릴리스된 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=ko){target="_blank"}

@@ -49,5 +49,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-* [세금 규칙 - [!DNL Commerce] 저장 및 구매 경험 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
-* [통화 - [!DNL Commerce] 저장 및 구매 경험 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)
+* [세금 규칙 - [!DNL Commerce] 저장 및 구매 경험 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html?lang=ko)
+* [통화 - [!DNL Commerce] 저장 및 구매 경험 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html?lang=ko)

@@ -49,5 +49,5 @@ Merchants with a single store to multiple warehouses, stores, pickup locations, 
 
 ## 추가 리소스
 
-* [Inventory Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+* [Inventory Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=ko)
 * [Inventory Management - Developer REST documentation](https://developer.adobe.com/commerce/webapi/rest/inventory/)

@@ -11,7 +11,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
-badgePaas: label="PaaS만" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Adobe Commerce 온 클라우드 프로젝트(Adobe 관리 PaaS 인프라) 및 온프레미스 프로젝트에만 적용됩니다."
+badgePaas: label="PaaS만" type="Informative" url="https://experienceleague.adobe.com/ko/docs/commerce/user-guides/product-solutions" tooltip="Adobe Commerce 온 클라우드 프로젝트(Adobe 관리 PaaS 인프라) 및 온프레미스 프로젝트에만 적용됩니다."
 TQID: https://experienceleague.adobe.com/w1JoLrqVMp3QDCRX-XwgIMG1i3OHBMorbhLFf9a4lDM
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -49,5 +49,5 @@ Using templates saves you time and effort when creating content (or replacing ol
 
 ## 추가 리소스
 
-* [[!DNL Page Builder] Templates - [!DNL Page Builder] User Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+* [[!DNL Page Builder] Templates - [!DNL Page Builder] User Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=ko)
 * [Add templates - [!DNL Page Builder] Developer Guide](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

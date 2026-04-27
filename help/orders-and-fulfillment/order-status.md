@@ -47,5 +47,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-* [주문 처리 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
-* [주문 상태 - [!DNL Commerce] 저장 및 구매 경험 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)
+* [주문 처리 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html?lang=ko#process-an-order)
+* [주문 상태 - [!DNL Commerce] 저장 및 구매 경험 안내서](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html?lang=ko)

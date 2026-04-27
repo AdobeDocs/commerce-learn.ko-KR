@@ -63,7 +63,7 @@ The magento-cloud CLI tool is designed to help developers and system administrat
 
 In this initial section of the example code, `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1` it is requesting the URL for the environment. The returned value looks something like this `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`. Every once in a while it looks more like this `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  This first command is rather simple, and now it&#39;s time to move along to the next command.
 
-For more information, please read [Cloud CLI Overview](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+For more information, please read [Cloud CLI Overview](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## Using `sed` for search and replace
 
@@ -133,4 +133,4 @@ dig +short 6.abcikdxbg789.ent.magento.cloud
 
 ## 관련 설명서
 
-* [지역 IP 주소](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [지역 IP 주소](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}

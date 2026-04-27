@@ -47,4 +47,4 @@ Adobe의 CAPS(Cloud Automation Patching Service)는 Adobe Commerce SWAT(Site Wid
 
 ## 관련 설명서
 
-* [Cloud Automation 패치 서비스 설명서](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)
+* [Cloud Automation 패치 서비스 설명서](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/caps-tool/intro)
