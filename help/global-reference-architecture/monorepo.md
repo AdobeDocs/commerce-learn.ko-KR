@@ -13,9 +13,21 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Experienced
 exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/22ayPTG7ZgpcWr5l53Ide2sZeGTN-9P0jept0ZQ6njQ
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1371'
+source-wordcount: 1418
 ht-degree: 0%
 
 ---
@@ -275,7 +287,7 @@ GitHub의 [AntonEvers/gra-meta-foundation](https://github.com/AntonEvers/gra-met
 
 필요한 경우 `packages` 디렉터리 내에 여러 네임스페이스를 사용할 수 있습니다.
 
-개발은 패키지 디렉터리에서 수행됩니다. `packages`을(를) 실행하면 `vendor` 디렉터리 내의 패키지에 대한 심볼릭 링크가 `composer update` 디렉터리에 생성됩니다. 이렇게 하면 코드가 Adobe Commerce 설치의 일부가 됩니다.
+개발은 패키지 디렉터리에서 수행됩니다. `composer update`을(를) 실행하면 `packages` 디렉터리 내의 패키지에 대한 심볼릭 링크가 `vendor` 디렉터리에 생성됩니다. 이렇게 하면 코드가 Adobe Commerce 설치의 일부가 됩니다.
 
 `bin/magento module:enable --all` 또는 특정 모듈에 대해서만 실행하여 추가된 모듈을 사용하도록 설정하십시오.
 
@@ -291,8 +303,8 @@ bin/magento test:local
 
 자동화된 패키지 생성을 위해서는 여러 가지 옵션이 있습니다. 일부 옵션은 다음과 같습니다.
 
-1. [비공개 패키지 목록](https://packagist.com/)
-1. [Monorepo 빌더 단순화](https://github.com/symplify/monorepo-builder)
+1. [비공개 패키지 사용자](https://packagist.com/)
+1. [Monorepo Builder 단순화](https://github.com/symplify/monorepo-builder)
 1. 자체 솔루션 구축
 
 [개인 패키지 목록](https://packagist.com/)은(는) Git monorepo에서 패키지를 인식하도록 자동화하고 Composer를 통해 표시합니다. 이 안내서는 Adobe Commerce과 호환되며, 빠르고, 유지 관리가 용이하며 오류가 발생하기 쉽습니다. 따라서 이 안내서는 Private Packagist 옵션에 중점을 둡니다.
@@ -315,19 +327,19 @@ Monorepo 패키지를 클릭하고 세부 정보 화면에서 &quot;편집&quot;
 
 Monorepo 내에서 작성기 패키지를 찾을 수 있는 위치를 정의합니다. 이 예제에서 위치는 `packages/**/composer.json`입니다. Private Packagist가 추출할 패키지를 검색하는 위치를 제한하거나 확장합니다.
 
-패키지 탭에는 저장 후 발견된 모든 패키지가 표시되며, 모노레포 자체는 더 이상 작성기 패키지로 표시되지 않습니다.
+The packages tab will show all found packages after saving, and the monorepo itself will no longer be visible as a Composer package:
 
-![패키지 화면에 모든 모노레포 패키지가 표시된 비공개 패키지 목록 화면](/help/assets/global-reference-architecture/packagist-packages-after-multi-package.png)
+![Private Packagist screen shot with all monorepo packages visible in the packages screen](/help/assets/global-reference-architecture/packagist-packages-after-multi-package.png)
 
-버전은 Composer에서 Git의 모노레포에서 생성된 모든 태그 또는 분기에 대해 모노레포 내의 각 패키지에 대해 생성됩니다.
+A version is created in Composer for each package inside the monorepo, for every tag or branch that is created on the monorepo in Git.
 
-## 프로덕션 환경에 패키지 설치
+## Install the packages to the production environment
 
-개인 패키지 작성자의 지침에 따라 개인 패키지 작성자를 작성기 저장소로 추가합니다. 비공개 패키지 리스트는 packagist.org을 포함한 모든 Composer 저장소 및 Git 저장소에 대한 미러로 사용될 수 있으며 사용해야 합니다. 이러한 방식으로 개발자와 자격 증명을 공유할 필요가 없으며 각 패키지를 완벽하게 제어할 수 있습니다. 이 예는 Adobe Commerce 코드베이스를 공개적으로 노출하므로 이 모범 사례를 따르지 않습니다.
+Follow the instructions from Private Packagist to add Private Packagist as a composer repository. Private Packagist can and should be used as a mirror for all your Composer repositories and Git repositories, including packagist.org. That way credentials do not have to be shared with developers and you have complete control over each package. This example does not follow this best practice as it would expose the Adobe Commerce codebase publicly.
 
-GitHub에서 [GRA Monorepo Brand X](https://github.com/AntonEvers/gra-monorepo-brand-x)을(를) 다운로드하여 프로덕션 스토어의 예를 봅니다.
+Download [GRA Monorepo Brand X](https://github.com/AntonEvers/gra-monorepo-brand-x) from GitHub to see an example of a production store.
 
-프로덕션 저장소에 `packages` 디렉터리가 없고 모든 패키지가 작성기를 통해 설치됩니다. 필요한 유일한 패키지는 다음과 같습니다.
+In the production store, there is no `packages` directory, and all packages are installed through Composer. The only package that is required is:
 
 ```json
     "require": {
@@ -335,19 +347,19 @@ GitHub에서 [GRA Monorepo Brand X](https://github.com/AntonEvers/gra-monorepo-b
     },
 ```
 
-그러나 모든 Adobe Commerce 및 전체 GRA는 이 메타패키지의 요구 사항을 통해 설치됩니다.
+Yet all of Adobe Commerce and the entire GRA is installed through this metapackage&#39;s requirements.
 
-## 버전 관리
+## Versioning
 
-모노리포에 있는 모든 패키지는 모노리포와 동일한 버전을 받습니다. 전체 애플리케이션의 새 버전을 게시하는 것으로 간주합니다. 그러나 프로덕션에서는 다른 모노레포 버전의 패키지를 혼합하여 설치할 수 있습니다.
+All packages in the monorepo receive the same version as the monorepo itself. Think of it as publishing new versions of the entire application. On production, however, you can install a mix of packages from different monorepo versions.
 
-## 덧없는 환경
+## Ephemeral environments
 
-만약 여러분이 단기적인 환경을 사용하거나 그것을 사용할 계획이라면, 모노레포는 훌륭한 선택입니다. Monorepo의 모든 버전 및 분기에는 모든 Adobe Commerce, 타사 및 사용자 정의 모듈 파일이 포함되어 있습니다. 모든 분기에 전체 설치를 수행하면 기능 테스트를 포함한 모든 유형의 테스트를 실행할 수 있습니다. 개별 패키지 또는 벌크 패키지 GRA와 같은 다른 GRA 설정을 사용하면 기능 테스트를 실행하기 전에 먼저 작업 중인 Adobe Commerce 환경을 빌드해야 합니다. DevOps 관점에서 모노레포는 훨씬 더 단순합니다.
+If you use ephemeral environments or you plan to use them, the monorepo is an excellent choice. Every version and branch of the monorepo contains all Adobe Commerce, third party and custom module files. With a complete installation in every branch, it is possible to run every type of test including functional tests. With other GRA setups such as the separate packages or bulk packages GRA, you would first need to build a working Adobe Commerce environment before being able to run functional tests. From a DevOps perspective, monorepo makes it much simpler.
 
 ## 코드 예
 
-이 문서의 코드 예는 개념 증명으로 재생하는 데 사용할 수 있는 Git 저장소 집합에 결합되었습니다.
+The code examples of this article have been combined in a set of Git repositories, which you can use to play around with the proof of concept.
 
-* 예제 Monorepo 리포지토리: <https://github.com/AntonEvers/gra-monorepo>
+* An example monorepo repository: <https://github.com/AntonEvers/gra-monorepo>
 * 예제 프로덕션 저장소: <https://github.com/AntonEvers/gra-monorepo-brand-x>

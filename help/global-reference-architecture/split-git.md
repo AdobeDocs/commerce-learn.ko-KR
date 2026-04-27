@@ -1,6 +1,6 @@
 ---
 title: 분할 Git 글로벌 참조 아키텍처로 Adobe Commerce 설정
-description: 효율적인 코드 관리 및 간소화된 배포를 위해 분할 Git 글로벌 참조 아키텍처를 사용하여 Adobe Commerce을 설정하는 방법에 대해 알아봅니다​.
+description: 효율적인 코드 관리 및 간소화된 배포를 위해 분할 Git 글로벌 참조 아키텍처를 사용하여 Adobe Commerce을 설정하는 방법에 대해 알아봅니다. ​
 kt: 16725
 doc-type: tutorial
 duration: 515
@@ -13,9 +13,25 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/dtuD15AYh-zU8In3X-Z2nHLKVKWGKgyrI9pwpVJsvvs
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1468'
+source-wordcount: 1555
 ht-degree: 0%
 
 ---
@@ -219,7 +235,7 @@ GitHub에는 3개의 테스트 모듈이 있습니다.
 
 ### 로컬 모듈 설치
 
-로컬 코드 풀에 모듈을 추가하는 방법은 간단합니다. 모듈을 다운로드하고 추출합니다. 작성기에 필요합니다. `bin/magento`을(를) 사용하여 사용하도록 설정하고 브랜드 저장소에 파일을 커밋합니다.
+로컬 코드 풀에 모듈을 추가하는 방법은 간단합니다. 모듈을 다운로드하고 추출합니다. Require it with Composer. Enable it with `bin/magento` and commit the files in the brand repository.
 
 ```bash
 cd gra-split-brand-x
@@ -243,7 +259,7 @@ bin/magento test:local
 Local module is installed successfully and working!
 ```
 
-위의 출력이 표시되면 브랜드 저장소에 안전하게 커밋할 수 있습니다.
+If you see the output above, then you can safely commit it to the brand repository.
 
 ```bash
 git add packages/local/antonevers/module-local app/etc/config.php composer.json composer.lock 
@@ -251,13 +267,13 @@ git commit -m 'add local module'
 git push origin main
 ```
 
-### GRA 기반 모듈 설치 및 개발
+### Install and develop a GRA foundation module
 
-GRA 저장소에 모듈을 추가하는 것은 로컬 모듈을 설치하는 것과 다릅니다. 기본적으로 커밋은 gra-split-brand-x 저장소인 origin/main에 추가됩니다. GRA 모듈의 변경 사항은 gra-split-gra 저장소로 푸시하고 나중에 gra-split-brand-x 저장소로 병합해야 합니다.
+Adding a module to the GRA repository is different from installing local modules. By default, commits are added to origin/main, which is the gra-split-brand-x repository. Changes to GRA modules should be pushed to the gra-split-gra repository and merged into the gra-split-brand-x repository afterwards.
 
-### 개발 환경 만들기
+### Create a development environment
 
-모든 코드 풀을 한 곳에 조합하여 개발 환경을 만듭니다. 심볼릭 링크를 통해 로컬, GRA 및 서드파티 리포지토리에 개별적으로 코드를 푸시할 수 있습니다. 브랜드, GRA 및 서드파티 저장소 디렉터리 옆에 새 개발 디렉터리를 만들어 시작합니다.
+Create a development environment with a combination of all code pools in one place. You can push code to the local, GRA and third-party repository individually through symlinks. Start by creating a new development directory next to your brand, GRA and third-party repo directories.
 
 ```text
 .
@@ -290,13 +306,13 @@ ln -s ../../gra-split-gra/packages/gra/ packages/
 └── composer.json
 ```
 
-gra-development 디렉터리에서 `composer install` 및 `bin/magento install`을(를) 실행합니다.
+Run `composer install` and `bin/magento install` in the gra-development directory.
 
-이제 `packages/3rdparty`, `packages/gra` 및 `package/local` 디렉터리에서 직접 변경 내용을 커밋할 수 있습니다. Git은 디렉토리 심볼릭 링크가 있는 Git 저장소에 변경 사항을 커밋합니다. `packages/3rdparty`, `packages/gra` 또는 `package/local` 디렉터리 내에서 git commit 명령을 실행해야 합니다. 프로젝트 루트에서 git 커밋을 실행하지 마십시오.
+It is now possible to commit changes directly from the `packages/3rdparty`, `packages/gra` and `package/local` directories. Git commits the changes to the Git repository that the directories symlink to. It is important that the git commit command is issued inside the `packages/3rdparty`, `packages/gra` or `package/local` directory. Do not run git commit at the project root.
 
-### 예제 모듈 설치
+### Install example modules
 
-패키지 디렉터리에 타사 및 GRA 예제 모듈을 설치합니다.
+Install the third-party and GRA example modules in the packages directories.
 
 ```bash
 cd packages/gra
@@ -331,7 +347,7 @@ GRA module is installed successfully and working!
 3rd party module is installed successfully and working!
 ```
 
-위의 출력이 표시되면 브랜드 저장소에 안전하게 커밋할 수 있습니다. `git remote -v`을(를) 실행하여 올바른 원격으로 커밋하고 있는지 확인하십시오.
+If you see the output above, then you can safely commit it to the brand repository. Run `git remote -v` to verify that you are committing to the right remote.
 
 ```bash
 cd packages/gra
@@ -351,9 +367,9 @@ git commit -m 'add third-party module'
 git push origin main
 ```
 
-### 인스턴스에 코드 전달
+### Deliver code to the instances
 
-GRA 및 서드파티 저장소를 gra-split-brand-x 저장소에 병합하여 코드를 Adobe Commerce 인스턴스에 전달합니다. `composer require`, `bin/magento module:enable`을(를) 실행하고 결과를 커밋하십시오.
+Merge the GRA and third-party repositories to the gra-split-brand-x repository to deliver the code to an Adobe Commerce instance. `composer require`, `bin/magento module:enable`을(를) 실행하고 결과를 커밋하십시오.
 
 ```bash
 cd gra-split-brand-x

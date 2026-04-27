@@ -6,15 +6,25 @@ doc-type: video
 duration: 979
 audience: all
 activity: use
-last-substantial-update: 2023-11-30T00:00:00Z
+last-substantial-update: 2023-11-30T00:00:00.000Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/nosJh3ytiC54wmNWaUmSu9qjZCN-ssjolNZD702EpEg
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: 551
 ht-degree: 0%
 
 ---
@@ -104,7 +114,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## cURL을 사용하여 빈 그룹화된 제품 만들기
+## Create an empty grouped product using cURL
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -123,7 +133,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## 첫 번째 및 두 번째 단순 제품을 그룹화된 제품에 추가합니다
+## Add the first and second simple products to the grouped product
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
@@ -157,9 +167,9 @@ curl --location '{{your.url.here}}/rest/default/V1/products/my-new-grouped-produ
 '
 ```
 
-## 기존의 그룹화된 제품에 세 번째 단순 제품 추가
+## Add the third simple product to the existing grouped product
 
-그룹화된 제품에 처음 연결된 두 제품에 사용되는 적절한 위치 번호(`1` 또는 `2`을 제외한 모든 위치)를 포함하십시오. 이 예제의 경우 위치는 `4`입니다.
+Include the appropriate position number (anything except `1` or `2`), which are used for the first two products originally associated to the grouped product. For this example, the position is `4`.
 
 ```bash
 curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
@@ -182,14 +192,14 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 '
 ```
 
-## 그룹화된 제품에서 간단한 제품 삭제
+## Delete a simple product from a grouped product
 
-그룹화된 제품에서 [간단한 제품을 삭제](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/)하려면 `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`을(를) 사용합니다.
+To [delete a simple product](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) from a grouped product, use: `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
 
-`{type}`(으)로 사용할 항목을 검색하려면 xdebug를 사용하여 요청을 캡처하고 $linkTypes: `related`, `crosssell`, `uupsell` 및 `associated`을(를) 평가하십시오.
-![그룹화된 제품 링크 형식 - 대체 텍스트](/help/assets/site-management/catalog/grouped-types.png "xdebug 세션 중에 캡처된 그룹화된 제품 링크 형식")
+To discover what to use as `{type}`, use xdebug to capture the request and evaluate the $linkTypes: `related`, `crosssell`, `uupsell`, and `associated`.
+![Grouped Product link types - alt text](/help/assets/site-management/catalog/grouped-types.png "Grouped product link types captured during xdebug session")
 
-단순 제품을 그룹화된 제품에 연결할 때 페이로드에는 다음과 유사한 몇 가지 섹션이 포함되어 있습니다.
+When linking the simple products to the grouped product, the payload contained a few sections similar to:
 
 ```bash
         {
@@ -204,9 +214,9 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
         }
 ```
 
-페이로드에서 `link_type` 값 `associated`은(는) DELETE 요청에 필요한 `{type}` 값을 제공합니다. 요청 URL은 `/V1/products/my-new-grouped-product/links/associated/product-sku-three`과(와) 비슷합니다.
+In the payload, the `link_type` value `associated` provides the `{type}` value required in the DELETE request. The request URL will be similar to `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
 
-`product-sku-three` SKU가 있는 그룹화된 제품에서 `my-new-grouped-product` SKU가 있는 간단한 제품을 삭제하려면 cURL 요청을 참조하십시오.
+See the cURL request to delete the simple product with the `product-sku-three` SKU from the grouped product with the `my-new-grouped-product` SKU:
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-new-grouped-product/links/associated/product-sku-three' \
@@ -214,7 +224,7 @@ curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-n
 --header 'Cookie: PHPSESSID=9e61396705e9c17423eca2bdf2deefb2'
 ```
 
-## cURL을 사용하여 그룹화된 제품 가져오기
+## Get a grouped product using cURL
 
 ```bash
 curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-sku' \
@@ -224,7 +234,7 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 
 ## 추가 리소스
 
-* [그룹화된 제품 만들기 및 관리](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
-* [그룹화된 제품](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html?lang=ko){target="_blank"}
+* [Create and manage grouped products](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
+* [Grouped Product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html?lang=ko){target="_blank"}
 * [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

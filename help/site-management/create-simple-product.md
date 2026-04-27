@@ -1,39 +1,49 @@
 ---
-title: 간단한 제품 만들기
-description: REST API 및 Commerce 관리자를 사용하여 간단한 제품을 만드는 방법을 알아봅니다.
+title: Create a simple product
+description: Learn how to create a simple product using the REST API and the Commerce Admin.
 kt: 14446
 doc-type: video
 duration: 197
 audience: all
 activity: use
-last-substantial-update: 2023-11-14T00:00:00Z
+last-substantial-update: 2023-11-14T00:00:00.000Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 62ba8e71-dcff-4c72-8850-029be2c42620
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/LaJ36-CuEiOAzS4VzeONwI6HCfdOFExwuKusXFmqzns
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: 106
 ht-degree: 0%
 
 ---
 
-# 간단한 제품 만들기
+# Create a simple product
 
-REST API 및 Adobe Commerce 관리자를 사용하여 간단한 제품을 만드는 방법을 알아봅니다.
+Learn how to create a simple product using the REST API and the Adobe Commerce Admin.
 
 ## 이 비디오는 누구의 것입니까?
 
 * 웹 사이트 관리자
-* 전자 상거래 머천다이저
-* REST API를 사용하여 Adobe Commerce에서 제품을 만드는 방법을 배우고자 하는 새로운 Adobe Commerce 개발자입니다.
+* eCommerce merchandisers
+* New Adobe Commerce developers who want to learn how to create products in Adobe Commerce using the REST API.
 
 ## 비디오 콘텐츠
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443909?captions=kor&learn=on)
 
-## curl을 사용하여 제품 만들기
+## Create a product using curl
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -51,7 +61,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## curl을 사용하여 제품 가져오기
+## Get a product using curl
 
 ```bash
 curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
@@ -61,5 +71,5 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
 
 ## 추가 리소스
 
-* [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Developer REST tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

@@ -1,33 +1,49 @@
 ---
 title: SEO 메타데이터 관리
-description: 검색 엔진이 사이트를 색인화하는 방법을 개선하기 위해 키워드가 풍부한 메타데이터를 통합하는 방법을 알아봅니다.
+description: Learn how to incorporate keyword-rich meta data to improve the way search engines index your site.
 kt: 10553
 doc-type: feature video
 duration: 223
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00Z
+last-substantial-update: 2023-04-27T00:00:00.000Z
 feature: Configuration, System, Search, Site Navigation
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: affdc3d3-886f-4b39-8c82-c13ee2e79df9
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/Ys-jK95FAHMaF7z4CsR4b2hfJFKJ668xLPSDBpHHD2k
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: 94
 ht-degree: 0%
 
 ---
 
 # SEO 메타데이터 관리
 
-스토어에는 검색 엔진이 사이트를 인덱싱하는 방식을 개선하기 위해 키워드가 풍부한 메타데이터를 입력할 수 있는 위치가 로드됩니다. 시간이 지남에 따라 고객의 구매 패턴과 선호도를 타겟팅하기 위해 메타데이터를 미세 조정할 수 있습니다.
+Your store is loaded with places where you can enter keyword-rich metadata to improve the way search engines index your site. Over time, you can fine-tune the meta data to target the buying patterns and preferences of your customers.
 
 ## 이 비디오는 누구의 것입니까?
 
 * 웹 사이트 관리자
-* 전자 상거래 머천다이저
-* eCommerce 마케터
+* eCommerce merchandisers
+* eCommerce marketers
 
 ## 비디오 콘텐츠
 
@@ -35,4 +51,4 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-[Meta 데이터 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html?lang=ko)
+[Meta data - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html?lang=ko)

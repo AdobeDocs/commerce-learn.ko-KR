@@ -1,25 +1,33 @@
 ---
-title: Adobe Commerce Optimizer 인스턴스에 대한 샘플 데이터를 수집하는 방법
-description: Adobe Commerce Optimizer 인스턴스에 대한 샘플 데이터를 수집하는 방법을 알아봅니다.
+title: How to Ingest Sample Data for an Adobe Commerce Optimizer Instance
+description: Learn how to ingest sample data for an Adobe Commerce Optimizer instance.
 feature: Saas, Storefront
 topic: Commerce, Performance
 role: Admin, User
 level: Beginner
 doc-type: Tutorial
 duration: 446
-last-substantial-update: 2025-08-05T00:00:00Z
+last-substantial-update: 2025-08-05T00:00:00.000Z
 jira: KT-18663
 exl-id: 629f3781-1f64-4417-b51f-03be4ccfc06a
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+TQID: https://experienceleague.adobe.com/KeK3RtTA95vbPO1dlH-GLkqXt2j-h4hJ85Q46-mvZ5k
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: 145
 ht-degree: 0%
 
 ---
 
-# 샘플 데이터 수집 Adobe Commerce Optimizer
+# Ingest sample data Adobe Commerce Optimizer
 
-Adobe Commerce Optimizer 인스턴스에 대한 샘플 데이터를 수집하는 방법을 알아봅니다. 이 비디오에서는 공식 GitHub 저장소 readme 파일을 안내서로 사용하여 시작부터 끝까지 전체 프로세스를 간략하게 설명합니다.
+Learn how to ingest the sample data for your Adobe Commerce Optimizer instance. This video outlines the entire process from start to finish using the official GitHub repository readme as a guide.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -29,15 +37,15 @@ Adobe Commerce Optimizer 인스턴스에 대한 샘플 데이터를 수집하는
 
 ## 비디오 콘텐츠
 
-* Adobe Commerce Optimizer 인스턴스에 대한 샘플 데이터를 단계별로 수집합니다.
-* 정책 만들기.
-* 카탈로그 보기를 만듭니다.
+* Ingest sample data for an Adobe Commerce Optimizer instance step by step.
+* Create Policies.
+* Create Catalog Views.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470481?captions=kor&learn=on)
 
 ## 관련 컨텐츠
 
-* [GitHub 저장소 샘플 데이터](https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion){target="_blank"}
-* [관리자 사용 사례](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
+* [GitHub Repository Sample Data](https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion){target="_blank"}
+* [Admin use case](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
 * [Adobe Commerce Optimizer 시작](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/get-started){target="_blank"}
 * [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}

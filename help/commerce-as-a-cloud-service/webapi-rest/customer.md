@@ -7,12 +7,28 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 457
-last-substantial-update: 2026-01-27T00:00:00Z
+last-substantial-update: 2026-01-27T00:00:00.000Z
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
-source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
+TQID: https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2:
+  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: 505
 ht-degree: 0%
 
 ---
@@ -52,19 +68,19 @@ Developer Console에서 클라이언트 ID, 클라이언트 암호 및 액세스
 
 ## 사전 요구 사항
 
-| 항목 | 값 | 이 값은 어디에 있습니까 |
+| 항목 | 값 | Where is this value |
 |--- |--- |--- |
-| 인스턴스 ID | `<instance_id>` | experience.adobe.com |
-| REST 끝점 | `<rest_endpoint>` | experience.adobe.com |
-| 클라이언트 ID | `<client_id>` | developer.adobe.com/console |
+| Instance ID | `<instance_id>` | experience.adobe.com |
+| REST Endpoint | `<rest_endpoint>` | experience.adobe.com |
+| Client ID | `<client_id>` | developer.adobe.com/console |
 | 클라이언트 암호 | `<client_secret>` | developer.adobe.com/console |
 
 
-## 1단계: 액세스 토큰(서버 간 인증) 가져오기
+## Step 1: Get Access Token (Server-to-Server Authentication)
 
 >[!IMPORTANT]
 >
-> 이 샘플에 표시된 변수가 잘못되었습니다. 프로젝트 자격 증명에서 &lt;client_id> 및 &lt;client_secret>을 사용합니다.
+> The variables shown in this sample are not valid. Use the &lt;client_id> and &lt;client_secret> from your project credentials.
 
 ```bash
 curl -X POST 'https://ims-na1.adobelogin.com/ims/token/v3' \
@@ -72,7 +88,7 @@ curl -X POST 'https://ims-na1.adobelogin.com/ims/token/v3' \
   -d 'grant_type=client_credentials&client_id=<client_id>&client_secret=<client_secret>&scope=openid,AdobeID,email,additional_info.projectedProductContext,profile,commerce.aco.ingestion,commerce.accs,org.read,additional_info.roles'
 ```
 
-**샘플 응답:**
+**Sample Response:**
 
 ```json
 {
@@ -82,15 +98,15 @@ curl -X POST 'https://ims-na1.adobelogin.com/ims/token/v3' \
 }
 ```
 
-## 2단계: 고객 만들기
+## Step 2: Create a Customer
 
 >[!IMPORTANT]
 >
-> 이 샘플에 제공된 URL이 잘못되었습니다. REST 기본 URL을 사용합니다. URL로 &#39;&lt;rest_endpoint>&#39;를 교환합니다. 이 `https://na1-sandbox.api.commerce.adobe.com/AbCYab34cdEfGHiJ27123`과(와) 비슷합니다.
+> The URL provided in this sample is not valid. Use your REST base url. Exchange &#39;&lt;rest_endpoint>&#39; with your URL. It looks  similar to this  `https://na1-sandbox.api.commerce.adobe.com/AbCYab34cdEfGHiJ27123`.
 >
-> 이 끝점에는 URL의 일부로 /rest/ 가 없습니다. 이를 포함하면 오류가 발생합니다.
+> This endpoint does not have /rest/ as part of the URL. Including that leads to an error.
 
-**끝점:** `POST /V1/customers`
+**Endpoint:** `POST /V1/customers`
 
 ```bash
 curl -X POST \
@@ -128,7 +144,7 @@ curl -X POST \
 }
 ```
 
-## 3단계: 고객 업데이트
+## Step 3: Update a Customer
 
 >[!IMPORTANT]
 >

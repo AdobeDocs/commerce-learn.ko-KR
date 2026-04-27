@@ -7,19 +7,31 @@ role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 126
-last-substantial-update: 2024-08-23T00:00:00Z
+last-substantial-update: 2024-08-23T00:00:00.000Z
 jira: KT-15165
 exl-id: cea62272-c7b9-44f7-9c39-5ad3d9122382
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/Si-izuH329pVtctIZ71FLXHfo48YaFtOGXGtAisu-tw
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: 519
 ht-degree: 0%
 
 ---
 
 # 효과적인 지원 요청
 
-지원 티켓을 생성할 때는 적절한 채널을 통해 제출하고, 문제에 대한 정확하고 자세한 정보를 제공하고, 올바른 조직 및 연락처 사유를 선택하고, 적절한 제품 및 버전을 선택하고, 잠재적인 솔루션에 대해 제안된 문서를 검토하고, 제출하기 전에 모든 정보를 다시 확인하고, 티켓의 진행 상황을 추적하고 지원 팀과 대화하고, 문제가 해결되면 티켓을 해결된 것으로 표시하고, 추가 지원이 필요한 경우 후속 티켓을 여는 것이 중요합니다&#x200B;. 적절한 채널을 통해 티켓을 제출하고, 정확하고 상세한 정보를 제공하고, 올바른 조직과 연락처 사유를 선택하고, 적절한 제품과 버전을 선택하고, 제안된 문서를 검토하고, 제출하기 전에 모든 정보를 다시 확인하고, 티켓의 진행 상황을 추적하고, 지원 팀과 대화에 참여하고, 문제가 해결되면 티켓을 해결된 것으로 표시하고, 필요한 경우 후속 티켓을 여는 것을 잊지 마십시오&#x200B;.
+지원 티켓을 생성할 때는 적절한 채널을 통해 제출하고, 문제에 대한 정확하고 자세한 정보를 제공하고, 올바른 조직 및 연락처 사유를 선택하고, 적절한 제품 및 버전을 선택하고, 잠재적인 솔루션에 대해 제안된 문서를 검토하고, 제출하기 전에 모든 정보를 다시 확인하고, 티켓의 진행 상황을 추적하고 지원 팀과 대화하고, 문제가 해결되면 티켓을 해결된 것으로 표시하고, 추가 지원이 필요한 경우 후속 티켓을 여는 것이 중요합니다. 적절한 채널을 통해 티켓을 제출하고, 정확하고 자세한 정보를 제공하고, 올바른 조직과 연락처 사유를 선택하고, 적절한 제품과 버전을 선택하고, 제안된 문서를 검토하고, 제출하기 전에 모든 정보를 다시 확인하고, 티켓의 진행 상황을 추적하고, 지원 팀과 대화에 참여하고, 문제가 해결되면 티켓을 해결된 것으로 표시하고, 필요한 경우 후속 티켓을 여는 것을 잊지 마십시오&#x200B;. &#x200B;
 
 ## 로그 또는 스크린샷 포함
 
@@ -35,8 +47,8 @@ ht-degree: 0%
 
 ## New Relic 보고서 링크 또는 NRQL 문 제공
 
-Adobe Commerce의 많은 문제는 New Relic을 통해 추적할 수 있습니다. New Relic 대시보드 또는 사용자 지정 NRQL 문을 보면 일부 문제가 발생하는 위치에 대한 통찰력을 얻을 수 있습니다. 동일한 대시보드 및 사용자 지정 New Relic 쿼리를 공유할 수 있습니다. 지원 티켓에 이러한 링크를 제공하면 엔지니어가 기자가 무엇인지 정확하게 확인할 수 있습니다.
+Adobe Commerce의 많은 문제는 New Relic을 통해 추적할 수 있습니다. New Relic 대시보드 또는 사용자 지정 NRQL 문을 보면 일부 문제가 발생하는 위치에 대한 통찰력을 얻을 수 있습니다. 동일한 대시보드 및 사용자 지정 New Relic 쿼리를 공유할 수 있습니다. By providing those links in the support ticket, the engineers are able to see exactly what the reporter is.
 
 >[!MORELIKETHIS]
 > 
-> * [Adobe Commerce 도움말 사용 안내서](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}
+> * [Adobe Commerce Help User Guide](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}

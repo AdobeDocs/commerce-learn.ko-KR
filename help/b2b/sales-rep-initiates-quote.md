@@ -1,25 +1,40 @@
 ---
-title: Sales Rep 가 Quote 를 시작하는 경우
-description: 영업 담당자가 Adobe Commerce 관리자로부터 견적을 시작하는 방법에 대해 알아봅니다
+title: Sales Rep initiates the quote
+description: Learn how the sales representative can initiate the quote from the Adobe Commerce admin
 doc-type: Feature Video
 duration: 283
 jira: KT-13794
-last-substantial-update: 2023-06-13T00:00:00Z
+last-substantial-update: 2023-06-13T00:00:00.000Z
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: eddf5b36-8b63-4d73-a66b-b3f14da3747f
-source-git-commit: 1e8f867de0a8c95fec285f99624c9079f0bdf9b7
+TQID: https://experienceleague.adobe.com/qYOv5KZHwdRE4jBIyEaiiiDFLEWJmRfYSd1PgynEeJ4
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: 61
 ht-degree: 0%
 
 ---
 
-# 영업 담당자가 견적 시작
+# Sales Representative initiates the quote
 
-영업 담당자가 관리 패널에서 견적을 시작하고, 사용자 및 웹 사이트별로 필터링하고, 초안 견적을 작성하고, 견적을 표시할 수 있는 방법 등 다양한 기능을 살펴볼 수 있습니다.
+Learn how the sales representative can initiate the quote from the admin panel, filter by user and website, draft quotes, quote visibility and many more features.
 
 {{b2b-feature}}
 

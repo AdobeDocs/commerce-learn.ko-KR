@@ -7,16 +7,35 @@ role: Admin, Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 451
-last-substantial-update: 2024-04-17T00:00:00Z
+last-substantial-update: 2024-04-17T00:00:00.000Z
 jira: KT-15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
-source-git-commit: 8266ad03ec3bd9364bb9093c8876a4dc1507e1a2
+TQID: https://experienceleague.adobe.com/czbb8zkX55fzgKiZthAj4whBCF-IL2bEox0M7rDr9oE
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2:
+  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1674'
+source-wordcount: 2365
 ht-degree: 0%
 
 ---
-
 
 # 실행 전 검사 목록
 
@@ -32,7 +51,7 @@ ht-degree: 0%
 >[!IMPORTANT]
 > 이 체크리스트를 사용하고 완료하지 못한 경우 프로덕션 시작 일정 및 진행 중인 사이트 안정성에 대한 모든 악영향 및 관련 위험에 대해 [책임](https://experienceleague.adobe.com/ko/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"}을(를) 수락합니다.
 
-## &#x200B;1. 라이브 전
+## &#x200B;1. 사전 실행
 
 1. 테스트 및 라이브에 대한 설명서를 검토하십시오. [사이트 시작 설명서](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/launch/overview){target="_blank"}
 
@@ -87,7 +106,7 @@ Adobe Commerce Cloud는 스테이징 및 프로덕션 환경 모두에 대해 Ma
 * [Galera 클러스터 복제 및 흐름 제어](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"}(심층 분석)
 
 1. 데이터베이스 로드가 많은 경우 성능을 향상시키려면 [MySQL 슬레이브 연결](https://experienceleague.adobe.com/ko/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"}을 사용하는 것이 좋습니다.
-2. 모든 데이터베이스 테이블의 행 형식이 COMPACT[이(가) 아닌 &#x200B;](https://experienceleague.adobe.com/ko/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"}DYNAMIC으로 설정되어 있는지 확인하십시오(온-프레미스 대 클라우드 마이그레이션의 경우 특히 그러함).
+2. 모든 데이터베이스 테이블의 행 형식이 COMPACT[&#128279;](https://experienceleague.adobe.com/ko/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"}이(가) 아닌 DYNAMIC으로 설정되어 있는지 확인하십시오(온-프레미스 대 클라우드 마이그레이션의 경우 특히 그러함).
 3. 모든 테이블에 대해 데이터베이스 저장소 엔진을 [MyISAM에서 InnoDB](https://experienceleague.adobe.com/ko/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud#convert-all-myisam-tables-to-innodb){target="_blank"}(으)로 변경합니다.
 4. 크기가 1GB를 초과하는 데이터베이스 테이블을 미리 검토하고 최적화합니다.
 5. 데이터베이스 스키마 정보가 최신 상태입니다. ([이 안내서](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/query-optimizations/statistics-for-optimizing-queries/engine-independent-table-statistics#collecting-statistics-with-the-analyze-table-statement){target="_blank"}를 참조하세요.)
@@ -105,7 +124,7 @@ Adobe Commerce Cloud는 스테이징 및 프로덕션 환경 모두에 대해 Ma
 3. [!BADGE Blocker]{type=caution tooltip="잠재적 차단제"} 시작하기 전에 프로덕션 인스턴스에서 부하 및 부하 테스트를 수행하고 할당된 CTA/CSE와 결과를 공유합니다.
 
    >[!NOTE]
-   > [부하 및 부하 분산 테스트는 병목 현상을 식별하고 응용 프로그램 내에서 성능 문제를 발견하는 목적](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/develop/test/guidance#:~:text=A%20load%20test%20can%20help,Scan%20Tool%20for%20your%20sites.){target="_blank"}을 수행합니다. 클러스터 규모에 대한 기대치를 관리하고 비즈니스 요구 사항을 효과적으로 충족하기 위해 필요한 규모 조정을 결정하는 중요한 역할을 합니다.
+   > [부하 및 부하 분산 테스트는 병목 현상을 식별하고 응용 프로그램 내에서 성능 문제를 발견하는 목적](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/develop/test/guidance#:~:text=A%20load%20test%20can%20help,Scan%20Tool%20for%20your%20sites입니다.){target="_blank"}을 수행합니다. 클러스터 규모에 대한 기대치를 관리하고 비즈니스 요구 사항을 효과적으로 충족하기 위해 필요한 규모 조정을 결정하는 중요한 역할을 합니다.
 
    >[!IMPORTANT]
    > **_WARNING:_** 부하 테스트를 준비할 때 **더미 주소로도 실시간 트랜잭션 이메일을 보내지 않음**&#x200B;합니다. 테스트 중에 이메일을 보내면 프로젝트가 실행 전에 SendGrid에 대해 구성된 기본 전송 한도(12k)에 도달할 수 있습니다.
@@ -140,7 +159,7 @@ Adobe Commerce Cloud는 스테이징 및 프로덕션 환경 모두에 대해 Ma
 5. 개발 중에 Xdebug가 활성화된 경우 비활성화되는지 확인합니다([Cloud에서 Commerce에 대한 Xdebug 구성](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/develop/test/debug){target="_blank"} 참조).
 6. OPcache 및 기타 구성이 php.ini 파일에서 정확하게 업데이트되었는지 확인합니다([이 샘플을 참조](https://github.com/magento/magento-cloud/blob/master/php.ini#L41){target="_blank"}).
 7. [**Adobe Commerce 상태 페이지**](https://status.adobe.com/ko-kr/cloud/experience_cloud#/){target="_blank"}에 가입하세요.
-8. 지정된 성능 지표([자세히 보기](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce){target="_blank"})를 모니터링하려면 New Relic &quot;[Adobe Commerce용 관리 경고](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/monitor/new-relic/new-relic-service){target="_blank"}&quot; 알림 채널을 구독하세요.
+8. 지정된 성능 지표([자세히 보기](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/monitor/new-relic/new-relic-service){target="_blank"})를 모니터링하려면 New Relic &quot;[Adobe Commerce용 관리 경고](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce){target="_blank"}&quot; 알림 채널을 구독하세요.
 
 ## &#x200B;9. 보안
 
@@ -158,18 +177,18 @@ Adobe Commerce Cloud는 스테이징 및 프로덕션 환경 모두에 대해 Ma
 6. 관리자 암호가 요구 사항을 충족하는지 확인합니다([관리자 암호 요구 사항](https://experienceleague.adobe.com/ko/docs/commerce-admin/systems/security/security-admin){target="_blank"} 참조).
 7. 이중 인증을 구성합니다([이중 인증(관리자)](https://experienceleague.adobe.com/ko/docs/commerce-admin/systems/security/security-admin#two-factor-authentication){target="_blank"} 참조).
 
-## &#x200B;10. 라이브 진행
+## &#x200B;10. 실행
 
 전환 시간이 되면 다음 단계를 수행하십시오(자세한 내용은 [DNS 구성](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/launch/checklist){target="_blank"}을 참조하십시오).
 
 1. DNS 서비스에 액세스하고 각 도메인 및 호스트 이름에 대한 A 및 CNAME 레코드를 업데이트합니다.
-   1. _prod.magentocloud.map.fastly.net_&#x200B;을(를) 가리키는 **&lt;&lt;www.yourdomain.com>>**&#x200B;에 대한 CNAME 레코드 추가
-   2. _&lt;&lt;yourdomain.com>>_&#x200B;에 대해 A 레코드 4개를 설정하고 다음을 가리킵니다.\
+   1. **prod.magentocloud.map.fastly.net**&#x200B;을(를) 가리키는 _&lt;&lt;www.yourdomain.com>>_&#x200B;에 대한 CNAME 레코드 추가
+   2. _&lt;&lt;yourdomain.com>>_&#x200B;에 대해 다음 위치를 가리키는 A 레코드 4개를 설정합니다.\
       151.101.1.124\
       151.101.65.124\
       151.101.129.124\
       151.101.193.124
-2. Adobe Commerce 기본 URL을 _&lt;&lt;www.yourdomain.com>>_(으)로 변경
+2. Adobe Commerce 기본 URL을 _&lt;&lt;www.yourdomain.com>>_(으)로 변경합니다.
 3. TTL 시간이 경과될 때까지 기다린 다음 웹 브라우저를 다시 시작합니다.
 4. 웹 사이트를 테스트합니다.
 
@@ -181,7 +200,7 @@ Adobe Commerce Cloud는 스테이징 및 프로덕션 환경 모두에 대해 Ma
 * 미국 무료 전화: (+1) 800 685 3620(첫 번째 메뉴에서 7번을 누르면 Adobe Commerce P1 핫라인)
 * 미국 로컬: (+1) 408 537 8777
 
-## &#x200B;11. Go-Live 후
+## &#x200B;11. Go-live 후
 
 사이트가 활성 상태가 되면 할당된 CTA(고객 기술 관리자), CSE(고객 성공 엔지니어) 및 AM(계정 관리자)에게 이메일을 보냅니다. 그러나 프로젝트에 할당된 계정 관리자가 없는 경우 사이트가 활성 상태가 되면 하이 SLA 모니터링을 활성화하도록 요청하는 지원 티켓을 생성할 수 있습니다. CTA/CSE는 Fastly를 활성화하고 캐싱을 사용하여 사이트를 시작하는 것이 확인되면 즉시 다음 작업을 수행합니다.
 

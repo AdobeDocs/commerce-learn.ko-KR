@@ -1,25 +1,49 @@
 ---
-title: 자체 호스팅 솔루션에서 마이그레이션
-description: 온프레미스 자체 호스팅 솔루션에서 Adobe Commerce Cloud로 전환하는 데 따른 몇 가지 이점에 대해 알아봅니다. Adobe Commerce Cloud 옵션은 인프라 관리, 보안 및 성능 모니터링 도구를 제공하여 생산성을 향상시키는 안정적이고 비용 효율적인 플랫폼입니다.
+title: Migrate from a self-hosted solution
+description: Learn about some benefits to moving from an on-prem self-hosted solution to Adobe Commerce Cloud. The Adobe Commerce Cloud option is a reliable and cost-effective platform that offers infrastructure management, security, and performance monitoring tools, resulting in increased productivity.
 feature: Services, Paas
 topic: Commerce
 role: Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 3543
-last-substantial-update: 2024-05-21T00:00:00Z
+last-substantial-update: 2024-05-21T00:00:00.000Z
 jira: KT-15536
 exl-id: 772cadfc-f8b3-4912-80be-41539682c8c5
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/QV-rgoptwb7-JAwqXLSdWyjUJhlPF0S7akeJvMGyZnI
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2:
+  - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
+  - id: db6b6496-d1b5-4ad4-9e18-dea78dae3aa8
+  - id: f2261633-201d-46c5-8a66-999e70527a83
+  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: 216
 ht-degree: 0%
 
 ---
 
-# 자체 호스팅 솔루션에서 Adobe Commerce Cloud로 마이그레이션
+# Migrate from self-hosted solution to Adobe Commerce Cloud
 
-이 웨비나에서는 자체 호스팅 솔루션에서 Adobe Commerce Cloud로 마이그레이션할 때의 이점에 대해 알아봅니다. 높은 인프라 비용과 같이 기업이 직면한 문제를 해결하는 방법에 대해 알아봅니다.  또한 Adobe Commerce Cloud가 민첩성 및 확장성과 성능 및 안정성 문제를 해결하는 방법도 알아봅니다&#x200B;.Adobe Commerce Cloud가 인프라 관리, 보안 및 성능 모니터링 도구를 통해 안정적이고 비용 효율적인 플랫폼을 제공하는 방법에 대해 알아봅니다&#x200B;.보안 및 규정 준수를 우선시하며 웹 애플리케이션 방화벽 및 컨텐츠 전달 네트워크와 같은 기능을 제공합니다. 또한 이 웨비나에서는 고객 성공 사례를 보여주며 기업이 Adobe Commerce Cloud를 통해 달성할 수 있는 가시적인 가치와 투자 수익률(ROI)을 입증했습니다.
+In this webinar, you learn the advantages of migrating from self-hosted solutions to Adobe Commerce Cloud. Learn how to solve challenges faced by businesses, such as high infrastructure costs.  Also learn how Adobe Commerce Cloud helps with agility and scalability, and performance and reliability issues. &#x200B;Learn how Adobe Commerce Cloud offers a reliable and cost-effective platform with infrastructure management, security, and performance monitoring tools. &#x200B;It prioritizes security and compliance, providing features like a web application firewall and content delivery network. The webinar also showcased customer success stories, demonstrating the tangible value and return on investment (ROI) that businesses can achieve with Adobe Commerce Cloud.
 
 ## 대상자
 
@@ -28,12 +52,12 @@ ht-degree: 0%
 * 비즈니스 컨설턴트
 
 
-## 웨비나 콘텐츠
+## Webinar content
 
-* Adobe Commerce Cloud는 안정적이고 비용 효율적인 플랫폼입니다
-* Adobe Commerce 인프라 관리, 보안 및 성능 모니터링 &#x200B; 도구
-* 기본 확장성 및 민첩성에 대해 알아보기
-* 보안 및 규정 준수 기능 소개
-* Adobe 사이트 전체 분석 도구(SWAT)에 대해 알아보기
+* Adobe Commerce Cloud is a reliable and cost-effective platform
+* Adobe Commerce infrastructure management, security, and performance monitoring tools. &#x200B;
+* Learn about the native scalability and agility
+* An introduction into the Security and compliance features
+* Learn about the Adobe Site-wide analysis tool (SWAT)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429251?learn=on)

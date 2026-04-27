@@ -1,6 +1,6 @@
 ---
-title: 개발자용 페이지 빌더 - 구성 및 콘텐츠 사용자 정의
-description: 페이지 빌더를 구성하고 설정합니다​. Page Builder 작업 영역을 이해합니다​. 레이아웃, 요소, 미디어 및 기타 콘텐츠와 같은 콘텐츠 유형을 이해하고 사용합니다​. 페이지 빌더로 카탈로그 컨텐츠를 추가합니다.
+title: Page Builder for developers - Configuration and content customization
+description: Configure and setup Page Builder​. Understand the Page Builder workspace​. Understand and use content types - Layout, Elements, Media, and other content​. Add Catalog content with Page Builder.
 kt: 5651
 doc-type: video
 duration: 751
@@ -11,24 +11,37 @@ role: Admin, Developer, User
 level: Beginner, Intermediate
 exl-id: 589d13fe-3b9d-4a48-a26e-a43b44726f93
 badgePaas: label="PaaS만" type="Informative" url="https://experienceleague.adobe.com/ko/docs/commerce/user-guides/product-solutions" tooltip="Adobe Commerce 온 클라우드 프로젝트(Adobe 관리 PaaS 인프라) 및 온프레미스 프로젝트에만 적용됩니다."
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/gl0kllOii0nmwEZ2iFkzUJAcjJ31-v9xJUnKDLOtcBU
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: 174
 ht-degree: 0%
 
 ---
 
-# 개발자용 페이지 빌더 - 구성 및 콘텐츠 사용자 정의
+# Page Builder for developers - Configuration and content customization
 
 {{only-for-on-prem-commerce-cloud}}
 
 이 비디오에서:
 
-* 페이지 빌더 구성 및 &#x200B; 설정
-* 페이지 빌더 작업 공간 이해&#x200B;
-* 레이아웃, 요소, 미디어 및 기타 콘텐츠 등 콘텐츠 유형 이해 및 사용&#x200B;.
-* 페이지 빌더로 카탈로그 콘텐츠 추가
-* 콘텐츠 유형 사용자 정의 개요
+* Configure and setup Page Builder&#x200B;
+* Understand the Page Builder workspace&#x200B;
+* Understand and use content types - Layout, Elements, Media, and other content&#x200B;
+* Add catalog content with Page Builder
+* Overview of content type customization
 
 ## 이 비디오는 누구의 것입니까?
 

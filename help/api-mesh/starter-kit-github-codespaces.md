@@ -4,15 +4,24 @@ description: GitHub 기반 스타터 키트를 사용하여 Adobe Commerce API M
 jira: KT-18367
 doc-type: Tutorial
 duration: 253
-last-substantial-update: 2025-06-17T00:00:00Z
+last-substantial-update: 2025-06-17T00:00:00.000Z
 feature: API Mesh, Tools and External Services, Backend Development, GraphQL, Storefront
 topic: App Builder, Commerce, Development, Integrations
 role: Developer
 level: Beginner
 exl-id: 4a2c210d-4df1-4601-95a8-19b3efed5ac0
-source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
+TQID: https://experienceleague.adobe.com/AHgUyT9nm4XOEacWvA7WVLYp6aus3IZNpDTfkxHd8Xw
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: 182
 ht-degree: 0%
 
 ---
@@ -37,6 +46,6 @@ ht-degree: 0%
 
 ## 관련 설명서
 
-* [API Mesh Starter 키트 GitHub 리포지토리](https://github.com/adobe-commerce/api-mesh-starter-kit)
+* [API 메쉬 스타터 키트 GitHub 리포지토리](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Adobe Developer 문서 graphql-mesh-gateway](https://developer.adobe.com/graphql-mesh-gateway/)
-* [API Mesh 비디오의 재생 목록](https://experienceleague.adobe.com/ko/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [API Mesh 비디오 재생 목록](https://experienceleague.adobe.com/ko/playlists/commerce-get-started-app-builder-and-api-mesh)

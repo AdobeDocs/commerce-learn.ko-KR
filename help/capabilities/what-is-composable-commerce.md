@@ -1,6 +1,6 @@
 ---
-title: Adobe에서 구성 가능한 Commerce을 만드는 방법
-description: 구성 가능한 상거래에 대해 알아보고, API 우선 접근 방식의 우선 순위를 지정하고, 모듈식 및 서비스 지향 아키텍처를 구현합니다.
+title: How Adobe Creates Composable Commerce
+description: Learn about composable commerce, prioritizing an API-first approach and implement a modular and service-oriented architecture.
 feature: App Builder, Saas
 topic: Architecture, Commerce, Development, Headless, Integrations, Performance, Personalization
 role: Admin, Developer, User
@@ -10,34 +10,54 @@ duration: 323
 last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/NG-US7zLBgzV425mheo3oQ9Z6gnzAr6aRCLNjHVU0aM
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1257'
+source-wordcount: 1305
 ht-degree: 0%
 
 ---
 
-# 구성 가능한 상거래
+# Composable commerce
 
-구성 가능한 상거래는 프론트엔드 프레젠테이션 레이어와 백엔드 상거래 기능을 분리하는 것을 포함하는 전자 상거래의 아키텍처 접근법입니다&#x200B;. 이를 통해 기업은 최적의 구성 요소나 모듈을 선택 및 결합하여 맞춤형 솔루션을 만들 수 있습니다. 이러한 접근 방식에는 기존의 획일적인 전자 상거래 플랫폼을 함께 구성할 수 있는 작고 독립적인 서비스나 마이크로 서비스로 분류하는 작업이 포함됩니다. 컴포저블 커머스는 유연성, 확장성, 맞춤화, 민첩성, 다른 시스템 및 기술과의 손쉬운 통합 기능 등의 이점을 제공합니다.
+Composable commerce is an architectural approach in e-commerce that involves decoupling the front-end presentation layer from the back-end commerce functionality. &#x200B; It allows businesses to select and combine the best components or modules to create a customized solution. This approach involves breaking down the traditional monolithic e-commerce platform into smaller, independent services or microservices that can be composed together. Composable commerce offers benefits such as flexibility, scalability, customization, agility, and the ability for easier integrations with other systems and technologies.
 
-Adobe Commerce은 판매자가 구성 가능한 상거래를 채택하고 구현할 수 있도록 지원하는 다양한 기능과 도구를 제공합니다. Adobe Commerce은 구성 가능한 상거래 방법론과 하이브리드 헤드리스 및 헤드리스 이외의 프론트엔드 경험을 제공합니다. Adobe은 프로세스 확장성 부족을 고려하여 여러 서비스를 통합하기 위한 API Mesh와 사용자 정의 마이크로 서비스를 만들기 위한 Adobe App Builder을 제공합니다.
+Adobe Commerce provides many capabilities and tools for supporting merchants in adopting and implementing composable commerce. Adobe Commerce offers a composable commerce methodology and hybrid headless and non-headless front-end experiences. With the out of process extensibility in mind, Adobe offers API Mesh for integrating multiple services, and Adobe App Builder for creating custom microservices.
 
-## 구성 가능한 상거래가 중요한 이유
+## Why is composable commerce important
 
-컴포저블 커머스에 대한 이해는 여러 가지 이유로 전자 상거래 산업에 관련된 기업과 개인에게 중요하다. 유연성과 사용자 정의, 확장성과 민첩성, 통합 기능, 향후 기술 지원 및 개발자 역량 강화를 제공합니다. 컴포저블 커머스를 통해 기업은 전자 상거래 플랫폼을 조정 및 발전시키고, 운영을 확장 및 확장할 수 있습니다. 몇 가지 더 인상적인 이점에는 다른 시스템 및 기술과 통합하고, 진화하는 고객 기대치를 충족하고, 개발자의 전문성을 활용할 수 있는 기능이 포함됩니다.
+Understanding composable commerce is important for businesses and individuals involved in the e-commerce industry for several reasons. It provides flexibility and customization, scalability and agility, integration capabilities, future-proofing, and developer empowerment. Composable commerce enables businesses to adapt and evolve their e-commerce platforms, scale and grow their operations. A few more impressive benefits include the ability to integrate with other systems and technologies, keep up with evolving customer expectations, and leverage the expertise of developers.
 
-이는 기업이 변화하는 전자 상거래 환경을 탐색하고 정보에 입각한 결정을 내릴 수 있도록 지원하며, 유연성, 확장성, 사용자 정의, 민첩성 및 통합 기능의 이점을 활용할 수 있도록 지원합니다. 또한 컴포저블 커머스에 대한 지식은 비즈니스 성장, 맞춤화, 민첩성 및 혁신, 비용 효율성, 통합 및 유연성, 미래 대비에 중요합니다. 비즈니스에 새로운 기능에 대한 빠른 적응과 변화하는 시장 상황에 대처할 수 있는 기회를 제공하고 고도로 맞춤화된 솔루션을 만들 수 있습니다. 신속한 혁신, 개발 및 유지 관리 비용 절감, 서드파티 서비스 및 시스템과의 통합 등 더 많은 이점을 제공합니다.
+It helps businesses navigate the evolving e-commerce landscape, make informed decisions, and leverage the benefits of flexibility, scalability, customization, agility, and integration capabilities. Additionally, knowing about composable commerce is important for business growth, customization, agility and innovation, cost efficiency, integration and flexibility, and future-proofing. It enables businesses the opportunity for quick adaption for new features and respond to changing market conditions, create highly customized solutions. There are more benefits that include the ability to innovate rapidly, reduce development and maintenance costs, and integrate with third-party services and systems.
 
-전반적으로 컴포저블 커머스를 이해하면 정보에 입각한 결정을 내리고, 전자 상거래 아키텍처와 전략을 최적화하고, 디지털 시장에서 성장과 성공을 이끌어낼 수 있습니다.
+Overall, understanding composable commerce empowers businesses to make informed decisions, optimize their e-commerce architecture and strategy, and drive growth and success in the digital marketplace.
 
-## 컴포저블 상거래를 통해 회사는 어떤 이점을 얻을 수 있습니까?
+## How can companies benefit from composable commerce
 
-회사는 다음과 같은 여러 가지 방법으로 컴포저블 상거래를 활용할 수 있습니다.
+Companies can benefit from composable commerce in several ways:
 
-**유연성 및 사용자 지정:** 컴포저블 상거래를 통해 회사는 최상의 구성 요소 또는 마이크로서비스를 선택하고 결합하여 특정 요구 사항에 맞는 사용자 지정된 전자 상거래 솔루션을 만들 수 있습니다. 이를 통해 기업은 고유한 고객 경험을 제공하고, 전문 기능을 구현하며, 시장에서 차별화할 수 있도록 플랫폼을 맞춤화할 수 있습니다.
+**Flexibility and Customization:** Composable commerce allows companies to select and combine the best components or microservices to create a customized e-commerce solution that meets their specific needs. It enables businesses to tailor their platform to deliver unique customer experiences, implement specialized functionalities, and differentiate themselves in the market.
 
-**확장성 및 민첩성:** 구성 가능한 아키텍처를 통해 회사는 전자 상거래 플랫폼의 다양한 구성 요소를 독립적으로 확장할 수 있습니다. 즉, 수요에 따라 자원을 할당하고 특정 기능을 확장하여 최적의 성능과 비용 효율성을 보장할 수 있습니다. 또한 Composable Commerce를 통해 민첩한 개발 작업을 수행할 수 있으므로 팀이 서로 다른 구성 요소에서 동시에 작업하고 독립적으로 변경 사항을 배포하여 마켓 출시 시간을 단축할 수 있습니다.
+**Scalability and Agility:** With a composable architecture, companies can scale different components of their e-commerce platform independently. 즉, 수요에 따라 자원을 할당하고 특정 기능을 확장하여 최적의 성능과 비용 효율성을 보장할 수 있습니다. 또한 Composable Commerce를 통해 민첩한 개발 작업을 수행할 수 있으므로 팀이 서로 다른 구성 요소에서 동시에 작업하고 독립적으로 변경 사항을 배포하여 마켓 출시 시간을 단축할 수 있습니다.
 
 **통합 기능:** 구성 가능한 상거래를 통해 서드파티 시스템, 서비스 및 기술과의 원활한 통합을 지원합니다. 기업은 전자 상거래 플랫폼을 결제 게이트웨이, ERP 시스템, CRM 시스템, 마케팅 자동화 플랫폼 등 다양한 도구와 쉽게 연결할 수 있습니다. 이 통합 기능을 통해 기업은 동급 최고의 솔루션을 활용하고 운영 효율성과 고객 경험을 향상시키는 통합 에코시스템을 구축할 수 있습니다.
 
