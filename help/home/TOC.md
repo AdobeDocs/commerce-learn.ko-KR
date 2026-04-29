@@ -3,9 +3,9 @@ user-guide-title: 비디오 및 튜토리얼
 user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 Magento Open Source에 대해 알아봅니다.
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 68c27de91287f83f044ec777de3ee0cda37704b2
+source-git-commit: 4ce3ef13cbfc5a0001d4a89a6c040eb3fb605c82
 workflow-type: tm+mt
-source-wordcount: '932'
+source-wordcount: '1001'
 ht-degree: 3%
 
 ---
@@ -152,6 +152,15 @@ ht-degree: 3%
       + AI 도구를 사용하여 분할 결제 POC 만들기 {#create-a-split-payment-poc}
          + [분할 결제 POC 만들기: App Builder 및 AI 도구](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
          + [분할 결제 POC 만들기: App Builder 전체 데모](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
+         + [분할 결제 POC: 아키텍처 및 디자인 결정](../app-builder/split-payment-ai-tools/split-payment-poc-architecture-and-decisions.md)
+         + [분할 결제 POC: 사전 요구 사항 및 환경 설정](../app-builder/split-payment-ai-tools/split-payment-poc-prerequisites-and-setup.md)
+         + [분할 결제 POC: 환경 변수 참조](../app-builder/split-payment-ai-tools/split-payment-poc-env-reference.md)
+         + [분할 결제 POC: Commerce 모듈 AI 프롬프트](../app-builder/split-payment-ai-tools/split-payment-poc-commerce-module-prompt.md)
+         + [분할 결제 POC: App Builder orchestrator AI 프롬프트](../app-builder/split-payment-ai-tools/split-payment-poc-app-builder-orchestrator-prompt.md)
+         + [분할 결제 POC: Experience Cloud UI 확장 AI 프롬프트](../app-builder/split-payment-ai-tools/split-payment-poc-experience-cloud-ui-prompt.md)
+         + [분할 결제 POC: 테스트 및 확인 가이드](../app-builder/split-payment-ai-tools/split-payment-poc-testing-and-verification.md)
+         + [분할 결제 POC: 개념 증명 후 다음 단계](../app-builder/split-payment-ai-tools/split-payment-poc-next-steps.md)
+         + [분할 결제 POC: 작성자를 위한 튜토리얼 빠른 참조](../app-builder/split-payment-ai-tools/split-payment-poc-tutorial-quick-reference.md)
       + AI 도구를 사용하여 맞춤형 배송률 만들기 {#custom-shipping-rates-ai-tools}
          + [소개 및 설정](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [AI 도구 및 Adobe 스타터 키트](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
