@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 3737713df7e1bf1478550f9cc28d74f30e1e98cf
+source-git-commit: be274a0e69527597ddad238ecbb7a46a7546ed84
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '958'
 ht-degree: 3%
 
 ---
@@ -98,7 +98,7 @@ ht-degree: 3%
 
 + 확장성 {#extensibility}
    + 백엔드 개발 {#backend-development}
-      + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+      + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [모듈 만들기](../backend-development/create-module.md)
       + [제품 속성 추가](../backend-development/add-product-attribute.md)
       + [종속성 삽입 예](../backend-development/dependency-injection.md)
@@ -152,16 +152,17 @@ ht-degree: 3%
       + [App Builder용 확장성 프레임워크](../app-builder/extensibility-framework-commerce-eventing.md)
       + AI 도구를 사용하여 분할 결제 POC 만들기 {#create-a-split-payment-poc}
          + [App Builder 및 AI 도구](../app-builder/split-payment-ai-tools/overview.md)
-         + [App Builder 전체 데모를 사용하여 결제 POC 분할](../app-builder/split-payment-ai-tools/full-demo.md)
+         + [전체 데모](../app-builder/split-payment-ai-tools/full-demo.md)
+         + [단계별 구현 안내서](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
          + [아키텍처 및 설계 결정](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
          + [사전 요구 사항 및 환경 설정](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
-         + [환경 변수 참조](../app-builder/split-payment-ai-tools/env-reference.md)
-         + [Commerce 모듈 AI 프롬프트](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
-         + [App Builder orchestrator AI 프롬프트](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
-         + [Experience Cloud UI 확장 AI 프롬프트](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
-         + [테스트 및 확인 안내서](../app-builder/split-payment-ai-tools/testing-and-verification.md)
-         + [개념 증명 후 다음 단계](../app-builder/split-payment-ai-tools/next-steps.md)
-         + [작성자를 위한 빠른 참조](../app-builder/split-payment-ai-tools/quick-reference.md)
+         + [테스트 및 확인](../app-builder/split-payment-ai-tools/testing-and-verification.md)
+         + [다음 단계](../app-builder/split-payment-ai-tools/next-steps.md)
+         + 참조 리소스 {#split-payment-resources}
+            + [환경 변수 참조](../app-builder/split-payment-ai-tools/env-reference.md)
+            + [Commerce 모듈 AI 프롬프트](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
+            + [App Builder orchestrator AI 프롬프트](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
+            + [Experience Cloud UI 확장 AI 프롬프트](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
       + AI 도구를 사용하여 맞춤형 배송률 만들기 {#custom-shipping-rates-ai-tools}
          + [소개 및 설정](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [AI 도구 및 Adobe 스타터 키트](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
