@@ -1,6 +1,6 @@
 ---
 title: '분할 결제 POC: Commerce 모듈 AI 프롬프트'
-description: REST, 플러그인, 체크아웃 JavaScript, I/O 이벤트 등 이 프롬프트를 사용하여 Client_SplitPayment를 생성하고 명령을 활성화, 컴파일 및 배포하는 방법에 대해 알아봅니다.
+description: 이 프롬프트를 사용하여 Client_SplitPayment를 생성하는 방법을 알아봅니다. REST, 플러그인, JavaScript 체크아웃, I/O 이벤트 및 명령 활성화, 컴파일 및 배포
 feature: App Builder, Backend Development, Eventing, Extensibility, Paas, REST, Orders
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 503
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: beb22335cec97141b46ddbbca97d21b216c55a80
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '1207'
 ht-degree: 1%
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # 분할 결제 POC: Commerce 모듈 AI 프롬프트
 
-Use this page to copy the full prompt that generates the `Client_SplitPayment` in-process module: REST, session handling, **[!UICONTROL Checkout]**, and **[!UICONTROL Admin]** display for the split payment proof of concept. 연산자 워크플로우는 App Builder에 있습니다.
+분할 결제 개념 증명에 대한 `Client_SplitPayment` 처리 중인 모듈(REST, 세션 처리, **[!UICONTROL Checkout]** 및 **[!UICONTROL Admin]** 표시)을 생성하는 전체 프롬프트를 복사할 수 있습니다. 연산자 워크플로우는 App Builder에 있습니다.
 
 ## 이 프롬프트를 사용하는 방법
 
@@ -349,14 +349,14 @@ JSON 반환: `{"balance": float, "logged_in": bool}`. 고객이 로그인하지 
 
 **내부 오류 세부 정보를 고객에게 표시하지 않습니다.** REST 응답으로 표시되는 모든 `catch` 블록은 `LocalizedException('Payment could not be processed. Please try again or contact support.')`을(를) throw해야 합니다.
 
-**`entity_id`is the numeric database ID.** REST calls from App Builder always use `entity_id`, not `increment_id`.
+**`entity_id`은(는) 숫자 데이터베이스 ID입니다.** App Builder의 REST 호출은 항상 `increment_id`이(가) 아닌 `entity_id`을(를) 사용합니다.
 
-**`SplitInvoiceService`should catch and log errors rather than propagate them.** Invoice creation failure should not cancel an already-placed order — log the failure and let the Admin handle it manually.
+**`SplitInvoiceService`은(는) 오류를 전파하지 않고 오류를 포착하고 기록해야 합니다.** 송장 생성 실패는 이미 주문한 주문을 취소해서는 안 됩니다. 실패를 로그하여 관리자가 수동으로 처리하도록 하십시오.
 
 
-### After Generating Files
+### 파일 생성 후
 
-Run these commands in the Commerce project root:
+Commerce 프로젝트 루트에서 다음 명령을 실행합니다.
 
 ```bash
 bin/magento module:enable Client_SplitPayment

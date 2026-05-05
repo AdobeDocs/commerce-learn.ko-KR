@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 262
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 1%
@@ -93,16 +93,16 @@ stage:
 
 * Adobe Developer Console 조직에 대한 액세스
 * **App Builder 프로젝트**(새 프로젝트 또는 다시 사용하는 프로젝트)
-* A workspace configured; the prompts assume **[!UICONTROL Stage]**
-* **[!UICONTROL Adobe I/O Events]** added as a service to the workspace
-* **Commerce** connected as an event provider for the workspace
+* 작업 영역이 구성되었습니다. 프롬프트는 **[!UICONTROL Stage]**&#x200B;을(를) 가정합니다.
+* **[!UICONTROL Adobe I/O Events]**&#x200B;이(가) 작업 영역에 서비스로 추가됨
+* 작업 영역의 이벤트 공급자로 연결된 **Commerce**
 
-The event code used in the proof of concept is: `com.adobe.commerce.observer.sales_order_place_before`
+개념 증명에 사용된 이벤트 코드는 `com.adobe.commerce.observer.sales_order_place_before`입니다.
 
-If you have not connected Commerce as an event provider, see [Configure Commerce to emit events to Adobe I/O](https://developer.adobe.com/commerce/extensibility/events/configure-commerce/){target="_blank"} in the Commerce Extensibility guide.
+Commerce을 이벤트 공급자로 연결하지 않은 경우 Commerce 확장성 안내서에서 [이벤트를 Adobe I/O에 내보내도록 Commerce 구성](https://developer.adobe.com/commerce/extensibility/events/configure-commerce/){target="_blank"}을 참조하십시오.
 
 
-## 4. Local development environment
+## &#x200B;4. 로컬 개발 환경
 
 ```bash
 # Required versions
@@ -121,18 +121,18 @@ aio app use
 ```
 
 
-## 5. Two project directories to know
+## &#x200B;5. 알아 두어야 할 두 개의 프로젝트 디렉토리
 
-This tutorial uses two separate directory roots. Keep them separate.
+이 자습서에서는 두 개의 별도 디렉터리 루트를 사용합니다. 따로 보관하세요.
 
-**Commerce project root** (your Magento git repository):
+**Commerce 프로젝트 루트**(Magento git 저장소):
 
 ```text
 <commerce-root>/
 └── app/code/Client/SplitPayment/   ← Module goes here
 ```
 
-**App Builder project root** (the `split-payment-orchestrator` folder from the source package, or a new project you create):
+**App Builder 프로젝트 루트**(원본 패키지의 `split-payment-orchestrator` 폴더 또는 사용자가 만든 새 프로젝트):
 
 ```text
 split-payment-orchestrator/
@@ -143,61 +143,61 @@ split-payment-orchestrator/
 ```
 
 
-## 6. entity_id compared to increment_id
+## &#x200B;6. entity_id와 increment_id 비교
 
-> **Always use `entity_id` (the numeric database ID), not `increment_id` (for example `000000042`), in REST calls.**
+> **REST 호출에서 항상 `increment_id`(예: `000000042`)이 아닌 `entity_id`(숫자 데이터베이스 ID)을(를) 사용하십시오.**
 
-Find `entity_id` from the **[!UICONTROL Commerce Admin]** order URL:
+**[!UICONTROL Commerce Admin]** 주문 URL에서 `entity_id` 찾기:
 
 ```text
 /admin/sales/order/view/order_id/42/   →   entity_id = 42
 ```
 
-Or from the simulation script:
+또는 시뮬레이션 스크립트에서 다음을 수행합니다.
 
 ```bash
 node scripts/simulate-split-payment.mjs show 42
 ```
 
 
-## 7. The $100 threshold
+## &#x200B;7. $100 임계값
 
-The split payment UI and threshold guard target orders **$100.00 or less**. The flow behaves as follows:
+분할 결제 UI 및 임계값 보호 대상 주문 **$100.00 이하**. 흐름은 다음과 같이 작동합니다.
 
-* **At or below $100:** the split payment UI appears; the customer can set a cash plus store credit split
-* **Above $100:** `CheckoutPlugin` throws an error at the payment step
+* **$100 이하:**&#x200B;에서 분할 결제 UI가 나타납니다. 고객은 현금+상점 크레딧 분할을 설정할 수 있습니다
+* **$100 초과:** `CheckoutPlugin`에서 결제 단계에서 오류가 발생합니다.
 
-To test, build a cart whose subtotal, shipping, and tax are **less than or equal to $100** (for example, a product under $90 so shipping and tax still fit under the cap).
+테스트하려면 소계, 배송 및 세금이 **1$100**&#x200B;보다 작거나 같은 장바구니를 만듭니다(예: $90 미만이므로 배송과 세금은 여전히 상한선에 맞음).
 
-The threshold is stored in:
+임계값은 다음 위치에 저장됩니다.
 
-* Commerce config: `split_payment/general/threshold` (default `100` in `etc/config.xml`)
-* App Builder environment: `PAYMENT_THRESHOLD=100` (must match Commerce)
-
-
-## 8. Fastly (Commerce Cloud only)
-
-App Builder actions call Commerce over REST (`/rest/V1/split-payment/orders/...`). If your Commerce Cloud project uses Fastly with IP allowlisting, the App Builder runtime egress IP addresses must be allowlisted.
-
-**How to check:** Run the simulation script first (direct curl with OAuth signing). If that works but the App Builder action returns `403`, Fastly is likely blocking the request.
-
-Use Adobe’s current documentation for App Builder egress IP ranges and add them to your Fastly configuration as needed.
+* Commerce 구성: `split_payment/general/threshold`(`etc/config.xml`의 기본 `100`)
+* App Builder 환경: `PAYMENT_THRESHOLD=100`(Commerce과 일치해야 함)
 
 
-## Verification checklist
+## &#x200B;8. Fastly(Commerce Cloud만 해당)
 
-Before you start the build prompts, confirm the following:
+App Builder 작업에서 REST(`/rest/V1/split-payment/orders/...`)를 통해 Commerce을 호출합니다. Commerce Cloud 프로젝트에서 IP 허용 목록에 추가으로 Fastly를 사용하는 경우 App Builder 런타임 이그레스 IP 주소는 허용 목록에추가된이어야 합니다.
 
-* [ ] Commerce version is 2.4.5 or later
-* [ ] I/O eventing is enabled (Commerce Cloud) and deployed
-* [ ] Cash on delivery is enabled with the title set exactly to `Cash`
-* [ ] Store credit is enabled
-* [ ] The test customer has at least $50 store credit
-* [ ] The Commerce integration is created and activated, and all four OAuth values are saved
-* [ ] The App Builder project has the I/O Events service and the Commerce event provider configured
-* [ ] `aio login` is complete and the correct workspace is selected with `aio app use`
-* [ ] Node.js 18 or later is installed and the `aio` CLI is installed
-* [ ] `.env` files are prepared per [Split payment POC: environment variables reference](split-payment-poc-env-reference.md) (and your source package, if you use one)
+**확인하는 방법:** 먼저 시뮬레이션 스크립트를 실행합니다(OAuth 서명을 사용하여 직접 curl). 이것이 작동하지만 App Builder 작업이 `403`을(를) 반환하는 경우 Fastly가 요청을 차단할 수 있습니다.
+
+App Builder 이그레스 IP 범위에 대한 Adobe의 현재 설명서를 사용하고 필요에 따라 Fastly 구성에 추가합니다.
+
+
+## 확인 검사 목록
+
+빌드 프롬프트를 시작하기 전에 다음을 확인하십시오.
+
+* [ ] Commerce 버전은 2.4.5 이상입니다.
+* [ ] I/O 이벤트가 사용(Commerce Cloud)되고 배포되었습니다.
+* [ `Cash`(으)로 정확히 설정된 제목을 사용하여 ] 배달 현금을 사용할 수 있습니다.
+* [ ] 스토어 크레딧이 활성화되었습니다.
+* [ ] 테스트 고객에게 $50 이상의 스토어 크레딧이 있습니다.
+* [ ] Commerce 통합이 생성 및 활성화되고 4개의 OAuth 값이 모두 저장됩니다
+* [ ] App Builder 프로젝트에 I/O 이벤트 서비스와 Commerce 이벤트 공급자가 구성되어 있습니다.
+* [ ] `aio login`이(가) 완료되었으며 `aio app use`과(와) 함께 올바른 작업 영역을 선택했습니다.
+* [ ] Node.js 18 이상이 설치되어 있고 `aio` CLI가 설치되어 있습니다.
+* [ [분할 결제 POC: 환경 변수 참조](./env-reference.md)에 따라 ] `.env`개의 파일이 준비되었습니다(소스 패키지를 사용하는 경우).
 
 
 {{$include /help/_includes/split-payment-ai-tools-related-links.md}}

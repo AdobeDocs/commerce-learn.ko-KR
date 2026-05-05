@@ -1,6 +1,6 @@
 ---
 title: '분할 결제 POC: 개념 증명 후 다음 단계'
-description: '분할 결제 POC를 프로덕션으로 이동하는 방법: Experience Cloud UI, ERP 후크, API Mesh, PHP 범위, App Builder 워크플로우 및 배포 체크리스트.'
+description: 분할 결제 POC를 프로덕션으로 이동하는 방법을 알아봅니다. Experience Cloud UI, ERP 후크, API Mesh, PHP 범위, App Builder 워크플로 및 배포 확인 목록.
 feature: App Builder, API Mesh, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 269
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '852'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 `demo-dashboard` 웹 작업은 Node.js 함수 내의 문자열에서 HTML을 제공합니다. 작동은 하지만 생산 패턴은 아닙니다.
 
-적절한 대체 요소는 `commerce-checkout-starter-kit`의 `commerce-backend-ui-1` 확장(Adobe Admin UI SDK을 통해 Commerce Admin Shell에 포함된 React 애플리케이션)입니다. 생성 프롬프트는 [분할 결제 POC: Experience Cloud UI 확장 AI 프롬프트](split-payment-poc-experience-cloud-ui-prompt.md)를 참조하십시오.
+적절한 대체 요소는 `commerce-checkout-starter-kit`의 `commerce-backend-ui-1` 확장(Adobe Admin UI SDK을 통해 Commerce Admin Shell에 포함된 React 애플리케이션)입니다. 생성 프롬프트는 [분할 결제 POC: Experience Cloud UI 확장 AI 프롬프트](./experience-cloud-ui-prompt.md)를 참조하십시오.
 
 **변경 내용:**
 * 운영자는 Commerce 관리 셸(공유 암호 대신 IMS 인증)을 통해 로그인합니다
@@ -72,7 +72,7 @@ PHP 변경이 필요하지 않습니다. REST면이 이미 있습니다 App Buil
 
 ## 4단계 — PHP Footprint 감소
 
-현재 PHP 모듈은 진행 중이어야 하는 5가지 사항을 처리합니다([분할 결제 POC: 아키텍처 및 디자인 결정](split-payment-poc-architecture-and-decisions.md) 참조). Adobe Commerce의 API 표면이 발달함에 따라 이러한 API 중 일부는 이동할 수 있게 될 수 있습니다.
+현재 PHP 모듈은 진행 중이어야 하는 5가지 사항을 처리합니다([분할 결제 POC: 아키텍처 및 디자인 결정](./architecture-and-decisions.md) 참조). Adobe Commerce의 API 표면이 발달함에 따라 이러한 API 중 일부는 이동할 수 있게 될 수 있습니다.
 
 **향후 이동 가능:**
 * 스토어 크레딧 REST API가 발전하고 있습니다. 향후 버전은 신용 사후 주문 또는 비활성 장바구니에 적용을 지원할 수 있습니다.

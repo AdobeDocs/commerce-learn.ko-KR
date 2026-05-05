@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 115
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 분할 결제 POC: 환경 변수 참조
 
-모든 구성 요소에서 동일한 4개의 Commerce OAuth 자격 증명이 사용됩니다. **[!UICONTROL Commerce Admin]**&#x200B;에서 하나의 **[!UICONTROL Integration]**&#x200B;을(를) 만든 다음 아래 `.env`개 파일마다 네 개의 값을 다시 사용합니다. 활성화 단계는 [분할 결제 POC: 사전 요구 사항 및 환경 설정](split-payment-poc-prerequisites-and-setup.md)을 참조하십시오.
+모든 구성 요소에서 동일한 4개의 Commerce OAuth 자격 증명이 사용됩니다. **[!UICONTROL Commerce Admin]**&#x200B;에서 하나의 **[!UICONTROL Integration]**&#x200B;을(를) 만든 다음 아래 `.env`개 파일마다 네 개의 값을 다시 사용합니다. 활성화 단계는 [분할 결제 POC: 사전 요구 사항 및 환경 설정](./prerequisites-and-setup.md)을 참조하십시오.
 
 ## 4개의 OAuth 자격 증명(모든 곳에서 사용됨)
 

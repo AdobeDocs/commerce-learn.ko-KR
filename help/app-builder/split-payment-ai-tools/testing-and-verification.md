@@ -1,6 +1,6 @@
 ---
 title: '분할 결제 POC: 테스트 및 확인 가이드'
-description: '분할 결제 POC를 확인하는 방법: Commerce 설치, REST, 체크아웃, 임계값, 시뮬레이션 수락 및 거부, 데모 대시보드 및 App Builder 로그를 알아봅니다.'
+description: 분할 결제 POC를 확인하는 방법을 알아봅니다. Commerce 설치, REST, 체크아웃, 임계값, 시뮬레이션 수락 및 거부, 데모 대시보드 및 App Builder 로그.
 feature: App Builder, Configuration, Extensibility, Paas, Payments, REST, Orders
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 359
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: beb22335cec97141b46ddbbca97d21b216c55a80
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 0%
@@ -105,12 +105,12 @@ curl -X POST https://your-store.example.com/rest/V1/split-payment/set \
    2. `"Split payment orchestration completed. Order awaiting cash confirmation."`(App Builder)
 * 분할 결제 금액은 주문 결제 블록에 표시됩니다
 
-> **App Builder 댓글이 표시되지 않는 경우:** `aio app logs`(으)로 App Builder 작업 로그를 확인하십시오. The event may not have fired or the action may have an error.
+> **App Builder 댓글이 표시되지 않는 경우:** `aio app logs`(으)로 App Builder 작업 로그를 확인하십시오. 이벤트가 실행되지 않거나 작업에 오류가 있을 수 있습니다.
 
 
-## Step 7 — Test Accept via Simulation Script
+## 7단계 — 시뮬레이션 스크립트를 통해 승인 테스트
 
-The simulation script is the fastest way to test the accept/decline flow without the full operator UI.
+시뮬레이션 스크립트는 전체 연산자 UI 없이 수락/거절 흐름을 테스트할 수 있는 가장 빠른 방법입니다.
 
 ```bash
 cd commerce-checkout-starter-kit
@@ -127,52 +127,52 @@ node commerce-backend-ui-1/scripts/simulate-split-payment.mjs show 42
 node commerce-backend-ui-1/scripts/simulate-split-payment.mjs accept 42
 ```
 
-After accept, verify in Commerce Admin order view:
-* Order status is `processing`
-* History comment: `"Cash payment of $X.XX received."`
-* Cash invoice created (visible in Invoices tab)
-* Shipment created (visible in Shipments tab, if applicable)
-* History comment: `"Split payment: cash portion invoiced #XXXXXXXX."`
-* History comment: `"Split payment: shipment created after cash was accepted (App Builder / API)."`
+수락 후 Commerce 관리 순서 보기에서 확인합니다.
+* 주문 상태는 `processing`입니다.
+* 기록 주석: `"Cash payment of $X.XX received."`
+* 생성된 현금 송장(송장 탭에 표시)
+* 생성된 선적(해당되는 경우 선적 탭에 표시됨)
+* 기록 주석: `"Split payment: cash portion invoiced #XXXXXXXX."`
+* 기록 주석: `"Split payment: shipment created after cash was accepted (App Builder / API)."`
 
 
-## Step 8 — Test Decline via Simulation Script
+## 8단계 — 시뮬레이션 스크립트를 통한 테스트 감소
 
-Place another test order (same setup as Step 6), then:
+다른 테스트 주문(6단계와 동일한 설정)을 수행한 다음,
 
 ```bash
 node commerce-backend-ui-1/scripts/simulate-split-payment.mjs decline <orderId>
 ```
 
-After decline, verify in Commerce Admin:
-* Order status is `canceled`
-* History comment: `"Cash payment declined (simulated fraud check)."`
+거절 후 Commerce 관리자에서 확인합니다.
+* 주문 상태는 `canceled`입니다.
+* 기록 주석: `"Cash payment declined (simulated fraud check)."`
 * `split_cash_status` = `declined`
 
 
-## Step 9 — Test the Demo Dashboard
+## 9단계 — 데모 대시보드 테스트
 
-After deploying the `split-payment-orchestrator`, `aio app deploy` prints the action URLs.
+`split-payment-orchestrator`을(를) 배포한 후 `aio app deploy`이(가) 작업 URL을 인쇄합니다.
 
-Open the `demo-dashboard` URL in a browser:
+브라우저에서 `demo-dashboard` URL을 엽니다.
 
 ```
 https://[runtime-host]/api/v1/web/split_payment_orchestrator/demo-dashboard
 ```
 
-If `DEMO_UI_SECRET` is set:
+`DEMO_UI_SECRET`이(가) 설정된 경우:
 
 ```
 https://[runtime-host]/api/v1/web/split_payment_orchestrator/demo-dashboard?secret=<your-secret>
 ```
 
-With a pending order:
-1. The dashboard should show the order in the pending list
-2. Click **Accept** → order should move to `processing` in Commerce
-3. Place another order; click **Decline** → order should be `canceled` in Commerce
+보류 중인 주문:
+1. 대시보드에 보류 중인 목록의 순서가 표시되어야 합니다.
+2. Commerce에서 `processing`(으)로 이동해야 → **수락**&#x200B;을 클릭합니다.
+3. 다른 주문을 넣으십시오. Commerce에서 주문은 `canceled`이어야 → **거부**&#x200B;를 클릭하십시오.
 
 
-## Step 10 — Test App Builder Action Logs
+## 10단계 — App Builder 작업 로그 테스트
 
 ```bash
 # Follow logs in real-time
@@ -183,7 +183,7 @@ aio runtime activation list --limit 10
 aio runtime activation logs <activation-id>
 ```
 
-For the `payment-orchestrator`, look for:
+`payment-orchestrator`에 대해 다음을 찾으세요.
 
 ```
 [INFO] Split payment orchestration finished { orderId: '42' }

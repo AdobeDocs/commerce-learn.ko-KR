@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 192
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 7ea8492b082fb3f6e9ed7794526b0f83cb0481b3
+source-git-commit: 629bbb6fe26f128e346d85c857111c2f8dbb6d76
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 분할 결제 POC: Experience Cloud UI 확장 AI 프롬프트
 
-`commerce-checkout-starter-kit` 및 `commerce-backend-ui-1` 패턴을 사용하여 **[!UICONTROL Adobe Commerce]** 관리 셸(Experience Cloud)에 분할 결제 주문 패널을 임베드하는 선택적 단계입니다. App Builder orchestrator의 독립 실행형 [데모 대시보드](split-payment-poc-app-builder-orchestrator-prompt.md)는 Admin Shell 통합 없이 동일한 수락 및 거절 흐름을 다룹니다.
+`commerce-checkout-starter-kit` 및 `commerce-backend-ui-1` 패턴을 사용하여 **[!UICONTROL Adobe Commerce]** 관리 셸(Experience Cloud)에 분할 결제 주문 패널을 임베드하는 선택적 단계입니다. App Builder orchestrator의 독립 실행형 [데모 대시보드](./orchestrator-prompt.md)는 Admin Shell 통합 없이 동일한 수락 및 거절 흐름을 다룹니다.
 
 ## 이 프롬프트를 사용하는 방법
 
@@ -26,8 +26,8 @@ ht-degree: 0%
 
 ## 실행하기 전에
 
-* 이 경로에는 OAuth 값 외에 **IMS** 자격 증명이 필요합니다(`commerce-checkout-starter-kit` 변수의 경우 [분할 결제 POC: 환경 변수 참조](split-payment-poc-env-reference.md)).
-* 동일한 `payment-accept` 및 `payment-decline` 동작을 비교하려면 먼저 [분할 결제 POC: App Builder orchestrator AI 프롬프트](split-payment-poc-app-builder-orchestrator-prompt.md)를 완료하십시오. UI 확장은 해당 논리를 `COMMERCE_INTEGRATION_*` 환경 이름으로 다시 사용합니다.
+* 이 경로에는 OAuth 값 외에 **IMS** 자격 증명이 필요합니다(`commerce-checkout-starter-kit` 변수의 경우 [분할 결제 POC: 환경 변수 참조](./env-reference.md)).
+* 동일한 `payment-accept` 및 `payment-decline` 동작을 비교하려면 먼저 [분할 결제 POC: App Builder orchestrator AI 프롬프트](./orchestrator-prompt.md)를 완료하십시오. UI 확장은 해당 논리를 `COMMERCE_INTEGRATION_*` 환경 이름으로 다시 사용합니다.
 
 
 ## 프롬프트

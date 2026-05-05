@@ -1,6 +1,6 @@
 ---
 title: '분할 결제 POC: 튜토리얼 빠른 참조'
-description: Luma 체크아웃을 위해 각 AI 프롬프트, 제안된 섹션 순서 및 작성자 노트와 일치하는 Experience League 페이지, 분할 결제 POC 파일 맵에 대해 알아봅니다.
+description: 분할 결제 POC 파일 맵에 대해 알아봅니다. Luma 체크아웃을 위해 각 AI 프롬프트, 제안된 섹션 순서 및 작성자 메모와 일치하는 Experience League 페이지
 feature: App Builder, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
-source-wordcount: '1455'
+source-wordcount: '1444'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ ht-degree: 0%
 
 ## 파일별 참조
 
-### [분할 결제 POC 만들기: App Builder 및 AI 도구](create-a-split-payment-poc-app-builder-and-ai-tools.md)
-
-**Source 레이블:** `00_TUTORIAL_OVERVIEW.md`(개념적 개요; 게시된 시리즈가 이 페이지로 열립니다.)
+### [분할 결제 POC 만들기: App Builder 및 AI 도구](./overview.md)
 
 자습서에 대한 **목적:** 소개 및 방향.
 
@@ -34,7 +32,7 @@ ht-degree: 0%
 **튜토리얼 사용:** 섹션을 엽니다. 기술 단계 전에 컨텍스트를 설정합니다.
 
 
-### [분할 결제 POC: 아키텍처 및 디자인 결정](split-payment-poc-architecture-and-decisions.md)
+### [분할 결제 POC: 아키텍처 및 디자인 결정](./architecture-and-decisions.md)
 
 
 **목적:** PoC의 모든 아키텍처 결정에 대한 자세한 설명.
@@ -52,7 +50,7 @@ ht-degree: 0%
 **튜토리얼 사용:** &quot;아키텍처&quot; 또는 &quot;작동 방법&quot; 섹션. 숙련된 Commerce 개발자는 건너뛸 수 있지만 App Builder 초보자에게는 필수적입니다.
 
 
-### [분할 결제 POC: 사전 요구 사항 및 환경 설정](split-payment-poc-prerequisites-and-setup.md)
+### [분할 결제 POC: 사전 요구 사항 및 환경 설정](./prerequisites-and-setup.md)
 
 
 **목적:** 코드를 작성하거나 프롬프트를 실행하기 전에 사전 검사 목록을 완료하십시오.
@@ -68,7 +66,7 @@ ht-degree: 0%
 **자습서 사용:** &quot;필수 구성 요소&quot; 또는 &quot;시작&quot; 섹션. 읽기만 하는 것이 아니라 대화식으로 완성해야 합니다.
 
 
-### [분할 결제 POC: 환경 변수 참조](split-payment-poc-env-reference.md)
+### [분할 결제 POC: 환경 변수 참조](./env-reference.md)
 
 
 **목적:** 세 구성 요소 모두에 대한 모든 환경 변수를 한 곳에 배치합니다.
@@ -84,7 +82,7 @@ ht-degree: 0%
 **자습서 사용:** 참조 사이드바 또는 &quot;구성&quot; 섹션. 빌드 프롬프트의 동반자로도 사용됩니다.
 
 
-### [분할 결제 POC: Commerce 모듈 AI 프롬프트](split-payment-poc-commerce-module-prompt.md)
+### [분할 결제 POC: Commerce 모듈 AI 프롬프트](./commerce-module-prompt.md)
 
 
 **목적:** 전체 `Client_SplitPayment` PHP 모듈을 생성하기 위한 자체 포함된 AI 프롬프트를 완료합니다.
@@ -103,7 +101,7 @@ ht-degree: 0%
 **자습서 사용:** &quot;Commerce 모듈 빌드&quot; 섹션. 프롬프트 자체가 아티팩트입니다. 개발자는 아티팩트를 AI 도구에 복사하고 실행합니다.
 
 
-### [분할 결제 POC: App Builder orchestrator AI 프롬프트](split-payment-poc-app-builder-orchestrator-prompt.md)
+### [분할 결제 POC: App Builder orchestrator AI 프롬프트](./orchestrator-prompt.md)
 
 
 **목적:** `split-payment-orchestrator` App Builder 응용 프로그램을 생성하기 위한 자체 포함된 AI 프롬프트를 완료합니다.
@@ -122,47 +120,47 @@ ht-degree: 0%
 **자습서 사용:** &quot;App Builder 애플리케이션 빌드&quot; 섹션. Commerce 모듈 프롬프트에 대한 설명입니다.
 
 
-### [분할 결제 POC: Experience Cloud UI 확장 AI 프롬프트](split-payment-poc-experience-cloud-ui-prompt.md)
+### [분할 결제 POC: Experience Cloud UI 확장 AI 프롬프트](./experience-cloud-ui-prompt.md)
 
 
 **목적:** 선택적 Experience Cloud 관리 UI SDK 확장을 생성하도록 AI 메시지를 표시합니다.
 
-**필요한 이유:** Orchestrator 프롬프트에서 데모 대시보드는 의도적으로 거칠어졌습니다. 이는 프로덕션이 아니라 개념 증명입니다. This section shows developers the next step: embedding the split payment dashboard into the Commerce Admin Shell using the Admin UI SDK. It was missing entirely from the original prompts.
+**필요한 이유:** Orchestrator 프롬프트에서 데모 대시보드는 의도적으로 거칠어졌습니다. 이는 프로덕션이 아니라 개념 증명입니다. 이 섹션에서는 개발자에게 다음 단계인 관리 UI SDK을 사용하여 분할 결제 대시보드를 Commerce 관리 셸에 포함하는 방법을 보여줍니다. 원래 프롬프트에서 완전히 누락되었습니다.
 
 **적용 범위:**
 
-* `ext.config.yaml` for the Admin UI SDK extension
-* React components for the order dashboard and order detail
-* Backend actions using IMS auth for listing and OAuth for accept/decline
-* The simulation script (also used for testing)
+* 관리자 UI SDK 확장에 대한 `ext.config.yaml`
+* 주문 대시보드 및 주문 세부 사항에 대한 React 구성 요소
+* 목록에 IMS 인증을 사용하고 수락/거부에 OAuth를 사용하는 백엔드 작업
+* 시뮬레이션 스크립트(테스트에도 사용)
 
-**Tutorial use:** Optional &quot;Going further&quot; or &quot;Production path&quot; section. Can be skipped if the tutorial focuses only on the PoC.
-
-
-### [Split payment POC: testing and verification guide](split-payment-poc-testing-and-verification.md)
+**튜토리얼 사용:** 선택적 &quot;계속 진행&quot; 또는 &quot;프로덕션 경로&quot; 섹션. 자습서가 PoC에만 중점을 두는 경우 건너뛸 수 있습니다.
 
 
-**Purpose:** Step-by-step testing guide covering every component in the correct verification order.
+### [분할 결제 POC: 테스트 및 확인 가이드](./testing-and-verification.md)
 
-**Why it&#39;s needed:** Building the components is half the work. Developers need a clear verification path that starts from the lowest level (database columns, REST endpoints) and builds to the full end-to-end flow. The original prompts had a setup checklist but no explicit testing flow.
+
+**목적:** 올바른 확인 순서에 따라 모든 구성 요소를 다루는 단계별 테스트 안내서입니다.
+
+**필요한 이유:** 구성 요소를 빌드하는 것이 작업의 절반입니다. 개발자는 가장 낮은 수준(데이터베이스 열, REST 끝점)에서 시작하여 전체 종단 간 흐름으로 빌드되는 명확한 확인 경로가 필요합니다. 원래 프롬프트에 설정 체크리스트가 있지만 명시적인 테스트 흐름은 없었습니다.
 
 **적용 범위:**
 
-* Commerce module installation verification
-* Admin configuration verification
-* REST endpoint smoke tests (curl commands)
-* Checkout UI walkthrough (including validation cases)
-* Threshold guard test
-* Full order placement test
-* Simulation script usage for accept and decline
-* Demo dashboard usage
-* App Builder action log inspection
-* Ten common failure modes with specific fixes
+* Commerce 모듈 설치 확인
+* 관리자 구성 확인
+* REST 끝점 연기 테스트(curl 명령)
+* 체크아웃 UI 안내(유효성 검사 사례 포함)
+* 임계값 보호 테스트
+* 완전 주문 배치 테스트
+* 수락 및 거절을 위한 시뮬레이션 스크립트 사용
+* 데모 대시보드 사용
+* App Builder 작업 로그 검사
+* 특정 수정 사항이 있는 10가지 일반적인 장애 모드
 
 **자습서 사용:** &quot;테스트&quot; 또는 &quot;확인&quot; 섹션. 문제 해결 참조 자료로도 유용합니다.
 
 
-### [분할 결제 POC: 개념 증명 후 다음 단계](split-payment-poc-next-steps.md)
+### [분할 결제 POC: 개념 증명 후 다음 단계](./next-steps.md)
 
 
 **목적:** PoC를 프로덕션 준비 패턴으로 발전시키기 위한 로드맵.
@@ -186,27 +184,27 @@ ht-degree: 0%
 
 | 튜토리얼 섹션 | Experience League 페이지 |
 | --- | --- |
-| 소개 및 학습 목표 | [분할 결제 POC 만들기: App Builder 및 AI 도구](create-a-split-payment-poc-app-builder-and-ai-tools.md) |
-| 엔드 투 엔드 데모(비디오) | [분할 결제 POC 만들기: App Builder 전체 데모](create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md) |
-| 아키텍처: 어디에 사는가 | [분할 결제 POC: 아키텍처 및 디자인 결정](split-payment-poc-architecture-and-decisions.md) |
-| Prerequisites and setup | [분할 결제 POC: 사전 요구 사항 및 환경 설정](split-payment-poc-prerequisites-and-setup.md) |
-| Environment variables | [분할 결제 POC: 환경 변수 참조](split-payment-poc-env-reference.md) |
-| Step 1: Build the Commerce module | [분할 결제 POC: Commerce 모듈 AI 프롬프트](split-payment-poc-commerce-module-prompt.md) |
-| Step 2: Build the App Builder orchestrator | [분할 결제 POC: App Builder orchestrator AI 프롬프트](split-payment-poc-app-builder-orchestrator-prompt.md) |
-| Step 3: Test the end-to-end flow | [Split payment POC: testing and verification guide](split-payment-poc-testing-and-verification.md) |
-| Step 4 (optional): Admin UI extension | [분할 결제 POC: Experience Cloud UI 확장 AI 프롬프트](split-payment-poc-experience-cloud-ui-prompt.md) |
-| Next steps and production path | [분할 결제 POC: 개념 증명 후 다음 단계](split-payment-poc-next-steps.md) |
+| 소개 및 학습 목표 | [분할 결제 POC 만들기: App Builder 및 AI 도구](./overview.md) |
+| 엔드 투 엔드 데모(비디오) | [분할 결제 POC 만들기: App Builder 전체 데모](./full-demo.md) |
+| 아키텍처: 어디에 사는가 | [분할 결제 POC: 아키텍처 및 디자인 결정](./architecture-and-decisions.md) |
+| 사전 요구 사항 및 설정 | [분할 결제 POC: 사전 요구 사항 및 환경 설정](./prerequisites-and-setup.md) |
+| 환경 변수 | [분할 결제 POC: 환경 변수 참조](./env-reference.md) |
+| 1단계: Commerce 모듈 구축 | [분할 결제 POC: Commerce 모듈 AI 프롬프트](./commerce-module-prompt.md) |
+| 2단계: App Builder Orchestrator 구축 | [분할 결제 POC: App Builder orchestrator AI 프롬프트](./orchestrator-prompt.md) |
+| 3단계: 엔드 투 엔드 플로우 테스트 | [분할 결제 POC: 테스트 및 확인 가이드](./testing-and-verification.md) |
+| 4단계(선택 사항): 관리자 UI 확장 | [분할 결제 POC: Experience Cloud UI 확장 AI 프롬프트](./experience-cloud-ui-prompt.md) |
+| 다음 단계 및 프로덕션 경로 | [분할 결제 POC: 개념 증명 후 다음 단계](./next-steps.md) |
 
 
-## Important notes for tutorial authors
+## 튜토리얼 작성자를 위한 중요 참고 사항
 
-**On the Luma theme assumption:** Every build prompt generates code for a clean Luma installation. The tutorial should clearly state this at the top — developers with custom checkouts will need to adapt the `LayoutProcessorPlugin` injection paths and possibly the RequireJS configuration. The series introduction and build prompts include customization callouts for this.
+**Luma 테마 가정에서:** 모든 빌드 프롬프트는 깨끗한 Luma 설치를 위한 코드를 생성합니다. 튜토리얼의 맨 위에는 이 내용이 명확하게 설명되어 있어야 합니다. 사용자 지정 체크 아웃을 사용하는 개발자는 `LayoutProcessorPlugin` 삽입 경로 및 RequireJS 구성을 조정해야 합니다. 시리즈 소개 및 빌드 프롬프트에 이에 대한 사용자 지정 콜아웃이 포함됩니다.
 
-**On the PHP module:** The tutorial explicitly does not provide the PHP code as a copy-paste download. The AI prompt *generates* it. This is intentional — it teaches the pattern of using AI to create Commerce extensions, not just copy-paste boilerplate. However, the generated code when prompted on a clean environment should match the working code in `app/code/Client/SplitPayment/` exactly.
+**PHP 모듈에서:** 자습서에서는 PHP 코드를 복사-붙여넣기 다운로드로 제공하지 않습니다. AI 프롬프트 *생성*&#x200B;합니다. 이것은 의도적인 것입니다. AI를 사용하여 보일러판을 복사하여 붙여넣는 것이 아니라 Commerce 확장을 만드는 패턴을 설명합니다. 그러나 깨끗한 환경에서 메시지가 표시될 때 생성된 코드는 `app/code/Client/SplitPayment/`의 작업 코드와 정확히 일치해야 합니다.
 
-**On the $100 threshold:** This is a hard-coded PoC value. The tutorial should note that real stores will want to configure this via Commerce Admin configuration rather than a compile-time constant.
+**$100 임계값:**&#x200B;이 값은 하드 코딩된 PoC 값입니다. 자습서에서는 실제 저장소가 컴파일 시간 상수가 아닌 Commerce 관리 구성을 통해 이 작업을 구성하려고 한다는 점을 참고하십시오.
 
-**On store credit dependency:** The split payment flow as built requires `Magento_CustomerBalance` (the native store credit module).
+**스토어 크레딧 종속성:** 빌드된 분할 결제 흐름에는 `Magento_CustomerBalance`(기본 스토어 크레딧 모듈)이 필요합니다.
 
 
 {{$include /help/_includes/split-payment-ai-tools-related-links.md}}
