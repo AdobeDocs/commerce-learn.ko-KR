@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 비디오
 
->[!VIDEO](https://video.tv.adobe.com/v/3483933?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483940?captions=kor&learn=on)
 
 ## 중요 세부 정보
 

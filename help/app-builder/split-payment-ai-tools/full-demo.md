@@ -24,7 +24,7 @@ Adobe Commerce 및 Adobe App Builder에 구축된 분할 결제 증명 개념에
 
 ## 비디오
 
->[!VIDEO](https://video.tv.adobe.com/v/3484087?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3484106?captions=kor&learn=on)
 
 ## 이 비디오는 누구의 것입니까?
 
