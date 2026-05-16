@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 259
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-18624
-source-git-commit: e3257f9713b26b0ab8ca2e827aeaac4532ff9dff
+source-git-commit: 96a1356a399fa5cdca9d9befd7c14ebad1b0162f
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 * 카탈로그 보기가 공유 기본 카탈로그와 특정 상점 또는 대상 간의 &quot;렌즈&quot; 역할을 하는 방법
 * 머천다이징 서비스 API가 이러한 보기를 사용하여 Headless 경험이 구성된 카탈로그와 조정된 상태를 유지하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491292?captions=kor&learn=on)
 
 ## 사일로된 카탈로그로 인한 과제
 

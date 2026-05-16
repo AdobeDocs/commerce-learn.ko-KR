@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 297
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-21132
-source-git-commit: e3257f9713b26b0ab8ca2e827aeaac4532ff9dff
+source-git-commit: 96a1356a399fa5cdca9d9befd7c14ebad1b0162f
 workflow-type: tm+mt
 source-wordcount: '543'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 * Storefront가 카탈로그 보기를 사용하여 제품 및 가격을 필터링하는 방법(예: Celport)
 * 카탈로그 신뢰할 수 있는 단일 소스의 고유 ID 및 비즈니스 가치 보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491269?captions=kor&learn=on)
 
 ## 시나리오: Carvelo Automons
 
