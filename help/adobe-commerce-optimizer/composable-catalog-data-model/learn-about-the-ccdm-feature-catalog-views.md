@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 297
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-21132
-source-git-commit: e3257f9713b26b0ab8ca2e827aeaac4532ff9dff
+source-git-commit: 96a1356a399fa5cdca9d9befd7c14ebad1b0162f
 workflow-type: tm+mt
 source-wordcount: '543'
 ht-degree: 0%
@@ -67,5 +67,5 @@ Aurora 타이어, Bolt 모터 또는 Cruz 배터리와 같은 다른 제품이 �
 
 ## 관련 컨텐츠
 
-* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [머천다이징 API 시작하기](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
