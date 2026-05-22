@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 378
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: 43fee759ba8ea76dfa91f9ae838a6ad3474d2bcb
+source-git-commit: 84a3cb5868dd7c6f4adb0d46d53ed718133a6895
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -33,21 +33,6 @@ ht-degree: 0%
 * 카탈로그 재구축 없이 일상적인 작업에서 정책 업데이트
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
-
-## 시나리오: Carvelo Automoals and Celport
-
-**Carvelo Automers**&#x200B;은(는) Adobe Commerce 데모에 사용되는 가상 자동차 부품 회사입니다. Carvelo는 **Celport**&#x200B;을(를) 포함한 대리점을 통해 **Aurora**, **Bolt**, **Cruz** 브랜드의 부품을 판매합니다.
-
-[Celport 카탈로그 보기](./learn-about-the-ccdm-feature-catalog-views.md)에서 두 개의 정책이 함께 작동합니다.
-
-1. **브랜드 필터** — **볼트** 및 **크루즈** 브랜드만 허용합니다. 오로라 제품은 이 필터를 통과하지 않습니다.
-2. **범주 필터** — 표시되는 제품을 **브레이크** 및 **일시 중단**&#x200B;으로만 제한합니다.
-
-제품을 표시하려면 **모든 활성 정책**&#x200B;을 충족해야 합니다. 다른 모든 항목은 필터링됩니다.
-
-정책은 **브랜드**, **차량 모델** 또는 **부품 범주**&#x200B;와 같은 제품 특성을 평가하고 해당 카탈로그 보기에 대해 허용되는 제품을 정의합니다.
-
-## 정책이란 무엇입니까?
 
 **정책**&#x200B;은(는) **데이터 액세스 필터**&#x200B;입니다. 제품 속성을 검사하고 카탈로그 보기에서 노출할 수 있는 제품을 결정하는 규칙을 적용합니다. 정책은 공유 구성 가능한 카탈로그의 맨 위에 있으며 카탈로그 데이터를 복제하지 않습니다.
 
@@ -94,6 +79,6 @@ Celport 시나리오에서 STATIC 규칙은 다음과 같습니다.
 
 * [구성 가능한 카탈로그 데이터 모델이 있는 이유](./why-ccdm-exists.md)
 * [카탈로그 보기에 대해 알아보기](./learn-about-the-ccdm-feature-catalog-views.md)
-* [머천다이징 서비스에 대한 카탈로그 보기](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
+* [머천다이징 서비스에 대한 카탈로그 보기](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [머천다이징 API 시작하기](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
