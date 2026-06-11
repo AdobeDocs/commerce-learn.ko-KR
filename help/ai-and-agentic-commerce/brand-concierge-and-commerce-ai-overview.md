@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21570
 duration: 303
-source-git-commit: a1e5b576b9e4a75e1dcc26d64a89d1072f6c4bcb
+source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Brand Concierge 및 Commerce AI 개요
 
-[!BADGE Beta]{type=Informative tooltip="이 기능은 현재 베타 버전이며 변경될 수 있습니다."}
+[!BADGE 준비 중]{type=Informative tooltip="이 기능은 곧 제공될 예정이며 변경될 수 있습니다."}
 
 상업의 정문은 더 이상 홈페이지가 아닙니다. 대화입니다. Adobe Commerce과 통합된 Brand Concierge은 필터, 검색 막대 및 카테고리 페이지를 쇼핑객 의도를 이해하고 카탈로그를 쿼리하며 한 대화에서 카트를 관리하는 AI 도우미로 대체합니다. AI 기반 쇼핑객은 31% 더 높게 전환하고 방문당 254% 더 많은 수익을 창출하며 사이트에서 45% 더 많은 시간을 보냅니다(Adobe Digital Insights, 2026년 1월).
 
@@ -38,4 +38,4 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-[[!DNL Brand Concierge] 설명서](https://experienceleague.adobe.com/ko/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Brand Concierge] 설명서](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
