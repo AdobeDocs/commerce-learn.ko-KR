@@ -38,4 +38,4 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-[[!DNL Brand Concierge] 설명서](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Brand Concierge] 설명서](https://experienceleague.adobe.com/ko/docs/brand-concierge/content/home){target="_blank"}
