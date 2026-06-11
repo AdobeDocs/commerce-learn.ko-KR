@@ -35,4 +35,4 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-[[!DNL Live Search] 개요](https://experienceleague.adobe.com/en/docs/commerce/live-search/overview){target="_blank"}
+[[!DNL Live Search] 개요](https://experienceleague.adobe.com/ko/docs/commerce/live-search/overview){target="_blank"}
