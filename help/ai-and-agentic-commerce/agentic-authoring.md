@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21574
 duration: 376
-source-git-commit: a1e5b576b9e4a75e1dcc26d64a89d1072f6c4bcb
+source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 에이전트 작성
 
-[!BADGE Beta]{type=Informative tooltip="이 기능은 현재 베타 버전이며 변경될 수 있습니다."}
+[!BADGE 준비 중]{type=Informative tooltip="이 기능은 곧 제공될 예정이며 변경될 수 있습니다."}
 
 Experience Workspace은 Adobe Commerce 상점 첫 페이지에 내장된 아젠틱 작성 환경입니다. 이를 통해 마케터와 개발자는 파일 구조, 페이지 컨텐츠, 메타데이터 및 라이브 미리 보기 등의 모든 기능을 한 곳에 통합할 수 있습니다. AI 제작 도우미는 MCP에서 실행됩니다. 제품 카탈로그 및 브랜드 콘텐츠와 직접 연결되므로 탭을 전환하거나, 복사-붙여넣기하거나, 티켓을 정리하지 않고도 빌드할 내용을 설명하고 표시되는 것을 볼 수 있습니다.
 

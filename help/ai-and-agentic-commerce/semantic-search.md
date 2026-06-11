@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21573
 duration: 192
-source-git-commit: a1e5b576b9e4a75e1dcc26d64a89d1072f6c4bcb
+source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 의미 체계 검색
 
-[!BADGE Beta]{type=Informative tooltip="이 기능은 현재 베타 버전이며 변경될 수 있습니다."}
+[!BADGE 준비 중]{type=Informative tooltip="이 기능은 곧 제공될 예정이며 변경될 수 있습니다."}
 
 기존 키워드 검색은 정확한 단어와 일치하지만 쇼핑객은 적합한 단어를 거의 알지 못합니다. Adobe Commerce의 의미 체계 검색은 AI를 사용하여 쿼리 배경의 의도를 이해하고, 쇼핑객을 리터럴 텍스트가 아닌 의미를 기반으로 한 제품에 매칭합니다. 이를 통해 제품 검색을 개선하고 참여도를 높이며, 구매자가 원하는 결과를 반영하여 더 높은 전환을 유도합니다.
 

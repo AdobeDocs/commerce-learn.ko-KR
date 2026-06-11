@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21575
 duration: 225
-source-git-commit: a1e5b576b9e4a75e1dcc26d64a89d1072f6c4bcb
+source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 무생식 발달
 
-[!BADGE Beta]{type=Informative tooltip="이 기능은 현재 베타 버전이며 변경될 수 있습니다."}
+[!BADGE 준비 중]{type=Informative tooltip="이 기능은 곧 제공될 예정이며 변경될 수 있습니다."}
 
 상거래 사용자 지정 사항을 빌드하려면 일반적으로 분석, 디자인, 개발 및 배포 전반에 걸쳐 여러 팀, 도구 및 수일간의 노력이 필요했습니다. Adobe Commerce의 무의미한 개발은 이를 하나의 지능적인 루프로 붕괴시킨다. AI 에이전트는 코드가 수행하는 작업뿐만 아니라 수행하려는 작업을 포함하여 기존 시스템을 이해하고 블루프린트를 생성하고, 프로덕션 준비 코드를 작성하고, 빌드할 때 유효성을 검사하고, 핸드오프나 컨텍스트 손실 없이 배포를 조정합니다.
 
