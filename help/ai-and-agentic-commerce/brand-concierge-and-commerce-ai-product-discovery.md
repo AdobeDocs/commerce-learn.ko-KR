@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: 618ab9f643122b2155afb07bcaf779f59ef37837
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!BADGE 준비 중]{type=Informative tooltip="이 기능은 곧 제공될 예정이며 변경될 수 있습니다."}
 
-가장 풍부한 제품 카탈로그조차도 대형 언어 모델(LLM)에 대한 부분적인 가시성만 갖습니다. 제품 변형, 그라인드 유형, 맛 노트, 패키징 등 풍부한 속성은 AI 웹 크롤러가 읽을 수 없는 접을 수 있는 패널과 팝업 뒤에 가려지는 경우가 많다. Brand Concierge의 카탈로그 에이전트는 이러한 가시성 차이를 자동으로 식별하여 해결합니다. 쇼핑객 대면 매장을 변경하지 않습니다.
+가장 풍부한 제품 카탈로그조차도 대형 언어 모델(LLM)에 대한 부분적인 가시성만 갖습니다. 제품 변형, 그라인드 유형, 맛 노트, 패키징 등 풍부한 속성은 AI 웹 크롤러가 읽을 수 없는 접을 수 있는 패널과 팝업 뒤에 가려지는 경우가 많다. 상거래 카탈로그 에이전트는 이러한 가시성 차이를 자동으로 식별하여 해결합니다. 쇼핑객 대면 매장을 변경하지 않습니다.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -38,4 +38,4 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-[[!DNL Brand Concierge] 설명서](https://experienceleague.adobe.com/ko/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Brand Concierge] 설명서](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
