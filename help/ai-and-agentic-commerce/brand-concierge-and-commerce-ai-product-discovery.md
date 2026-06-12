@@ -34,7 +34,7 @@ ht-degree: 0%
 * AI에 최적화된 제품 이름 및 설명을 생성하는 카탈로그 보강
 * AI 콘텐츠 가시성 검사기를 사용한 개선 사항 유효성 검사
 
->[!VIDEO](https://video.tv.adobe.com/v/3492287)
+>[!VIDEO](https://video.tv.adobe.com/v/3492328?captions=kor)
 
 ## 추가 리소스
 
