@@ -34,7 +34,7 @@ ht-degree: 0%
 * 전체 시스템 보기에서 동시 유효성 검사 및 최적화
 * 핸드오프 또는 컨텍스트 손실이 없는 연속 배포 플로우
 
->[!VIDEO](https://video.tv.adobe.com/v/3492284)
+>[!VIDEO](https://video.tv.adobe.com/v/3492292?captions=kor)
 
 <!-- ## Additional resources -->
 
