@@ -1,18 +1,18 @@
 ---
 title: Salesforce Commerce Cloud 커넥터에 대한 엔드투엔드 데모
-description: Adobe Commerce Optimizer과 함께 Salesforce Commerce Cloud에 대한 엔드 투 엔드 데모를 시청하십시오.
+description: Salesforce Commerce Cloud과 Adobe Commerce Optimizer 간에 전체 및 델타 동기화를 실행한 다음 라이브 스토어에서 결과를 확인하는 방법을 알아봅니다.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 429
+duration: 430
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
 exl-id: 0b7d6adb-e535-4dc1-82cc-cb3a5be9a124
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,4 @@ ht-degree: 0%
 * Salesforce Commerce Cloud 카탈로그의 제품 세부 사항 및 가격에 대한 변경 사항은 델타 동기화 프로세스를 통해 Commerce Optimizer에서 자동으로 감지하고 업데이트됩니다.
 * 실시간 업데이트 및 시스템 간의 원활한 데이터 흐름 및 동기화를 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476100?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
