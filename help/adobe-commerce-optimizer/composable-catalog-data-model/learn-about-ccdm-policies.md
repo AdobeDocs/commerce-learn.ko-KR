@@ -32,7 +32,7 @@ ht-degree: 0%
 * API 요청 헤더에 의해 활성화된 트리거 정책(예: `AC-Policy-Brand`)
 * 카탈로그 재구축 없이 일상적인 작업에서 정책 업데이트
 
->[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491431?captions=kor&learn=on)
 
 **정책**&#x200B;은(는) **데이터 액세스 필터**&#x200B;입니다. 제품 속성을 검사하고 카탈로그 보기에서 노출할 수 있는 제품을 결정하는 규칙을 적용합니다. 정책은 공유 구성 가능한 카탈로그의 맨 위에 있으며 카탈로그 데이터를 복제하지 않습니다.
 

@@ -33,4 +33,4 @@ Adobe Commerce Optimizer을 사용하여 Salesforce Commerce Cloud용 App Builde
 * App Builder Starter Kit를 복제하고 Adobe IO CLI를 사용하여 환경 파일을 구성합니다.
 * 앱을 배포하고 작업 공간에 작업 및 이벤트가 성공적으로 등록되었는지 확인합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476089?captions=kor&learn=on)

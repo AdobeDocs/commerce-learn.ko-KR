@@ -30,7 +30,7 @@ ht-degree: 0%
 * Storefront가 카탈로그 보기를 사용하여 제품 및 가격을 필터링하는 방법(예: Celport)
 * 카탈로그 신뢰할 수 있는 단일 소스의 고유 ID 및 비즈니스 가치 보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491269?captions=kor&learn=on)
 
 ## 관련 컨텐츠
 

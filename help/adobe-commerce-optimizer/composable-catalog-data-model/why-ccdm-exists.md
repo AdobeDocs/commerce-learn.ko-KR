@@ -31,7 +31,7 @@ ht-degree: 0%
 * 카탈로그 보기가 공유 기본 카탈로그와 특정 상점 또는 대상 간의 &quot;렌즈&quot; 역할을 하는 방법
 * 머천다이징 서비스 API가 이러한 보기를 사용하여 Headless 경험이 구성된 카탈로그와 조정된 상태를 유지하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491292?captions=kor&learn=on)
 
 ## 사일로된 카탈로그로 인한 과제
 
