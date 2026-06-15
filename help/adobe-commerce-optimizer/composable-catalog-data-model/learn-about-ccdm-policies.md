@@ -79,6 +79,6 @@ Celport 시나리오에서 STATIC 규칙은 다음과 같습니다.
 
 * [구성 가능한 카탈로그 데이터 모델이 있는 이유](./why-ccdm-exists.md)
 * [카탈로그 보기에 대해 알아보기](./learn-about-the-ccdm-feature-catalog-views.md)
-* [머천다이징 서비스에 대한 카탈로그 보기](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [머천다이징 서비스에 대한 카탈로그 보기](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
 * [머천다이징 API 시작하기](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
