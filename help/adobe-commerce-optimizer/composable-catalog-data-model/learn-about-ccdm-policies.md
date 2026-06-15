@@ -1,17 +1,17 @@
 ---
 title: 구성 가능한 카탈로그 데이터 모델의 CCDM 정책에 대해 알아보기
-description: Adobe 구성 가능 카탈로그 데이터 모델의 정책이 각 카탈로그 보기에서 정적 규칙 및 TRIGGER 헤더로 제품을 필터링하는 방법을 알아봅니다.
+description: Adobe 구성 가능한 카탈로그 데이터 모델의 STATIC 및 TRIGGER 정책이 카탈로그를 다시 빌드하지 않고 카탈로그 보기 간에 제품 가시성을 제어하는 방법에 대해 알아봅니다.
 feature: Saas, Storefront
 topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 378
+duration: 349
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: 84a3cb5868dd7c6f4adb0d46d53ed718133a6895
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -81,4 +81,4 @@ Celport 시나리오에서 STATIC 규칙은 다음과 같습니다.
 * [카탈로그 보기에 대해 알아보기](./learn-about-the-ccdm-feature-catalog-views.md)
 * [머천다이징 서비스에 대한 카탈로그 보기](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
-* [머천다이징 API 시작하기](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [머천다이징 API 시작하기](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}

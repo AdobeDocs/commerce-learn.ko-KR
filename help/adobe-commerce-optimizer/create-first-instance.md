@@ -1,13 +1,13 @@
 ---
 title: 첫 번째 Adobe Commerce Optimizer 인스턴스를 만드는 방법
-description: 이 단계별 자습서를 사용하여 첫 번째 Adobe Commerce Optimizer 인스턴스를 만드는 방법을 알아봅니다.
+description: 자격을 확인하고 크레딧을 확인한 다음, 올바른 인스턴스 유형 및 지역을 선택하여 첫 번째 Adobe Commerce Optimizer 인스턴스를 만드는 방법을 알아봅니다.
 feature: Saas, Storefront
 topic: Commerce, Performance
-role: Admin, User
+role: Developer
 level: Beginner
-doc-type: Tutorial
+doc-type: Technical Video
 duration: 131
-last-substantial-update: 2025-07-25T00:00:00.000Z
+last-substantial-update: 2025-07-25
 jira: KT-18610
 exl-id: 7136b0d6-a29f-42f4-8363-5bd4a2d828fc
 TQID: https://experienceleague.adobe.com/XER1wNXU6pfVCN2pI8YWTMMsh54HimErWEzJAghTgpk
@@ -18,9 +18,9 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: 167
+source-wordcount: 173
 ht-degree: 0%
 
 ---
@@ -46,4 +46,4 @@ ht-degree: 0%
 ## 관련 컨텐츠
 
 * [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/ko/docs/commerce-learn/adobe-commerce-optimizer/overview){target="_blank"}

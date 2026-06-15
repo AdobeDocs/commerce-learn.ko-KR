@@ -1,6 +1,6 @@
 ---
 title: Salesforce Commerce Cloud 카트리지 설치
-description: Adobe Commerce Optimizer과 함께 Salesforce에서 사용되는 카트리지에 대해 알아봅니다.
+description: Salesforce Commerce Cloud용 Adobe Commerce Optimizer 카트리지를 설치 및 구성하고 델타 내보내기를 설정하고 설치를 확인하는 방법을 알아봅니다.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer
@@ -10,9 +10,9 @@ duration: 710
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
 exl-id: b7c6d55f-bef6-4245-b45f-ec0842a94952
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
