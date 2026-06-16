@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: 618ab9f643122b2155afb07bcaf779f59ef37837
+source-git-commit: 3475138b5a0dd2eaa30ee7da0e3f7b2699428d59
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -34,8 +34,9 @@ ht-degree: 0%
 * AI에 최적화된 제품 이름 및 설명을 생성하는 카탈로그 보강
 * AI 콘텐츠 가시성 검사기를 사용한 개선 사항 유효성 검사
 
->[!VIDEO](https://video.tv.adobe.com/v/3492328?captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3492287)
 
 ## 추가 리소스
 
-[[!DNL Brand Concierge] 설명서](https://experienceleague.adobe.com/ko/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Brand Concierge] 설명서](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
+
