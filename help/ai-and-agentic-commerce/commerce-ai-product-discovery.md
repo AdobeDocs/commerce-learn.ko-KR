@@ -1,20 +1,20 @@
 ---
-title: Brand Concierge 및 Commerce AI 제품 검색
-description: Brand Concierge이 카탈로그 에이전트를 사용하여 AI의 가시성 차이를 좁히고 LLM이 제품을 검색하고 추천할 수 있도록 Commerce 제품 데이터를 보강하는 방법에 대해 알아봅니다.
+title: Commerce AI 제품 검색
+description: Commerce 카탈로그 에이전트가 AI 가시성 차이를 좁혀 LLM이 제품을 검색하고 추천할 수 있도록 Commerce 제품 데이터를 보강하는 방법에 대해 알아봅니다.
 role: User
 level: Beginner
 doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: 3475138b5a0dd2eaa30ee7da0e3f7b2699428d59
+source-git-commit: 23a3ecdc06ec2738f524359169668a1423c34493
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# Brand Concierge 및 Commerce AI 제품 검색
+# Commerce AI 제품 검색
 
 [!BADGE 준비 중]{type=Informative tooltip="이 기능은 곧 제공될 예정이며 변경될 수 있습니다."}
 
@@ -35,8 +35,4 @@ ht-degree: 0%
 * AI 콘텐츠 가시성 검사기를 사용한 개선 사항 유효성 검사
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492328?captions=kor)
-
-## 추가 리소스
-
-[[!DNL Brand Concierge] 설명서](https://experienceleague.adobe.com/ko/docs/brand-concierge/content/home){target="_blank"}
 
