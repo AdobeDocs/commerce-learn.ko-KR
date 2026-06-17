@@ -34,4 +34,4 @@ Adobe Commerce용 Commerce MCP는 개발자가 실시간 상거래 데이터 및
 * 다른 곳으로 이동하지 않고 대화 내에서 체크아웃 완료됨
 * 구매한 제품에 대한 구매 후 컨텍스트 기반 지침
 
->[!VIDEO](https://video.tv.adobe.com/v/3492285)
+>[!VIDEO](https://video.tv.adobe.com/v/3492319?captions=kor)
