@@ -1,18 +1,18 @@
 ---
-title: Adobe I/O Runtime 명령줄 인터페이스 및 API Mesh 플러그인 설치
-description: Adobe I/O Runtime 명령줄 인터페이스와 API Mesh 플러그인을 설치하는 방법을 알아봅니다
+title: Adobe I/O Runtime CLI 및 API Mesh 플러그인 설치
+description: Adobe Developer App Builder용 API Mesh를 시작하기 위해 Adobe I/O Runtime 명령줄 인터페이스와 API Mesh 플러그인을 설치하는 방법을 알아봅니다.
 jira: KT-11801
 doc-type: Tutorial
-duration: 433
+duration: 410
 last-substantial-update: 2023-02-08T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
-level: Beginner, Intermediate
+level: Beginner
 exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
-source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
+source-git-commit: c73744d503de5023e5c001d0534200522db55b04
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 # Adobe I/O Runtime CLI 및 Mesh 플러그인 설치
 
 Adobe Developer App Builder용 API Mesh 사용을 시작하려면 먼저 `aio` CLI 및 API Mesh 플러그인을 설치해야 합니다.
-설치 지침 및 필수 구성 요소를 보려면 API Mesh [시작](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} 페이지를 방문하십시오.
+설치 지침 및 필수 구성 요소를 보려면 API Mesh [시작](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/){target="_blank"} 페이지를 방문하십시오.
 
 ## 이 비디오는 누구의 것입니까?
 
-* [!DNL Adobe Commerce]Adobe I/O Runtime[&#x200B; 및 API Mesh를 사용하여 경험이 제한된 API Mesh 또는 &#x200B;](https://developer.adobe.com/app-builder/docs/intro_and_overview/what-is-app-builder){target="_blank"}을(를) 처음 사용하는 개발자입니다.
+* [Adobe I/O Runtime](https://developer.adobe.com/app-builder/docs/intro_and_overview/what-is-app-builder){target="_blank"} 및 API Mesh를 사용하여 경험이 제한된 API Mesh 또는 [!DNL Adobe Commerce]을(를) 처음 사용하는 개발자입니다.
 
 ## 비디오 콘텐츠
 
@@ -32,11 +32,11 @@ Adobe Developer App Builder용 API Mesh 사용을 시작하려면 먼저 `aio` C
 * Adobe I/O Runtime CLI(명령줄 인터페이스) 설치
 * API Mesh 플러그인 설치
 
->[!VIDEO](https://video.tv.adobe.com/v/3419796?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414122?learn=on)
 
 ## `aio` CLI 및 API Mesh 플러그인 설치 중
 
-`node` 및 `npm`을(를) 설치한 후 다음 명령을 실행하여 `aio` CLI를 설치합니다.
+`aio` CLI를 설치하려면 `node` 및 `npm`을(를) 설치한 후 다음 명령을 실행하십시오.
 
 ```bash
 npm install -g @adobe/aio-cli

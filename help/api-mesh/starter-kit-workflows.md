@@ -1,6 +1,6 @@
 ---
-title: API Mesh starter kit using workflows
-description: Get started with Adobe Commerce API Mesh using workflows for deploying your mesh and load tests.
+title: 워크플로우를 사용한 API Mesh 스타터 키트
+description: API Mesh 스타터 키트에서 GitHub 워크플로우를 사용하여 메쉬를 자동으로 배포하고 K6 로드 테스트를 실행하는 방법에 대해 알아봅니다.
 jira: KT-18388
 doc-type: Tutorial
 duration: 351
@@ -11,24 +11,20 @@ role: Developer
 level: Beginner
 exl-id: 8add45cc-f0cb-43a6-99d9-6b89beff6b19
 TQID: https://experienceleague.adobe.com/OhEdoSE6OOV1QiwBAf7eusIAkHxxXBsgcaV3wzV0KWI
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: c73744d503de5023e5c001d0534200522db55b04
 workflow-type: tm+mt
-source-wordcount: 130
+source-wordcount: 138
 ht-degree: 0%
 
 ---
 
-# API Mesh starter kit using workflows
+# 워크플로우를 사용한 API Mesh 스타터 키트
 
-Learn about the GitHub workflows included in the API Mesh starter kit for deploying your mesh and performing load tests.
+메쉬를 배포하고 로드 테스트를 수행하기 위해 API Mesh 스타터 키트에 포함된 GitHub 워크플로에 대해 알아봅니다.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -38,13 +34,13 @@ Learn about the GitHub workflows included in the API Mesh starter kit for deploy
 
 ## 비디오 콘텐츠
 
-* The deployMesh workflow that automatically deploys or updates a mesh
-* Load testing with the K6 load test workflow
+* 메쉬를 자동으로 배포하거나 업데이트하는 deployMesh 워크플로
+* K6 부하 테스트 워크플로우를 사용한 부하 테스트
 
->[!VIDEO](https://video.tv.adobe.com/v/3464531?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on)
 
 ## 관련 설명서
 
 * [API 메쉬 스타터 키트 GitHub 리포지토리](https://github.com/adobe-commerce/api-mesh-starter-kit)
-* [Adobe Developer OAuth server to server implementation guide](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
-* [API Mesh 비디오 재생 목록](https://experienceleague.adobe.com/ko/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Adobe Developer OAuth 서버-서버 구현 안내서](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
+* [API Mesh 비디오 재생 목록](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
