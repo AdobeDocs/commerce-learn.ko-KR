@@ -1,18 +1,18 @@
 ---
 title: AI 도구를 사용하여 사용자 정의 배송 요금에 대한 기능을 빌드합니다.
-description: Adobe의 AI 도구를 사용하여 사용자 정의 배송 요금을 만들고 모의 API 및 보안 구성으로 체크아웃 기능을 확장하는 방법을 알아봅니다.
+description: Adobe의 AI 도구를 사용하여 사용자 정의 배송 요금을 만들고, 모의 API로 체크아웃 기능을 확장하고, 보안 서비스 끝점을 구성하는 방법에 대해 알아봅니다.
 feature: Extensibility
 topic: Artificial Intelligence
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 341
+duration: 327
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
 exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
-source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---

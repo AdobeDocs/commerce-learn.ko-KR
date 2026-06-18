@@ -1,7 +1,7 @@
 ---
-title: The .env file
-description: Learn about the types of files in the .env file for this sample application
-jira: KT-12423
+title: .env 파일
+description: 암호 관리 및 소스 제어에 대한 우발적인 커밋 방지를 포함하여 Adobe Developer App Builder 애플리케이션에 대한 .env 파일을 생성하고 구성하는 방법에 대해 알아봅니다.
+jira: KT-21681
 doc-type: Tutorial
 duration: 177
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -22,27 +22,27 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: 147
 ht-degree: 0%
 
 ---
 
-# Generate and configure the .env file {#env-file}
+# .env 파일 생성 및 구성 {#env-file}
 
-The `.env` is a special file that is not part of the sample module, but is important for use in your Adobe Developer App Builder application. This file contains secrets and other information. Avoid committing this file to any code repository.
+`.env`은(는) 샘플 모듈의 일부가 아니지만 Adobe Developer App Builder 응용 프로그램에서 사용하는 데 중요한 특수 파일입니다. 이 파일에는 비밀 및 기타 정보가 포함되어 있습니다. 이 파일을 코드 저장소에 커밋하지 마십시오.
 
 ## 이 비디오는 누구의 것입니까?
 
-* Developers new to Adobe Commerce with limited experience using Adobe App Builder who wants to learn about the `.env` file.
+* Adobe App Builder을 사용하여 경험이 제한된 Adobe Commerce을 처음 사용하는 개발자로서 `.env` 파일에 대해 알아보고자 하는 사람.
 
 ## 비디오 콘텐츠
 
-* Introduction to the .env file and its purpose
-* How to generate the .env file
-* How to append the file to add new secrets
-* Avoid committing this file because it contains sensitive information
+* .env 파일 및 해당 용도 소개
+* .env 파일을 생성하는 방법
+* 새 암호를 추가하려면 파일을 추가합니다
+* 이 파일에는 중요한 정보가 포함되어 있으므로 커밋하지 마십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421070?captions=kor&learn=on)
 
@@ -66,7 +66,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-You can see these static values being used in the sample module in file `actions/commerce.index.js`.
+`actions/commerce.index.js` 파일의 샘플 모듈에서 사용되는 이러한 정적 값을 볼 수 있습니다.
 
 ```javascript
         const oauth = getCommerceOauthClient(

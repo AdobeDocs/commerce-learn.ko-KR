@@ -1,7 +1,7 @@
 ---
 title: 결론
-description: App Builder에 대한 자세한 내용을 보려면 어디로 이동해야 하는지 알아보십시오.
-jira: KT-12428
+description: Adobe Commerce을 사용하여 첫 번째 Adobe Developer App Builder 애플리케이션을 완료한 후 추가 App Builder 리소스, 설명서 및 커뮤니티 옵션에 대해 알아봅니다.
+jira: KT-21686
 doc-type: Tutorial
 duration: 100
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -18,16 +18,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 135
+source-wordcount: 130
 ht-degree: 0%
 
 ---
 
 # 결론 {#conclusion}
 
-첫 번째 Adobe Developer App Builder 앱을 빌드했으므로 Adobe이 제공하는 다른 리소스에 대해 알아보십시오.
+첫 번째 Adobe Developer App Builder 앱을 빌드한 후 Adobe이 제공하는 다른 리소스에 대해 알아보십시오.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -45,8 +45,7 @@ ht-degree: 0%
 
 * [Adobe Developer App Builder](https://developer.adobe.com/app-builder/){target="_blank"}
 * [Adobe Developer App Builder 체험판](https://developer.adobe.com/app-builder/trial/){target="_blank"}
-* [Adobe Developer App Builder 문서](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Adobe Developer App Builder 포럼](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly?profile.language=ko){target="_blank"}
-* [Adobe Developer App Builder 기여 지침](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
+* [Adobe Developer App Builder 문서](https://developer.adobe.com/app-builder/docs/intro_and_overview){target="_blank"}
+* [Adobe Developer App Builder 기여 지침](https://developer.adobe.com/app-builder/docs/guides/contribution_guide){target="_blank"}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

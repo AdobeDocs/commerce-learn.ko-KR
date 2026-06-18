@@ -1,7 +1,7 @@
 ---
 title: 작업 폴더
-description: 이 샘플 애플리케이션의 작업 폴더에 있는 파일 유형에 대해 알아봅니다.
-jira: KT-12422
+description: 샘플 애플리케이션에 대한 OAuth 인증 및 JavaScript 연결 패턴을 포함하여 App Builder 작업 폴더의 Commerce 파일 및 폴더에 대해 알아봅니다.
+jira: KT-21680
 doc-type: Tutorial
 duration: 465
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -20,16 +20,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 189
+source-wordcount: 199
 ht-degree: 0%
 
 ---
 
 # 작업 폴더에 대해 알아보기 {#actions-folder}
 
-이 샘플 앱의 `actions` 폴더에는 몇 개의 JavaScript 파일과 `commerce` 폴더가 있습니다. 표시된 JavaScript은 작업과 관련된 경우 재사용할 수 있는 훌륭한 예제 파일입니다. 이 폴더는 OAuth 및 REST를 사용하여 Adobe Commerce 애플리케이션에 연결할 때 개발 시간을 절약할 수 있습니다.
+이 샘플 앱의 `actions` 폴더에는 몇 개의 JavaScript 파일과 `commerce` 폴더가 있습니다. 표시된 JavaScript은 작업과 관련된 경우 재사용할 수 있는 유용한 예제 파일입니다. 이 폴더는 OAuth 및 REST를 사용하여 Adobe Commerce 애플리케이션에 연결할 때 개발 시간을 절약할 수 있습니다.
 
 이 예제에서 폴더의 실제 이름은 임의적이지만 이름을 알면 샘플 코드를 해석하는 데 도움이 될 수 있습니다. 의미 있는 이름 지정 규칙을 사용하면 애플리케이션이 더 복잡해질 경우 혼동을 방지할 수 있습니다.
 

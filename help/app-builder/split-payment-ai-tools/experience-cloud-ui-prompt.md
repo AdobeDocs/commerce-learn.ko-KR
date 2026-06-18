@@ -1,15 +1,15 @@
 ---
-title: '분할 결제 POC: Experience Cloud UI 확장 AI 프롬프트'
-description: 관리자 UI SDK, IMS, OAuth, 수락 및 거부와 시뮬레이션 스크립트와 같은 선택적 프롬프트를 사용하여 Commerce 관리자에 분할 결제를 임베드하는 방법을 알아봅니다.
+title: 분할 결제 POC - Experience Cloud UI 확장 AI 프롬프트
+description: 이 선택적 프롬프트를 사용하여 분할 결제를 Commerce 관리자(관리 UI SDK, IMS, OAuth, 수락 및 거절, 시뮬레이션 스크립트)에 임베드하는 방법을 알아봅니다.
 feature: App Builder, Admin Workspace, Extensibility, Paas, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 192
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 629bbb6fe26f128e346d85c857111c2f8dbb6d76
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%

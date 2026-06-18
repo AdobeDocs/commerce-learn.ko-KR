@@ -1,14 +1,14 @@
 ---
-title: Extensibility framework and commerce eventing
-description: Learn about Unified Extensibility Framework and commerce eventing
+title: 확장성 프레임워크 및 상거래 이벤트
+description: Adobe Developer App Builder 확장성 프레임워크, 주요 기능 및 상거래 이벤트를 통해 Adobe Commerce과의 실시간 통합을 구현하는 방법에 대해 알아봅니다.
 jira: KT-11740
 doc-type: Tutorial
-duration: 298
+duration: 228
 last-substantial-update: 2023-02-16T00:00:00.000Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Eventing, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
-level: Beginner, Intermediate
+level: Intermediate
 exl-id: 9186ba11-180d-45ca-801a-a86547084cca
 TQID: https://experienceleague.adobe.com/5WrzAFRFNv4RBAQUL7WhsGw2Z4qoV-3Ft1EgjXdNxO0
 product_v2:
@@ -26,18 +26,18 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: 51
+source-wordcount: 65
 ht-degree: 0%
 
 ---
 
 # App Builder용 확장성 프레임워크
 
-This functional demonstration describes App Builder and its potential use cases for Adobe Commerce. This video provides an introduction to the extensibility framework, key customer benefits, and capabilities.
+이 기능 데모에서는 App Builder 및 Adobe Commerce에 대한 잠재적인 애플리케이션에 대해 설명합니다. 이 비디오에서는 확장성 프레임워크, 주요 고객 이점 및 기능에 대해 소개합니다.
 
-## App Builder for Adobe Commerce {#app-builder-extensibility}
+## Adobe Commerce용 App Builder {#app-builder-extensibility}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447485?captions=kor&learn=on)
 

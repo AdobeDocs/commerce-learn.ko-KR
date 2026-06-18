@@ -1,16 +1,16 @@
 ---
-title: '분할 결제 POC 만들기: App Builder 및 AI 도구'
+title: 분할 결제 POC - App Builder 및 AI 도구
 description: 목표, 아키텍처 및 이 첫 번째 세션에서 다루는 내용을 포함하여 App Builder 및 Commerce PaaS를 통한 분할 결제 개념 증명에 대해 알아봅니다.
 feature: App Builder, Paas, Payments
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Technical Video
-duration: 260
+duration: 237
 jira: KT-20791
-source-git-commit: 9add0b4bfa1eba33ec359adaa766b64711df25ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---

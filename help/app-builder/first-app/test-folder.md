@@ -1,7 +1,7 @@
 ---
 title: 테스트 폴더
-description: 이 샘플 애플리케이션의 테스트 폴더에 있는 파일 유형에 대해 알아봅니다.
-jira: KT-12424
+description: App Builder 테스트 폴더의 JavaScript 단위 테스트 파일과 Adobe Commerce 샘플 애플리케이션의 포괄적인 테스트를 위해 확장 가능한 방법에 대해 알아봅니다.
+jira: KT-21682
 doc-type: Tutorial
 duration: 233
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -18,9 +18,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 111
+source-wordcount: 122
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 이 샘플 앱의 `test` 폴더에는 응용 프로그램에서 단위 테스트를 실행할 때 사용되는 단일 JavaScript 파일이 포함되어 있습니다.
 
-이는 간단한 예이며 특정 애플리케이션에 대한 포괄적인 테스트를 생성하도록 확장할 수 있습니다.
+이 시작 지점을 확장하여 특정 애플리케이션에 대한 포괄적인 테스트를 만들 수 있습니다.
 
 ## 이 비디오는 누구의 것입니까?
 
