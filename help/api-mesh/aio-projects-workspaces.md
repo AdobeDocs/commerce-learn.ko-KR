@@ -1,18 +1,18 @@
 ---
 title: 프로젝트 및 작업 공간 작업
-description: Adobe Developer 콘솔을 사용하여 프로젝트 및 작업 공간에서 작업하는 방법을 알아봅니다.
+description: 메쉬 추가, CLI를 통한 로그인, 조직 전환 등 Adobe Developer Console을 사용하여 API Mesh를 위한 프로젝트 및 작업 공간에서 작업하는 방법을 알아봅니다.
 jira: KT-11803
 doc-type: Tutorial
-duration: 593
+duration: 572
 last-substantial-update: 2023-02-08T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
-level: Beginner, Intermediate
+level: Beginner
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
+source-git-commit: c73744d503de5023e5c001d0534200522db55b04
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -38,12 +38,12 @@ ht-degree: 0%
 
 ## Adobe Developer Console에 대해 알아보기
 
-Adobe Developer Console에서 `Organization > Project > Workspace > [API]` 계층은 API가 조직에 맞는 방식을 나타냅니다. Adobe App Builder, 콘솔에 로그인 및 기본 문제 해결에 대한 자세한 내용을 보려면 [첫 번째 App Builder 애플리케이션 만들기](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}를 참조하세요.
+Adobe Developer Console에서 `Organization > Project > Workspace > [API]` 계층은 조직 내에서 API가 구성되는 방식을 나타냅니다. Adobe App Builder, 콘솔에 로그인 및 기본 문제 해결에 대한 자세한 내용을 보려면 [첫 번째 App Builder 애플리케이션 만들기](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}를 참조하세요.
 
 ## Adobe Developer Console에서 프로젝트 소개
 
 Adobe Developer Console의 모든 개발 작업은 프로젝트의 일부로 수행됩니다. 프로젝트에는 하나 이상의 제품 및 API, 이벤트, 런타임 및 플러그인의 조합이 포함될 수 있습니다. Adobe Developer 콘솔의 프로젝트에 대한 자세한 내용은 [프로젝트](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}를 참조하세요.
 
-API Mesh의 컨텍스트에서 프로젝트 및 작업 공간을 사용하는 방법에 대한 자세한 내용은 [프로젝트 및 작업 공간 수정](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces){target="_blank"}을 참조하십시오.
+API Mesh의 컨텍스트에서 프로젝트 및 작업 공간을 사용하는 방법에 대한 자세한 내용은 [프로젝트 및 작업 공간 수정](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/create-mesh){target="_blank"}을 참조하십시오.
 
 {{$include /help/_includes/api-mesh-related-links.md}}

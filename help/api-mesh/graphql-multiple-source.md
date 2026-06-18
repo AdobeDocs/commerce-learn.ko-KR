@@ -1,14 +1,14 @@
 ---
-title: Create a multiple source GraphQL to be used in API Mesh
-description: Discover how to use multiple sources for API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about some common errors and how to resolve them.
-jira: KT-11804
+title: API Mesh에서 사용할 여러 소스 GraphQL 만들기
+description: Adobe Commerce 및  [!DNL Adobe App Builder]에서 API Mesh에 여러 소스를 사용하는 방법을 알아봅니다. 몇 가지 일반적인 오류와 이를 해결하는 방법에 대해 알아봅니다.
+jira: KT-21677
 doc-type: Tutorial
-duration: 409
+duration: 381
 last-substantial-update: 2023-02-08T00:00:00.000Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
-level: Beginner, Intermediate
+level: Beginner
 exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
 TQID: https://experienceleague.adobe.com/O6ONn4NzMP-VqN0nsCoD-OPkZGMBelLWB-KNP1fZqmA
 product_v2:
@@ -22,33 +22,33 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: c73744d503de5023e5c001d0534200522db55b04
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: 198
 ht-degree: 0%
 
 ---
 
-# Create a mesh with multiple sources
+# 여러 소스를 사용하여 메쉬 만들기
 
-This video helps developers understand how to create a mesh with multiple sources in API Mesh for Adobe Developer App Builder. This video shows how to create a mesh with multiple sources and identify errors. For more details and code samples, visit [Create a mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
+이 비디오는 개발자가 Adobe Developer App Builder용 API Mesh에서 여러 소스를 사용하여 메쉬를 만드는 방법을 이해하는 데 도움이 됩니다. 이 비디오는 여러 소스를 사용하여 메쉬를 만들고 오류를 식별하는 방법을 보여 줍니다. 자세한 내용과 코드 샘플을 보려면 [메쉬 만들기](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/create-mesh){target="_blank"}를 방문하세요.
 
 ## 이 비디오는 누구의 것입니까?
 
-* Anyone who is new to API mesh
-* Developers interested in combining multiple API and GraphQL sources
+* API Mesh를 처음 사용하는 모든 사용자
+* 여러 API 및 GraphQL 소스를 결합하는 데 관심이 있는 개발자
 
 ## 비디오 콘텐츠
 
-* How to use [transforms](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} to modify the default source schema
-* How to troubleshoot errors, such as name conflicts, schema availability, and other schema syntax issues
-* Updating your mesh with a modified configuration
+* [변형](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/transforms/){target="_blank"}을 사용하여 기본 소스 스키마를 수정하는 방법
+* 이름 충돌, 스키마 가용성 및 기타 스키마 구문 문제와 같은 오류를 해결하는 방법
+* 수정된 구성으로 메쉬 업데이트
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419790?captions=kor&learn=on)
 
-## Create the json configuration file
+## JSON 구성 파일 만들기
 
-API Mesh uses a JSON configuration file to define your source handlers. The JSON file contains a `sources` array that contains the sources for your mesh. Here is an example of a mesh with multiple sources.
+API Mesh는 JSON 구성 파일을 사용하여 소스 핸들러를 정의합니다. JSON 파일에는 메쉬의 소스가 포함된 `sources` 배열이 포함되어 있습니다. 다음은 여러 소스가 있는 메쉬의 예입니다.
 
 ```json
 {
