@@ -1,17 +1,14 @@
 ---
 title: 재시도 메커니즘의 기본 기능 사용
-description: 재시도 조건 및 시각적 표시기를 포함하여 복원 응용 프로그램에 대한 Adobe I/O Events의 재시도 메커니즘을 활용합니다.
-landing-page-description: Adobe I/O Events의 내장된 재시도 메커니즘을 이해하고 활용하여 애플리케이션 복원력을 향상시키고 이벤트 활성화를 효과적으로 관리할 수 있습니다.
-kt: 15872
-doc-type: video
+description: Adobe I/O Events의 재시도 메커니즘을 사용하여 재시도 조건, 백오프 전략 및 시각적 표시기를 다루는 복원 애플리케이션을 빌드하는 방법에 대해 알아봅니다.
+doc-type: Technical Video
 duration: 402
-audience: all
-last-substantial-update: 2024-7-31
+last-substantial-update: 2024-07-31
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15872
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
 TQID: https://experienceleague.adobe.com/hrzcmSY8cAke4LBLRtqfkP8-t6jP4KMoMc7iL3WPRng
 product_v2:
@@ -22,14 +19,14 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
 workflow-type: tm+mt
-source-wordcount: 394
+source-wordcount: 382
 ht-degree: 0%
 
 ---
 
-# 애플리케이션 복원력을 위한 Adobe I/O Events 재시도 메커니즘 활용
+# 애플리케이션 복원력을 위해 Adobe I/O Events 재시도 메커니즘 사용
 
 이 비디오에서는 애플리케이션 복원력을 향상시키기 위한 Adobe I/O Events의 기본 제공 재시도 메커니즘을 활용하는 방법에 대한 포괄적인 안내서를 간략하게 설명합니다. 특정 HTTP 응답 상태 코드가 이벤트 재시도를 트리거하는 방법에 대해 알아봅니다. Adobe I/O Events은 재시도를 위해 1분에서 15분으로 간격이 증가하는 지수 및 고정 백오프 전략을 사용합니다. 또한 이 설명서에서는 각각 실패 및 재시도된 이벤트를 나타내는 경고 아이콘 및 원형 화살표와 같은 시각적 큐를 사용하여 개발자 콘솔에 재시도 표시기가 표시되는 방법에 대해 자세히 설명합니다.
 

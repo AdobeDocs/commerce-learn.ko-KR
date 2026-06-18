@@ -1,17 +1,14 @@
 ---
-title: 백오피스 통합을 위한 Adobe Commerce 스타터 키트에 대해 알아봅니다
-description: 백오피스 통합을 위한 Adobe Commerce Starter 키트에 대해 알아봅니다. 이 비디오 데모에서는 이 방법을 사용하여 백오피스 통합에 간편하게 연결할 수 있는 강력한 기능을 보여줍니다.
-landing-page-description: 백오피스 통합을 위한 Adobe Commerce 스타터 키트에 대해 알아봅니다
-kt: 15341
-doc-type: video
+title: 백 오피스 통합용 Adobe Commerce 스타터 키트
+description: 백오피스 통합을 위한 Adobe Commerce 스타터 키트에 대해 알아보고 Commerce을 외부 백엔드 시스템에 연결하는 방법을 알아봅니다.
+doc-type: Technical Video
 duration: 502
-audience: all
-last-substantial-update: 2024-4-19
+last-substantial-update: 2024-04-19
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15341
 exl-id: 8895c904-3cf6-4bd1-917d-f9c91caa4ea9
 TQID: https://experienceleague.adobe.com/R4Xg35sZ3GKOCckxXx1Zax-bVCGVjp4Usfng5-uieis
 product_v2:
@@ -26,9 +23,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
 workflow-type: tm+mt
-source-wordcount: 138
+source-wordcount: 119
 ht-degree: 0%
 
 ---
