@@ -1,14 +1,14 @@
 ---
 title: Adobe Commerce을 사용하여 견적에 대한 라인 항목 노트 표시
-description: Adobe Commerce의 B2B 견적에 대한 라인 항목 노트에 대해 알아보기
-doc-type: Feature Video
-duration: 227
+description: Adobe Commerce의 B2B 견적에 라인 항목 노트를 추가하고 조회하여 구매자와 판매자가 견적 프로세스 중에 항목 수준의 세부 정보를 공유할 수 있는 방법에 대해 알아봅니다.
+doc-type: Technical Video
+duration: 209
 jira: KT-13799
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
-level: Beginner, Intermediate
+level: Beginner
 exl-id: c4bfd5d2-0099-4bde-babe-79ad8815b8eb
 TQID: https://experienceleague.adobe.com/ESPHNL476Yp3ktyZOvv0h-q03tLj8TWWb3Ic2-a4gWA
 product_v2:
@@ -23,9 +23,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 55
+source-wordcount: 72
 ht-degree: 0%
 
 ---

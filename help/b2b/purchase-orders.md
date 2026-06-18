@@ -3,11 +3,11 @@ title: B2B 구매 발주 및 승인
 description: 지출 제한, 지정 승인자 및 구매 정책을 포함하여 회사 계정에 대해 B2B 구매 주문 및 승인 규칙을 활성화하는 방법을 알아봅니다.
 doc-type: Feature Video
 duration: 257
-last-substantial-update: 2026-03-25T00:00:00.000Z
+last-substantial-update: 2026-03-25
 feature: Purchase Orders, B2B
 topic: Commerce, Administration
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-10683
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
 TQID: https://experienceleague.adobe.com/IEoKp3qmLkFH-CZcCab7t7aMWjfBXd2hGHLXaZjYz-8
@@ -28,9 +28,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 167
+source-wordcount: 169
 ht-degree: 1%
 
 ---
@@ -59,5 +59,5 @@ ht-degree: 1%
 
 ## 추가 리소스
 
-* [회사의 구매 발주](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html?lang=ko){target="_blank"}
-* [구매 주문 승인 규칙](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html?lang=ko){target="_blank"}
+* [회사의 구매 발주](https://experienceleague.adobe.com/ko/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow){target="_blank"}
+* [구매 주문 승인 규칙](https://experienceleague.adobe.com/ko/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules){target="_blank"}

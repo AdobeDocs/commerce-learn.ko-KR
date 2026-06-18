@@ -1,14 +1,14 @@
 ---
-title: Adobe Commerce을 사용하여 견적에 대한 라인 항목 할인 표시
-description: Adobe Commerce의 B2B 견적에 대한 라인 항목 할인에 대해 알아보기
-doc-type: Feature Video
-duration: 231
-jira: KT-13797
-last-substantial-update: 2023-06-13T00:00:00.000Z
+title: Adobe Commerce의 B2B 견적에 대한 라인 항목 할인
+description: Adobe Commerce 관리자를 사용하여 B2B 견적에 라인 항목 할인을 적용하고 조회하는 방법을 알아봅니다. 여기에는 구매자 대면 요약에 할인 값이 표시되는 방법이 포함됩니다.
+doc-type: Technical Video
+duration: 214
+jira: KT-13798
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: Developer, User
+level: Beginner
 exl-id: bad46fbb-f16a-433d-be62-d8ae74bea3a9
 TQID: https://experienceleague.adobe.com/xTeO2Z72A3pQC9d9f13CdV-zZUOUZFM50LZxO9OXz9M
 product_v2:
@@ -23,9 +23,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 59
+source-wordcount: 72
 ht-degree: 0%
 
 ---
