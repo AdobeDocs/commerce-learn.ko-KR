@@ -1,15 +1,15 @@
 ---
-title: '분할 결제 POC: 개념 증명 후 다음 단계'
+title: 분할 결제 POC - 개념 증명 후 다음 단계
 description: 분할 결제 POC를 프로덕션으로 이동하는 방법을 알아봅니다. Experience Cloud UI, ERP 후크, API Mesh, PHP 범위, App Builder 워크플로 및 배포 확인 목록.
 feature: App Builder, API Mesh, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 269
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '852'
 ht-degree: 0%

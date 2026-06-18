@@ -1,15 +1,15 @@
 ---
-title: '분할 결제 POC: 아키텍처 및 디자인 결정'
+title: 분할 결제 POC — 아키텍처 및 설계 결정
 description: 분할 결제 POC가 Commerce에 동기화 체크아웃을 매핑하고 I/O 기반 단계를 App Builder에 동기화하는 방법과 확장 속성, REST 및 5개의 플러그인 에지 사례를 알아봅니다.
 feature: App Builder, Eventing, Extensibility, Paas, Payments, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 293
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 9add0b4bfa1eba33ec359adaa766b64711df25ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '863'
 ht-degree: 1%

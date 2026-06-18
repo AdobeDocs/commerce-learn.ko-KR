@@ -1,15 +1,15 @@
 ---
-title: '분할 결제 POC: 환경 변수 참조'
+title: 분할 결제 POC — 환경 변수 참조
 description: Commerce OAuth, 기본 URL, 결제 임계값 및 선택적 데모 설정을 Orchestrator, UI 확장 프로그램 및 시뮬레이션 환경 파일에 매핑하는 방법을 알아봅니다.
 feature: App Builder, Configuration, Extensibility, Paas, REST, Security
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 115
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%

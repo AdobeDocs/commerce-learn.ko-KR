@@ -1,15 +1,15 @@
 ---
-title: '분할 결제 POC: 튜토리얼 빠른 참조'
+title: 분할 결제 POC — 튜토리얼 빠른 참조
 description: 분할 결제 POC 파일 맵에 대해 알아봅니다. Luma 체크아웃을 위해 각 AI 프롬프트, 제안된 섹션 순서 및 작성자 메모와 일치하는 Experience League 페이지
 feature: App Builder, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '1444'
 ht-degree: 0%
@@ -165,7 +165,7 @@ ht-degree: 0%
 
 **목적:** PoC를 프로덕션 준비 패턴으로 발전시키기 위한 로드맵.
 
-**필요한 이유:** PoC 자습서가 개발자에게 &quot;지금 무엇&quot;을 남길 위험이 있습니다. 느낌. 이 문서는 데모 대시보드를 Experience Cloud 확장 기능으로 대체하고, 실제 ERP를 연결하고, API Mesh를 추가하고, App Builder 워크플로우를 확장하고, 프로덕션 배포 체크리스트를 확인하는 등 데모에서 프로덕션으로 이어지는 자연스러운 진행 상황을 매핑합니다.
+**필요한 이유:** PoC 자습서가 개발자에게 &quot;지금 무엇&quot;을 남길 위험이 있습니다. 느낌. 이 문서는 데모 대시보드를 Experience Cloud 확장으로 교체, 실제 ERP 연결, API Mesh 추가, App Builder 워크플로우 확장 및 프로덕션 배포 체크리스트 등 데모에서 프로덕션으로 이어지는 자연스런 진행 상황을 매핑합니다.
 
 **키 콘텐츠:**
 

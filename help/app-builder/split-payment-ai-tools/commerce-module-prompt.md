@@ -1,15 +1,15 @@
 ---
-title: '분할 결제 POC: Commerce 모듈 AI 프롬프트'
+title: 분할 결제 POC - Commerce 모듈 AI 프롬프트
 description: 이 프롬프트를 사용하여 Client_SplitPayment를 생성하는 방법을 알아봅니다. REST, 플러그인, JavaScript 체크아웃, I/O 이벤트 및 명령 활성화, 컴파일 및 배포
 feature: App Builder, Backend Development, Eventing, Extensibility, Paas, REST, Orders
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 503
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '1207'
 ht-degree: 1%

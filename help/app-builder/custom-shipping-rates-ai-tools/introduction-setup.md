@@ -1,16 +1,16 @@
 ---
-title: AI 도구를 사용한 맞춤형 배송 요금 소개 및 설정
-description: 스타터 키트 복제, 구조 검토, 환경 준비 등 사용자 정의 배송 속도를 생성하는 AI 도구를 설정하는 방법에 대해 알아봅니다.
+title: AI 기반 배송률 소개 및 설정
+description: 스타터 키트 복제, 프로젝트 구조 검토, 환경 준비 등 사용자 정의 배송률 생성을 위한 AI 도구를 설정하는 방법에 대해 알아봅니다.
 feature: Install
 topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 195
+duration: 180
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -30,9 +30,9 @@ ht-degree: 0%
 ## 비디오 콘텐츠
 
 * 체크아웃 스타터 키트를 소개하고 확장의 목적을 설명하며 빌드 대상 및 이유에 대한 컨텍스트를 제공합니다.
-* 저장소 체크 아웃, Starter-kit 구조 검토, 필요한 도구 설치 등 개발 환경 설정을 안내합니다.
+* 저장소 복제, 스타터-키트 구조 검토 및 필요한 도구 설치를 포함한 개발 환경 설정에 대해 설명합니다.
 * 로그인, 액세스 구성, 모든 종속성 및 사전 요구 사항이 적절한지 확인하여 AI 지원 개발을 위한 시스템을 준비합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481335?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481328?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
