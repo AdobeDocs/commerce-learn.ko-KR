@@ -31,7 +31,7 @@ ht-degree: 0%
 * 제품 데이터를 의미 있는 신호로 변환하는 자동 카탈로그 인덱싱
 * 결과 부스팅, 유사성 임계값 및 유사 검색 구성
 
->[!VIDEO](https://video.tv.adobe.com/v/3492286)
+>[!VIDEO](https://video.tv.adobe.com/v/3492310?captions=kor)
 
 ## 추가 리소스
 
