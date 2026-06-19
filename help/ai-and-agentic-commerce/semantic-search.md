@@ -35,5 +35,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-- Cloud의 Adobe Commerce, Prem 및 Adobe Commerce as a Cloud Service에 대한 배포는 _실시간 검색 안내서_&#x200B;에서 [[!DNL Live Search] 의미 체계 검색](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"}을 참조하십시오.
-- Adobe Commerce Optimizer을 사용한 배포의 경우 _Commerce Optimizer 안내서_&#x200B;에서 [설정 - 고급 검색](https://experienceleague.adobe.com/en/docs/commerce/optimizer/settings#advanced-search){target="_blank"}을 참조하십시오.
+&#x200B;- Cloud의 Adobe Commerce, Prem 및 Adobe Commerce as a Cloud Service에 대한 배포는 _실시간 검색 안내서_&#x200B;에서 [[!DNL Live Search] 의미 체계 검색](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"}을 참조하십시오.
+&#x200B;- Adobe Commerce Optimizer을 사용한 배포의 경우 _Commerce Optimizer 안내서_&#x200B;에서 [설정 - 고급 검색](https://experienceleague.adobe.com/en/docs/commerce/optimizer/settings#advanced-search){target="_blank"}을 참조하십시오.
