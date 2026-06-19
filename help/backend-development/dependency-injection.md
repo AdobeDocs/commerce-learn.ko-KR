@@ -1,15 +1,14 @@
 ---
 title: 종속성 삽입 예
-description: 종속성 삽입을 통해 외부 개체가 제공하는 종속성을 선언할 수 있으므로 유연성 및 모듈성이 향상됩니다.
-kt: 5621
-doc-type: video
+description: 개체가 외부 삽입에 대한 종속성을 선언하고 유연성을 향상시키는 디자인 패턴인 Adobe Commerce의 종속성 삽입에 대해 알아봅니다.
+doc-type: Technical Video
 duration: 313
-activity: use
-last-substantial-update: 2023-2-10
+last-substantial-update: 2026-06-19
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
-role: Admin, Developer
+role: Developer
 level: Beginner, Intermediate
+jira: KT-5621
 exl-id: 17203385-6786-4dd2-9fff-8fb6c4024eb2
 TQID: https://experienceleague.adobe.com/YeGW-u2OTpZLdYjV7P6lToQ-C0L8Qh9Uco8bNPIvjuA
 product_v2:
@@ -25,9 +24,9 @@ level_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
 workflow-type: tm+mt
-source-wordcount: 98
+source-wordcount: 85
 ht-degree: 0%
 
 ---
@@ -36,7 +35,7 @@ ht-degree: 0%
 
 종속성 삽입은 개체 A가 해당 종속성을 제공하는 외부 개체 B에 종속성을 선언할 수 있도록 하는 디자인 패턴입니다. A가 선언하는 종속성은 일반적으로 클래스 인터페이스이며 B가 제공하는 종속성은 해당 인터페이스에 대한 구체적인 구현입니다.
 
-## 이 비디오는 누구의 것입니까?
+## 의도한 대상
 
 * 개발자
 
@@ -46,5 +45,4 @@ ht-degree: 0%
 
 ## 유용한 리소스
 
-* [종속성 삽입](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
 * [PHP 개발자 안내서](https://developer.adobe.com/commerce/php/development/)
