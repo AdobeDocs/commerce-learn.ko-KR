@@ -1,38 +1,30 @@
 ---
 title: 제품 속성 만들기
-description: 하나의 매개 변수와 함께 json을 반환하는 페이지를 만듭니다.
-kt: 14131
-doc-type: video
-duration: 605
-activity: use
-last-substantial-update: 2023-2-10
+description: 사용자 지정 백엔드, 프론트엔드 및 소스 모델과 함께 드롭다운 유형 속성을 포함하여 Adobe Commerce에서 프로그래밍 방식으로 제품 속성을 만드는 방법을 알아봅니다.
+doc-type: Tutorial
+duration: 491
+last-substantial-update: 2023-02-10
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
+jira: KT-14131
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 TQID: https://experienceleague.adobe.com/nK2d0LjWl88FCVRW6IRCa-euZ8cTawlY3YOzjMyNq-Y
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
 workflow-type: tm+mt
-source-wordcount: 325
+source-wordcount: 337
 ht-degree: 0%
 
 ---
 
 # 제품 속성 만들기
 
-제품 특성을 추가하는 작업은 [!DNL Commerce]에서 가장 많이 사용되는 작업 중 하나입니다. 속성은 제품과 관련된 다양한 실질적인 과제를 해결할 수 있는 강력한 방법입니다. 제품에 드롭다운 유형 속성을 추가하는 간단한 프로세스를 사용할 수 있습니다.
+제품 특성을 추가하는 작업은 [!DNL Commerce]에서 가장 많이 사용되는 작업 중 하나입니다. 속성은 제품과 관련된 다양한 실제 작업을 해결하는 효과적인 방법입니다. 제품에 드롭다운 유형 속성을 추가하는 간단한 프로세스를 사용할 수 있습니다.
 
 이 비디오에서:
 
@@ -43,11 +35,11 @@ ht-degree: 0%
 
 ## 이 비디오는 누구의 것입니까?
 
-* 프로그래밍 방식으로 제품 특성을 만드는 방법을 배워야 하는 상거래를 처음 사용하는 개발자
+* 프로그래밍 방식으로 제품 특성을 만드는 방법을 학습해야 하는 [!DNL Commerce]을(를) 처음 사용하는 개발자
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3412442?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35789?learn=on)
 
 ## 코드 샘플
 
@@ -84,7 +76,7 @@ ComponentRegistrar::register(
 
 ```xml
 <?xml version="1.0"?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<config xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="Learning_ClothingMaterial" setup_version="0.0.1"/>
 </config>
