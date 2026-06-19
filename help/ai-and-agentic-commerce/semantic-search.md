@@ -7,16 +7,14 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21573
 duration: 192
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: 48d47dcb7e559513b72e8e24ec678613d9163515
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
 # 의미 체계 검색
-
-[!BADGE 준비 중]{type=Informative tooltip="이 기능은 곧 제공될 예정이며 변경될 수 있습니다."}
 
 기존 키워드 검색은 정확한 단어와 일치하지만 쇼핑객은 적합한 단어를 거의 알지 못합니다. Adobe Commerce의 의미 체계 검색은 AI를 사용하여 쿼리 배경의 의도를 이해하고, 쇼핑객을 리터럴 텍스트가 아닌 의미를 기반으로 한 제품에 매칭합니다. 이를 통해 제품 검색을 개선하고 참여도를 높이며, 구매자가 원하는 결과를 반영하여 더 높은 전환을 유도합니다.
 
@@ -37,4 +35,5 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-[[!DNL Live Search] 개요](https://experienceleague.adobe.com/ko/docs/commerce/live-search/overview){target="_blank"}
+&#x200B;- Cloud의 Adobe Commerce, Prem 및 Adobe Commerce as a Cloud Service에 대한 배포는 _실시간 검색 안내서_&#x200B;에서 [[!DNL Live Search] 의미 체계 검색](https://experienceleague.adobe.com/ko/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"}을 참조하십시오.
+&#x200B;- Adobe Commerce Optimizer을 사용한 배포의 경우 _Commerce Optimizer 안내서_&#x200B;에서 [설정 - 고급 검색](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/settings#advanced-search){target="_blank"}을 참조하십시오.
