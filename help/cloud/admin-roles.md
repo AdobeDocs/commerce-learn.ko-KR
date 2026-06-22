@@ -1,6 +1,6 @@
 ---
 title: 백 오피스 사용자에 대한 관리자 역할
-description: 비즈니스 사용자가 Adobe Commerce 관리 포털에 로그인하는 방법과 저장소 관리자가 관리 포털에 대한 역할 기반 액세스를 만들고 관리하는 방법을 알아봅니다.
+description: 비즈니스 사용자가 Adobe Commerce Admin Portal에 로그인하는 방법과 저장소 관리자가 역할 기반 액세스 권한을 생성, 관리 및 사용자에게 할당하는 방법을 알아봅니다.
 feature: Admin Workspace, Roles/Permissions, Security
 topic: Administration, Commerce, Security
 role: Admin, User
@@ -24,16 +24,16 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e17ffe0eba640671baacbc7e8aef3a97c7785307
 workflow-type: tm+mt
-source-wordcount: 195
+source-wordcount: 192
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce 관리자 역할
 
-Adobe ID 또는 Federated ID을 사용하여 Adobe Commerce 관리 포털에 로그인하는 프로세스 및 스토어 관리자가 역할 기반 액세스를 만들고 관리하는 방법에 대해 자세히 알아봅니다. 고객 견적 및 템플릿 관리를 담당하는 &quot;판매자&quot; 역할과 같은 특정 권한을 가진 새 역할을 만드는 단계를 이해합니다. 적절한 액세스 수준을 갖도록 이러한 역할에 사용자를 할당하는 방법을 이해하고, 새로 생성된 역할에 사용자를 할당하고 할당을 확인하는 데모를 포함합니다.
+Adobe ID 또는 Federated ID을 사용하여 Adobe Commerce Admin Portal에 로그인하는 프로세스에 대해 알아보고 스토어 관리자가 역할 기반 액세스를 만들고 관리하는 방법을 자세히 알아봅니다. 고객 견적 및 템플릿 관리를 담당하는 &quot;영업사원&quot; 역할과 같은 특정 권한을 가진 새 역할을 만드는 단계를 이해합니다. 적절한 액세스 수준을 갖도록 이러한 역할에 사용자를 할당하는 방법을 이해하고, 새로 생성된 역할에 사용자를 할당하고 할당을 확인하는 데모를 포함합니다.
 
 ## 이 비디오는 누구의 것입니까
 
@@ -44,7 +44,7 @@ Adobe ID 또는 Federated ID을 사용하여 Adobe Commerce 관리 포털에 로
 ## 비디오 콘텐츠
 
 * 최신 로그인 방법에 대해 알아봅니다.
-* 역할 생성 및 관리에 대한 이해 향상
+* 역할 생성 및 관리 이해
 * 사용자 할당 및 액세스 수준을 이해합니다. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433520?captions=kor&learn=on)
