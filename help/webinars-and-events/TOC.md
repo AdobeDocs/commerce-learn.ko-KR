@@ -2,9 +2,9 @@
 user-guide-title: Adobe Commerce 웨비나 및 이벤트
 user-guide-description: 웨비나 및 이벤트를 통해 Adobe Commerce에 대해 알아봅니다.
 breadcrumb-title: Adobe Commerce 웨비나 및 이벤트
-source-git-commit: 1a73be30f2ee55c9f767b7b10fd3c47172e4057d
+source-git-commit: f122612cb5aa90d827bb1648fed6da340ac0c442
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
