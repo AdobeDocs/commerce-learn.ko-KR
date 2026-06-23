@@ -51,4 +51,4 @@ Adobe Commerce 장바구니 드롭인을 사용하고 트랜잭션 흐름을 조
 
 ## 추가 설명서
 
-* [장바구니 요약 구성](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
+* [장바구니 요약 구성](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=ko)
