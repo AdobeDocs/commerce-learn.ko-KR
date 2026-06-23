@@ -1,6 +1,6 @@
 ---
 title: EDGE DELIVERY SERVICES BOPI
-description: Adobe Edge Delivery Services에 대해 알아보고, 매장 또는 BOPIS 기능에서 온라인 구매 픽업을 추가하여 확인해 보십시오.
+description: Adobe Commerce 장바구니 구성 요소 및 콘텐츠 조각을 사용하여 Edge Delivery Services 체크아웃에 온라인 구매, 매장 픽업(BOPI) 지원을 추가하는 방법을 알아봅니다.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -20,24 +20,24 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 147
+source-wordcount: 158
 ht-degree: 0%
 
 ---
 
-# 체크 아웃할 BOPI 추가
+# 체크아웃에 BOPI 추가
 
-온라인 구매 및 매장 픽업을 수용하는 Edge Delivery Services 체크아웃(BOPIS)에 필요한 구성 요소를 추가하는 방법을 알아봅니다.
+BOPIS라고도 하는 온라인 구매 및 매장 픽업을 수용하는 Edge Delivery Services 체크아웃에 필요한 구성 요소를 추가하는 방법을 알아봅니다.
 
 ## 배울 내용
 
-Edge Delivery Services에서 Adobe Commerce 장바구니를 사용하여 BOPIS 기능을 제공하는 방법을 알아봅니다.
+Edge Delivery Services에서 Adobe Commerce 장바구니를 사용하여 온라인 구매 및 매장 기능을 제공하는 방법을 알아봅니다.
 
 ## 이 비디오는 누구의 것입니까?
 
-* 온라인 구매 및 매장 픽업을 통해 장바구니를 강화하고자 하는 전자 상거래 기업.
+* 전자 상거래 온라인 구매 및 매장에서의 구매로 장바구니를 강화하고자 하는 기업.
 * BOPI를 구현하는 방법을 배워야 하는 개발자.
 
 ## 비디오 콘텐츠
