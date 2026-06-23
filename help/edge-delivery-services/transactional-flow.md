@@ -47,7 +47,7 @@ Adobe Commerce 장바구니 드롭인을 사용하고 트랜잭션 흐름을 조
 * A/B 테스트 유연성. SharePoint을 통해 구성을 활성화하여 마케터가 이러한 기능을 제어하고 테스트할 수 있도록 했습니다.
 * 향상된 마케팅 제어. 구성을 쉽게 관리 및 테스트하여 사용자 경험과 마케팅 효과를 개선합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442358?captions=kor&learn=on)
 
 ## 추가 설명서
 

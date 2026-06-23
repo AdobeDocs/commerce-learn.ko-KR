@@ -46,7 +46,7 @@ ht-degree: 0%
 * 여러 단계 체크아웃 구현
 * 기존 코드 및 모범 사례 재사용
 
->[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442657?captions=kor&learn=on)
 
 ## 추가 설명서
 

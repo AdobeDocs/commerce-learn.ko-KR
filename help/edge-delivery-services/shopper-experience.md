@@ -58,4 +58,4 @@ Edge Delivery Services의 Commerce 상점 첫 화면에서 항목 추가, 할인
 * 장바구니 및 주문 작업: 항목 추가, 게스트로 체크아웃, 주문 취소, 순서 변경 및 반품 처리.
 * 계정 정보를 업데이트하고, 게스트 및 고객 카트를 병합하며, 체크아웃 일관성을 유지합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446769?captions=kor&learn=on)
