@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 349
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -82,3 +82,4 @@ Celport 시나리오에서 STATIC 규칙은 다음과 같습니다.
 * [머천다이징 서비스에 대한 카탈로그 보기](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
 * [머천다이징 API 시작하기](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
+

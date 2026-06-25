@@ -1,8 +1,8 @@
 ---
-title: Learn how to create a module in Adobe Commerce to use events.
-description: Learn how to create Commerce module to use events.
-landing-page-description: Learn how to create an Adobe Commerce module to use events.
-short-description: Learn how to create an Adobe Commerce module to use events.
+title: Adobe Commerce에서 이벤트를 사용할 모듈을 만드는 방법을 알아봅니다.
+description: 이벤트를 사용할 Commerce 모듈을 만드는 방법을 알아봅니다.
+landing-page-description: 이벤트를 사용할 Adobe Commerce 모듈을 만드는 방법을 알아봅니다.
+short-description: 이벤트를 사용할 Adobe Commerce 모듈을 만드는 방법을 알아봅니다.
 kt: 11891
 doc-type: tutorial
 duration: 348
@@ -25,28 +25,28 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: 173
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce module development
+# Adobe Commerce 모듈 개발
 
-Learn how register events, find supported events, and how to use a new XML file `io_events.xml` in custom module development. The video will also show developers how to find registered events that can used as well as unsubscribe any events that may already be defined. [Adobe Commerce용 Adobe I/O Events 설치](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}에서 추가 설명서를 찾았습니다.
+사용자 지정 모듈 개발에서 이벤트를 등록하고, 지원되는 이벤트를 찾고, 새 XML 파일 `io_events.xml`을(를) 사용하는 방법을 알아봅니다. 또한 이 비디오에서는 개발자에게 이미 정의되어 있을 수 있는 모든 이벤트에 대한 구독을 취소하는 방법과 을 사용할 수 있는 등록된 이벤트를 찾는 방법을 보여 줍니다. [Adobe Commerce용 Adobe I/O Events 설치](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}에서 추가 설명서를 찾았습니다.
 
 ## 이 비디오는 누구의 것입니까?
 
-* Developers new to Adobe Commerce and Adobe Developer App Builder using I/O events.
+* I/O 이벤트를 사용하는 Adobe Commerce 및 Adobe Developer App Builder을 처음 사용하는 개발자입니다.
 
 ## 비디오 콘텐츠 {#video-content}
 
-* Registering events in Commerce for use in Adobe Developer App Builder
-* Identify events that can be registered
-* Learn how to register events in io_events.xml
-* Learn how to register events in the Commerce instances `app/etc/config.php`
-* Learn how to unsubscribe to an event
+* Adobe Developer App Builder에서 사용하기 위해 Commerce에서 이벤트 등록
+* 등록할 수 있는 이벤트 식별
+* io_events.xml에 이벤트를 등록하는 방법 알아보기
+* Commerce 인스턴스 `app/etc/config.php`에서 이벤트를 등록하는 방법 알아보기
+* 이벤트 구독을 취소하는 방법 알아보기
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419838?captions=kor&learn=on)
 
@@ -67,3 +67,4 @@ bin/magento events:list
 ```
 
 {{$include /help/_includes/io-events-related-links.md}}
+
