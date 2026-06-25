@@ -32,5 +32,5 @@ SFCC(Commerce Optimizer Commerce Cloud)를 Adobe의 Commerce Optimizer과 통합
 * Salesforce Commerce Cloud 통합 시작 키트의 목적에 대해 알아봅니다.
 * Starter Kit의 설치 위치 이해
 
->[!VIDEO](https://video.tv.adobe.com/v/3473977?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473985?captions=kor&learn=on)
 
