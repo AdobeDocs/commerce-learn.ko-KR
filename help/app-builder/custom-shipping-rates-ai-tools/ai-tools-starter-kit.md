@@ -10,7 +10,7 @@ duration: 327
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
 exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -34,6 +34,7 @@ Adobe의 AI 기반 도구를 활용하여 개발 워크플로를 간소화하고
 * MCP 도구는 에이전트가 코드를 계획하고 생성하는 데 사용하는 명령 및 데이터를 노출합니다.
 * AI는 요구 사항, 아키텍처 및 구현 결정을 자동화합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481351?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481344?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
+

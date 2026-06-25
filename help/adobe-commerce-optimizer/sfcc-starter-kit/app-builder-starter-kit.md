@@ -10,7 +10,7 @@ duration: 644
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
 exl-id: c856ec28-e757-4bb5-95c3-6237554820c0
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -33,4 +33,5 @@ Adobe Commerce Optimizer을 사용하여 Salesforce Commerce Cloud용 App Builde
 * App Builder Starter Kit를 복제하고 Adobe IO CLI를 사용하여 환경 파일을 구성합니다.
 * 앱을 배포하고 작업 공간에 작업 및 이벤트가 성공적으로 등록되었는지 확인합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476089?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)
+
