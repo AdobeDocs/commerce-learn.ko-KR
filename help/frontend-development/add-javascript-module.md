@@ -3,8 +3,7 @@ title: JavaScript 모듈 추가
 description: RequireJS, 레이아웃 업데이트 및 템플릿을 사용하여 Hello World 인사말을 표시하는 간단한 JavaScript 모듈을 Adobe Commerce에서 빌드하는 방법에 대해 알아봅니다.
 jira: KT-5612
 doc-type: Technical Video
-duration: 260
-activity: use
+duration: 267
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
 role: Developer
@@ -22,9 +21,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 395023facc7578bacbacefa6b63b6a3f215e02e6
 workflow-type: tm+mt
-source-wordcount: 136
+source-wordcount: 135
 ht-degree: 0%
 
 ---
@@ -58,4 +57,4 @@ ht-degree: 0%
 ## 유용한 리소스
 
 * [JavaScript 개발자 안내서](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
-* [JavaScript 호출 및 초기화](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
+* [JavaScript 호출 및 초기화](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}

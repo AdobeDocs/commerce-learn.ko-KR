@@ -1,14 +1,13 @@
 ---
 title: 새 페이지 만들기
-description: 하나의 매개 변수와 함께 json을 반환하는 페이지를 만듭니다.
-kt: 5602
-doc-type: video
+description: 모듈 설정, route.xml 구성 및 컨트롤러 작업을 포함한 하나의 매개 변수와 함께 JSON을 반환하는 Adobe Commerce의 새 페이지를 만드는 방법을 알아봅니다.
+jira: KT-5602
+doc-type: Technical Video
 duration: 259
-activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
-role: Admin, Developer, User
-level: Beginner, Intermediate
+role: Developer
+level: Beginner
 exl-id: aa830d15-0095-450f-83a8-a4ea489d6aae
 TQID: https://experienceleague.adobe.com/WtDUQ2sH27ci33UMLBtuNac1oo2CVfBlnFdAbwM3dmY
 product_v2:
@@ -23,9 +22,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 395023facc7578bacbacefa6b63b6a3f215e02e6
 workflow-type: tm+mt
-source-wordcount: 91
+source-wordcount: 106
 ht-degree: 0%
 
 ---
@@ -34,7 +33,7 @@ ht-degree: 0%
 
 {{only-for-on-prem-commerce-cloud}}
 
-하나의 매개 변수와 함께 json을 반환하는 페이지를 만듭니다.
+하나의 매개 변수와 함께 JSON을 반환하는 페이지를 만듭니다.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -51,8 +50,8 @@ ht-degree: 0%
 * 모듈 폴더 만들기
 * `etc/module.xml` 파일 만들기
 * `registration.php` 파일 만들기
-* `bin/magento setup:upgrade` 스크립트를 실행하여 새 모듈을 설치하십시오.
-* 모듈이 작동하는지 확인
+* 새 모듈을 설치하려면 `bin/magento setup:upgrade` 스크립트를 실행하십시오
+* 모듈이 작동하는지 확인합니다
 
 ## 비디오 콘텐츠
 
