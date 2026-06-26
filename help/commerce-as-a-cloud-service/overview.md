@@ -1,14 +1,13 @@
 ---
 title: Adobe Commerce as a Cloud Service 개요
 description: Adobe Commerce as a Cloud Service에 대해 알아봅니다. 구성 가능한 아키텍처를 통해 동적 디지털 작업을 위한 유연하고 확장 가능하며 효율적인 솔루션입니다.
-kt: 17219
+jira: KT-17219
 doc-type: Technical Video
-duration: 232
-audience: all
-last-substantial-update: 2025-2-3
+duration: 231
+last-substantial-update: 2025-02-03
 feature: Auto Scaling, Cloud, Services
 topic: Architecture, Commerce, Headless, Performance
-role: Admin, Leader, User
+role: Developer
 level: Beginner
 exl-id: ba6cd559-812f-4985-881f-45a9324095f3
 TQID: https://experienceleague.adobe.com/5qPs-Bkz-AgLjlQfgdHMh7nXyew33l3kz58HBGiqse8
@@ -25,7 +24,7 @@ role_v2:
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
 source-wordcount: 267
 ht-degree: 0%
@@ -34,7 +33,7 @@ ht-degree: 0%
 
 # Adobe Commerce as a Cloud Service 개요
 
-Adobe Commerce as a Cloud Service은 탄력적인 자동 확장 및 자동 업데이트와 같은 클라우드 기반 기능을 갖춘 유연하고 확장 가능하며 효율적인 비즈니스 솔루션을 제공합니다. 셀프 서비스 프로비저닝으로 온보딩을 간소화하고 독립 서비스 배포 및 API 우선 확장성을 위한 구성 가능한 아키텍처를 자랑합니다. 사전 구성된 서비스와 새로운 기능의 지속적인 제공으로 최적의 성능과 사용 편의성을 보장하므로 역동적이고 성장하는 비즈니스에 이상적입니다
+Adobe Commerce as a Cloud Service은 탄력적인 자동 확장 및 자동 업데이트와 같은 클라우드 기반 기능을 갖춘 유연하고 확장 가능하며 효율적인 비즈니스 솔루션을 제공합니다. 셀프 서비스 프로비저닝을 통해 온보딩을 간소화하고 독립 서비스 배포 및 API 우선 확장성을 위한 구성 가능한 아키텍처를 제공합니다. 사전 구성된 서비스와 새로운 기능의 지속적인 제공으로 최적의 성능과 사용 편의성을 보장하므로 역동적이고 성장하는 비즈니스에 이상적입니다
 
 ## 배울 내용
 
