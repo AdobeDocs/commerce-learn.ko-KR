@@ -1,61 +1,48 @@
 ---
 title: Commerce as a Cloud Service 아키텍처
 description: 확장 가능하고 안전하며 유연한 전자 상거래 솔루션을 위한 Adobe Commerce as a cloud service 아키텍처 및 주요 기능을 살펴보십시오.
-kt: 17220
+jira: KT-17220
 doc-type: Technical Video
 duration: 235
-audience: all
-last-substantial-update: 2025-1-30
+last-substantial-update: 2025-01-30
 feature: Catalog Management, Catalog Service, Services
 topic: Architecture, Commerce, Headless, Performance
-role: Admin, Leader, User
+role: Developer
 level: Beginner
 exl-id: 63450575-b15c-4f26-82ec-36fae5d62127
 TQID: https://experienceleague.adobe.com/pQAnr0G7c7lFtXj0xPQu3OnYkUvkW-T9sZh-dEHJ3rY
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
-  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
-  - id: c32adafa-ed01-4b31-997e-2413013911b0
-  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: c18ed297-2187-4aec-affb-9d9654eca6fcid: c32adafa-ed01-4b31-997e-2413013911b0id: d1e21356-0064-4f48-9089-16e3f0dbd2a6id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
-source-wordcount: 289
+source-wordcount: 291
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce as a Cloud Service 아키텍처
 
-Adobe Commerce as a cloud service는 상거래 애플리케이션 관리를 위한 셀프서비스 기능이 포함된 안전하고 자동화된 호스팅 플랫폼을 제공합니다. 주요 기능으로는 Adobe Experience Manager을 통한 자산 관리, GraphQL 및 REST API의 포괄적인 API 지원, 지능형 머천다이징 서비스 등이 있습니다. 이 플랫폼은 완전한 Headless 아키텍처를 지원하므로 개발자가 React 및 Angular과 같은 다양한 프론트엔드 프레임워크를 사용할 수 있습니다. 또한 문서 기반 작성 및 기본 A/B 테스트를 갖춘 현대적인 헤드리스 상점도 제공합니다. 또한 Adobe Commerce은 개인화된 상거래 경험을 위해 Adobe Experience Cloud과 통합되며 Adobe Developer App Builder 및 API 메쉬를 포함하여 개발자를 위한 광범위한 도구를 제공합니다.
+Adobe Commerce as a Cloud Service은 상거래 애플리케이션 관리를 위한 셀프서비스 기능이 포함된 안전하고 자동화된 호스팅 플랫폼을 제공합니다. 주요 기능으로는 Adobe Experience Manager을 통한 에셋 관리, GraphQL 및 REST API를 통한 포괄적인 API 지원, 지능형 Adobe Merchandising 서비스 등이 있습니다. 이 플랫폼은 완전한 Headless 아키텍처를 지원하므로 개발자가 React 및 Angular과 같은 다양한 프론트엔드 프레임워크를 사용할 수 있습니다. 또한 문서 기반 작성 및 기본 A/B 테스트를 갖춘 현대적인 헤드리스 상점도 제공합니다. 또한 Adobe Commerce은 개인화된 상거래 경험을 위해 Adobe Experience Cloud와 통합되며 Adobe Developer App Builder 및 API 메쉬를 포함하여 개발자를 위한 광범위한 도구를 제공합니다.
 
 ## 배울 내용
 
-Adobe Commerce as a cloud service의 아키텍처 및 주요 기능에 대해 알아봅니다. 보안 호스팅, API 범위, Headless 아키텍처 및 통합 기능을 포함한 요소
+Adobe Commerce as a Cloud Service의 아키텍처 및 주요 기능에 대해 알아봅니다. 요소에는 보안 호스팅, API 범위, Headless 아키텍처 및 통합 기능이 포함됩니다.
 
 ## 이 비디오는 누구의 것입니까?
 
 * 전자 상거래 관리자 를 통해 Adobe Commerce의 기능을 이해할 수 있습니다.
 * 개발자는 플랫폼의 아키텍처, API 및 통합 도구에 대해 알아봅니다.
 * 디지털 마케터는 Adobe Commerce이 고객 경험을 향상시키는 방법을 살펴봅니다.
-* IT 관리자는 클라우드 서비스의 보안 및 호스팅 측면을 파악합니다.
-* 제품 관리자 를 통해 플랫폼이 다양한 비즈니스 목표 및 머천다이징 서비스를 지원하는 방법을 살펴볼 수 있습니다.
+* IT 관리자는 Cloud Service의 보안 및 호스팅 측면을 파악할 수 있습니다.
+* 제품 관리자 를 통해 플랫폼이 다양한 비즈니스 목표와 Adobe Merchandising 서비스를 지원하는 방법을 살펴볼 수 있습니다.
 
 ## 비디오 콘텐츠
 
 * 보안 및 자동 호스팅: Adobe Commerce은 상거래 애플리케이션 관리를 위한 셀프서비스 기능을 갖춘 안전하고 자동화된 호스팅 플랫폼을 제공합니다.
 * 포괄적인 API 범위: 이 플랫폼은 GraphQL 및 REST API를 사용하여 광범위한 API 범위를 지원하므로 서드파티 시스템과의 원활한 통합이 가능합니다.
-* Headless 아키텍처: 완전히 분리된 아키텍처를 통해 개발자는 다양한 프론트엔드 프레임워크를 사용하여 유연성과 성능을 제공할 수 있습니다.
+* 분리된 아키텍처: 완전히 분리된 아키텍처를 통해 개발자는 다양한 프론트엔드 프레임워크를 사용하여 유연성과 성능을 제공할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443274?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)
