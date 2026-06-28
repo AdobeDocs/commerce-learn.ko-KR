@@ -1,17 +1,14 @@
 ---
 title: 글로벌 참조 아키텍처를 구현하는 방법
 description: 글로벌 참조 아키텍처를 구현하는 방법에 대해 알아봅니다. 웹 사이트, 성공 키 및 글로벌 참조 아키텍처 프로젝트가 올바른 방향으로 시작되도록 하는 데 필요한 역할을 배포하는 데 필요한 아이디어를 알아봅니다.
-landing-page-description: Adobe Commerce을 사용하여 글로벌 참조 아키텍처를 구현하는 방법에 대해 알아봅니다
-kt: 14042
-doc-type: video
-duration: 2289
-audience: all
-last-substantial-update: 2023-10-6
+jira: KT-14042
+doc-type: Value Video
+duration: 2273
+last-substantial-update: 2023-10-06
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
-level: Beginner, Intermediate
+level: Beginner
 exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
 TQID: https://experienceleague.adobe.com/gvluu4w1CEQOC6Ar77DspSSx9ED682P41DSEqG44cok
 product_v2:
@@ -29,16 +26,16 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 169
+source-wordcount: 157
 ht-degree: 0%
 
 ---
 
 # 글로벌 참조 아키텍처 구현
 
-글로벌 참조 아키텍처 또는 GRA를 구현하는 방법에 대해 알아봅니다. 성공적인 GRA 설정에 도움이 되는 초기 결정에 대해 알아봅니다. 웹 사이트, 성공의 주요 요소 및 기능을 체계적으로 개발하기 위한 몇 가지 개념을 분리하는 방법에 대한 아이디어를 얻을 수 있습니다.
+글로벌 참조 아키텍처 또는 GRA를 구현하는 방법을 알아봅니다. 성공적인 GRA를 설정하는 데 도움이 되는 초기 결정에 대해 알아봅니다. 웹 사이트, 성공의 주요 요소 및 기능을 체계적으로 개발하기 위한 몇 가지 개념을 분리하는 방법에 대한 아이디어를 얻을 수 있습니다.
 
 ## 대상자
 

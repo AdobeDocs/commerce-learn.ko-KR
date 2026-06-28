@@ -1,16 +1,14 @@
 ---
-title: 벌크 패키지 전역 참조 아키텍처로 Adobe Commerce 최적화
-description: 효율적인 코드 관리 및 버전 제어를 위해 벌크 패키지 글로벌 참조 아키텍처를 사용하여 Adobe Commerce을 설정하는 방법에 대해 알아봅니다.
+title: 벌크 패키지 글로벌 참조 아키텍처 패턴
+description: 효율적인 코드 관리, 버전 제어 및 확장 가능한 다중 인스턴스 배포를 위해 벌크 패키지 GRA 패턴을 사용하여 Adobe Commerce을 설정하는 방법에 대해 알아봅니다.
 jira: KT-16726
-doc-type: tutorial
-duration: 391
-audience: all
-last-substantial-update: 2025-1-6
+doc-type: Tutorial
+duration: 296
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-badge: label="Tony Evers, 수석 기술 설계자, Adobe 제공" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="토니 에버스의 기고문"
-old-role: Architect, Developer
-role: Developer, User, Leader
+badge: label="Tony Evers, 수석 기술 설계자, Adobe 제공" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="토니 에버스의 기고문"
+role: Developer
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
 TQID: https://experienceleague.adobe.com/q4NzQxc7XJDB-TNv2pU7ghDr6bahliY6soUGPu7fhfg
@@ -28,7 +26,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
 source-wordcount: 1188
 ht-degree: 0%
@@ -53,7 +51,7 @@ ht-degree: 0%
 * 서로 다른 인스턴스에 서로 다른 이전 버전의 GRA를 설치할 수 있는 유연성, 단계별 릴리스 활성화
 * GRA의 여러 주요 버전을 백업 및 유지 관리할 수 있는 유연성
 * GRA의 시맨틱 버전 관리 지원
-* 단순성, 개발자는 일반적인 단일 스토어 개발 패턴보다 더 많은 기술이 필요하지 않습니다
+* 단순성, 개발자는 일반적인 단일 스토어 개발 패턴보다 더 많은 기술이 필요하지 않음
 * 특별한 도구, 복잡한 인프라 또는 특별한 분기 전략이 필요하지 않음
 * 릴리스의 패키지 조합은 항상 함께 개발 및 테스트됩니다
 
@@ -264,27 +262,27 @@ rm -r vendor/antonevers/gra-bulk-foundation
 composer install --prefer-source
 ```
 
-The bulk package has been checked out using Git. When you enter the `vendor/antonevers/gra-bulk-foundation` directory, you are also entering the gra-bulk-foundation Git repository. You can create, checkout and merge branches in this directory.
+벌크 패키지는 Git을 사용하여 체크아웃되었습니다. `vendor/antonevers/gra-bulk-foundation` 디렉터리를 입력하면 gra-bulk-foundation Git 저장소도 입력됩니다. 이 디렉터리에서 분기를 만들고, 체크아웃하고, 병합할 수 있습니다.
 
-Add Composer dependencies to the composer.json file at the root of the GRA bulk package, which is the only file in the bulk package that Composer evaluates.
+작성기 종속성을 작성기가 평가하는 벌크 패키지의 유일한 파일인 GRA 벌크 패키지의 루트에 있는 composer.json 파일에 추가합니다.
 
-## Include third-party modules to the GRA bulk package
+## GRA 벌크 패키지에 서드파티 모듈 포함
 
-Add third-party packages in the require section of the composer.json at the root of the GRA foundation to add them to your GRA. That way, the packages are always installed in all your instances through composer.
+GRA 기반의 루트에 있는 composer.json의 필수 섹션에 서드파티 패키지를 추가하여 GRA에 추가합니다. 이렇게 하면 모든 인스턴스에 항상 작성기를 통해 패키지가 설치됩니다.
 
-## Deliver your code
+## 코드 전달
 
-To deliver code to the main branch, there are 2 paths. First the local modules, which are merged to the main branch. Run Composer update for those modules. Do not allow developers to update composer.lock in their ticket branches to reduce conflicts. Only update the composer.lock file in staging and production branches, which reduces the risk of conflicts.
+코드를 주 분기로 전달하려면 2개의 경로가 있습니다. 먼저 주 분기에 병합되는 로컬 모듈을 사용합니다. 해당 모듈에 대해 작성기 업데이트를 실행합니다. 개발자가 충돌을 줄이기 위해 티켓 분기에서 composer.lock을 업데이트할 수 없도록 하십시오. 스테이징 및 프로덕션 분기에서 composer.lock 파일만 업데이트하면 충돌 위험이 줄어듭니다.
 
-Secondly, the GRA bulk packages, which are merged into the main branch of the GRA bulk repository. Then you can add a Git tag to the main branch, versioning the Composer package. Require your new version of the GRA bulk package in the composer.json of the deployment repository to install it.
+두 번째로, GRA 벌크 패키지는 GRA 벌크 저장소의 주 분기로 병합됩니다. 그런 다음 주 분기에 Git 태그를 추가하고 Composer 패키지 버전을 지정할 수 있습니다. 설치하려면 배포 저장소의 composer.json에 새 버전의 GRA 벌크 패키지가 필요합니다.
 
-## Branching strategy
+## 분기 전략
 
-This GRA pattern works with all branching strategies so long as you mirror the branching strategy of the deployment repositories in your GRA bulk repository. For releases, create a release branch with the same name in both repositories. For development, create a ticket branch in both repositories.
+이 GRA 패턴은 GRA 벌크 저장소에 있는 배포 저장소의 분기 전략을 미러링하는 한 모든 분기 전략에서 작동합니다. 릴리스의 경우 두 저장소에서 이름이 같은 릴리스 분기를 만듭니다. 개발을 위해 두 저장소에 티켓 분기를 만듭니다.
 
-In ticket branches, you should almost never have to update the composer.lock file. Just check out the right branches in your development environment for both the store and the GRA foundation repository with Git. The exception is when you update requirements in the GRA foundation composer.json file. Upgrading the GRA foundation in the deployment repository is only done when building the release, or when building a QA branch.
+티켓 분기에서 composer.lock 파일을 업데이트할 필요가 거의 없습니다. Git을 사용하여 스토어와 GRA 기반 리포지토리 모두에 대해 개발 환경에서 올바른 분기를 확인하십시오. 단, GRA foundation composer.json 파일에서 요구 사항을 업데이트할 때는 예외입니다. 배포 저장소에서 GRA 기반 업그레이드는 릴리스를 빌드하거나 QA 분기를 빌드할 때만 수행됩니다.
 
-## Code examples
+## 코드 예
 
 이 문서의 코드 예는 개념 증명을 테스트하는 데 사용할 수 있는 Git 저장소 세트로 사용할 수 있습니다.
 
