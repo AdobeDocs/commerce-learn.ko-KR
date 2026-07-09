@@ -7,9 +7,9 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21573
 duration: 192
-source-git-commit: 48d47dcb7e559513b72e8e24ec678613d9163515
+source-git-commit: 676b83020173983f2045c715e3b3ee28f7bb1c6b
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -26,14 +26,16 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
-* 의미 체계 검색이 카탈로그를 인식하도록 속성 선택
-* 구매자 의도 일치에 가장 관련성이 높은 신호를 가중하는 우선 순위 구성
-* 제품 데이터를 의미 있는 신호로 변환하는 자동 카탈로그 인덱싱
-* 결과 부스팅, 유사성 임계값 및 유사 검색 구성
+* 의미 체계 검색 소개 및 제품 검색 개선 방법
+* 라이브 검색 설정에서 의미 체계 검색을 활성화하는 방법
+* 의미 체계 검색을 활성화한 후 판매자가 기대할 수 있는 사항
+* 자동 카탈로그 색인 지정 및 제품 데이터에 대한 AI 기반 이해
+* 쇼핑객 의도와 향상된 검색 관련성의 실제 예
+* 주요 이점: 관련성 향상, 결과 없는 검색 횟수 감소, 쇼핑객 경험 개선
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492310?captions=kor)
 
 ## 추가 리소스
 
-&#x200B;- Cloud의 Adobe Commerce, Prem 및 Adobe Commerce as a Cloud Service에 대한 배포는 _실시간 검색 안내서_&#x200B;에서 [[!DNL Live Search] 의미 체계 검색](https://experienceleague.adobe.com/ko/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"}을 참조하십시오.
-&#x200B;- Adobe Commerce Optimizer을 사용한 배포의 경우 _Commerce Optimizer 안내서_&#x200B;에서 [설정 - 고급 검색](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/settings#advanced-search){target="_blank"}을 참조하십시오.
+&#x200B;- Adobe Commerce on Cloud, on-prem 및 Adobe Commerce as a Cloud Service에 대한 배포는 _실시간 검색 안내서_&#x200B;에서 [[!DNL Live Search] 의미 체계 검색](https://experienceleague.adobe.com/ko/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"}을 참조하십시오.
+&#x200B;- Adobe Commerce Optimizer을 사용하는 배포의 경우 _Commerce Optimizer 안내서_&#x200B;에서 [의미 체계 검색](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/setup/semantic-search){target="_blank"}을 참조하십시오.
