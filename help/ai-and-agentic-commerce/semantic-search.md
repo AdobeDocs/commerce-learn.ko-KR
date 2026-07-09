@@ -33,7 +33,7 @@ ht-degree: 0%
 * 쇼핑객 의도와 향상된 검색 관련성의 실제 예
 * 주요 이점: 관련성 향상, 결과 없는 검색 횟수 감소, 쇼핑객 경험 개선
 
->[!VIDEO](https://video.tv.adobe.com/v/3492286)
+>[!VIDEO](https://video.tv.adobe.com/v/3492310?captions=kor)
 
 ## 추가 리소스
 
