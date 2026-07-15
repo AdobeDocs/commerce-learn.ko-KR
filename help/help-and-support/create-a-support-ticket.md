@@ -1,10 +1,10 @@
 ---
 title: 지원 티켓 만들기
-description: Experience League에서 Adobe Commerce에 대한 지원 티켓을 만드는 방법을 알아봅니다
+description: 동적 양식 필드 작성 방법 및 기타 연락처 참조 등 Adobe Experience League에서 Adobe Commerce에 대한 지원 티켓을 만드는 방법을 알아봅니다.
 feature: Customer Service, Support
 topic: Commerce
 role: Admin, Developer, User
-level: Beginner, Intermediate
+level: Beginner
 doc-type: Technical Video
 duration: 355
 last-substantial-update: 2024-08-23T00:00:00.000Z
@@ -20,35 +20,34 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 6001d4daa94035f4165a760bd97d4be1d5c0f319
 workflow-type: tm+mt
-source-wordcount: 146
+source-wordcount: 166
 ht-degree: 0%
 
 ---
 
-# Experience League을 사용하여 지원 티켓 만들기
+# Adobe Experience League를 사용하여 지원 티켓 만들기
 
-Experience League for Adobe Commerce 내에서 지원 티켓을 만드는 방법을 알아봅니다.
+Adobe Experience League for Adobe Commerce 내에서 지원 티켓을 만드는 방법을 알아봅니다.
 
 ## 이 비디오는 누구의 것입니까?
 
-* Experience League에서 Adobe Commerce에 대한 지원 요청을 만들 수 있는 권한이 있는 모든 사용자
+* Adobe Experience League에서 Adobe Commerce에 대한 지원 요청을 만들 수 있는 권한이 있는 사람
 
 ## 비디오 콘텐츠 {#video-content}
 
-* Experience League에 로그인하는 방법 알아보기
+* Adobe Experience League에 로그인하는 방법 알아보기
 * 새 지원 티켓을 만들 때 동적 양식 요소에 대해 알아봅니다
-* 양식에 사용된 정보에 따라 권장 문서가 어떻게 변경되는지 알아보십시오
-* 양식 필드에 있는 자리 표시자 텍스트가 어떻게 유용한지 이해하는 것은 올바른 지원 요청에 필요한 정보 유형을 이해하는 데 도움이 됩니다
+* 양식에 사용된 정보에 따라 권장 문서가 어떻게 변경되는지 알아봅니다
+* 양식 필드에 있는 자리 표시자 텍스트가 올바른 지원 요청에 필요한 정보 유형을 이해하는 데 어떻게 도움이 되는지 알아봅니다
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449560?captions=kor&learn=on)
 
-## Commerce 기술 자료 도움말 센터 안내서
+## Commerce 기술 자료 Adobe 도움말 센터 안내서
 
-[지원 사례 제출](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[지원 사례 제출](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)

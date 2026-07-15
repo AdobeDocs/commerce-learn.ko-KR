@@ -1,11 +1,11 @@
 ---
 title: 지원 티켓 검색, 검토, 주석 달기 및 에스컬레이션
-description: Experience League을 사용하여 지원 티켓 검색, 검토, 주석 달기 및 에스컬레이션
+description: 사례를 확대하는 이유를 포함하여 Adobe Commerce용 Adobe Experience League에서 지원 티켓을 검색, 검토, 댓글 달기 및 에스컬레이션하는 방법을 알아봅니다.
 feature: Customer Service, Support
 topic: Commerce
-role: Admin, Developer, User
-level: Beginner, Intermediate
-doc-type: Technical Video
+role: Admin
+level: Beginner
+doc-type: Tutorial
 duration: 209
 last-substantial-update: 2024-08-23T00:00:00.000Z
 jira: KT-16049
@@ -14,35 +14,32 @@ TQID: https://experienceleague.adobe.com/-ATvMO7lsgqxCIZpBJTYLFeDrWYKRKgZPaZMk-a
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
 role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 6001d4daa94035f4165a760bd97d4be1d5c0f319
 workflow-type: tm+mt
-source-wordcount: 125
+source-wordcount: 143
 ht-degree: 0%
 
 ---
 
 # 지원 티켓 검색, 검토, 주석 달기 및 에스컬레이션
 
-Experience League for Adobe Commerce 내에서 지원 티켓을 검색, 검토, 추천 및 에스컬레이션하는 방법을 알아봅니다.
+Adobe Experience League for Adobe Commerce 내에서 지원 티켓을 검색, 검토, 댓글을 달고 에스컬레이션하는 방법을 알아봅니다.
 
 ## 이 비디오는 누구의 것입니까?
 
-* Experience League에서 Adobe Commerce에 대한 지원 요청을 관리할 수 있는 권한이 있는 모든 사용자
+* Adobe Experience League에서 Adobe Commerce에 대한 지원 요청을 관리할 수 있는 모든 사용자
 
 ## 비디오 콘텐츠 {#video-content}
 
 * 티켓 검색 방법 알아보기
 * 개방형 지원 티켓에 댓글을 추가하는 방법 알아보기
-* 지원 티켓을 확대하는 방법과 몇 가지 이유를 알아보십시오.
+* 지원 티켓을 확대하는 방법 및 몇 가지 이유를 알아봅니다
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445318?captions=kor&learn=on)
 
-## Commerce 기술 자료 도움말 센터 안내서
+## Commerce 기술 자료 Adobe 도움말 센터 안내서
 
-[지원 사례 제출](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[지원 사례 제출](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
