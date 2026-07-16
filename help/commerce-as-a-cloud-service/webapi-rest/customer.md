@@ -11,24 +11,15 @@ last-substantial-update: 2026-01-27
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
 TQID: https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
-  - id: c32adafa-ed01-4b31-997e-2413013911b0
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-subfeature_v2:
-  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: a919fc30133c58050d260bea8562e920694f5c58
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: bd989d82-1e15-4534-88db-f1f51dd77ffaid: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2: id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: 507
+source-wordcount: 509
 ht-degree: 0%
 
 ---
@@ -48,7 +39,7 @@ Adobe Commerce as a Cloud Service에서 새로운 고객 REST API를 사용하�
 * Commerce as a Cloud Service에 올바른 REST API 끝점 형식 사용
 * 적절한 JSON 페이로드가 있는 POST 및 PUT 요청을 사용하여 프로그래밍 방식으로 고객 계정을 만들고 업데이트합니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3479369?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
 
 ## 코드 샘플
 
@@ -62,7 +53,9 @@ Adobe Commerce as a Cloud Service에서 새로운 고객 REST API를 사용하�
 
 인스턴스 세부 사항에는 인스턴스 ID, GraphQL 끝점, 자격 증명과 같은 것이 포함됩니다.
 
-### 개발자 세부 정보 - [developer.adobe.com/console](https://developer.adobe.com/console/)
+### 개발자 세부 사항 - developer.adobe.com/console
+
+[developer.adobe.com/console](https://developer.adobe.com/console/)
 
 Developer Console에서 클라이언트 ID, 클라이언트 암호 및 액세스 토큰을 포함한 API 자격 증명을 관리할 수 있습니다. 서버 간 인증 또는 네이티브 앱 인증과 같은 새 자격 증명 유형을 만들 수도 있습니다.
 
@@ -259,6 +252,6 @@ curl -s -X PUT \
 
 ## 참조
 
-* [Adobe Commerce as a Cloud Service 릴리스 노트](https://experienceleague.adobe.com/ko/docs/commerce/cloud-service/release-notes)
+* [Adobe Commerce as a Cloud Service 릴리스 노트](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
 * [SaaS REST API 참조](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [사용자 인증 안내서](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
