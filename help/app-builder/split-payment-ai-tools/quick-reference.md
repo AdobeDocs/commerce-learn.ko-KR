@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1515'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,9 @@ ht-degree: 0%
 
 ## 파일별 참조
 
-### [분할 결제 POC 만들기: App Builder 및 AI 도구](./overview.md)
+### 분할 결제 POC 만들기: App Builder 및 AI 도구
+
+[분할 결제 POC 만들기: App Builder 및 AI 도구](./overview.md)
 
 자습서에 대한 **목적:** 소개 및 방향.
 
@@ -32,8 +34,9 @@ ht-degree: 0%
 **튜토리얼 사용:** 섹션을 엽니다. 기술 단계 전에 컨텍스트를 설정합니다.
 
 
-### [분할 결제 POC: 아키텍처 및 디자인 결정](./architecture-and-decisions.md)
+### 분할 결제 POC: 아키텍처 및 디자인 결정
 
+[분할 결제 POC: 아키텍처 및 디자인 결정](./architecture-and-decisions.md)
 
 **목적:** PoC의 모든 아키텍처 결정에 대한 자세한 설명.
 
@@ -50,8 +53,9 @@ ht-degree: 0%
 **튜토리얼 사용:** &quot;아키텍처&quot; 또는 &quot;작동 방법&quot; 섹션. 숙련된 Commerce 개발자는 건너뛸 수 있지만 App Builder 초보자에게는 필수적입니다.
 
 
-### [분할 결제 POC: 사전 요구 사항 및 환경 설정](./prerequisites-and-setup.md)
+### 분할 결제 POC: 사전 요구 사항 및 환경 설정
 
+[분할 결제 POC: 사전 요구 사항 및 환경 설정](./prerequisites-and-setup.md)
 
 **목적:** 코드를 작성하거나 프롬프트를 실행하기 전에 사전 검사 목록을 완료하십시오.
 
@@ -66,8 +70,9 @@ ht-degree: 0%
 **자습서 사용:** &quot;필수 구성 요소&quot; 또는 &quot;시작&quot; 섹션. 읽기만 하는 것이 아니라 대화식으로 완성해야 합니다.
 
 
-### [분할 결제 POC: 환경 변수 참조](./env-reference.md)
+### 분할 결제 POC: 환경 변수 참조
 
+[분할 결제 POC: 환경 변수 참조](./env-reference.md)
 
 **목적:** 세 구성 요소 모두에 대한 모든 환경 변수를 한 곳에 배치합니다.
 
@@ -82,8 +87,9 @@ ht-degree: 0%
 **자습서 사용:** 참조 사이드바 또는 &quot;구성&quot; 섹션. 빌드 프롬프트의 동반자로도 사용됩니다.
 
 
-### [분할 결제 POC: Commerce 모듈 AI 프롬프트](./commerce-module-prompt.md)
+### 분할 결제 POC: Commerce 모듈 AI 프롬프트
 
+[분할 결제 POC: Commerce 모듈 AI 프롬프트](./commerce-module-prompt.md)
 
 **목적:** 전체 `Client_SplitPayment` PHP 모듈을 생성하기 위한 자체 포함된 AI 프롬프트를 완료합니다.
 
@@ -101,8 +107,9 @@ ht-degree: 0%
 **자습서 사용:** &quot;Commerce 모듈 빌드&quot; 섹션. 프롬프트 자체가 아티팩트입니다. 개발자는 아티팩트를 AI 도구에 복사하고 실행합니다.
 
 
-### [분할 결제 POC: App Builder orchestrator AI 프롬프트](./orchestrator-prompt.md)
+### 분할 결제 POC: App Builder orchestrator AI 프롬프트
 
+[분할 결제 POC: App Builder orchestrator AI 프롬프트](./orchestrator-prompt.md)
 
 **목적:** `split-payment-orchestrator` App Builder 응용 프로그램을 생성하기 위한 자체 포함된 AI 프롬프트를 완료합니다.
 
@@ -120,8 +127,9 @@ ht-degree: 0%
 **자습서 사용:** &quot;App Builder 애플리케이션 빌드&quot; 섹션. Commerce 모듈 프롬프트에 대한 설명입니다.
 
 
-### [분할 결제 POC: Experience Cloud UI 확장 AI 프롬프트](./experience-cloud-ui-prompt.md)
+### 분할 결제 POC: Experience Cloud UI 확장 AI 프롬프트
 
+[분할 결제 POC: Experience Cloud UI 확장 AI 프롬프트](./experience-cloud-ui-prompt.md)
 
 **목적:** 선택적 Experience Cloud 관리 UI SDK 확장을 생성하도록 AI 메시지를 표시합니다.
 
@@ -137,8 +145,9 @@ ht-degree: 0%
 **튜토리얼 사용:** 선택적 &quot;계속 진행&quot; 또는 &quot;프로덕션 경로&quot; 섹션. 자습서가 PoC에만 중점을 두는 경우 건너뛸 수 있습니다.
 
 
-### [분할 결제 POC: 테스트 및 확인 가이드](./testing-and-verification.md)
+### 분할 결제 POC: 테스트 및 확인 가이드
 
+[분할 결제 POC: 테스트 및 확인 가이드](./testing-and-verification.md)
 
 **목적:** 올바른 확인 순서에 따라 모든 구성 요소를 다루는 단계별 테스트 안내서입니다.
 
@@ -160,8 +169,9 @@ ht-degree: 0%
 **자습서 사용:** &quot;테스트&quot; 또는 &quot;확인&quot; 섹션. 문제 해결 참조 자료로도 유용합니다.
 
 
-### [분할 결제 POC: 개념 증명 후 다음 단계](./next-steps.md)
+### 분할 결제 POC: 개념 증명 후 다음 단계
 
+[분할 결제 POC: 개념 증명 후 다음 단계](./next-steps.md)
 
 **목적:** PoC를 프로덕션 준비 패턴으로 발전시키기 위한 로드맵.
 

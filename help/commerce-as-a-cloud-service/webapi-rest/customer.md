@@ -26,9 +26,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: a919fc30133c58050d260bea8562e920694f5c58
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: 507
+source-wordcount: 509
 ht-degree: 0%
 
 ---
@@ -62,7 +62,9 @@ Adobe Commerce as a Cloud Service에서 새로운 고객 REST API를 사용하�
 
 인스턴스 세부 사항에는 인스턴스 ID, GraphQL 끝점, 자격 증명과 같은 것이 포함됩니다.
 
-### 개발자 세부 정보 - [developer.adobe.com/console](https://developer.adobe.com/console/)
+### 개발자 세부 사항 - developer.adobe.com/console
+
+[developer.adobe.com/console](https://developer.adobe.com/console/)
 
 Developer Console에서 클라이언트 ID, 클라이언트 암호 및 액세스 토큰을 포함한 API 자격 증명을 관리할 수 있습니다. 서버 간 인증 또는 네이티브 앱 인증과 같은 새 자격 증명 유형을 만들 수도 있습니다.
 
