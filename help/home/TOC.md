@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 337b968834175098aac4c332e8570d4ed94dd86c
+source-git-commit: a785518a36cda9d2bfb82951c26f2e197ee3d43e
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '965'
 ht-degree: 3%
 
 ---
@@ -67,6 +67,7 @@ ht-degree: 3%
       + [닫기](../commerce-as-a-cloud-service/product-overview/closing.md)
     + 대량 데이터 마이그레이션 도구{#bulk-data-migration-tool}
       + [소개](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
+      + [Source 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
   + Adobe Commerce으로 마이그레이션{#migrating-to-adobe-commerce}
     + [개요](../migrating-to-adobe-commerce/overview.md)
     + 준비{#preparation}
@@ -100,7 +101,7 @@ ht-degree: 3%
 
 + 확장성 {#extensibility}
   + 백엔드 개발 {#backend-development}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../backend-development/create-module.md)
     + [제품 속성 추가](../backend-development/add-product-attribute.md)
     + [종속성 삽입 예](../backend-development/dependency-injection.md)
