@@ -33,4 +33,4 @@ ht-degree: 0%
 * Adobe Developer Console의 **프로젝트** > **OAuth 서버 간**&#x200B;에서 Adobe IMS 클라이언트 ID 및 클라이언트 암호를 검색합니다.
 * 대상 조직 ID를 복사하고 사용자 환경에 맞게 CDMS 호스트, 포트 및 로컬 서버 설정을 구성합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496167?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496172?captions=kor&learn=on)
