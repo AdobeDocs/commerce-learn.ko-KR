@@ -4,24 +4,18 @@ description: 첫 번째 프로세스 외부 애플리케이션 구축에 필요�
 jira: KT-21679
 doc-type: Tutorial
 duration: 197
-last-substantial-update: 2023-03-13T00:00:00.000Z
+last-substantial-update: 2023-03-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
 TQID: https://experienceleague.adobe.com/vaWPlxMkONIlEhq4-WEjw8wKWBaBb1iYmeOPSjsnnjk
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: c9bfd59cd52cc8b86577dd218bf1672157b706f5
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 864c348235569cb18aa89a88885208a8225eec7a
 workflow-type: tm+mt
 source-wordcount: 332
 ht-degree: 0%
@@ -60,7 +54,7 @@ ht-degree: 0%
 * 샘플 모듈 사용에 대한 기대치
 * 샘플 모듈의 재사용 가능한 부분
 
->[!VIDEO](https://video.tv.adobe.com/v/3421027?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416740?learn=on)
 
 {{avoid-400-error}}
 
