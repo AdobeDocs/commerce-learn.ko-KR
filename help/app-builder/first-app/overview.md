@@ -11,17 +11,11 @@ role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
 TQID: https://experienceleague.adobe.com/vaWPlxMkONIlEhq4-WEjw8wKWBaBb1iYmeOPSjsnnjk
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: c9bfd59cd52cc8b86577dd218bf1672157b706f5
 workflow-type: tm+mt
 source-wordcount: 332
 ht-degree: 0%
@@ -36,7 +30,7 @@ ht-degree: 0%
 * App Builder에 대한 전체 액세스 권한 또는 체험판 액세스 권한이 부여되었습니다.
 * [Adobe Developer App Builder 애플리케이션이 생성되었습니다.](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}
 * [Adobe Developer App Builder 프로젝트가 생성되었습니다.](https://developer.adobe.com/console){target="_blank"}
-* [Adobe Developer App Builder 작업 영역이 생성되었습니다. - 2.6단계](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app#2-creating-a-new-project-on-developer-console){target="_blank"}
+* [Adobe Developer App Builder 작업 영역 생성됨 - 2단계](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [프로젝트를 초기화하고 실행하는 AIO CLI 명령이 실행되었습니다.](https://developer.adobe.com/runtime){target="_blank"}
 
 첫 번째 App Builder 응용 프로그램 빌드에 대한 자세한 내용을 보려면 다음과 같은 블로그 게시물을 보고 초기 설정 및 구성에 도움을 받으십시오. [App Builder이 상거래 플랫폼을 위한 비즈니스 민첩성을 높이는 데 어떻게 도움이 됩니까](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
@@ -60,7 +54,7 @@ ht-degree: 0%
 * 샘플 모듈 사용에 대한 기대치
 * 샘플 모듈의 재사용 가능한 부분
 
->[!VIDEO](https://video.tv.adobe.com/v/3421027?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416740?learn=on)
 
 {{avoid-400-error}}
 
