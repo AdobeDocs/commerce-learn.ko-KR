@@ -42,7 +42,7 @@ Adobe Developer App Builder 프로젝트를 만들어 Adobe Commerce의 이벤�
 * Adobe Developer Console 사용
 * Adobe I/O 사용
 
->[!VIDEO](https://video.tv.adobe.com/v/3415797?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419808?captions=kor&learn=on)
 
 ## 유용한 명령 {#useful-commands}
 

@@ -44,7 +44,7 @@ Adobe Developer App Builder에서 사용할 수 있는 Adobe Commerce의 조건�
 * 조건부 이벤트에 사용할 규칙 정의
 * Commerce 인스턴스 `app/etc/config.php`에서 이벤트를 등록하는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3415806?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419802?captions=kor&learn=on)
 
 ## 유용한 명령 {#useful-commands}
 

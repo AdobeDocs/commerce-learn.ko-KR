@@ -44,7 +44,7 @@ ht-degree: 0%
 * Adobe Commerce Cloud에 대해 실행되는 명령
 * Adobe Commerce Cloud yaml 필수 편집
 
->[!VIDEO](https://video.tv.adobe.com/v/3415794?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419830?captions=kor&learn=on)
 
 ## 사용 가능한 명령 {#useful-commands}
 
