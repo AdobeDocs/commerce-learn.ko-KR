@@ -4,7 +4,7 @@ description: 첫 번째 프로세스 외부 애플리케이션 구축에 필요�
 jira: KT-21679
 doc-type: Tutorial
 duration: 197
-last-substantial-update: 2023-03-13T00:00:00.000Z
+last-substantial-update: 2023-03-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 864c348235569cb18aa89a88885208a8225eec7a
 workflow-type: tm+mt
 source-wordcount: 332
 ht-degree: 0%
@@ -36,7 +36,7 @@ ht-degree: 0%
 * App Builder에 대한 전체 액세스 권한 또는 체험판 액세스 권한이 부여되었습니다.
 * [Adobe Developer App Builder 애플리케이션이 생성되었습니다.](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}
 * [Adobe Developer App Builder 프로젝트가 생성되었습니다.](https://developer.adobe.com/console){target="_blank"}
-* [Adobe Developer App Builder 작업 영역이 생성되었습니다. - 2.6단계](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app#2-creating-a-new-project-on-developer-console){target="_blank"}
+* [Adobe Developer App Builder 작업 영역 생성됨 - 2단계](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [프로젝트를 초기화하고 실행하는 AIO CLI 명령이 실행되었습니다.](https://developer.adobe.com/runtime){target="_blank"}
 
 첫 번째 App Builder 응용 프로그램 빌드에 대한 자세한 내용을 보려면 다음과 같은 블로그 게시물을 보고 초기 설정 및 구성에 도움을 받으십시오. [App Builder이 상거래 플랫폼을 위한 비즈니스 민첩성을 높이는 데 어떻게 도움이 됩니까](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
