@@ -1,16 +1,12 @@
 ---
 title: Adobe Commerce 구성
 description: Adobe Developer App Builder에서 이벤트를 사용할 수 있도록 Adobe Commerce을 구성하는 방법에 대해 알아봅니다.
-landing-page-description: Adobe Developer App Builder에서 사용하기 위해 이벤트 메커니즘을 사용하도록 Adobe Commerce을 구성하는 방법에 대해 알아봅니다.
-short-description: Adobe Developer App Builder에서 사용하기 위해 이벤트 메커니즘을 사용하도록 Adobe Commerce을 구성하는 방법에 대해 알아봅니다.
-kt: 11889
-doc-type: tutorial
-duration: 299
-audience: all
-last-substantial-update: 2023-02-21T00:00:00.000Z
+jira: KT-11889
+doc-type: Tutorial
+duration: 268
+last-substantial-update: 2023-02-21
 feature: App Builder, Configuration, Backend Development
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
@@ -26,24 +22,24 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
-source-wordcount: 151
+source-wordcount: 114
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce 구성
 
-이벤트를 노출하도록 Adobe Commerce을 구성하는 방법에 대해 알아봅니다. [Adobe Commerce용 Adobe I/O Events 설치](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}에서 추가 설명서를 찾았습니다.
+이벤트를 노출하도록 Adobe Commerce을 구성하는 방법에 대해 알아봅니다. [Adobe Commerce용 Adobe I/O Events 설치](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}에서 추가 설명서를 찾았습니다.
 
 ## 이 비디오는 누구의 것입니까?
 
-* 개발자는 I/O 이벤트를 사용하여 Adobe Commerce 및 Adobe Developer App Builder을 처음 사용하므로 Adobe App Builder 프로젝트를 만들어야 합니다.
+* I/O 이벤트를 사용하여 Adobe Commerce 및 Adobe Developer App Builder을 처음 사용하는 개발자로서 Adobe App Builder 프로젝트를 만들어야 합니다.
 
 ## 비디오 콘텐츠 {#video-content}
 
-* Commerce 관리자의 Adobe I/O 이벤트 구성
+* Commerce 관리자의 Adobe I/O Events 구성
 * Commerce 관리자에 개인 키 저장
 * Commerce 관리자에 고유 식별자 저장
 * 이벤트 공급자 만들기
@@ -59,4 +55,5 @@ bin/magento events:subscribe observer.catalog_product_save_after --fields=name -
 ```
 
 {{$include /help/_includes/io-events-related-links.md}}
+
 
