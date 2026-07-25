@@ -33,4 +33,4 @@ ht-degree: 0%
 * 4개의 필수 토큰을 생성하려면 통합을 활성화합니다.
 * 소스가 Adobe Commerce as a Cloud Service(PaaS)인 경우 account.magento.cloud에서 Magento CLI 토큰을 검색합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496142?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496147?captions=kor&learn=on)
