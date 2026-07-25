@@ -33,4 +33,4 @@ ht-degree: 0%
 * Magento Cloud CLI 터널 명령을 사용하여 호스트, 사용자, 암호, 포트 및 데이터베이스 값을 가져옵니다.
 * 소스가 온-프레미스에 있는 경우 도구를 실행하기 전에 호스트 및 포트 연결을 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496152?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496162?captions=kor&learn=on)

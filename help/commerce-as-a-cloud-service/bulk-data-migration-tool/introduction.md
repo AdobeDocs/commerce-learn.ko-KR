@@ -33,4 +33,4 @@ ht-degree: 0%
 * 도구 패키지를 추출하고 올바른 폴더 권한을 설정합니다.
 * 이 시리즈의 다음 비디오에 구성된 `.env.example` 파일을 검토하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496121?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496127?captions=kor&learn=on)
