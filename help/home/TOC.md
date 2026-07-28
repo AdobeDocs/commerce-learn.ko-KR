@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 838387ffddbd8bee3ef3ec22694818eb2de5fe2d
+source-git-commit: c3b81a5ffc652bc7ce7640b67fe5529067607251
 workflow-type: tm+mt
-source-wordcount: '972'
+source-wordcount: '975'
 ht-degree: 3%
 
 ---
@@ -71,6 +71,7 @@ ht-degree: 3%
       + [DB 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
       + [Target 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
       + [단일 단계 마이그레이션](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
+      + [다단계 마이그레이션](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
   + Adobe Commerce으로 마이그레이션{#migrating-to-adobe-commerce}
     + [개요](../migrating-to-adobe-commerce/overview.md)
     + 준비{#preparation}
