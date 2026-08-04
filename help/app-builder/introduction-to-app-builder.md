@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## Adobe Commerce용 App Builder {#app-builder}
 
->[!VIDEO](https://video.tv.adobe.com/v/3412839?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432205?captions=kor&learn=on)
 
 Adobe Developer App Builder은 Adobe 솔루션을 확장하기 위해 사용자 정의 경험을 통합하고 만들기 위한 서버리스 확장성 플랫폼이며 이제 Adobe Commerce에서 사용할 수 있습니다. App Builder을 사용하면 Commerce 기본 기능을 확장하고 서드파티 솔루션과 통합하는 안전하고 확장 가능한 앱을 구축할 수 있습니다. 이제 개발자로서 Adobe Commerce을 통해 프로세스 외부 확장성을 활용할 수 있으며, 이를 통해 즉각적이고 장기적인 이점을 제공합니다.
 
