@@ -3,34 +3,20 @@ title: 헤드리스 아키텍처 세션 1
 description: 헤드리스 아키텍처, 구성 가능한 상거래 및 Adobe Commerce의 개인화된 경험에 대해 알아보고 분리된 상점의 이점을 살펴보십시오.
 jira: KT-13144
 doc-type: Value Video
-duration: 1952
-last-substantial-update: 2023-04-25T00:00:00.000Z
+duration: 1951
+last-substantial-update: 2023-04-25
 feature: GraphQL, REST
 topic: Commerce, Architecture, Headless
-role: Developer, User
-level: Beginner, Intermediate
+role: Admin, Developer
+level: Beginner
 exl-id: b6998fe9-dc74-4b43-8e13-b3e63e0e8312
 TQID: https://experienceleague.adobe.com/f-pR5V-DQaw-dn5KrcD1jrtb5kZq2EHKNgsnHwdzUaE
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
-  - id: c32adafa-ed01-4b31-997e-2413013911b0
-  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 58b3a0c27f74abac23412518e4a5747bbe4cf240
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: c32adafa-ed01-4b31-997e-2413013911b0id: d1e21356-0064-4f48-9089-16e3f0dbd2a6id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 1306693fd0e2277c671adb2d609de2533a2a13ae
 workflow-type: tm+mt
 source-wordcount: 141
 ht-degree: 0%
@@ -39,7 +25,7 @@ ht-degree: 0%
 
 # Adobe Commerce 헤드리스 아키텍처
 
-Adobe Commerce의 역사와 Headless를 완전히 지원하기 위해 어떻게 진행되고 있는지에 대한 높은 수준의 개요입니다. Headless 아키텍처의 이점에는 터치 포인트 간 패리티, 개발 활동 분리, 향상된 확장성 및 추가 이점이 포함됩니다.
+Adobe Commerce의 역사와 Headless를 완전히 지원하기 위해 플랫폼이 어떻게 진화했는지에 대한 높은 수준의 개요입니다. Headless 아키텍처의 이점에는 터치 포인트 간 패리티, 개발 활동 분리, 향상된 확장성 및 추가 이점이 포함됩니다.
 
 ## 배울 내용
 
