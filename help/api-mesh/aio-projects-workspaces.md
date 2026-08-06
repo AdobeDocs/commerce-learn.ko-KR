@@ -4,13 +4,13 @@ description: 메쉬 추가, CLI를 통한 로그인, 조직 전환 등 Adobe Dev
 jira: KT-11803
 doc-type: Tutorial
 duration: 572
-last-substantial-update: 2023-02-08T00:00:00Z
+last-substantial-update: 2026-08-03T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
 level: Beginner
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: c73744d503de5023e5c001d0534200522db55b04
+source-git-commit: 8155d699c1dd34cba776ffb928ab2d835b5a4d4b
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## Adobe Developer Console에 대해 알아보기
 
-Adobe Developer Console에서 `Organization > Project > Workspace > [API]` 계층은 조직 내에서 API가 구성되는 방식을 나타냅니다. Adobe App Builder, 콘솔에 로그인 및 기본 문제 해결에 대한 자세한 내용을 보려면 [첫 번째 App Builder 애플리케이션 만들기](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}를 참조하세요.
+Adobe Developer Console에서 `Organization > Project > Workspace > [API]` 계층은 조직 내에서 API를 구성하는 방법을 설명합니다. Adobe App Builder, 콘솔에 로그인 및 기본 문제 해결에 대한 자세한 내용을 보려면 [첫 번째 App Builder 애플리케이션 만들기](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}를 참조하세요.
 
 ## Adobe Developer Console에서 프로젝트 소개
 
