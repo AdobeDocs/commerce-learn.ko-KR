@@ -49,7 +49,7 @@ B2B 판매자의 경우 _[!UICONTROL Companies]_&#x200B;페이지에 현재 회�
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/344447?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410774?captions=kor&learn=on)
 
 ## 추가 리소스
 

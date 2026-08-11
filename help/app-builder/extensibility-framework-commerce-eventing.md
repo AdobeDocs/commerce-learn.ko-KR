@@ -40,6 +40,6 @@ ht-degree: 0%
 
 ## Adobe Commerce용 App Builder {#app-builder-extensibility}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413328?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447485?captions=kor&learn=on)
 
 {{$include /help/_includes/app-builder-related-links.md}}

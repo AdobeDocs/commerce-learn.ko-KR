@@ -46,4 +46,4 @@ Adobe Exchange을 사용하여 Adobe Commerce App Builder 앱을 찾고, 설치�
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3471513?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471531?captions=kor&learn=on)

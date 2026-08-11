@@ -50,7 +50,7 @@ Adobe Commerce용 B2B는 다양한 회사에 대한 사용자 지정 가격으�
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/344446?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410756?captions=kor&learn=on)
 
 ## 추가 리소스
 
