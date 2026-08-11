@@ -11,21 +11,13 @@ role: User
 level: Beginner
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
 TQID: https://experienceleague.adobe.com/XJ1zsz-XBkOoy6C3lWC-hRiXPX4Q3fe4AvMptfwhC0E
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-  - id: c32adafa-ed01-4b31-997e-2413013911b0
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157id: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+autotag-review: '2026-08-11T19:20:33.858Z'
+source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
 workflow-type: tm+mt
 source-wordcount: 141
 ht-degree: 0%
@@ -34,7 +26,7 @@ ht-degree: 0%
 
 # 회사 크레딧 관리
 
-_[!UICONTROL Payment on Account]_&#x200B;을(를) 사용하도록 설정하고 회사 크레딧을 사용할 수 있는 회사는 부여된 크레딧 한도까지 계정에서 구매할 수 있습니다. 이 기능을 사용하면 고객은 계정 대시보드에서 회사 크레딧 상태를 확인할 수 있습니다.
+_[!UICONTROL Payment on Account]_을(를) 사용하도록 설정하고 회사 크레딧을 사용할 수 있는 회사는 부여된 크레딧 한도까지 계정에서 구매할 수 있습니다. 이 기능을 사용하면 고객은 계정 대시보드에서 회사 크레딧 상태를 확인할 수 있습니다.
 
 각 회사 프로파일에 대해 다음과 같은 신용 관련 매개변수를 설정할 수 있습니다.
 
@@ -53,9 +45,9 @@ _[!UICONTROL Payment on Account]_&#x200B;을(를) 사용하도록 설정하고 �
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3410762?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
 
 ## 추가 리소스
 
-* [계정에서 결제 구성](https://experienceleague.adobe.com/ko/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [회사 크레딧 관리](https://experienceleague.adobe.com/ko/docs/commerce-admin/b2b/companies/credit-company)
+* [계정에서 결제 구성](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [회사 크레딧 관리](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)
