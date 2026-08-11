@@ -58,5 +58,5 @@ _[!UICONTROL Payment on Account]_&#x200B;을(를) 사용하도록 설정하고 �
 
 ## 추가 리소스
 
-* [계정에서 결제 구성](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [회사 크레딧 관리](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)
+* [계정에서 결제 구성](https://experienceleague.adobe.com/ko/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [회사 크레딧 관리](https://experienceleague.adobe.com/ko/docs/commerce-admin/b2b/companies/credit-company)

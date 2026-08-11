@@ -53,5 +53,5 @@ B2B 판매자의 경우 _[!UICONTROL Companies]_&#x200B;페이지에 현재 회�
 
 ## 추가 리소스
 
-* [회사 계정](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
-* [회사 계정 관리](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}
+* [회사 계정](https://experienceleague.adobe.com/ko/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
+* [회사 계정 관리](https://experienceleague.adobe.com/ko/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}

@@ -54,5 +54,5 @@ Adobe Commerce용 B2B는 다양한 회사에 대한 사용자 지정 가격으�
 
 ## 추가 리소스
 
-* [공유 카탈로그 작업](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
-* [공유 카탈로그 만들기](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}
+* [공유 카탈로그 작업](https://experienceleague.adobe.com/ko/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
+* [공유 카탈로그 만들기](https://experienceleague.adobe.com/ko/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}
