@@ -3,7 +3,9 @@ title: Adobe Commerce 제품 추천 데모 - 기능 비디오
 description: 가격 범위 및 품절 제외 규칙을 포함하여 Adobe Sensei 제품 권장 사항을 Adobe Commerce 제품 세부 사항 페이지에 추가하는 방법을 알아봅니다.
 feature: Recommendations
 topic: Commerce
-role: AdminUser
+role:
+  - Admin
+  - User
 level: Beginner
 doc-type: Feature Video
 duration: 235
