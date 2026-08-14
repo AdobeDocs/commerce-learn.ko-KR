@@ -4,7 +4,7 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: c3b81a5ffc652bc7ce7640b67fe5529067607251
+source-git-commit: ac5024c37b1cee5aa090ea8163c3fd7758b811a5
 workflow-type: tm+mt
 source-wordcount: '975'
 ht-degree: 3%
