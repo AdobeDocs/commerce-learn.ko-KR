@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 350
 last-substantial-update: 2026-08-28T00:00:00Z
 jira: KT-22478
-source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
+source-git-commit: 92af5355fa31c1ce9e627679b0a1bb92cce0e1d8
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,7 @@ ht-degree: 0%
 
 {{$include /help/_includes/commerce-developer-agent-related-links.md}}
 
-<!-- ## Additional resources -->
+## 추가 리소스
 
-<!-- Link to related Experience League or Adobe Developer documentation. -->
+* [Commerce 개발자 에이전트 개요](https://developer.adobe.com/commerce/extensibility/developer-agent/)
+* [Commerce 개발자 에이전트를 사용한 마이그레이션 평가 개발](https://developer.adobe.com/commerce/extensibility/developer-agent/assessment-development)
