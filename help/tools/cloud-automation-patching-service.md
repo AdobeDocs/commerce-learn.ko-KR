@@ -43,7 +43,7 @@ Adobe Commerce 패치 자동화 기능은 Adobe Commerce SWAT(Site Wide Analysis
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3476247?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476254?captions=kor&learn=on)
 
 ## 관련 설명서
 
