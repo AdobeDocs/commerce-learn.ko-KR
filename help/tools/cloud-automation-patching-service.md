@@ -47,4 +47,4 @@ Adobe Commerce 패치 자동화 기능은 Adobe Commerce SWAT(Site Wide Analysis
 
 ## 관련 설명서
 
-* [패치 자동화 설명서](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)
+* [패치 자동화 설명서](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/caps-tool/intro)
