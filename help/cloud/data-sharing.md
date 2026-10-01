@@ -67,4 +67,4 @@ Adobe Experience Cloud 제품과 원활하게 통합하여 실시간 고객 프�
 * 고객 참여 및 충성도 향상
 * 원활한 통합 및 통합 고객 관점
 
->[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433576?captions=kor&learn=on)
