@@ -3,11 +3,9 @@ title: IO 이벤트 관련 페이지
 description: IO 이벤트의 관련 페이지 링크
 source-git-commit: bc425e44acbd8cf726a7f947065cc59daa785b62
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '63'
 ht-degree: 0%
-
 ---
-
 # IO 이벤트 관련 링크
 
 ## 추가 관련 자습서
@@ -22,4 +20,4 @@ ht-degree: 0%
 
 ## Adobe Developer 설명서
 
-* [Adobe Commerce 개요에 대한 Adobe I/O 이벤트](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
+* [Adobe I/O Events for Adobe Commerce 개요](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
