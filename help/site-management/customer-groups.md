@@ -56,4 +56,4 @@ Adobe Commerce의 고객 그룹을 사용하면 타깃팅된 판촉 행사 및 �
 
 ## 추가 리소스
 
-* [고객 그룹 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/en/docs/commerce-admin/customers/customer-groups)
+* [고객 그룹 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/ko/docs/commerce-admin/customers/customer-groups)
