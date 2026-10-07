@@ -52,7 +52,7 @@ Adobe Commerce의 고객 그룹을 사용하면 타깃팅된 판촉 행사 및 �
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3473262?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473329?captions=kor&learn=on)
 
 ## 추가 리소스
 
