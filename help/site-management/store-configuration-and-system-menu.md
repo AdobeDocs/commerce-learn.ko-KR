@@ -35,7 +35,7 @@ ht-degree: 0%
 * 기본 뷰와 저장된 뷰 사이를 전환하고 기존 뷰를 업데이트합니다.
 * 저장소 구성으로 이동하여 일반, 카탈로그, 보안, 고객 및 판매 설정을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473178?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
 
 ## 저장된 격자 보기
 
@@ -49,6 +49,6 @@ ht-degree: 0%
 
 * [관리 그리드 필터](admin-grids-and-filters.md)
 * [명령줄을 사용하여 관리자 구성 보기 및 설정](view-update-store-configuration-cli.md)
-* [관리 도구 및 작업 공간](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/admin/tools/admin-workspace)
-* [관리 그리드 컨트롤](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/admin/tools/admin-grid-controls)
-* [사이트, 스토어 및 보기 범위](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/setup/websites-stores-views)
+* [관리 도구 및 작업 공간](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-workspace)
+* [관리 그리드 컨트롤](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-grid-controls)
+* [사이트, 스토어 및 보기 범위](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
