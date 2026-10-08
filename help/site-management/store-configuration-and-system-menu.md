@@ -35,7 +35,7 @@ ht-degree: 0%
 * 기본 뷰와 저장된 뷰 사이를 전환하고 기존 뷰를 업데이트합니다.
 * 저장소 구성으로 이동하여 일반, 카탈로그, 보안, 고객 및 판매 설정을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473178?captions=kor&learn=on)
 
 ## 저장된 격자 보기
 
