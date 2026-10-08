@@ -4,13 +4,11 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
+source-git-commit: 43c67e910e10d5db0f8c14ea24ba97ba89bd35d2
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '1006'
 ht-degree: 3%
-
 ---
-
 
 # Adobe Commerce 비디오 및 자습서 {#tutorials}
 
@@ -238,6 +236,7 @@ ht-degree: 3%
   + [배송 및 배송 방법](../site-management/shipping-delivery.md)
   + [관리 그리드 및 필터](../site-management/admin-grids-and-filters.md)
   + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
+  + [저장소 구성 및 시스템 메뉴 탐색](../site-management/store-configuration-and-system-menu.md)
   + Adobe Commerce 서비스 {#adobe-commerce-services}
     + [Commerce 서비스 커넥터 구성](../site-management/configure-adobe-commerce-services-connector.md)
     + [결제 서비스 구성](../site-management/configure-adobe-payment-services.md)
