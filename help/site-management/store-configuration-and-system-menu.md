@@ -49,6 +49,6 @@ ht-degree: 0%
 
 * [관리 그리드 필터](admin-grids-and-filters.md)
 * [명령줄을 사용하여 관리자 구성 보기 및 설정](view-update-store-configuration-cli.md)
-* [관리 도구 및 작업 공간](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-workspace)
-* [관리 그리드 컨트롤](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-grid-controls)
-* [사이트, 스토어 및 보기 범위](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
+* [관리 도구 및 작업 공간](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/admin/tools/admin-workspace)
+* [관리 그리드 컨트롤](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/admin/tools/admin-grid-controls)
+* [사이트, 스토어 및 보기 범위](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/setup/websites-stores-views)
