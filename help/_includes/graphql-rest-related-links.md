@@ -5,9 +5,7 @@ source-git-commit: a285852b7960d93687388e09ad901bb9a1ee675a
 workflow-type: tm+mt
 source-wordcount: '25'
 ht-degree: 4%
-
 ---
-
 # GraphQL REST 관련 링크
 
 ## 유용한 GraphQL 리소스
