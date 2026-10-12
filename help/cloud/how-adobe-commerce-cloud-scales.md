@@ -47,6 +47,6 @@ ht-degree: 0%
 
 ## 관련 설명서
 
-* [Commerce on Cloud — 프로젝트 개요](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
-* [성능 테스트 지침](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/guidance)
+* [Commerce on Cloud — 프로젝트 개요](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/project/overview)
+* [성능 테스트 지침](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/develop/test/guidance)
 * [사전 실행 검사 목록](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud/best-practices/pre-launch-checklist)

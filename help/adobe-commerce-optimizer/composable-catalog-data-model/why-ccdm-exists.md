@@ -65,15 +65,15 @@ Adobe Commerce Optimizer에서 제품 데이터는 하나 이상의 **카탈로�
 
 ## 상점 렌즈로서의 카탈로그 뷰
 
-[머천다이징 서비스에 대한 카탈로그 보기](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}에 설명된 대로 카탈로그 보기는 **렌즈**&#x200B;처럼 동작합니다. 쇼핑객은 보기가 허용하는 제품, 가격 및 규칙만 볼 수 있고 **기본 카탈로그**&#x200B;는 공유 기록 시스템으로 유지됩니다. 이 모델은 **머천다이징 서비스**&#x200B;와 직접 연결되어 API 클라이언트가 올바른 보기(및 관련 헤더)를 전달하고 각 경험에 대해 일관된 정책 기반 응답을 받게 됩니다.
+[머천다이징 서비스에 대한 카탈로그 보기](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/setup/catalog-view){target="_blank"}에 설명된 대로 카탈로그 보기는 **렌즈**&#x200B;처럼 동작합니다. 쇼핑객은 보기가 허용하는 제품, 가격 및 규칙만 볼 수 있고 **기본 카탈로그**&#x200B;는 공유 기록 시스템으로 유지됩니다. 이 모델은 **머천다이징 서비스**&#x200B;와 직접 연결되어 API 클라이언트가 올바른 보기(및 관련 헤더)를 전달하고 각 경험에 대해 일관된 정책 기반 응답을 받게 됩니다.
 
 이러한 조각이 전체 흐름에 어떻게 적합한지에 대한 자세한 설명은 개발자 연습 [상점용 합성 가능한 카탈로그 만들기](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}를 참조하십시오.
 
 ## 관련 컨텐츠
 
 * [카탈로그 보기에 대해 알아보기](./learn-about-the-ccdm-feature-catalog-views.md)
-* [머천다이징 서비스에 대한 카탈로그 보기](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [머천다이징 서비스에 대한 카탈로그 보기](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [상점용 합성 가능 카탈로그 만들기](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
 * [머천다이징 API 시작하기](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
 
