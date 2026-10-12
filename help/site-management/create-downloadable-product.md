@@ -1,6 +1,6 @@
 ---
-title: Create a downloadable product
-description: Learn how to create a downloadable product using the REST API and the Adobe Commerce Admin.
+title: 다운로드 가능한 제품 만들기
+description: REST API 및 Adobe Commerce 관리자를 사용하여 다운로드 가능한 제품을 만드는 방법을 알아봅니다.
 kt: 14464
 doc-type: video
 duration: 946
@@ -12,44 +12,63 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
-TQID: https://experienceleague.adobe.com/YHtAD-NRQmIG58myhZk9X7-jJjwlk8S4NX9jYnZwnQc
+TQID: 'https://experienceleague.adobe.com/YHtAD-NRQmIG58myhZk9X7-jJjwlk8S4NX9jYnZwnQc'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Security
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 631
-ht-degree: 0%
-
+source-wordcount: '664'
+ht-degree: 4%
 ---
+# 다운로드 가능한 제품 만들기
 
-# Create a downloadable product
-
-Learn how to create a downloadable product using the REST API and the Adobe Commerce Admin.
+REST API 및 Adobe Commerce 관리자를 사용하여 다운로드 가능한 제품을 만드는 방법을 알아봅니다.
 
 ## 이 비디오는 누구의 것입니까?
 
 * 웹 사이트 관리자
 * 전자 상거래 머천다이저
-* New Adobe Commerce developers who want to learn how to create products in Adobe Commerce using the REST API
+* REST API를 사용하여 Adobe Commerce에서 제품을 만드는 방법을 배우고자 하는 새로운 Adobe Commerce 개발자
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3453951?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
 
-## Allowed downloadable domains
+## 허용된 다운로드 가능한 도메인
 
-You must specify which domains are permitted to allow downloads. Domains are added to the project&#39;s `env.php` file via the command line. The `env.php` file details the domains allowed to contain downloadable content. An error occurs if a downloadable product is created using the REST API _before_  the `php.env` file is updated:
+다운로드를 허용할 도메인을 지정해야 합니다. 도메인이 명령줄을 통해 프로젝트의 `env.php` 파일에 추가됩니다. `env.php` 파일은 다운로드 가능한 콘텐츠를 포함할 수 있는 도메인에 대해 자세히 설명합니다. REST API를 사용하여 다운로드 가능한 제품을 만든 경우 _이전_ `php.env` 파일이 업데이트되면 오류가 발생합니다.
 
 ```bash
 {
@@ -57,9 +76,9 @@ You must specify which domains are permitted to allow downloads. Domains are add
 }
 ```
 
-To set the domain, connect to the server: `bin/magento downloadable:domains:add www.example.com`
+도메인을 설정하려면 `bin/magento downloadable:domains:add www.example.com` 서버에 연결하십시오.
 
-Once that is complete, the `env.php` is modified inside the _downloadable_ domains_ array.
+완료되면 _downloadable_ domains_ 배열 내에서 `env.php`이(가) 수정됩니다.
 
 ```php
     'downloadable_domains' => [
@@ -67,22 +86,22 @@ Once that is complete, the `env.php` is modified inside the _downloadable_ domai
     ],
 ```
 
-Now that the domain is added to the `env.php`, you can create a downloadable product in the Adobe Commerce Admin or by using the REST API.
+도메인이 `env.php`에 추가되었으므로 이제 Adobe Commerce 관리자 또는 REST API를 사용하여 다운로드 가능한 제품을 만들 수 있습니다.
 
-See [Configuration Reference](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=ko#downloadable_domains) to learn more.
+자세한 내용은 [구성 참조](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains)를 참조하세요.
 
 >[!IMPORTANT]
->On some versions of Adobe Commerce, you might get the following error when a product is edited in the Adobe Commerce Admin. The product is created using the REST API but the linked download has a `null` price.
+>일부 Adobe Commerce 버전에서는 Adobe Commerce 관리에서 제품을 편집할 때 다음 오류가 발생할 수 있습니다. REST API를 사용하여 제품이 만들어졌지만 연결된 다운로드의 가격은 `null`입니다.
 
 `Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`.
 
-To fix this error, use the update link API: `POST V1/products/{sku}/downloadable-links.`
+이 오류를 해결하려면 업데이트 링크 API를 사용하십시오. `POST V1/products/{sku}/downloadable-links.`
 
-See the [Update a product download link using cURL](#update-downloadable-links) section for more info.
+자세한 내용은 [cURL을 사용하여 제품 다운로드 링크 업데이트](#update-downloadable-links) 섹션을 참조하십시오.
 
-## Create a downloadable product using cURL (download from remote server)
+## cURL을 사용하여 다운로드 가능한 제품 만들기(원격 서버에서 다운로드)
 
-This example shows how to create a downloadable product using cURL when the file to download is not on the same server. 이 사용 사례는 파일이 S3 버킷 또는 기타 디지털 에셋 관리자에 저장된 경우에 일반적입니다.
+이 예에서는 다운로드할 파일이 동일한 서버에 없는 경우 cURL을 사용하여 다운로드 가능한 제품을 만드는 방법을 보여 줍니다. 이 사용 사례는 파일이 S3 버킷 또는 기타 디지털 에셋 관리자에 저장된 경우에 일반적입니다.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -251,7 +270,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## 추가 리소스
 
-* [다운로드 가능한 제품 유형](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=ko){target="_blank"}
-* [다운로드 가능한 도메인 구성 안내서](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=ko#downloadable_domains){target="_blank"}
+* [다운로드 가능한 제품 유형](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
+* [다운로드 가능한 도메인 구성 안내서](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
 * [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

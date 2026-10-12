@@ -10,24 +10,36 @@ duration: 133
 last-substantial-update: 2025-04-29T00:00:00.000Z
 jira: KT-17904
 exl-id: 29e2a11b-1bbe-4975-a5c1-d86355e858a0
-TQID: https://experienceleague.adobe.com/BJ-tD-V23BCBSzyEcjDryOsdeskr0LwjYzPCHx5ercU
+TQID: 'https://experienceleague.adobe.com/BJ-tD-V23BCBSzyEcjDryOsdeskr0LwjYzPCHx5ercU'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 938d2364-5176-55ec-80f1-9415253e5e51
+    internal-label: Site Management
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: a59f76dc-e003-5617-951e-dffa5bd3de81
+    internal-label: Support
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 125
+source-wordcount: '125'
 ht-degree: 0%
-
 ---
-
 # Success Accelerator 조직 준비
 
 Adobe의 조직 준비 성공 가속기에 대해 알아봅니다. 몇 가지 예에는 비즈니스 전략에 맞게 운영을 조정하기 위한 전략 주기 계획 및 로드맵 개발, Adobe 솔루션을 채택하기 위한 워크플로우 및 운영 모델 최적화가 포함되어 있습니다. 또한 디지털 전환을 위한 변화 관리 및 커뮤니케이션 전략, 산업 표준에 맞게 디지털 경험을 평가하고 개선하기 위한 디지털 검토 및 벤치마킹이 있다.

@@ -4,16 +4,23 @@ description: Adobe Commerce의 아젠틱 개발이 분석, 디자인, 코드 생
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00Z
+last-substantial-update: 2026-06-11T00:00:00.000Z
 jira: KT-21575
 duration: 225
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
-
 ---
-
 # 무생식 발달
 
 [!BADGE 준비 중]{type=Informative tooltip="이 기능은 곧 제공될 예정이며 변경될 수 있습니다."}
@@ -34,7 +41,7 @@ ht-degree: 0%
 * 전체 시스템 보기에서 동시 유효성 검사 및 최적화
 * 핸드오프 또는 컨텍스트 손실이 없는 연속 배포 플로우
 
->[!VIDEO](https://video.tv.adobe.com/v/3492292?captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3492284)
 
 <!-- ## Additional resources -->
 

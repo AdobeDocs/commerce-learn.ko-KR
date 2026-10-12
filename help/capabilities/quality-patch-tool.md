@@ -10,31 +10,52 @@ duration: 903
 last-substantial-update: 2024-07-17T00:00:00.000Z
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
-TQID: https://experienceleague.adobe.com/GpcJqSCn3XqLZtm-QdQ-ka9c-RdkG-C6Hd3FpXrh8-I
+TQID: 'https://experienceleague.adobe.com/GpcJqSCn3XqLZtm-QdQ-ka9c-RdkG-C6Hd3FpXrh8-I'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
   - id: f42e0a1a-0d79-488d-a83f-f2c30672b137
+    internal-label: Reporting
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: 3c398179-d35a-51ba-b317-6c5b95feef5e
+    internal-label: Logs
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Security
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 593
+source-wordcount: '592'
 ht-degree: 0%
-
 ---
-
 # 품질 패치 도구
 
 문제 진단, 솔루션 찾기 및 사용 가능한 기존 패치 목록에 있는 패치 적용 시 품질 패치 도구를 사용하는 방법에 대해 알아봅니다.
@@ -57,7 +78,7 @@ ht-degree: 0%
 
 이러한 패치는 안정성과 성능을 향상시키기 위해 Adobe 개발자 및 Magento Open Source 커뮤니티에서 개발되었습니다. 향후 업그레이드를 복잡하게 만들 수 있으므로 많은 수의 패치를 적용하는 것은 권장되지 않습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454076?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
 ## 품질 패치 도구를 사용하는 이유
 
@@ -89,8 +110,8 @@ Quality Patches Tool을 사용하면 전자 상거래 플랫폼에서 패치를 
 
 ## 관련 문서 및 비디오
 
-* [품질 패치 도구 검색](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=ko)
-* [릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [품질 패치 도구 검색](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [릴리스 정보](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [패치용 Github](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [품질 패치 도구 사용](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [QPT에 대한 기술 비디오](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [품질 패치 도구 사용](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [QPT에 대한 기술 비디오](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)

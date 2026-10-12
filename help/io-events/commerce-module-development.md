@@ -4,30 +4,43 @@ description: 이벤트를 사용할 Commerce 모듈을 만드는 방법을 알�
 jira: KT-11891
 doc-type: Tutorial
 duration: 314
-last-substantial-update: 2023-02-21
+last-substantial-update: 2023-02-21T00:00:00.000Z
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
 role: Developer
 level: Beginner, Intermediate
 exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
-TQID: https://experienceleague.adobe.com/bRnOh6fnsyTY-21f81vIXV4-eeitLXQWsAbjg2rx-Is
+TQID: 'https://experienceleague.adobe.com/bRnOh6fnsyTY-21f81vIXV4-eeitLXQWsAbjg2rx-Is'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: 5594f40c-5dc7-522f-a0e0-f84045197b3c
+    internal-label: Eventing
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
+subfeature_v2:
+  - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
+    internal-label: App Builder
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 140
+source-wordcount: '140'
 ht-degree: 0%
-
 ---
-
 # Adobe Commerce 모듈 개발
 
 사용자 지정 모듈 개발에서 이벤트를 등록하고, 지원되는 이벤트를 찾고, 새 XML 파일 `io_events.xml`을(를) 사용하는 방법에 대해 알아봅니다. 이 비디오에서는 개발자에게 사용할 등록된 이벤트를 찾는 방법과 이미 정의된 이벤트를 제거하는 방법도 보여 줍니다. [Adobe Commerce용 Adobe I/O Events 설치](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}에서 추가 설명서를 찾았습니다.
@@ -44,7 +57,7 @@ ht-degree: 0%
 * Commerce 인스턴스 `app/etc/config.php`에서 이벤트를 등록하는 방법 알아보기
 * 이벤트에서 구독을 취소하는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3419838?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415802?learn=on)
 
 ## 유용한 명령 {#useful-commands}
 

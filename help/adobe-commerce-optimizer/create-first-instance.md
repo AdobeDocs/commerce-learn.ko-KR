@@ -7,25 +7,34 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 131
-last-substantial-update: 2025-07-25
+last-substantial-update: 2025-07-25T00:00:00.000Z
 jira: KT-18610
 exl-id: 7136b0d6-a29f-42f4-8363-5bd4a2d828fc
-TQID: https://experienceleague.adobe.com/XER1wNXU6pfVCN2pI8YWTMMsh54HimErWEzJAghTgpk
+autotag-review: '2026-08-11T18:59:19.947Z'
+TQID: 'https://experienceleague.adobe.com/XER1wNXU6pfVCN2pI8YWTMMsh54HimErWEzJAghTgpk'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-08-11T18:59:19.947Z'
-source-git-commit: 76e28693d4eab037353c2b2ae68c2a206dc28b37
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: '173'
 ht-degree: 0%
-
 ---
-
 # Adobe Commerce Optimizer의 첫 번째 인스턴스 만들기
 
 처음부터 끝까지 첫 번째 Adobe Commerce Optimizer 인스턴스를 만드는 방법을 알아봅니다. 포함된 몇 가지 주제에는 조직 및 권한 확인, 사용 가능한 크레딧 확인, 올바른 인스턴스 유형 및 환경 선택 등이 있습니다. 이 초보자용 연습은 원활한 경험을 보장하기 위한 명확한 단계와 유용한 팁을 사용하여 빠르게 시작하고 실행하는 데 도움이 되도록 설계되었습니다.
@@ -42,10 +51,10 @@ ht-degree: 0%
 * 인스턴스에 적합한 환경과 지역을 선택합니다.
 * 향후 튜토리얼에서 카탈로그 설정을 신속하게 배포하고 준비하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469885?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on)
 
 ## 관련 컨텐츠
 
-* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/ko/docs/commerce-learn/adobe-commerce-optimizer/overview){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/overview){target="_blank"}
 

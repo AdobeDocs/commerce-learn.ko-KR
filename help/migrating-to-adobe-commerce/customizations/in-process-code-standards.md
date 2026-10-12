@@ -11,26 +11,35 @@ duration: 352
 last-substantial-update: 2024-10-02T00:00:00.000Z
 jira: KT-15994
 exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
-TQID: https://experienceleague.adobe.com/Lw-nsZI59iSM1yOjOP5L8FK-yEEsJ1QE25pnbYjAGNs
+TQID: 'https://experienceleague.adobe.com/Lw-nsZI59iSM1yOjOP5L8FK-yEEsJ1QE25pnbYjAGNs'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Insights
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 130
+source-wordcount: '130'
 ht-degree: 0%
-
 ---
-
 # Adobe Commerce으로 마이그레이션 - In-Process 코딩 표준
 
 {{only-for-on-prem-commerce-cloud}}
@@ -47,4 +56,4 @@ PHP, JavaScript 및 사용자 지정에 대한 몇 가지 필수 코딩 표준�
 * 원활한 마이그레이션을 보장하기 위한 PHP, JavaScript 및 사용자 지정에 대한 모범 사례에 대해 알아봅니다.
 * 성공적인 Adobe Commerce 프로젝트를 위한 준비, 성능 및 보안에 대해 Adobe 전문가로부터 통찰력을 얻으십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434864?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on)

@@ -11,25 +11,33 @@ duration: 302
 last-substantial-update: 2025-3-25
 jira: KT-17595
 exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
-TQID: https://experienceleague.adobe.com/A-ecz3Yr1lCNQZmM9ung-lf7WIJZmB3h0TnsblyAbkQ
+TQID: 'https://experienceleague.adobe.com/A-ecz3Yr1lCNQZmM9ung-lf7WIJZmB3h0TnsblyAbkQ'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 938d2364-5176-55ec-80f1-9415253e5e51
+    internal-label: Site Management
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Troubleshooting
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 200
+source-wordcount: '200'
 ht-degree: 0%
-
 ---
-
 # 로그 자르기
 
 전체 하드 드라이브로 인해 실패한 배포 및 등급을 지정하는 방법에 대해 알아봅니다. Adobe Commerce Cloud 환경에서 공간을 확보하기 위해 실행할 수 있는 명령과 검색 방법을 알아봅니다.
@@ -47,7 +55,7 @@ ht-degree: 0%
 * 일반적인 대용량 로그 파일이 있는 경우
 * 로그 파일을 자르는 빠른 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3454590?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## 비디오에 사용된 명령
@@ -103,4 +111,4 @@ drwxr-xr-x 6 web web 4.0K Jan 10  2024 ..
 
 ## 관련 설명서
 
-* [상태 알림](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [상태 알림](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

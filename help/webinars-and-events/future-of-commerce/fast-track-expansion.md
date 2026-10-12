@@ -10,26 +10,35 @@ duration: 887
 last-substantial-update: 2025-05-16T00:00:00.000Z
 jira: KT-18122
 exl-id: 4cca6730-1e55-47ab-9b86-ae23d59f4b7f
-TQID: https://experienceleague.adobe.com/VUdDVdkqp8eUyZrF7YUD0loCnKd8jDlvjHsR2x2lY1Q
+TQID: 'https://experienceleague.adobe.com/VUdDVdkqp8eUyZrF7YUD0loCnKd8jDlvjHsR2x2lY1Q'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b23e006f-0a29-4f1d-8fd0-77aa56f3d12b
+    internal-label: Data modeling
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Customer experience
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 178
+source-wordcount: '178'
 ht-degree: 0%
-
 ---
-
 # 빠른 경로 확장
 
 Adobe Commerce이 카탈로그 관리, B2B 상거래 및 다중 채널 확장성의 강력한 새로운 기능으로 디지털 확장을 빠르게 추적할 수 있도록 비즈니스를 촉진하는 방법에 대해 알아봅니다. 이 세션에서는 최대 2억 5,000만 SKU를 지원하는 유연한 데이터 모델링, 지역 간 동적 가격 책정, 퍼스트 파티 및 타사 분류의 원활한 통합을 강조합니다. Adobe Commerce은 상위-하위 계정 구조, 견적 템플릿 및 상점 컨텍스트 전환과 같은 향상된 B2B 기능을 통해 더 빠른 시장 진출 전략과 개인화된 고객 경험을 제공하는 동시에 운영 복잡성과 비용을 줄일 수 있습니다.

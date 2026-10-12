@@ -1,32 +1,47 @@
 ---
 title: GraphQL 소개
-description: Adobe Commerce 및  [!DNL Magento Open Source]에서 GraphQL을 사용하는 방법을 알아봅니다. Adobe Commerce 및  [!DNL Magento Open Source]에 대해 GraphQL GET 및 POST 호출을 사용합니다.
-short-description: Adobe Commerce 및 [!DNL Magento Open Source]에 대한 GraphQL GET 및 POST 호출을 사용하는 방법을 알아봅니다.
+description: Adobe Commerce 및 [!DNL Magento Open Source]에서 GraphQL을 사용하는 방법에 대해 알아봅니다. Adobe Commerce 및 [!DNL Magento Open Source]에 GraphQL GET 및 POST 호출을 사용합니다.
+short-description: Adobe Commerce 및 [!DNL Magento Open Source]에 GraphQL GET 및 POST 호출을 사용하는 방법을 알아봅니다.
 kt: 11524
 doc-type: video
 duration: 286
 audience: all
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00.000Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
+subfeature_v2:
+  - id: e396cff5-f586-484c-89f0-7f1da3308f92
+    internal-label: GraphQL
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: '481'
-ht-degree: 0%
-
+source-wordcount: '514'
+ht-degree: 6%
 ---
-
 # GraphQL 소개
 
 GraphQL 및 Adobe Commerce에 대한 시리즈 중 1부입니다. GraphQL은 클라이언트측 애플리케이션이 백엔드와 통신하는 강력한 방법에 대한 업계 표준으로 빠르게 자리매김했습니다. 플랫폼이 Headless 구현 영역에서 기능을 계속 확장함에 따라 Adobe Commerce 개발자에게 점점 더 관련성이 높아지는 주제입니다.
 
 GraphQL을 처음 사용하는 경우 이 섹션에서는 기본 개념과 사용법을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443948?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
 
 ## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
 
@@ -57,6 +72,6 @@ GraphQL 사양을 구현하는 런타임은 모든 언어로 작성할 수 있�
 * [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"}은(는) GraphQL Foundation에서 GraphQL IDE를 구현한 것입니다. 이것은 설치 가능한 도구가 아니라 직접 인터페이스를 빌드하는 데 사용할 수 있는 패키지입니다.
 * [Postman](https://www.postman.com/){target="_blank"}에 이미 익숙하다면 전용 GraphQL 클라이언트만큼 완전한 기능은 아니지만 GraphQL 쿼리에 대한 적절한 지원이 제공됩니다.
 
-GraphQL 클라이언트에서 Adobe Commerce 또는 `/graphql` 인스턴스의 URL 경로 [!DNL Magento Open Source]에 요청을 제출해야 합니다. 기존 인스턴스를 테스트에 사용하려면 Venia 테마 데모(PWA Studio 구현 예)를 사용할 수 있습니다. `https://venia.magento.com/graphql`
+GraphQL 클라이언트에서 Adobe Commerce 또는 [!DNL Magento Open Source] 인스턴스의 URL 경로 `/graphql`에 요청을 제출해야 합니다. 기존 인스턴스를 테스트에 사용하려면 Venia 테마 데모(PWA Studio 구현 예)를 사용할 수 있습니다. `https://venia.magento.com/graphql`
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

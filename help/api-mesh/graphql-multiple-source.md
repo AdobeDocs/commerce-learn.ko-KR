@@ -1,6 +1,6 @@
 ---
 title: API Mesh에서 사용할 여러 소스 GraphQL 만들기
-description: Adobe Commerce 및  [!DNL Adobe App Builder]에서 API Mesh에 여러 소스를 사용하는 방법을 알아봅니다. 몇 가지 일반적인 오류와 이를 해결하는 방법에 대해 알아봅니다.
+description: Adobe Commerce 및 [!DNL Adobe App Builder]에서 API Mesh에 여러 소스를 사용하는 방법을 알아봅니다. 몇 가지 일반적인 오류와 이를 해결하는 방법에 대해 알아봅니다.
 jira: KT-21677
 doc-type: Tutorial
 duration: 381
@@ -10,26 +10,47 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Developer
 level: Beginner
 exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
-TQID: https://experienceleague.adobe.com/O6ONn4NzMP-VqN0nsCoD-OPkZGMBelLWB-KNP1fZqmA
+autotag-review: '2026-08-11T19:13:41.066Z'
+TQID: 'https://experienceleague.adobe.com/O6ONn4NzMP-VqN0nsCoD-OPkZGMBelLWB-KNP1fZqmA'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: ce84ce08-883f-4337-ae83-6bb1855ca732
+    internal-label: API Mesh
+  - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
+    internal-label: App Builder
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-autotag-review: '2026-08-11T19:13:41.066Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+    internal-label: Metadata
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 198
+source-wordcount: '198'
 ht-degree: 0%
-
 ---
-
 # 여러 소스를 사용하여 메쉬 만들기
 
 이 비디오는 개발자가 Adobe Developer App Builder용 API Mesh에서 여러 소스를 사용하여 메쉬를 만드는 방법을 이해하는 데 도움이 됩니다. 이 비디오는 여러 소스를 사용하여 메쉬를 만들고 오류를 식별하는 방법을 보여 줍니다. 자세한 내용과 코드 샘플을 보려면 [메쉬 만들기](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/create-mesh){target="_blank"}를 방문하세요.
@@ -45,7 +66,7 @@ ht-degree: 0%
 * 이름 충돌, 스키마 가용성 및 기타 스키마 구문 문제와 같은 오류를 해결하는 방법
 * 수정된 구성으로 메쉬 업데이트
 
->[!VIDEO](https://video.tv.adobe.com/v/3419790?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?learn=on)
 
 ## JSON 구성 파일 만들기
 

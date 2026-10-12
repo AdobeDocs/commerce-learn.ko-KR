@@ -7,15 +7,25 @@ doc-type: Technical Video
 topic: Migration
 feature: Data Import/Export
 duration: 737
-last-substantial-update: 2026-07-24T00:00:00Z
+last-substantial-update: 2026-07-24T00:00:00.000Z
 jira: KT-22139
-source-git-commit: 838387ffddbd8bee3ef3ec22694818eb2de5fe2d
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 601e4abe-d9bf-58de-a779-32ed6794dcbe
+    internal-label: Data Import/Export
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
-
 ---
-
 # 일괄 데이터 마이그레이션 도구를 사용하여 단일 단계 마이그레이션 실행
 
 소스 환경이 추출 중에 활성 상태를 유지할 수 있는 경우 단단계 마이그레이션을 실행합니다. 이는 드라이 실행 및 개발 또는 샌드박스 환경에 적합합니다. 마이그레이션 중간에 새 주문이 들어올 수 없는 프로덕션 전환 같은 고정된 소스가 필요한 경우 이 시리즈의 단계별 마이그레이션 비디오를 대신 참조하십시오.
@@ -34,4 +44,4 @@ ht-degree: 0%
 * 마이그레이션 요약 보고서 확인 — 8단계(데이터 무결성 확인)에서는 파이프라인을 중지하지 않고 오류를 기록하므로 완료된 실행이 깔끔한 확인을 보장하지는 않습니다.
 * 이 단일 단계 명령은 완벽한 자체 포함 파이프라인이며, 자체 전용 명령이 있는 유지 관리 모드(단계별 마이그레이션) 워크플로우의 내부 단계로 사용하지 마십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496321?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496316?learn=on)

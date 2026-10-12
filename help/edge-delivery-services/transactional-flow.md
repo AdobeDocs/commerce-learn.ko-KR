@@ -10,23 +10,39 @@ duration: 525
 last-substantial-update: 2024-12-16T00:00:00.000Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-TQID: https://experienceleague.adobe.com/w2hP8PL0E4TWrDAcvF4F79z2IoYGKu7Rsvc9wEFZSfg
+TQID: 'https://experienceleague.adobe.com/w2hP8PL0E4TWrDAcvF4F79z2IoYGKu7Rsvc9wEFZSfg'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+    internal-label: Compliance
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: d394484608d6ee530932387938e04030ed3b590e
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 228
+source-wordcount: '228'
 ht-degree: 0%
-
 ---
-
 # 체크아웃을 위한 트랜잭션 흐름 조정
 
 Edge Delivery Services 장바구니 드롭인을 사용하여 체크아웃을 위한 트랜잭션 흐름을 조정하는 방법을 알아봅니다.
@@ -47,8 +63,8 @@ Adobe Commerce 장바구니 드롭인을 사용하고 트랜잭션 흐름을 조
 * A/B 테스트 유연성. SharePoint을 통해 구성을 활성화하여 마케터가 이러한 기능을 제어하고 테스트할 수 있도록 했습니다.
 * 향상된 마케팅 제어. 구성을 쉽게 관리 및 테스트하여 사용자 경험과 마케팅 효과를 개선합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442358?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
 ## 추가 설명서
 
-* [장바구니 요약 구성](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=ko)
+* [장바구니 요약 구성](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)

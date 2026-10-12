@@ -4,16 +4,23 @@ description: Commerce 카탈로그 에이전트가 AI 가시성 차이를 좁혀
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00Z
+last-substantial-update: 2026-06-11T00:00:00.000Z
 jira: KT-21572
 duration: 451
-source-git-commit: 23a3ecdc06ec2738f524359169668a1423c34493
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
-
 ---
-
 # Commerce AI 제품 검색
 
 [!BADGE 준비 중]{type=Informative tooltip="이 기능은 곧 제공될 예정이며 변경될 수 있습니다."}
@@ -32,7 +39,7 @@ ht-degree: 0%
 * 영향력이 큰 데이터 보강 권장 사항을 보여주는 최적화 기회 패널
 * 숨겨진 속성을 LLM 웹 크롤러에 노출하기 위한 제품 세부 사항 페이지 보강
 * AI에 최적화된 제품 이름 및 설명을 생성하는 카탈로그 보강
-* AI 콘텐츠 가시성 검사기를 사용한 개선 사항 유효성 검사
+* AI Content Visibility Checker을 사용한 개선 사항 유효성 검사
 
->[!VIDEO](https://video.tv.adobe.com/v/3492328?captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3492287)
 
