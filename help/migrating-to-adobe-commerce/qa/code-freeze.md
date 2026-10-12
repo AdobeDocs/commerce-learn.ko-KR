@@ -52,4 +52,4 @@ Adobe Commerce 마이그레이션 중에 코드 동결을 구현하는 것은 �
 * 수동 및 자동화된 테스트, 로드 테스트 및 침투 테스트를 조정하여 사이트의 모든 측면이 예상대로 작동하도록 합니다.
 * 비즈니스 관련자, 개발자 및 IT 팀을 유효성 검사 프로세스에 참여시켜 원활하고 성공적인 출시를 보장합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432965?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445492?captions=kor&learn=on)

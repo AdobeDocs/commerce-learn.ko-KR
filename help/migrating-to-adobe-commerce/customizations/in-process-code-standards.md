@@ -56,4 +56,4 @@ PHP, JavaScript 및 사용자 지정에 대한 몇 가지 필수 코딩 표준�
 * 원활한 마이그레이션을 보장하기 위한 PHP, JavaScript 및 사용자 지정에 대한 모범 사례에 대해 알아봅니다.
 * 성공적인 Adobe Commerce 프로젝트를 위한 준비, 성능 및 보안에 대해 Adobe 전문가로부터 통찰력을 얻으십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434864?captions=kor&learn=on)

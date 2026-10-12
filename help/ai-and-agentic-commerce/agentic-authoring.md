@@ -41,7 +41,7 @@ Experience Workspace은 마케터와 개발자에게 파일 구조, 페이지 �
 * 카탈로그를 쿼리하고 전체 캠페인 페이지를 생성하라는 자연어 프롬프트
 * 게시 전 블록 수준 편집 및 라이브 에지 렌더링 미리 보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3492281)
+>[!VIDEO](https://video.tv.adobe.com/v/3492301?captions=kor)
 
 <!-- ## Additional resources -->
 

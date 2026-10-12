@@ -59,7 +59,7 @@ Adobe Commerce 통합 시작 키트 사용과 관련된 설정, 구성 및 배�
 * 이벤트 공급자와 구독을 만들고 구성하려면 스크립트를 실행합니다.
 * 동기화를 위해 Commerce 및 App Builder에서 이벤트 업데이트.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452777?captions=kor&learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 
