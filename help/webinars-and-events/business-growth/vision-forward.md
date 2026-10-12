@@ -11,31 +11,62 @@ duration: 1016
 last-substantial-update: 2025-10-10T00:00:00.000Z
 jira: KT-19377
 exl-id: a7f9ce6d-4bad-4fe2-8692-b8a02fc6dde6
-TQID: https://experienceleague.adobe.com/Uc0WgNAlg-n-9lZURJ1aYosIq-m1SI8hNXxsJoKPcL0
+TQID: 'https://experienceleague.adobe.com/Uc0WgNAlg-n-9lZURJ1aYosIq-m1SI8hNXxsJoKPcL0'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
+  - id: 4239b8a6-e74f-567d-a7a5-b98b9ead0ea4
+    internal-label: Observability
+  - id: 3dcbfa9e-51f8-569c-a0e4-7f59098f730f
+    internal-label: Payments
+  - id: f37757d8-3174-5335-b977-1161792f965d
+    internal-label: Personalization
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+    internal-label: Accounts
+subfeature_v2:
+  - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
+    internal-label: App Builder
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+    internal-label: B2B
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 171
+source-wordcount: '171'
 ht-degree: 0%
-
 ---
-
 # Adobe의 Vision Forward 로드맵을 통한 비즈니스 성장
 
 Adobe Commerce의 2026년 로드맵에서는 실시간 데이터 공유, 개인화된 고객 경험 및 간소화된 운영의 혁신을 통해 비즈니스 성장을 향상시키는 포괄적인 전략을 간략하게 설명합니다. 주요 개발에는 데이터 공유 및 개인화를 위한 Adobe Experience Platform과의 기본 통합 및 신속한 B2B 상점 배포가 포함됩니다. 몇 가지 더 핵심적인 개발은 확장된 결제 기능과 간단한 관리를 위한 재상장 상인센터입니다. 또한 이 로드맵은 카탈로그 관리, 플랫폼 상태 모니터링, App Builder을 통한 개발자 확장성 및 가시성 향상을 위한 AI 기반 도구를 강조합니다. 이러한 업데이트는 B2B 및 B2C 채널 간에 매끄럽고 확장 가능하며 지능적인 상거래 경험을 제공하는 것을 목표로 합니다.

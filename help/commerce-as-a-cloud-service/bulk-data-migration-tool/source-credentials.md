@@ -7,15 +7,25 @@ doc-type: Technical Video
 topic: Migration
 feature: Data Import/Export
 duration: 238
-last-substantial-update: 2026-07-21T00:00:00Z
+last-substantial-update: 2026-07-21T00:00:00.000Z
 jira: KT-22095
-source-git-commit: a785518a36cda9d2bfb82951c26f2e197ee3d43e
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 601e4abe-d9bf-58de-a779-32ed6794dcbe
+    internal-label: Data Import/Export
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
-
 ---
-
 # 대량 데이터 마이그레이션 도구에 대한 소스 자격 증명 구성
 
 대량 데이터 마이그레이션 도구를 실행하기 전에 `.env` 파일에서 원본 인스턴스 URL 및 인증 자격 증명을 설정하십시오. 인증 단계는 소스 환경이 온프레미스인지 또는 Adobe Commerce as a Cloud Service(PaaS)인지에 따라 약간 다릅니다.

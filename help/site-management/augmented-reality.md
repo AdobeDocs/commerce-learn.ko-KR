@@ -11,27 +11,42 @@ role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: Commerce Marketplace에서 사용 가능한 AR 뷰어
 exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
-TQID: https://experienceleague.adobe.com/K5mqLVuOB8-Pm3-EpKOKOzGGTgPGmbMIyKThQKlo3n8
+TQID: 'https://experienceleague.adobe.com/K5mqLVuOB8-Pm3-EpKOKOzGGTgPGmbMIyKThQKlo3n8'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 17d326fa-534a-55a5-b46f-8ae1de1e2f75
+    internal-label: Page Content
+  - id: 8b440f30-6794-5ed6-981f-391de4e9b0cc
+    internal-label: Themes
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
+subfeature_v2:
+  - id: aa64eb87-f03e-49eb-a367-66fa1adc2192
+    internal-label: Native Luma Frontend Development
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Customer experience
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 525
+source-wordcount: '524'
 ht-degree: 0%
-
 ---
-
 # Adobe Commerce용 증강 현실 뷰어
 
 디지털 쇼핑 지형이 계속 진화하면서 구매 과정에 증강현실(AR)을 접목하는 것이 점점 중요해지고 있다. AR은 사용자가 직접 쇼핑 경험과 유사한 방식으로 제품과 상호 작용할 수 있게 해 고객 만족도와 전환율을 높인 것이다.

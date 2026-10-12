@@ -10,34 +10,51 @@ duration: 324
 last-substantial-update: 2025-05-30T00:00:00.000Z
 jira: KT-14593
 exl-id: 60314a97-1922-490f-be18-e5e5998075e2
-TQID: https://experienceleague.adobe.com/m1MKUwzUn4qsOhqnFYo94qaO9o9jA5tsrTyEHxtPlno
+TQID: 'https://experienceleague.adobe.com/m1MKUwzUn4qsOhqnFYo94qaO9o9jA5tsrTyEHxtPlno'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+    internal-label: Compliance
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: f42e0a1a-0d79-488d-a83f-f2c30672b137
+    internal-label: Reporting
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Privacy
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 278
+source-wordcount: '278'
 ht-degree: 0%
-
 ---
-
 # Adobe Commerce에서의 HIPAA 지원 호스팅
 
 Adobe Commerce은 의료 기업이 HIPAA 규정을 준수할 수 있도록 설계된 HIPAA 준비 솔루션을 제공합니다. 이 솔루션에는 내장된 보안 및 개인 정보 제어, PHI를 위한 향상된 로깅 메커니즘, 내부 및 외부 서비스를 모두 포함하는 통합 기능이 포함되어 있습니다. 또한 Adobe Commerce은 지원 및 문제 해결을 위한 전용 스테이징 환경을 제공하여 민감한 데이터를 보호합니다. HIPAA 지원 호스팅은 기존 호스팅과 다릅니다. 몇 가지 주요 차이점은 몇 가지 핵심 기능을 비활성화하고 HIPAA 준비 영역에서 고객을 프로비저닝하는 것입니다. 이 설정은 의료 용품, 장비 요청 및 보험 지불을 처리하는 비즈니스에 이상적입니다.

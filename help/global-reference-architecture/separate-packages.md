@@ -4,37 +4,50 @@ description: 별도의 패키지 GRA로 Adobe Commerce을 최적화합니다. �
 jira: KT-16727
 doc-type: Tutorial
 duration: 340
-last-substantial-update: 2025-01-06
+last-substantial-update: 2025-01-06T00:00:00.000Z
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 badge: label="Tony Evers, 수석 기술 설계자, Adobe 제공" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="토니 에버스의 기고문"
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-TQID: https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts
+TQID: 'https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 6388cf7b-8a81-5248-a1e4-7bb57bbe250f
+    internal-label: Install
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
+    internal-label: Security
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 2099
+source-wordcount: '2099'
 ht-degree: 0%
-
 ---
-
 # 개별 패키지 글로벌 참조 아키텍처 패턴
 
 {{only-for-on-prem-commerce-cloud}}
@@ -219,7 +232,8 @@ Composer 또는 JFrog Artifactory <https://jfrog.com/artifactory/>을(를) 작�
 
 ## 버전 관리
 
-개별 패키지에서 버전 관리 GRA는 Git의 태그 지정 모듈과 동의어입니다. Git 태그는 Composer가 설치하는 패키지의 번호 버전을 만듭니다.올바른 버전 관리 접근 방식을 사용하면 패키지가 자동으로 흐르면서 안전성도 유지할 수 있습니다.
+개별 패키지에서 버전 관리 GRA는 Git의 태그 지정 모듈과 동의어입니다. Git 태그는 Composer가 설치하는 패키지의 번호 버전을 만듭니다.
+올바른 버전 관리 접근 방식을 사용하면 패키지가 자동으로 흐르면서 안전성도 유지할 수 있습니다.
 
 두 가지 예:
 
@@ -255,7 +269,8 @@ Composer 또는 JFrog Artifactory <https://jfrog.com/artifactory/>을(를) 작�
 
 언급된 패키지의 새 버전을 릴리스하는 즉시 Composer 업데이트와 함께 자동으로 설치됩니다.
 
-시맨틱 버전 관리를 적용합니다. <https://semver.org/>에서 시맨틱 버전 관리에 대한 모든 것을 배울 수 있습니다. 특히 FAQ는 읽는 것이 좋습니다. 시맨틱 버전 관리를 사용하는 경우 &quot;1.0.0&quot;의 숫자를 MAJOR.MINOR.PATCH라고 합니다. 패키지의 마이너 및 패치 릴리스는 애플리케이션을 중단하지 않고 안전하게 사용할 수 있습니다.패치를 자동으로 포함하고 작은 업그레이드를 수동으로 선택할 수 있습니다. 이렇게 하면 각 사소한 변경 사항을 수동으로 선택하여 추가 오버헤드가 발생합니다.
+시맨틱 버전 관리를 적용합니다. <https://semver.org/>에서 시맨틱 버전 관리에 대한 모든 것을 배울 수 있습니다. 특히 FAQ는 읽는 것이 좋습니다. 시맨틱 버전 관리를 사용하는 경우 &quot;1.0.0&quot;의 숫자를 MAJOR.MINOR.PATCH라고 합니다. 패키지의 마이너 및 패치 릴리스는 애플리케이션을 중단하지 않고 안전하게 사용할 수 있습니다.
+패치를 자동으로 포함하고 작은 업그레이드를 수동으로 선택할 수 있습니다. 이렇게 하면 각 사소한 변경 사항을 수동으로 선택하여 추가 오버헤드가 발생합니다.
 
 ```json
 {
@@ -287,7 +302,8 @@ composer depends \&lt;package name\>을 입력하여 이러한 엄격한 종속�
 
 **QA/개발 분기**: 릴리스 분기와 유사합니다.
 
-**주 분기**: 모든 저장소에 있으며 항상 프로덕션 또는 프로덕션 준비 상태를 나타내는 분기입니다. 주 분기는 릴리스 버전에 코드를 태깅하는 위치입니다.유지 관리 오버헤드가 적은 분기 전략을 선택해야 합니다. 예를 들어 핫픽스 릴리스 이후 QA, UAT, 릴리스 또는 개발 분기에 주 분기를 다시 병합하는 것은 오버헤드 유지 관리 작업입니다. 패키지가 많을수록 저장소가 많아지고 오버헤드가 발생하는 작업이 반복됩니다.
+**주 분기**: 모든 저장소에 있으며 항상 프로덕션 또는 프로덕션 준비 상태를 나타내는 분기입니다. 주 분기는 릴리스 버전에 코드를 태깅하는 위치입니다.
+유지 관리 오버헤드가 적은 분기 전략을 선택해야 합니다. 예를 들어 핫픽스 릴리스 이후 QA, UAT, 릴리스 또는 개발 분기에 주 분기를 다시 병합하는 것은 오버헤드 유지 관리 작업입니다. 패키지가 많을수록 저장소가 많아지고 오버헤드가 발생하는 작업이 반복됩니다.
 
 mixu/gr과 같은 도구를 사용하여 일괄 처리의 여러 Git 저장소에서 일상적인 작업을 수행합니다. <https://github.com/mixu/gr>
 

@@ -10,33 +10,50 @@ duration: 451
 last-substantial-update: 2024-04-17T00:00:00.000Z
 jira: KT-15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
-TQID: https://experienceleague.adobe.com/czbb8zkX55fzgKiZthAj4whBCF-IL2bEox0M7rDr9oE
+TQID: 'https://experienceleague.adobe.com/czbb8zkX55fzgKiZthAj4whBCF-IL2bEox0M7rDr9oE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
 subfeature_v2:
   - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+    internal-label: Cloud architecture
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Insights
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 2365
+source-wordcount: '2365'
 ht-degree: 0%
-
 ---
-
 # 실행 전 검사 목록
 
 이 페이지에서는 Adobe Commerce [사이트 시작 설명서](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/launch/overview){target="_blank"}를 요약합니다.
@@ -183,12 +200,12 @@ Adobe Commerce Cloud는 스테이징 및 프로덕션 환경 모두에 대해 Ma
 
 1. DNS 서비스에 액세스하고 각 도메인 및 호스트 이름에 대한 A 및 CNAME 레코드를 업데이트합니다.
    1. **prod.magentocloud.map.fastly.net**&#x200B;을(를) 가리키는 _&lt;&lt;www.yourdomain.com>>_&#x200B;에 대한 CNAME 레코드 추가
-   2. _&lt;&lt;yourdomain.com>>_&#x200B;에 대해 다음 위치를 가리키는 A 레코드 4개를 설정합니다.\
+   2. _&lt;&lt;yourdomain.com>>_&#x200B;에 대해 A 레코드 4개를 설정하고 다음을 가리킵니다.\
       151.101.1.124\
       151.101.65.124\
       151.101.129.124\
       151.101.193.124
-2. Adobe Commerce 기본 URL을 _&lt;&lt;www.yourdomain.com>>_(으)로 변경합니다.
+2. Adobe Commerce 기본 URL을 _&lt;&lt;www.yourdomain.com>>_(으)로 변경
 3. TTL 시간이 경과될 때까지 기다린 다음 웹 브라우저를 다시 시작합니다.
 4. 웹 사이트를 테스트합니다.
 

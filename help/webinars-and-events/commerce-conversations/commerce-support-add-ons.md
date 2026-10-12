@@ -10,23 +10,34 @@ duration: 371
 last-substantial-update: 2025-04-10T00:00:00.000Z
 jira: KT-17737
 exl-id: d0ba9c55-d43c-4ff3-b9b7-678f42a9dc4f
-TQID: https://experienceleague.adobe.com/i90NlOinNlM5lyP0WML4UI2hl2PhyxFCzzujcx8amSU
+TQID: 'https://experienceleague.adobe.com/i90NlOinNlM5lyP0WML4UI2hl2PhyxFCzzujcx8amSU'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 938d2364-5176-55ec-80f1-9415253e5e51
+    internal-label: Site Management
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: a59f76dc-e003-5617-951e-dffa5bd3de81
+    internal-label: Support
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 180
+source-wordcount: '180'
 ht-degree: 0%
-
 ---
-
 # Commerce 지원 추가 기능
 
 Adobe Commerce은 다양한 계획과 추가 기능을 통해 포괄적인 고객 지원을 제공합니다. Expert Success 지원에는 연중무휴 24시간 기술 문제 해결, 모범 사례 안내서 및 자가 안내식 리소스가 포함되어 있습니다. Ultimate Success은 배포 상태를 추적하고 개선 사항을 제안하는 역할을 통해 전략적 리더십과 사전 예방적 기술 지원을 제공합니다. 또한 Adobe에서는 여러 제품을 관리할 수 있는 기술 계정 디렉터와 특별한 경우를 위한 이벤트 관리 등의 추가 기능을 제공합니다. Success Accelerator 는 Adobe 제품의 이점을 극대화하기 위해 기술 준비, 조직 변환 및 제품 채택에 중점을 둡니다.

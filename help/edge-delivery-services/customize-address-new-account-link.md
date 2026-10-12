@@ -7,31 +7,49 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 856
-last-substantial-update: 2025-01-13
+last-substantial-update: 2025-01-13T00:00:00.000Z
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-TQID: https://experienceleague.adobe.com/QnipDRCT13r3KSOOZj3G8A8EoAZNET6Y823qbjDAXE8
+TQID: 'https://experienceleague.adobe.com/QnipDRCT13r3KSOOZj3G8A8EoAZNET6Y823qbjDAXE8'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d394484608d6ee530932387938e04030ed3b590e
+    internal-label: Insights
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 322
+source-wordcount: '322'
 ht-degree: 0%
-
 ---
-
 # 주소 레이아웃 사용자 지정
 
 텍스트 영역을 제외하고 모든 필드의 너비가 50%가 되도록 체크아웃 시 주소 양식 레이아웃을 사용자 지정하는 방법을 알아봅니다. 통합 타사 API, 특히 Google 주소 API를 사용하여 주소 양식에서 자동 주소 조회 및 유효성 검사를 활성화하는 방법에 대해 알아봅니다. 스토어 &#x200B; 로케이터의 사용자 지정 페이지에 연결하여 사용자 계정 대시보드에 새 사이드바 메뉴 항목을 추가하는 방법에 대해 알아봅니다.

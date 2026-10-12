@@ -7,15 +7,25 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 186
-last-substantial-update: 2026-08-28T00:00:00Z
+last-substantial-update: 2026-08-28T00:00:00.000Z
 jira: KT-22473
-source-git-commit: 92af5355fa31c1ce9e627679b0a1bb92cce0e1d8
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
-
 ---
-
 # Adobe Commerce 개발자 에이전트 개요
 
 Adobe Commerce 개발자 에이전트는 일반 영어 요청을 손으로 작성한 코드 없이 작동하는 배포된 스토어 기능으로 전환합니다. 이 개요에서는 형식화된 단일 지침에서 실제 상점에서의 라이브 테스트까지 전체 여정을 살펴보고, 사용자 지정 Commerce 기능이 구성되는 방식이 변경되는 이유를 설명합니다.

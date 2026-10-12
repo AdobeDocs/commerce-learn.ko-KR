@@ -12,24 +12,41 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
-TQID: https://experienceleague.adobe.com/XAvtOnOIycqQ4z-uztWuVzzv0--eVit-I-QDnl67ba8
+TQID: 'https://experienceleague.adobe.com/XAvtOnOIycqQ4z-uztWuVzzv0--eVit-I-QDnl67ba8'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 994
+source-wordcount: '998'
 ht-degree: 0%
-
 ---
-
 # 구성 가능한 제품 만들기
 
 구성 가능한 제품은 여러 간단한 제품의 상위 제품입니다. 구매자가 특정 제품 변형을 선택하기 위해 하나 이상의 선택을 하도록 구성 가능한 제품을 정의합니다. 예를 들어 제품이 셔츠인 경우 구매자는 크기 및 색상 옵션을 선택하여 셔츠를 선택해야 합니다.
@@ -330,7 +347,7 @@ curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Haw
 ...
 ```
 
-다음은 GET 메서드를 사용하는 경우입니다
+다음은 GET 메서드를 사용합니다
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulele' \
@@ -341,7 +358,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulel
 
 다음 GET 요청을 전송하여 구성 가능한 제품과 연결된 하위 항목만 반환합니다. 응답에는 SKU 및 가격을 포함한 하위 제품에 대한 모든 속성이 포함됩니다.
 
-다음은 GET 메서드를 사용하는 경우입니다
+다음은 GET 메서드를 사용합니다
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-hawaiian-ukulele/children' \

@@ -3,29 +3,37 @@ title: 재시도 메커니즘의 기본 기능 사용
 description: Adobe I/O Events의 재시도 메커니즘을 사용하여 재시도 조건, 백오프 전략 및 시각적 표시기를 다루는 복원 애플리케이션을 빌드하는 방법에 대해 알아봅니다.
 doc-type: Technical Video
 duration: 402
-last-substantial-update: 2024-07-31
+last-substantial-update: 2024-07-31T00:00:00.000Z
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
 level: Intermediate
 jira: KT-15872
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
-TQID: https://experienceleague.adobe.com/hrzcmSY8cAke4LBLRtqfkP8-t6jP4KMoMc7iL3WPRng
+TQID: 'https://experienceleague.adobe.com/hrzcmSY8cAke4LBLRtqfkP8-t6jP4KMoMc7iL3WPRng'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
+    internal-label: Intermediate
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 382
+source-wordcount: '382'
 ht-degree: 0%
-
 ---
-
 # 애플리케이션 복원력을 위해 Adobe I/O Events 재시도 메커니즘 사용
 
 이 비디오에서는 애플리케이션 복원력을 향상시키기 위한 Adobe I/O Events의 기본 제공 재시도 메커니즘을 활용하는 방법에 대한 포괄적인 안내서를 간략하게 설명합니다. 특정 HTTP 응답 상태 코드가 이벤트 재시도를 트리거하는 방법에 대해 알아봅니다. Adobe I/O Events은 재시도를 위해 1분에서 15분으로 간격이 증가하는 지수 및 고정 백오프 전략을 사용합니다. 또한 이 설명서에서는 각각 실패 및 재시도된 이벤트를 나타내는 경고 아이콘 및 원형 화살표와 같은 시각적 큐를 사용하여 개발자 콘솔에 재시도 표시기가 표시되는 방법에 대해 자세히 설명합니다.

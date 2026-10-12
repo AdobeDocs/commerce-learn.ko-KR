@@ -3,34 +3,46 @@ title: 수집 Webhook 구성, 배포 및 사용자 정의
 description: 수집 웹후크를 구성, 배포 및 사용자 정의하여 Adobe Commerce을 서드파티 백 오피스 시스템과 연결하고 이벤트 번역을 처리하는 방법에 대해 알아봅니다.
 doc-type: Technical Video
 duration: 697
-last-substantial-update: 2024-07-30
+last-substantial-update: 2024-07-30T00:00:00.000Z
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
 level: Intermediate
 jira: KT-15870
 exl-id: f2654873-256e-4c1b-abed-8bfbc4db3fbb
-TQID: https://experienceleague.adobe.com/nUXdrsjzeD939jOjZS8ywPV3OeOaxpZCmeuveACtYrY
+TQID: 'https://experienceleague.adobe.com/nUXdrsjzeD939jOjZS8ywPV3OeOaxpZCmeuveACtYrY'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
+    internal-label: Security
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 412
+source-wordcount: '412'
 ht-degree: 0%
-
 ---
-
 # 수집 Webhook 구성, 배포 및 사용자 정의
 
 Commerce과 타사 백오피스 시스템을 통합하기 위한 수집 웹후크의 설정 및 사용자 정의에 대해 알아봅니다. &#x200B; 이 비디오에서는 타사 시스템의 메시지를 Adobe IO 이벤트 API로 조정하기 위해 공개적으로 사용 가능한 끝점을 제공하여 웹후크가 시스템 간 이벤트 통신의 제한을 해결하는 방법에 대해 설명합니다. 이 프로세스에는 `actions.config.yaml` 파일에서 Webhook를 구성하고 `app.config.yaml` 파일에서 활성화한 다음 배포하여 적절한 기능을 유지하는 작업이 포함됩니다.

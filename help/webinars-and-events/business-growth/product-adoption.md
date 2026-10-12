@@ -11,25 +11,40 @@ duration: 743
 last-substantial-update: 2025-10-13T00:00:00.000Z
 jira: KT-19378
 exl-id: 9326f53d-e3aa-421f-bdaa-7be523a0ecd8
-TQID: https://experienceleague.adobe.com/1T7uFUgF8d70ZYRwYg3D6lv8Oegx3YFXBcO6CAZmO-s
+TQID: 'https://experienceleague.adobe.com/1T7uFUgF8d70ZYRwYg3D6lv8Oegx3YFXBcO6CAZmO-s'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: 58c984c2-e237-5c50-9718-500e40d1e82c
+    internal-label: Merchandising
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
+  - id: f08fa0de-a550-4acd-b570-f81cf1d03aaf
+    internal-label: Commerce ecosystem
+subfeature_v2:
+  - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
+    internal-label: App Builder
+  - id: dad884f1-e840-49a1-970e-2f965bdbc410
+    internal-label: Extensions
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Customer experience
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 214
+source-wordcount: '214'
 ht-degree: 0%
-
 ---
-
 # 신제품 채택을 단순화하여 비즈니스 성장
 
 Adobe Commerce은 단계적 접근 방식으로 Adobe Commerce as a Cloud Service 및 Adobe Commerce Optimizer으로 이전할 수 있도록 지원함으로써 기업이 보다 쉽게 성장할 수 있도록 하고 있습니다. AI를 기반으로 하는 스마트 도구를 통해 기업은 수작업 부담을 줄이고 더 빠른 가치 창출 시간과 더 나은 고객 경험을 달성할 수 있습니다. 이러한 도구는 계획 수립, 상점 업데이트, 사용자 정의 기능 이동 및 데이터 안전 유지에 도움이 됩니다. 기업은 먼저 업그레이드할 항목을 선택하고 원하는 속도로 진행할 수 있습니다. Adobe은 또한 프로세스를 더 빠르고 간편하게 만들 수 있는 새로운 앱과 서비스를 제공합니다. 이를 통해 팀은 시간을 절약하고 가장 중요한 사항에 집중할 수 있습니다.

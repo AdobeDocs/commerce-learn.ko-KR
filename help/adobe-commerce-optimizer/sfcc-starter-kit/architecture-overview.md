@@ -7,16 +7,31 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 288
-last-substantial-update: 2025-10-20T00:00:00Z
+last-substantial-update: 2025-10-20T00:00:00.000Z
 jira: KT-19014
 exl-id: 1e0edcbb-5619-45c2-b06d-9133f23a634f
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
+subfeature_v2:
+  - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
+    internal-label: App Builder
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
-
 ---
-
 # Salesforce Commerce Cloud 스타터 키트 아키텍처
 
 SFCC(Salesforce Commerce Cloud)와 Commerce Optimizer App Builder을 통합하는 Adobe Connector Starter Kit의 아키텍처 및 기능에 대해 알아봅니다. 스타터 키트는 Adobe Commerce Optimizer에서 Edge Delivery 상점에 대한 카탈로그 동기화를 간소화하는 데 사용됩니다. SFCC의 사용자 정의 카트리지가 델타 내보내기 파일을 통해 카탈로그 변경 사항을 감지하고 사용자 정의 API를 통해 노출하는 방법을 설명합니다. 이러한 변경 내용은 App Builder 런타임 작업(동기식 및 비동기식)에서 전체 및 델타 동기화, 메타데이터 업데이트 및 제품별 동기화를 수행하는 데 사용됩니다. 또한 이 시스템에는 상점 정확도를 보장하기 위한 유효성 검사 도구가 포함되어 있으며 App Builder의 상태 관리를 사용하여 동기화 상태를 추적하고 충돌을 방지합니다.

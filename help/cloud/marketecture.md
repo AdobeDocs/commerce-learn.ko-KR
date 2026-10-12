@@ -10,30 +10,50 @@ duration: 477
 last-substantial-update: 2024-09-09T00:00:00.000Z
 jira: KT-16061
 exl-id: 3044550b-12ad-41d5-ad2f-cc3759867e40
-TQID: https://experienceleague.adobe.com/HFWzBQqgD0RvutRjqTbN0TXGpUSi7wFKijQZVhHK9Sc
+TQID: 'https://experienceleague.adobe.com/HFWzBQqgD0RvutRjqTbN0TXGpUSi7wFKijQZVhHK9Sc'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+    internal-label: Order Management System
   - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: dec06508-d41f-555a-87e8-29e8bcdfa95a
+    internal-label: Recommendations
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: ce84ce08-883f-4337-ae83-6bb1855ca732
+    internal-label: API Mesh
+  - id: e396cff5-f586-484c-89f0-7f1da3308f92
+    internal-label: GraphQL
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Customer profiles
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 230
+source-wordcount: '230'
 ht-degree: 0%
-
 ---
-
 # Adobe Commerce Marketeture
 
 Adobe Commerce은 탁월한 비즈니스 결과를 도출하기 위해 기술 유연성과 사용 편의성을 결합한 경험 주도 플랫폼입니다. AWS 및 Azure에서 사용할 수 있으며 200개 이상의 모듈, 강력한 SLA 및 확장 가능한 아키텍처를 제공합니다. 이 플랫폼은 REST 및 GraphQL API를 지원하며, 성능을 더 빠르게 개선하고, 라이브 검색, AI 제품 추천 및 결제 솔루션과 같은 지능적이고 컴포저블 서비스를 제공합니다.

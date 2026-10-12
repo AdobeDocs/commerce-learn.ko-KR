@@ -7,15 +7,27 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 259
-last-substantial-update: 2026-05-15T00:00:00Z
+last-substantial-update: 2026-05-15T00:00:00.000Z
 jira: KT-18624
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
-
 ---
-
 # 구성 가능한 카탈로그 데이터 모델이 있는 이유
 
 최신 상거래 팀은 **브랜드**, **지역**, **대리점** 및 **디지털 채널**&#x200B;에서 종종 판매됩니다. 각 채널이 자체 카탈로그 사본을 유지하는 경우, 팀은 구매자 경험을 개선하는 것보다 SKU, 가격 및 가용성을 조정하는 데 더 많은 시간을 소비합니다. **Adobe** 뒤의 **CCDM(Composable Catalog Data Model)**&#x200B;은(는) SaaS 레이어의 **하나의 통합 카탈로그**&#x200B;와 같은 패턴을 반전하도록 설계되었습니다. **카탈로그 보기** 및 **정책**&#x200B;은(는) 각 상점 또는 통합에서 볼 수 있는 내용을 형성합니다.

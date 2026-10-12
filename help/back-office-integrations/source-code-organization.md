@@ -3,37 +3,47 @@ title: Commerce 스타터 키트의 Source 코드 조직
 description: 작업 및 스크립트, 자동화 스크립트, 이벤트 처리와 같은 주요 폴더를 포함하여 Commerce 통합 시작 키트의 소스 코드 구성에 대해 알아봅니다.
 doc-type: Technical Video
 duration: 534
-last-substantial-update: 2024-07-30
+last-substantial-update: 2024-07-30T00:00:00.000Z
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
 level: Intermediate
 jira: KT-15868
 exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
-TQID: https://experienceleague.adobe.com/P6-sK18TcpC91YXJcXohIvzmii3N66ZKh3nZha-RYQY
+TQID: 'https://experienceleague.adobe.com/P6-sK18TcpC91YXJcXohIvzmii3N66ZKh3nZha-RYQY'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
+    internal-label: Insights
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 252
+source-wordcount: '369'
 ht-degree: 0%
-
 ---
-
 # Adobe 시작 키트에 대한 Source 코드 조직
 
 Adobe Commerce 통합 시작 키트 내의 소스 코드 조직에 대해 알아봅니다. &#x200B; `actions` 및 `scripts`과(와) 같은 주요 폴더와 해당 콘텐츠를 강조 표시하여 프로젝트의 구조를 살펴보십시오. &#x200B; &#39;작업&#39; 폴더에는 이벤트 처리 및 추적에 필요한 코드를 포함하는 `ingestion` 및 `webhook`과(와) 같은 하위 폴더가 있습니다. `starter-kit-info` 및 `scripts` 폴더도 학습합니다. `scripts` 폴더는 프로젝트 내의 이벤트 구성 및 공급자 설정을 간소화하는 `commerce-event-subscribe` 및 `onboarding`과(와) 같은 자동화 스크립트에 중점을 둡니다.
 &#x200B;
-각 엔터티 폴더 아래의 `commerce` 및 `external` 폴더가 다른 시스템에서 시작된 이벤트를 처리하는 방법을 자세히 설명하면서 소스 코드 구조 뒤의 논리를 살펴보십시오. 이 비디오에서는 이벤트를 적절한 이벤트 핸들러 런타임 작업에 전달하여 원활한 처리를 보장하는 `consumer` 폴더의 역할에 대해 설명합니다. 또한 이 비디오는 실패 이벤트를 효과적으로 처리하기 위해 런타임 작업에 구현된 재시도 메커니즘에 대해서도 다룹니다. Adobe Commerce 통합 시작 키트에서 소스 코드의 조직 및 기능을 &#x200B; 이해하여 이벤트 처리, 자동화 스크립트 및 구성 설정에 대한 중요한 통찰력을 제공합니다.
+각 엔터티 폴더 아래의 `commerce` 및 `external` 폴더가 다른 시스템에서 시작된 이벤트를 처리하는 방법을 자세히 설명하면서 원본 코드 구조 뒤의 논리를 살펴보십시오. 이 비디오에서는 이벤트를 적절한 이벤트 핸들러 런타임 작업에 발송하는 `consumer` 폴더의 역할에 대해 설명하고 원활한 처리를 보장합니다. 또한 이 비디오는 실패 이벤트를 효과적으로 처리하기 위해 런타임 작업에 구현된 재시도 메커니즘에 대해서도 다룹니다. Adobe Commerce 통합 시작 키트에서 소스 코드의 조직 및 기능을 &#x200B; 이해하여 이벤트 처리, 자동화 스크립트 및 구성 설정에 대한 중요한 통찰력을 제공합니다.
 
 ## 대상자
 

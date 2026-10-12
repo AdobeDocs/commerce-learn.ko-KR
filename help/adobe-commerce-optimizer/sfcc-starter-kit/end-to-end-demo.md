@@ -7,16 +7,31 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 430
-last-substantial-update: 2025-10-21T00:00:00Z
+last-substantial-update: 2025-10-21T00:00:00.000Z
 jira: KT-19017
 exl-id: 0b7d6adb-e535-4dc1-82cc-cb3a5be9a124
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
+subfeature_v2:
+  - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
+    internal-label: App Builder
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
-
 ---
-
 # Salesforce Commerce Cloud 스타터 키트 전체 데모
 
 스타터 키트를 사용하여 Salesforce Commerce과 Commerce Optimizer 간의 전체 및 델타 동기화를 성공적으로 설정하고 실행하는 방법을 보여 주는 종단간 데모를 시청하십시오. 런타임 로그 및 이벤트 추적을 통해 동기화의 성공을 확인한 다음 라이브 상점 전면에서 결과를 확인하는 방법을 알아봅니다. 델타 동기화 기능이 작동하는 방식을 알아봅니다. 또한 Salesforce Commerce Cloud 카탈로그에서 제품 세부 사항 및 가격 수정과 같은 단계를 다루며, 시스템은 Commerce Optimizer에서 이러한 변경 사항을 자동으로 감지하고 업데이트하여 점포에 즉시 반영합니다.

@@ -12,23 +12,39 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
-TQID: https://experienceleague.adobe.com/nosJh3ytiC54wmNWaUmSu9qjZCN-ssjolNZD702EpEg
+TQID: 'https://experienceleague.adobe.com/nosJh3ytiC54wmNWaUmSu9qjZCN-ssjolNZD702EpEg'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 551
+source-wordcount: '559'
 ht-degree: 0%
-
 ---
-
 # 그룹화된 제품 만들기
 
 그룹화된 제품은 그룹으로 표시되는 간단한 독립 실행형 제품으로 구성됩니다. 단일 제품의 변형을 제공하거나 계절 또는 테마별로 그룹화할 수 있습니다. 그룹화된 제품을 만들기 전에 그룹에 포함할 모든 간단한 제품을 Adobe Commerce에서 사용할 수 있는지 확인하고 존재하지 않는 제품을 만듭니다.
@@ -114,7 +130,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## Create an empty grouped product using cURL
+## cURL을 사용하여 빈 그룹화된 제품 만들기
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -133,7 +149,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Add the first and second simple products to the grouped product
+## 첫 번째 및 두 번째 단순 제품을 그룹화된 제품에 추가합니다
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
@@ -167,9 +183,9 @@ curl --location '{{your.url.here}}/rest/default/V1/products/my-new-grouped-produ
 '
 ```
 
-## Add the third simple product to the existing grouped product
+## 기존의 그룹화된 제품에 세 번째 단순 제품 추가
 
-Include the appropriate position number (anything except `1` or `2`), which are used for the first two products originally associated to the grouped product. For this example, the position is `4`.
+그룹화된 제품에 처음 연결된 두 제품에 사용되는 적절한 위치 번호(`1` 또는 `2`을 제외한 모든 위치)를 포함하십시오. 이 예제의 경우 위치는 `4`입니다.
 
 ```bash
 curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
@@ -192,14 +208,14 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 '
 ```
 
-## Delete a simple product from a grouped product
+## 그룹화된 제품에서 간단한 제품 삭제
 
-To [delete a simple product](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) from a grouped product, use: `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
+그룹화된 제품에서 [간단한 제품을 삭제](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/)하려면 `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`을(를) 사용합니다.
 
-To discover what to use as `{type}`, use xdebug to capture the request and evaluate the $linkTypes: `related`, `crosssell`, `uupsell`, and `associated`.
-![Grouped Product link types - alt text](/help/assets/site-management/catalog/grouped-types.png "Grouped product link types captured during xdebug session")
+`{type}`(으)로 사용할 항목을 검색하려면 xdebug를 사용하여 요청을 캡처하고 $linkTypes: `related`, `crosssell`, `uupsell` 및 `associated`을(를) 평가하십시오.
+![그룹화된 제품 링크 형식 - 대체 텍스트](/help/assets/site-management/catalog/grouped-types.png "xdebug 세션 중에 캡처된 그룹화된 제품 링크 형식")
 
-When linking the simple products to the grouped product, the payload contained a few sections similar to:
+단순 제품을 그룹화된 제품에 연결할 때 페이로드에는 다음과 유사한 몇 가지 섹션이 포함되어 있습니다.
 
 ```bash
         {
@@ -214,9 +230,9 @@ When linking the simple products to the grouped product, the payload contained a
         }
 ```
 
-In the payload, the `link_type` value `associated` provides the `{type}` value required in the DELETE request. The request URL will be similar to `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
+페이로드에서 `link_type` 값 `associated`은(는) DELETE 요청에 필요한 `{type}` 값을 제공합니다. 요청 URL은 `/V1/products/my-new-grouped-product/links/associated/product-sku-three`과(와) 비슷합니다.
 
-See the cURL request to delete the simple product with the `product-sku-three` SKU from the grouped product with the `my-new-grouped-product` SKU:
+`my-new-grouped-product` SKU가 있는 그룹화된 제품에서 `product-sku-three` SKU가 있는 간단한 제품을 삭제하려면 cURL 요청을 참조하십시오.
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-new-grouped-product/links/associated/product-sku-three' \
@@ -224,7 +240,7 @@ curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-n
 --header 'Cookie: PHPSESSID=9e61396705e9c17423eca2bdf2deefb2'
 ```
 
-## Get a grouped product using cURL
+## cURL을 사용하여 그룹화된 제품 가져오기
 
 ```bash
 curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-sku' \
@@ -234,7 +250,7 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 
 ## 추가 리소스
 
-* [Create and manage grouped products](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
-* [Grouped Product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html?lang=ko){target="_blank"}
+* [그룹화된 제품 만들기 및 관리](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
+* [그룹화된 제품](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html?lang=ko){target="_blank"}
 * [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

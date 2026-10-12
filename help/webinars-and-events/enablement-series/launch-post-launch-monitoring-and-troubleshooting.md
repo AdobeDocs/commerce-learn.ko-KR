@@ -11,29 +11,41 @@ duration: 3576
 last-substantial-update: 2024-05-07T00:00:00.000Z
 jira: KT-15467
 exl-id: e3748ec2-b449-4cc2-927d-e7ba4f4dbaf8
-TQID: https://experienceleague.adobe.com/sSK6X9LrKA5LUgdELTzfyNZu8RP9juyYGDdGQfPni4w
+TQID: 'https://experienceleague.adobe.com/sSK6X9LrKA5LUgdELTzfyNZu8RP9juyYGDdGQfPni4w'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
 role_v2:
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Security
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 326
+source-wordcount: '326'
 ht-degree: 0%
-
 ---
-
 # Adobe Commerce Cloud 시작, 모니터링 및 문제 해결
 
 이 웨비나는 웹 사이트를 준비하고 시작하는 데 필요한 몇 가지 모범 사례와 팁을 제공합니다. 적절한 스테이징 환경을 선택하고 지원 티켓에 정확한 세부 정보를 제공하여 지원 팀과 효과적인 커뮤니케이션을 제공하는 것이 중요함을 강조합니다. 공동 작업 및 문제 해결을 향상하기 위해 New Relic과 같은 지원 팀과 동일한 모니터링 도구를 사용하는 것이 좋습니다. 출시 동안 주변 시스템(예: 결제 프로세서)이 제대로 작동하는지 확인하기 위해 주변 시스템을 철저히 테스트합니다. 또한 성능 병목 현상, 캐시 워밍 등과 같은 잠재적 프로덕션 문제에 대한 예측 및 계획을 수립하여 원활하고 성공적인 출시를 보장해야 한다고 강조합니다. 공유 책임 모델 이해는 데이터베이스 복원 및 애플리케이션 코드 보안과 같은 특정 작업이 웹 사이트 소유자의 책임이라는 점을 명확히 하면서 논의된 또 다른 주요 측면입니다. 이러한 모범 사례를 따르면 웹 사이트 시작을 간소화하고 잠재적 문제를 사전에 해결하며 출시에 성공할 수 있습니다
