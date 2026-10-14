@@ -8,14 +8,12 @@ level: Intermediate
 doc-type: Tutorial
 duration: 421
 jira: KT-20902
-last-substantial-update: 2026-04-27T00:00:00Z
+last-substantial-update: 2026-04-27
 source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '927'
-ht-degree: 0%
-
+source-wordcount: '945'
+ht-degree: 1%
 ---
-
 # 분할 결제 POC: App Builder orchestrator AI 프롬프트
 
 **분할 결제-오케스트레이터** 프로젝트를 생성하는 전체 프롬프트, 즉 **결제-오케스트레이터** I/O 이벤트 소비자, **결제-수락** 및 **결제-거절** 웹 액션, **데모-대시보드** 및 Commerce REST 클라이언트를 복사할 수 있습니다.
@@ -217,8 +215,8 @@ Adobe Commerce I/O 이벤트는 페이로드를 여러 가지 모양으로 전�
 * `orderId = value.entity_id || value.id`
 * `orderTotal = parseFloat(value.grand_total ?? value.base_grand_total ?? value.subtotal ?? '0')`
 * `value.extension_attributes`에서 분할 금액(`extension_attributes` 및 `extensionAttributes` 모두 확인):
-   * `storeCredit = parseFloat(ext.split_store_credit_amount ?? value.split_store_credit_amount ?? '0')`
-   * `cash = parseFloat(ext.split_cash_amount ?? value.split_cash_amount ?? '0')`
+  * `storeCredit = parseFloat(ext.split_store_credit_amount ?? value.split_store_credit_amount ?? '0')`
+  * `cash = parseFloat(ext.split_cash_amount ?? value.split_cash_amount ?? '0')`
 
 **흐름:**
 1. 값을 추출합니다. `orderId`이(가) 없으면 오류를 기록하고 `{ statusCode: 200, body: { ok: false, message: PUBLIC_ERROR } }`을(를) 반환합니다.
