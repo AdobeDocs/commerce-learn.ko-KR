@@ -47,7 +47,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -63,9 +63,9 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3410750?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344444?learn=on)
 
 ## 추가 리소스
 
-* [Adobe Commerce 관찰 - 지원 문서](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?lang=ko&)
-* [Adobe Commerce에 Observation 사용](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html?lang=ko)
+* [Adobe Commerce 관찰 - 지원 문서](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
+* [Adobe Commerce에 Observation 사용](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)

@@ -39,7 +39,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -60,4 +60,4 @@ Adobe ID 또는 Federated ID을 사용하여 Adobe Commerce Admin Portal에 로�
 * 역할 생성 및 관리 이해
 * 사용자 할당 및 액세스 수준을 이해합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3433520?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)

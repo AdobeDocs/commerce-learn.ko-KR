@@ -39,7 +39,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -56,15 +56,15 @@ Adobe Commerce 클라우드 배포 전략, 테스트 모범 사례, 모니터링
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3432826?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427818?learn=on)
 
 ## 비디오에 언급된 Experience League 설명서
 
-* [배포 프로세스](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html?lang=ko)
-* [SWAT 사이트 전체 분석 도구](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=ko)
-* [ECE 도구 스마트 마법사](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html?lang=ko)
-* [보안 검사](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html?lang=ko)
-* [Fastly WAF 웹 애플리케이션 방화벽](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html?lang=ko)
-* [New Relic 서비스 개요](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=ko)
+* [배포 프로세스](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
+* [SWAT 사이트 전체 분석 도구](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+* [ECE 도구 스마트 마법사](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
+* [보안 검사](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
+* [Fastly WAF 웹 애플리케이션 방화벽](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
+* [New Relic 서비스 개요](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

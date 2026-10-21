@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -63,4 +63,4 @@ Adobe Commerce은 단계적 접근 방식으로 Adobe Commerce as a Cloud Servic
 * App Builder 확장성을 사용하면 사용자 정의 논리를 서버리스 함수로 분리하여 간편하게 유지 관리할 수 있습니다.
 * Storefront 개선 사항은 드롭인 구성 요소 및 Edge 전달을 통해 성능과 콘텐츠 생성을 개선합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475755?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737?learn=on)

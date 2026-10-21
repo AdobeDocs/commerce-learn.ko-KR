@@ -37,7 +37,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -58,4 +58,4 @@ Adobe Commerce은 기업이 기술 기술 없이도 단일 백엔드 인터페�
 * 로컬라이제이션 및 맞춤화
 * 확장성 및 유연성
 
->[!VIDEO](https://video.tv.adobe.com/v/3434034?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434027?learn=on)

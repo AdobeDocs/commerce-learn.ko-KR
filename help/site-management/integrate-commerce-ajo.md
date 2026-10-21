@@ -52,14 +52,14 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
 ---
 # Adobe Commerce 및 Adobe Journey Optimizer 통합
 
-Adobe Commerce의 [데이터 연결](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=ko){target="blank"}을(를) 사용하여 Commerce 데이터의 잠금을 해제하고 Adobe Journey Optimizer의 도움을 받아 개인화된 엔드 투 엔드 쇼핑객 경험을 실시간으로 제공하는 방법에 대해 알아봅니다.
+Adobe Commerce의 [데이터 연결](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"}을(를) 사용하여 Commerce 데이터의 잠금을 해제하고 Adobe Journey Optimizer의 도움을 받아 개인화된 엔드 투 엔드 쇼핑객 경험을 실시간으로 제공하는 방법에 대해 알아봅니다.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -76,9 +76,9 @@ Adobe Commerce의 [데이터 연결](https://experienceleague.adobe.com/docs/com
 * Adobe Journey Optimizer에서 데이터 연결에서 사용할 수 있는 기본 여정을 사용하여 1:1 고객 이벤트를 쉽게 작성하고 활성화합니다
 * Adobe Journey Optimizer의 기본 메시징 기능을 사용하여 모든 채널에서 실시간으로 쇼핑객과 소통
 
->[!VIDEO](https://video.tv.adobe.com/v/3452477?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426855?learn=on)
 
 ## 추가 리소스
 
-[데이터 연결 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=ko){target="_blank"}
-[데이터 연결 설치](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html?lang=ko){target="_blank"}
+[데이터 연결 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"}
+[데이터 연결 설치](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html){target="_blank"}

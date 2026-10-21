@@ -45,7 +45,7 @@ topic_v2:
     internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -62,8 +62,8 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3410177?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343750?learn=on)
 
 ## 추가 리소스
 
-[Meta 데이터 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html?lang=ko)
+[Meta 데이터 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)

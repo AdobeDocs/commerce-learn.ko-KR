@@ -40,7 +40,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '559'
 ht-degree: 0%
@@ -70,7 +70,7 @@ Adobe Commerce 관리자에서 그룹화된 제품을 만들 때 먼저 간단�
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3454045?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
 
 ## 그룹화된 제품에 대한 설정
 
@@ -251,6 +251,6 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 ## 추가 리소스
 
 * [그룹화된 제품 만들기 및 관리](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
-* [그룹화된 제품](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html?lang=ko){target="_blank"}
+* [그룹화된 제품](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
 * [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

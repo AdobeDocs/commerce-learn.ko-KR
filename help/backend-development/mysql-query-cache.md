@@ -32,7 +32,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -54,9 +54,9 @@ MySQL 쿼리 캐시가 무엇이며 작동 방식에 대한 기본적인 이해�
 * SQL을 저장하고 일치하는 쿼리 캐시를 찾는 데 사용하는 방법을 확인하십시오.
 * 구성 설정에 대한 몇 가지 팁
 
->[!VIDEO](https://video.tv.adobe.com/v/3423387?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
 
 ## 유용한 리소스
 
-* [일반 MySQL 지침](https://experienceleague.adobe.com/ko/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
-* [Galera 복제 및 느린 쿼리](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"}
+* [일반 MySQL 지침](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
+* [Galera 복제 및 느린 쿼리](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"}

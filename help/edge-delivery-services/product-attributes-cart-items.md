@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -67,9 +67,9 @@ Adobe Commerce 장바구니를 사용자 정의하고 확장하는 방법을 알
 * 이 정보를 효과적으로 표시하기 위해 장바구니 규칙 및 바닥글 슬롯을 사용하여 표시되는 쿠폰 할인.
 * 제품 속성 및 슬롯을 사용하여 장바구니 기능을 확장하고 사용자 정의하여 모든 프로젝트 요구 사항이 충족되도록 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441123?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
 
 
 ## 추가 설명서
 
-* [장바구니에 제품 라인 추가](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=ko)
+* [장바구니에 제품 라인 추가](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)

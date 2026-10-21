@@ -46,7 +46,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -64,6 +64,6 @@ Adobe Commerce B2B 견적 기능이 일관되고 유효한 견적 프로세스�
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3423722?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420413?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

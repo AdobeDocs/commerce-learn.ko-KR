@@ -33,7 +33,7 @@ topic_v2:
     internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -55,4 +55,4 @@ ht-degree: 0%
 * 멀티 세션 데스크 사이드 코칭을 통해 기술 격차를 줄이고 전략적 우선 순위에 맞춥니다.
 * 적절한 제품 채택 및 모범 사례를 보장하기 위한 액세스, 권한 및 디자인 거버넌스 창출
 
->[!VIDEO](https://video.tv.adobe.com/v/3463085?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457657?learn=on)

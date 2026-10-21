@@ -46,7 +46,7 @@ level_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
     internal-label: Metadata
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -66,7 +66,7 @@ ht-degree: 0%
 * 이름 충돌, 스키마 가용성 및 기타 스키마 구문 문제와 같은 오류를 해결하는 방법
 * 수정된 구성으로 메쉬 업데이트
 
->[!VIDEO](https://video.tv.adobe.com/v/3419790?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?learn=on)
 
 ## JSON 구성 파일 만들기
 

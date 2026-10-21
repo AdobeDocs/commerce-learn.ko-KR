@@ -27,7 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -51,5 +51,5 @@ Salesforce Commerce Cloud 인스턴스용 Adobe Commerce Optimizer 카트리지�
 * 사용자 정의 개체 및 작업 정의를 가져와서 추적 및 동기화를 지원합니다.
 * 사용자 지정 API 끝점을 테스트하여 성공적인 설치를 확인하고 카탈로그 동기화를 준비합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476077?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
 

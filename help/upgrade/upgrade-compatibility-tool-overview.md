@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -58,7 +58,7 @@ ht-degree: 0%
 * 최신 Adobe Commerce 버전으로 업그레이드하는 데 필요한 오류 및 수정 사항을 신속하게 식별하는 데 도움이 되는 방법
 * 심각도 및 비호환성 수로 모듈을 시각화하려면 HTML 결과에 액세스하십시오
 
-도구에 대한 자세한 내용은 [호환성 도구 업그레이드 설명서](https://experienceleague.adobe.com/ko/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview)를 참조하세요. 업그레이드 수행 및 단순화에 대한 자세한 내용은 [업그레이드 안내서](https://experienceleague.adobe.com/ko/docs/commerce-operations/upgrade-guide/overview)를 참조하세요.
+도구에 대한 자세한 내용은 [호환성 도구 업그레이드 설명서](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview)를 참조하세요. 업그레이드 수행 및 단순화에 대한 자세한 내용은 [업그레이드 안내서](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/overview)를 참조하세요.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -67,11 +67,11 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/344386?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341245?learn=on)
 
 ## 추가 리소스
 
-* [업그레이드 호환성 도구 설명서](https://experienceleague.adobe.com/ko/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview)
-* [업그레이드 안내서](https://experienceleague.adobe.com/ko/docs/commerce-operations/upgrade-guide/overview)
-* [릴리스된 버전](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/versions)
-* [릴리스 일정](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/planning/schedule)
+* [업그레이드 호환성 도구 설명서](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview)
+* [업그레이드 안내서](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/overview)
+* [릴리스된 버전](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions)
+* [릴리스 일정](https://experienceleague.adobe.com/en/docs/commerce-operations/release/planning/schedule)

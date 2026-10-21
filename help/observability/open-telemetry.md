@@ -37,7 +37,7 @@ topic_v2:
     internal-label: Troubleshooting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Open Telemetry가 단일 모니터링 도구로 잠그지 않고 로그, 추적 
 * 로그, 추적 및 지표의 상관 관계를 파악하여 근본 원인 분석 속도 향상
 * 데이터 스트림을 통합하면서 기존 모니터링 도구 유지
 
->[!VIDEO](https://video.tv.adobe.com/v/3478330?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

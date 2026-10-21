@@ -37,7 +37,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 Adobe Commerce Cloud cli 명령을 사용하여 관리 URI를 재설정하는 방법에 대해 알아봅니다. 이 기능은 관리자로부터 관리자 URL을 변경했지만 오류가 발생하여 더 이상 관리자에 액세스할 수 없는 경우에 유용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439699?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435066?learn=on)
 
 ## 자습서에서 사용되는 일부 명령
 

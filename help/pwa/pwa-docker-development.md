@@ -44,7 +44,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3430972?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35784?learn=on)
 
 ## 유용한 리소스
 

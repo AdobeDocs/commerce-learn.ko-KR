@@ -49,7 +49,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -66,7 +66,7 @@ REST API 및 Adobe Commerce 관리자를 사용하여 기프트 카드 제품을
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3453084?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
 
 ## 간단한 페이로드로 기프트 카드 만들기
 
@@ -360,6 +360,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## 추가 리소스
 
-* [Commerce 관리자로부터 기프트 카드 제품 만들기](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=ko){target="_blank"}
+* [Commerce 관리자로부터 기프트 카드 제품 만들기](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
 * [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

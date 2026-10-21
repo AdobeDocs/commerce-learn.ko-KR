@@ -62,7 +62,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -85,4 +85,4 @@ Adobe Commerce의 2026년 로드맵에서는 실시간 데이터 공유, 개인�
 * 판매자 센터 및 관리자 경험
 * 개발자 경험 및 가시성 개선 사항
 
->[!VIDEO](https://video.tv.adobe.com/v/3475713?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475695?learn=on)

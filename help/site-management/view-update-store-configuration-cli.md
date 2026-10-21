@@ -37,7 +37,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Commerce CLI를 사용하여 구성 값을 보고, 설정하고, 찾는 방법�
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3439977?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427123?learn=on)
 
 ## 자습서에서 사용되는 일부 명령
 
@@ -87,5 +87,5 @@ SELECT * FROM core_config_data WHERE path = 'trans_email/ident_sales/email';
 
 ## 추가 리소스
 
-* [명령줄 도구](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html?lang=ko){target="_blank"}
-* [관리자 보안 구성](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html?lang=ko){target="_blank"}
+* [명령줄 도구](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+* [관리자 보안 구성](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}

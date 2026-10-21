@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -49,8 +49,8 @@ Adobe Experience League for Adobe Commerce 내에서 지원 티켓을 검색, �
 * 개방형 지원 티켓에 댓글을 추가하는 방법 알아보기
 * 지원 티켓을 확대하는 방법 및 몇 가지 이유를 알아봅니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3445318?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
 
 ## Commerce 기술 자료 Adobe 도움말 센터 안내서
 
-[지원 사례 제출](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[지원 사례 제출](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)

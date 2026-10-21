@@ -50,7 +50,7 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -71,4 +71,4 @@ Adobe Commerce이 첨단 AI 솔루션과 SaaS 우선 전략을 통해 전자 상
 * 카탈로그 혁신을 통한 글로벌 확장 가속화
 * 대화형 Commerce을 통해 Storefront 경험 향상
 
->[!VIDEO](https://video.tv.adobe.com/v/3475702?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475691?learn=on)

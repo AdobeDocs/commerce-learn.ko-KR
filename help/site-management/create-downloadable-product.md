@@ -47,7 +47,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '664'
 ht-degree: 4%
@@ -64,7 +64,7 @@ REST API 및 Adobe Commerce 관리자를 사용하여 다운로드 가능한 제
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3453951?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
 
 ## 허용된 다운로드 가능한 도메인
 
@@ -88,7 +88,7 @@ REST API 및 Adobe Commerce 관리자를 사용하여 다운로드 가능한 제
 
 도메인이 `env.php`에 추가되었으므로 이제 Adobe Commerce 관리자 또는 REST API를 사용하여 다운로드 가능한 제품을 만들 수 있습니다.
 
-자세한 내용은 [구성 참조](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=ko#downloadable_domains)를 참조하세요.
+자세한 내용은 [구성 참조](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains)를 참조하세요.
 
 >[!IMPORTANT]
 >일부 Adobe Commerce 버전에서는 Adobe Commerce 관리에서 제품을 편집할 때 다음 오류가 발생할 수 있습니다. REST API를 사용하여 제품이 만들어졌지만 연결된 다운로드의 가격은 `null`입니다.
@@ -270,7 +270,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## 추가 리소스
 
-* [다운로드 가능한 제품 유형](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=ko){target="_blank"}
-* [다운로드 가능한 도메인 구성 안내서](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=ko#downloadable_domains){target="_blank"}
+* [다운로드 가능한 제품 유형](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
+* [다운로드 가능한 도메인 구성 안내서](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
 * [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

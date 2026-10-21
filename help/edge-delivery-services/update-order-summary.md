@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -65,8 +65,8 @@ Adobe Commerce 장바구니 드롭인을 사용하고 장바구니 경험을 조
 * 장바구니 요약에 대해 저장된 총 금액을 포함하는 방법을 알아봅니다.
 * 장바구니 요약의 줄을 하나의 접기 가능한 섹션으로 병합하는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441192?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
 
 ## 추가 설명서
 
-* [주문 요약](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=ko)
+* [주문 요약](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)

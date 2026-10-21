@@ -41,7 +41,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -62,10 +62,10 @@ ht-degree: 0%
 * 테스트를 위한 내장 도구: 사전 구성된 GraphQL 서버(Yoga)와 원활한 개발을 위한 자동 서버 재시작이 포함되어 있습니다.
 * 실제 학습: 브라우저에서 시작 키트를 복제하고 끝점을 구성하고 API 응답을 직접 테스트합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464024?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464017?learn=on)
 
 ## 관련 설명서
 
 * [API 메쉬 스타터 키트 GitHub 리포지토리](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Adobe Developer 문서 graphql-mesh-gateway](https://developer.adobe.com/graphql-mesh-gateway/)
-* [API Mesh 비디오 재생 목록](https://experienceleague.adobe.com/ko/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [API Mesh 비디오 재생 목록](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)

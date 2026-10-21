@@ -31,7 +31,7 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '1000'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 GraphQL 및 Adobe Commerce 시리즈 2부입니다. 이 자습서와 비디오에서는 GraphQL 쿼리와 Adobe Commerce에서 쿼리를 수행하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450065?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
 
 ## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
 

@@ -38,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -63,8 +63,8 @@ Edge Delivery Services에서 Adobe Commerce 장바구니를 사용하여 온라�
 * 게재 및 매장 픽업 간 전환
 * 픽업 위치 가져오는 중
 
->[!VIDEO](https://video.tv.adobe.com/v/3441707?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441699?learn=on)
 
 ## 추가 설명서
 
-* [스토어에서 온라인 픽업 구매](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/?lang=ko)
+* [스토어에서 온라인 픽업 구매](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/)

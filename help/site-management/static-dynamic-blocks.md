@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 jira: KT-17150
 duration: 302
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
-badgePaas: label="PaaS만" type="Informative" url="https://experienceleague.adobe.com/ko/docs/commerce/user-guides/product-solutions" tooltip="Adobe Commerce 온 클라우드 프로젝트(Adobe 관리 PaaS 인프라) 및 온프레미스 프로젝트에만 적용됩니다."
+badgePaas: label="PaaS만" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Adobe Commerce 온 클라우드 프로젝트(Adobe 관리 PaaS 인프라) 및 온프레미스 프로젝트에만 적용됩니다."
 TQID: 'https://experienceleague.adobe.com/D7zN1UEk8ua0lOpt3oQtdWO5ndbH2cf6Gom1P8NbN0U'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -48,7 +48,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -64,9 +64,9 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3411071?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343783?learn=on)
 
 ## 추가 리소스
 
-* [블록 - [!DNL Commerce] 콘텐츠 및 디자인 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html?lang=ko)
-* [동적 블록 - [!DNL Commerce] 콘텐츠 및 디자인 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html?lang=ko)
+* [블록 - [!DNL Commerce] 콘텐츠 및 디자인 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
+* [동적 블록 - [!DNL Commerce] 콘텐츠 및 디자인 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)

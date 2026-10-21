@@ -34,7 +34,7 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -53,10 +53,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=ko)를 참조하세요.
+>이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)를 참조하세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/330077?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35960?learn=on)
 
 ## 추가 리소스
 
-[Admin Grid Controls - [!DNL Commerce] 시작 안내서](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html?lang=ko)
+[Admin Grid Controls - [!DNL Commerce] 시작 안내서](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)

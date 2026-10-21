@@ -34,7 +34,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -55,7 +55,7 @@ pt-query-digest를 사용하는 이유와 분석을 개선하는 데 도움이 �
 * 이 Percona Toolkit 기능의 장점과 단점에 대해 알아보십시오
 * 결과를 이해하고 가능한 성능 단계를 고려해야 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452301?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
 
 ## 코드 참조
 

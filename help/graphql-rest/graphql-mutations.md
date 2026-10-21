@@ -34,7 +34,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 0%
@@ -44,7 +44,7 @@ ht-degree: 0%
 GraphQL 및 Adobe Commerce 시리즈 3부입니다. 돌연변이는 GraphQL을 사용하여 값을 저장, 업데이트 및 반환하는 기능입니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441932?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
 
 ## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
 

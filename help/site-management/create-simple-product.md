@@ -40,7 +40,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -57,7 +57,7 @@ REST API 및 Adobe Commerce 관리자를 사용하여 간단한 제품을 만드
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3443909?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
 
 ## curl을 사용하여 제품 만들기
 

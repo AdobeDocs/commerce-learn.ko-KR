@@ -37,7 +37,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -63,10 +63,10 @@ ht-degree: 0%
 * PhpStorm에서 UCT를 설치하고 실행합니다.
 * HTML 보고서를 검토하고 수정 사항의 우선 순위를 지정합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/344408?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
 
 ## 추가 리소스
 
-* [업그레이드 호환성 도구](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=ko){target="_blank"}
+* [업그레이드 호환성 도구](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html){target="_blank"}
 * [Magento PhpStorm 플러그인](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm){target="_blank"}
-* [릴리스된 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=ko){target="_blank"}
+* [릴리스된 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html){target="_blank"}

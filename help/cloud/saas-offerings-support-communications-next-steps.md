@@ -49,7 +49,7 @@ topic_v2:
     internal-label: Machine learning
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 0%
@@ -66,7 +66,7 @@ Adobe Commerce Cloud SaaS 서비스, 지원 및 기타 커뮤니케이션 및 �
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3432840?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on)
 
 ## 두문자어
 
@@ -109,22 +109,22 @@ Adobe Commerce Cloud SaaS 서비스, 지원 및 기타 커뮤니케이션 및 �
 
 ## 비디오에 언급된 Experience League 설명서
 
-* [검색 열기](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/opensearch.html?lang=ko)
-* [라이브 검색](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=ko)
-* [제품 추천](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=ko)
-* [라이브 검색 및 카탈로그 서비스](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2023/nov2023/nov-commerce/commerce-search-and-catalog-service.html?lang=ko)
-* [카탈로그 서비스 가격 색인화](https://experienceleague.adobe.com/docs/commerce-merchant-services/price-indexer/price-indexing.html?lang=ko)
+* [검색 열기](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/opensearch.html)
+* [라이브 검색](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+* [제품 추천](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
+* [라이브 검색 및 카탈로그 서비스](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2023/nov2023/nov-commerce/commerce-search-and-catalog-service.html)
+* [카탈로그 서비스 가격 색인화](https://experienceleague.adobe.com/docs/commerce-merchant-services/price-indexer/price-indexing.html)
 * [App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-technical-overview.html)
-* [공동 책임](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html?lang=ko)
+* [공동 책임](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html)
 * [고객 데이터 액세스 및 개인 정보 보호](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
-* [Commerce 인증](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html?lang=ko)
+* [Commerce 인증](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
 * [Commerce 학습 과정](https://learning.adobe.com/catalog.html?products=Commerce)
 * [Commerce 커뮤니티 포럼](https://community.magento.com/)
-* [Fastly 구성](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html?lang=ko)
-* [성능 테스트](https://experienceleague.adobe.com/ko/docs/commerce-operations/implementation-playbook/best-practices/maintenance/backend-performance)
-* [사이트 전체 분석 도구 - SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?lang=ko&)
-* [Adobe Commerce을 위한 new Relic Observation](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html?lang=ko)
-* [보안 패치](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html?lang=ko)
-* [시작 체크리스트](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html?lang=ko)
+* [Fastly 구성](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
+* [성능 테스트](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/backend-performance)
+* [사이트 전체 분석 도구 - SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?)
+* [Adobe Commerce을 위한 new Relic Observation](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
+* [보안 패치](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html)
+* [시작 체크리스트](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

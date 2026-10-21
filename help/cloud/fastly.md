@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -58,13 +58,13 @@ Adobe Commerce용 Fastly의 클라우드 사용에 대해 알아봅니다.
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3432809?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427695?learn=on)
 
 ## 비디오에 언급된 Experience League 설명서 및 Fastly Adobe Commerce 검사기
 
 * [Fastly 검사기](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
-* [Experience League의 Fastly 서비스](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html?lang=ko)
-* [Fastly WAF FAQ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html?lang=ko)
-* [이미지 최적화](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html?lang=ko)
+* [Experience League의 Fastly 서비스](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html)
+* [Fastly WAF FAQ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html)
+* [이미지 최적화](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

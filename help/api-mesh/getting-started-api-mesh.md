@@ -37,7 +37,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -63,7 +63,7 @@ API Mesh는 여러 데이터 소스를 결합하여 애플리케이션이 사용
 * 체크아웃 시 실시간 인벤토리 확인을 위한 사용 사례
 * 개발 노력 및 리소스 사용을 상거래 애플리케이션에서 멀리 이동
 
->[!VIDEO](https://video.tv.adobe.com/v/3421889?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?learn=on)
 
 ## 예시 사용 사례
 

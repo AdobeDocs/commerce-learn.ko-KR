@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Galera 클러스터는 성능과 확장성에 도움이 됩니다. 복제본 데
 * 대량 실행은 기본 실행에서만 발생합니다. 복제는 한 번에 1개씩 수행됩니다.
 * 복제가 기본 커밋을 유지할 수 있도록 대용량 커밋을 배치합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423543?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## 유용한 리소스
 

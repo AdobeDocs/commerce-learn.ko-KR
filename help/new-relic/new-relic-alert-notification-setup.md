@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -61,4 +61,4 @@ New Relic에서 경고, 정책, 워크플로우 및 대상을 찾는 방법을 �
 * 경고 알림, 정책 및 워크플로에 대해 알아보기
 * 대상을 저장하고 새 이메일이 정책에 추가되었는지 확인하는 중
 
->[!VIDEO](https://video.tv.adobe.com/v/3441210?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)
