@@ -69,4 +69,4 @@ Adobe Commerce as a Cloud Service은 자동 업데이트 및 구성 가능한 �
 
 ## 관련 설명서
 
-* [Adobe Commerce as a Cloud Service 안내서](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)
+* [Adobe Commerce as a Cloud Service 안내서](https://experienceleague.adobe.com/ko/docs/commerce/cloud-service/overview)

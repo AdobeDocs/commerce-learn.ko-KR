@@ -60,11 +60,11 @@ Adobe Commerce의 클라우드 인프라와 몇 가지 개발 모범 사례에 �
 
 ## 비디오에 언급된 Experience League 설명서
 
-* [Rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html#migrate-files-using-rsync)
-* [SFTP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html#sftp)
-* [COMMERCE CLOUD CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
-* [Adobe Commerce 업그레이드 및 패치 적용](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html)
-* [Adobe Commerce 사전 실행 검사 목록](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
-* [지원 티켓 만들기](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
+* [Rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html?lang=ko#migrate-files-using-rsync)
+* [SFTP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html?lang=ko#sftp)
+* [COMMERCE CLOUD CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=ko)
+* [Adobe Commerce 업그레이드 및 패치 적용](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html?lang=ko)
+* [Adobe Commerce 사전 실행 검사 목록](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html?lang=ko)
+* [지원 티켓 만들기](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ko)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

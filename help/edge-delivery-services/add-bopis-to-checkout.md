@@ -67,4 +67,4 @@ Edge Delivery Services에서 Adobe Commerce 장바구니를 사용하여 온라�
 
 ## 추가 설명서
 
-* [스토어에서 온라인 픽업 구매](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/)
+* [스토어에서 온라인 픽업 구매](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/?lang=ko)
