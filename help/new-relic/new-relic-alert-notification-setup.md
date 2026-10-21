@@ -61,4 +61,4 @@ New Relic에서 경고, 정책, 워크플로우 및 대상을 찾는 방법을 �
 * 경고 알림, 정책 및 워크플로에 대해 알아보기
 * 대상을 저장하고 새 이메일이 정책에 추가되었는지 확인하는 중
 
->[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441210?captions=kor&learn=on)

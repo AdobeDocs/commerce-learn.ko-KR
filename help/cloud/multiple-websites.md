@@ -58,4 +58,4 @@ Adobe Commerce은 기업이 기술 기술 없이도 단일 백엔드 인터페�
 * 로컬라이제이션 및 맞춤화
 * 확장성 및 유연성
 
->[!VIDEO](https://video.tv.adobe.com/v/3434027?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434034?captions=kor&learn=on)

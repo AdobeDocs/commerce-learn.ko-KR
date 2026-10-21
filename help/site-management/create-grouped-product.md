@@ -70,7 +70,7 @@ Adobe Commerce 관리자에서 그룹화된 제품을 만들 때 먼저 간단�
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454045?captions=kor&learn=on)
 
 ## 그룹화된 제품에 대한 설정
 

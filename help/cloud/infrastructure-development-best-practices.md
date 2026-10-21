@@ -56,7 +56,7 @@ Adobe Commerce의 클라우드 인프라와 몇 가지 개발 모범 사례에 �
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3427679?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432799?captions=kor&learn=on)
 
 ## 비디오에 언급된 Experience League 설명서
 

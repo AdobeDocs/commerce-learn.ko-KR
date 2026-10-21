@@ -63,7 +63,7 @@ Adobe Commerce as a Cloud Service에서 새로운 고객 REST API를 사용하�
 * Commerce as a Cloud Service에 올바른 REST API 끝점 형식 사용
 * 적절한 JSON 페이로드가 있는 POST 및 PUT 요청을 사용하여 프로그래밍 방식으로 고객 계정을 만들고 업데이트합니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479369?captions=kor&learn=on)
 
 ## 코드 샘플
 
