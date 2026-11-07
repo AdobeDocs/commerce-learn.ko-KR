@@ -54,4 +54,4 @@ Adobe Commerce은 다양한 계획과 추가 기능을 통해 포괄적인 고�
 * 사용 가능한 추가 기능을 알아봅니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457545?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505278?captions=kor&learn=on)

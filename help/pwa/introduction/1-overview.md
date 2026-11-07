@@ -63,7 +63,7 @@ ht-degree: 12%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/35715?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507721?captions=kor&learn=on)
 
 ## 유용한 리소스
 
