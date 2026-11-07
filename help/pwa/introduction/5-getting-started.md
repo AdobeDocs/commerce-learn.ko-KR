@@ -63,4 +63,4 @@ ht-degree: 0%
 
 ## 비디오 컨텐츠:
 
->[!VIDEO](https://video.tv.adobe.com/v/35719?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507664?captions=kor&learn=on)

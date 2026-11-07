@@ -66,7 +66,7 @@ ht-degree: 0%
 * 레이아웃 업데이트 및 템플릿을 통해 스크립트를 연결합니다.
 * 페이지에서 인사말을 확인합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35790?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507648?captions=kor&learn=on)
 
 ## 유용한 리소스
 

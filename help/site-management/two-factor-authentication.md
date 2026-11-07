@@ -58,7 +58,7 @@ ht-degree: 0%
 >
 >이 비디오의 콘텐츠는 2.4.0 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/overview)를 참조하세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/339104?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507684?captions=kor&learn=on)
 
 ## 추가 리소스
 
