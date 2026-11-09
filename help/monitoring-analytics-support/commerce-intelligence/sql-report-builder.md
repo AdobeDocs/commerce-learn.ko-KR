@@ -65,7 +65,7 @@ Adobe Commerce Intelligence SQL Report Builder을 사용하면 데이터 웨어�
 * 쿼리 결과에서 시각화를 작성합니다.
 * 보고서를 팀의 대시보드에 저장합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342406?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346414?captions=kor&learn=on)
 
 ## 유용한 리소스
 
