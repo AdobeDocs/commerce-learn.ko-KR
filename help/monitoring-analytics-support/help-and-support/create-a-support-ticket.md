@@ -1,0 +1,68 @@
+---
+title: 지원 티켓 만들기
+description: 동적 양식 필드 작성 방법 및 기타 연락처 참조 등 Adobe Experience League에서 Adobe Commerce에 대한 지원 티켓을 만드는 방법을 알아봅니다.
+feature: Customer Service, Support
+topic: Commerce
+role: Admin, Developer, User
+level: Beginner
+doc-type: Technical Video
+duration: 355
+last-substantial-update: 2024-08-23T00:00:00.000Z
+jira: KT-15165
+exl-id: f1ade4e9-f6c3-4498-afad-27c0120242be
+TQID: 'https://experienceleague.adobe.com/S2bl2x6FNq0bvaWUlTMoCHWSYaxmwLliNVewsDxKNh4'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: da76473c-f99b-5ad0-9b14-896aed473f8a
+    internal-label: Services
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: deedbb4d-f1b7-58ea-a34a-de1f481f9d4c
+    internal-label: Customer Service
+  - id: a59f76dc-e003-5617-951e-dffa5bd3de81
+    internal-label: Support
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
+workflow-type: tm+mt
+source-wordcount: '166'
+ht-degree: 0%
+---
+# Adobe Experience League를 사용하여 지원 티켓 만들기
+
+Adobe Experience League for Adobe Commerce 내에서 지원 티켓을 만드는 방법을 알아봅니다.
+
+## 이 비디오는 누구의 것입니까?
+
+* Adobe Experience League에서 Adobe Commerce에 대한 지원 요청을 만들 수 있는 권한이 있는 사람
+
+## 비디오 콘텐츠 {#video-content}
+
+* Adobe Experience League에 로그인하는 방법 알아보기
+* 새 지원 티켓을 만들 때 동적 양식 요소에 대해 알아봅니다
+* 양식에 사용된 정보에 따라 권장 문서가 어떻게 변경되는지 알아봅니다
+* 양식 필드에 있는 자리 표시자 텍스트가 올바른 지원 요청에 필요한 정보 유형을 이해하는 데 어떻게 도움이 되는지 알아봅니다
+
+>[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
+
+## Commerce 기술 자료 Adobe 도움말 센터 안내서
+
+[지원 사례 제출](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)

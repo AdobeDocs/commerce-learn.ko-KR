@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 43c67e910e10d5db0f8c14ea24ba97ba89bd35d2
+source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
 workflow-type: tm+mt
-source-wordcount: '1006'
+source-wordcount: '1003'
 ht-degree: 3%
 ---
 
@@ -112,7 +112,7 @@ ht-degree: 3%
     + [결론](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder 시험 실행](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 백엔드 개발 {#backend-development}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../backend-development/create-module.md)
     + [제품 속성 추가](../backend-development/add-product-attribute.md)
     + [종속성 삽입 예](../backend-development/dependency-injection.md)
@@ -221,10 +221,7 @@ ht-degree: 3%
   + [대량 패키지](../global-reference-architecture/bulk-packages.md)
   + [개별 패키지](../global-reference-architecture/separate-packages.md)
   + [모노레포](../global-reference-architecture/monorepo.md)
-+ 도움말 및 지원 {#help-and-support}
-  + [지원 티켓 만들기](../help-and-support/create-a-support-ticket.md)
-  + [지원 티켓 검색, 추적, 댓글 달기 및 에스컬레이션](../help-and-support/search-track-comment-escalate-support-ticket.md)
-  + [감시자 추가 및 제거, 티켓 닫기 및 다시 열기](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ [모니터링, 분석 및 지원](https://experienceleague.adobe.com/en/docs/commerce-learn/monitoring-analytics-support/help-and-support/create-a-support-ticket)
 
 + 저장소 관리 {#admin}
   + [사용자 역할 및 권한 관리](../site-management/users-roles-permissions.md)
