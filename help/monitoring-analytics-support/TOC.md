@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 모니터링, 분석 및 지원 {#monitoring-analytics-support}
 
-+ [Commerce 자습서 홈](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/overview)
++ [Commerce 자습서 홈](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/overview)
 + 도움말 및 지원 {#help-and-support}
   + [지원 티켓 만들기](help-and-support/create-a-support-ticket.md)
   + [지원 티켓 검색, 추적, 댓글 달기 및 에스컬레이션](help-and-support/search-track-comment-escalate-support-ticket.md)
