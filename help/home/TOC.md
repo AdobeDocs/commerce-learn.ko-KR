@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
+source-git-commit: 0109e556addb09b7f930793feadc8ed245757f5a
 workflow-type: tm+mt
-source-wordcount: '1003'
+source-wordcount: '1007'
 ht-degree: 3%
 ---
 
@@ -112,7 +112,7 @@ ht-degree: 3%
     + [결론](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder 시험 실행](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 백엔드 개발 {#backend-development}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../backend-development/create-module.md)
     + [제품 속성 추가](../backend-development/add-product-attribute.md)
     + [종속성 삽입 예](../backend-development/dependency-injection.md)
@@ -210,18 +210,22 @@ ht-degree: 3%
     + [단일 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-single-source.md)
     + [여러 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-multiple-source.md)
 
-+ 가시성 {#observability}
-  + [가시성 개요](../observability/overview.md)
-  + [원격 분석 열기](../observability/open-telemetry.md)
-  + [데모 설정 및 구성](../observability/demo-setup-configuration.md)
-  + [데모](../observability/demo.md)
 + 글로벌 참조 아키텍처 {#global-reference-architecture-implementation-techniques}
   + [개요](../global-reference-architecture/overview.md)
   + [Git 분할](../global-reference-architecture/split-git.md)
   + [대량 패키지](../global-reference-architecture/bulk-packages.md)
   + [개별 패키지](../global-reference-architecture/separate-packages.md)
   + [모노레포](../global-reference-architecture/monorepo.md)
-+ [모니터링, 분석 및 지원](https://experienceleague.adobe.com/en/docs/commerce-learn/monitoring-analytics-support/help-and-support/create-a-support-ticket)
++ 모니터링, 분석 및 지원 {#monitoring-analytics-support}
+  + 가시성 {#observability}
+    + [가시성 개요](../monitoring-analytics-support/observability/overview.md)
+    + [원격 분석 열기](../monitoring-analytics-support/observability/open-telemetry.md)
+    + [데모 설정 및 구성](../monitoring-analytics-support/observability/demo-setup-configuration.md)
+    + [데모](../monitoring-analytics-support/observability/demo.md)
+  + 도움말 및 지원 {#help-and-support}
+    + [지원 티켓 만들기](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
+    + [지원 티켓 검색, 검토, 주석 달기 및 에스컬레이션](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
+    + [지원 티켓 감시자 및 상태 관리](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
 + 저장소 관리 {#admin}
   + [사용자 역할 및 권한 관리](../site-management/users-roles-permissions.md)
