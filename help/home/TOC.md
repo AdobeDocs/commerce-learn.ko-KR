@@ -4,15 +4,39 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
+source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
 workflow-type: tm+mt
-source-wordcount: '1007'
+source-wordcount: '1016'
 ht-degree: 3%
 ---
 
 # Adobe Commerce 비디오 및 자습서 {#tutorials}
 
 + [[!DNL Commerce] 튜토리얼](overview.md)
++ Adobe Commerce as a Cloud Service {#commerce-as-a-cloud-service}
+  + [개요](../commerce-as-a-cloud-service/overview.md)
+  + [아키텍처](../commerce-as-a-cloud-service/architecture.md)
+  + 제품 둘러보기 {#product-overview}
+    + [소개](../commerce-as-a-cloud-service/product-overview/introduction.md)
+    + [환경 설정](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
+    + [컨텐츠 작성](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+    + [콘텐츠 현지화 및 예약](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
+    + [GenAI 기반 콘텐츠 제작](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
+    + [카탈로그 관리 및 머천다이징 서비스](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
+    + [Commerce storefront 실험](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
+    + [Commerce 상점 속도](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
+    + [Commerce storefront full shopper 여정](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
+    + [컴포저블 상점 및 모듈식 아키텍처](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
+    + [확장성](../commerce-as-a-cloud-service/product-overview/extensibility.md)
+    + [현대화 및 마이그레이션](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
+    + [닫는 중](../commerce-as-a-cloud-service/product-overview/closing.md)
+  + 대량 데이터 마이그레이션 도구 {#bulk-data-migration-tool}
+    + [소개](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
+    + [Source 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
+    + [DB 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
+    + [Target 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
+    + [단일 단계 마이그레이션](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
+    + [다단계 마이그레이션](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
   + 문제 해결 {#troubleshooting}
     + [잘못된 SSL](../cloud/troubleshooting/invalid-ssl.md)
@@ -44,32 +68,6 @@ ht-degree: 3%
     + [지원 요청](../cloud/best-practices/support-request.md)
     + [실행 전 검사 목록](../cloud/best-practices/pre-launch-checklist.md)
 + 시작 {#getting-started}
-  + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
-    + [개요](../commerce-as-a-cloud-service/overview.md)
-    + [아키텍처](../commerce-as-a-cloud-service/architecture.md)
-    + Webapi-rest{#webapi-rest}
-      + [고객](../commerce-as-a-cloud-service/webapi-rest/customer.md)
-    + 제품 개요{#product-overview}
-      + [소개](../commerce-as-a-cloud-service/product-overview/introduction.md)
-      + [환경 설정](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
-      + [콘텐츠 작성](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
-      + [콘텐츠 현지화 및 예약](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
-      + [GenAI 기반 콘텐츠 제작](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
-      + [카탈로그 관리 및 머천다이징 서비스](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
-      + [Commerce storefront 실험](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
-      + [Commerce 상점 속도](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
-      + [Commerce 상점 전체 쇼핑객 여정](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
-      + [컴포저블 상점 및 모듈식 아키텍처](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
-      + [확장성](../commerce-as-a-cloud-service/product-overview/extensibility.md)
-      + [현대화 및 마이그레이션](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
-      + [닫기](../commerce-as-a-cloud-service/product-overview/closing.md)
-    + 대량 데이터 마이그레이션 도구{#bulk-data-migration-tool}
-      + [소개](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
-      + [Source 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
-      + [DB 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
-      + [Target 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
-      + [단일 단계 마이그레이션](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
-      + [다단계 마이그레이션](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
   + Adobe Commerce으로 마이그레이션{#migrating-to-adobe-commerce}
     + [개요](../migrating-to-adobe-commerce/overview.md)
     + 준비{#preparation}
@@ -101,6 +99,10 @@ ht-degree: 3%
     + [Webhook 수집](../back-office-integrations/webhook-ingestion.md)
     + [재시도 메커니즘](../back-office-integrations/retry-mechanism.md)
 
++ API 및 통합 {#apis-and-integration}
+  + Practical REST 및 GraphQL 예 {#examples}
+    + [REST 사용 고객](../apis-and-integration/examples/customer.md)
+
 + 확장성 {#extensibility}
   + Commerce 개발자 에이전트 {#commerce-developer-agent}
     + [개요](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
@@ -112,7 +114,7 @@ ht-degree: 3%
     + [결론](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder 시험 실행](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 백엔드 개발 {#backend-development}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../backend-development/create-module.md)
     + [제품 속성 추가](../backend-development/add-product-attribute.md)
     + [종속성 삽입 예](../backend-development/dependency-injection.md)
