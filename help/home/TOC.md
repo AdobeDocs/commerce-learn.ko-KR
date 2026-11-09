@@ -4,7 +4,7 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 0109e556addb09b7f930793feadc8ed245757f5a
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
 source-wordcount: '1007'
 ht-degree: 3%
@@ -112,7 +112,7 @@ ht-degree: 3%
     + [결론](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder 시험 실행](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 백엔드 개발 {#backend-development}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../backend-development/create-module.md)
     + [제품 속성 추가](../backend-development/add-product-attribute.md)
     + [종속성 삽입 예](../backend-development/dependency-injection.md)
@@ -222,6 +222,14 @@ ht-degree: 3%
     + [원격 분석 열기](../monitoring-analytics-support/observability/open-telemetry.md)
     + [데모 설정 및 구성](../monitoring-analytics-support/observability/demo-setup-configuration.md)
     + [데모](../monitoring-analytics-support/observability/demo.md)
+  + Commerce Intelligence {#commerce-intelligence}
+    + [시작](../monitoring-analytics-support/commerce-intelligence/getting-started.md)
+    + [통합 및 구성](../monitoring-analytics-support/commerce-intelligence/integrations-configurations.md)
+    + [보고서 및 대시보드](../monitoring-analytics-support/commerce-intelligence/reports-and-dashboards.md)
+    + [필터 세트](../monitoring-analytics-support/commerce-intelligence/filter-sets.md)
+    + [코호트 Report Builder](../monitoring-analytics-support/commerce-intelligence/cohort-report-builder.md)
+    + [SQL REPORT BUILDER](../monitoring-analytics-support/commerce-intelligence/sql-report-builder.md)
+    + [미래를 위한 준비](../monitoring-analytics-support/commerce-intelligence/prepare-for-future.md)
   + 도움말 및 지원 {#help-and-support}
     + [지원 티켓 만들기](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [지원 티켓 검색, 검토, 주석 달기 및 에스컬레이션](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
@@ -297,11 +305,3 @@ ht-degree: 3%
     + [악성 IP 찾기](../new-relic/malicious-ip.md)
     + [경고 알림 설정](../new-relic/new-relic-alert-notification-setup.md)
     + [사용자 지정 경고](../new-relic/custom-alerts.md)
-+ Commerce Intelligence {#mbi}
-  + [시작](../business-intelligence/getting-started.md)
-  + [통합 및 구성](../business-intelligence/integrations-configurations.md)
-  + [보고서 및 대시보드](../business-intelligence/reports-and-dashboards.md)
-  + [필터 세트](../business-intelligence/filter-sets.md)
-  + [코호트 Report Builder](../business-intelligence/cohort-report-builder.md)
-  + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-  + [미래를 준비하는 중](../business-intelligence/prepare-for-future.md)
