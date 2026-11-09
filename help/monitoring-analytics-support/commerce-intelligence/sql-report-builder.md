@@ -52,7 +52,7 @@ Adobe Commerce Intelligence SQL Report Builder을 사용하면 데이터 웨어�
 
 >[!TIP]
 >
-> Commerce Intelligence을 처음 사용하는 경우 [Adobe Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}에서 데이터를 집계, 분석 및 시각화하여 보다 강력한 비즈니스 통찰력을 얻는 방법에 대해 설명합니다.
+> Commerce Intelligence을 처음 사용하는 경우 [Adobe Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=ko){target="_blank"}에서 데이터를 집계, 분석 및 시각화하여 보다 강력한 비즈니스 통찰력을 얻는 방법에 대해 설명합니다.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -69,5 +69,5 @@ Adobe Commerce Intelligence SQL Report Builder을 사용하면 데이터 웨어�
 
 ## 유용한 리소스
 
-* [SQL Report Builder 사용](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html){target="_blank"}(Commerce Intelligence 사용 안내서)
-* [SQL 쿼리에서 시각화 만들기](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html){target="_blank"}(Commerce Intelligence 사용 안내서)
+* [SQL Report Builder 사용](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html?lang=ko){target="_blank"}(Commerce Intelligence 사용 안내서)
+* [SQL 쿼리에서 시각화 만들기](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html?lang=ko){target="_blank"}(Commerce Intelligence 사용 안내서)
