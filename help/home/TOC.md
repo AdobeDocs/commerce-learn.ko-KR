@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1023'
 ht-degree: 3%
 ---
 
@@ -57,26 +57,26 @@ ht-degree: 3%
         + [In-Process 코드 표준](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
       + QA {#qa}
         + [코드 고정](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/qa/code-freeze.md)
-+ Adobe Commerce Cloud {#adobe-commerce-cloud}
-  + 문제 해결 {#troubleshooting}
-    + [잘못된 SSL](../cloud/troubleshooting/invalid-ssl.md)
-    + [2가지 일반적인 사이트 오류를 분류하고 해결합니다.](../cloud/troubleshooting/triage-two-common-site-errors.md)
-    + [구성 값](../cloud/troubleshooting/config-values.md)
-    + [로그 자르기](../cloud/troubleshooting/truncate-logs.md)
-  + [프로젝트 및 환경 관리](../cloud/project-environment-management.md)
-  + [Adobe Commerce Cloud의 확장 방법](../cloud/how-adobe-commerce-cloud-scales.md)
-  + [HIPAA 지원 호스팅](../cloud/hippa-ready-hosting.md)
-  + [IP 주소 감지](../cloud/detect-ip-address.md)
-  + [Fastly를 사용하여 액세스 제한](../cloud/limit-website-access-using-fastly.md)
-  + 기술 온보딩 및 하드웨어 핸드오프 {#technical-onboarding-hardware-handoff}
-    + [인프라 및 개발 모범 사례](../cloud/infrastructure-development-best-practices.md)
-    + [Fastly](../cloud/fastly.md)
-    + [구성 및 디버깅](../cloud/configuration-and-debugging.md)
-    + [배포, 테스트, 모니터링 및 보안](../cloud/deployments-testing-monitoring-security.md)
-    + [SaaS 서비스, 지원 및 커뮤니케이션 및 다음 단계](../cloud/saas-offerings-support-communications-next-steps.md)
-  + 우수 사례 {#commerce-cloud-best-practices}
-    + [지원 요청](../cloud/best-practices/support-request.md)
-    + [실행 전 검사 목록](../cloud/best-practices/pre-launch-checklist.md)
+  + 클라우드 작업 {#cloud-operations}
+    + 문제 해결 {#troubleshooting}
+      + [잘못된 SSL](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/invalid-ssl.md)
+      + [2가지 일반적인 사이트 오류를 분류하고 해결합니다.](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/triage-two-common-site-errors.md)
+      + [구성 값](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/config-values.md)
+      + [로그 자르기](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/truncate-logs.md)
+    + [프로젝트 및 환경 관리](../cloud-infrastructure-and-self-hosted/cloud-operations/project-environment-management.md)
+    + [Adobe Commerce Cloud의 확장 방법](../cloud-infrastructure-and-self-hosted/cloud-operations/how-adobe-commerce-cloud-scales.md)
+    + [HIPAA 지원 호스팅](../cloud-infrastructure-and-self-hosted/cloud-operations/hippa-ready-hosting.md)
+    + [IP 주소 감지](../cloud-infrastructure-and-self-hosted/cloud-operations/detect-ip-address.md)
+    + [Fastly를 사용하여 액세스 제한](../cloud-infrastructure-and-self-hosted/cloud-operations/limit-website-access-using-fastly.md)
+    + 기술 온보딩 및 하드웨어 핸드오프 {#technical-onboarding-hardware-handoff}
+      + [인프라 및 개발 모범 사례](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/infrastructure-development-best-practices.md)
+      + [Fastly](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/fastly.md)
+      + [구성 및 디버깅](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/configuration-and-debugging.md)
+      + [배포, 테스트, 모니터링 및 보안](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security.md)
+      + [SaaS 서비스, 지원 및 커뮤니케이션 및 다음 단계](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/saas-offerings-support-communications-next-steps.md)
+    + 우수 사례 {#commerce-cloud-best-practices}
+      + [지원 요청](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
+      + [실행 전 검사 목록](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
 + 시작 {#getting-started}
   + Commerce 기능 {#capabilities}
     + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
@@ -115,7 +115,7 @@ ht-degree: 3%
     + [결론](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder 시험 실행](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 백엔드 개발 {#backend-development}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../backend-development/create-module.md)
     + [제품 속성 추가](../backend-development/add-product-attribute.md)
     + [종속성 삽입 예](../backend-development/dependency-injection.md)
