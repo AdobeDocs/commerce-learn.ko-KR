@@ -62,5 +62,5 @@ Adobe Commerce 및 Magento Open Source을 위한 결제 서비스는 중소기�
 
 ## 추가 리소스
 
-* [결제 서비스 안내서](https://experienceleague.adobe.com/en/docs/commerce/payment-services/guide-overview)
-* [Commerce 서비스 커넥터](https://experienceleague.adobe.com/en/docs/commerce/user-guides/integration-services/saas)
+* [결제 서비스 안내서](https://experienceleague.adobe.com/ko/docs/commerce/payment-services/guide-overview)
+* [Commerce 서비스 커넥터](https://experienceleague.adobe.com/ko/docs/commerce/user-guides/integration-services/saas)
