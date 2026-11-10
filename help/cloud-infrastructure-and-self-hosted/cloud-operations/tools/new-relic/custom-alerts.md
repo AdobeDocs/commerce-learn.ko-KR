@@ -56,4 +56,4 @@ New Relic에서 웹 사이트 트래픽을 모니터링하고 경고 알림에 �
 * 데이터 집계를 기반으로 경고에 대한 임계값을 설정하는 방법 이해
 * 심각도 수준으로 경고를 구성하고 기존 정책에 할당하여 알림 워크플로우 및 대상을 제어합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440778?captions=kor&learn=on)
