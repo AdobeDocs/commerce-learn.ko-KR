@@ -54,7 +54,7 @@ ht-degree: 0%
 * 관리 패널, 코드 저장소 및 환경별 파일을 통해 구성 값을 편집하고 재정의하는 방법을 이해합니다.
 * app:config:dump 및 Adobe Commerce Cloud의 관리 UI와 같은 도구를 사용하여 다양한 환경에서 일관된 구성 설정을 유지하는 모범 사례를 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436458?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505788?captions=kor&learn=on)
 
 ## 관련 Experience League 설명서
 
