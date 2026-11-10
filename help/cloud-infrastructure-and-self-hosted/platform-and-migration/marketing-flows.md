@@ -61,4 +61,4 @@ Adobe Commerce의 Edge 게재 매장을 둘러보는 신규 고객 및 기존 �
 * A/B 테스트를 통해 최적화에 대한 이해를 얻으십시오.
 * 콘텐츠를 세분화하고, 변형을 생성하고, 전반적인 홍보 전략을 개선하기 위한 몇 가지 고급 도구와 AI 통합에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433539?captions=kor&learn=on)

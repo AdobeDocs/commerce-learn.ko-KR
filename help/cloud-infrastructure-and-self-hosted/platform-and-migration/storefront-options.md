@@ -65,4 +65,4 @@ Adobe의 디지털 경험 도구와 원활하게 통합되므로 기업이 유�
 * 디지털 에셋의 실시간 개인화 및 효율적인 관리 활성화
 * 비기술 사용자의 권한 부여
 
->[!VIDEO](https://video.tv.adobe.com/v/3431725?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448393?captions=kor&learn=on)

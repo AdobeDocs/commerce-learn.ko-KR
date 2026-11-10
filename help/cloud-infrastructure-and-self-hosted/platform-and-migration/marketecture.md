@@ -72,4 +72,4 @@ API Mesh 및 통합 이벤트 관리와 같은 확장성 도구는 개발 및 �
 * Adobe Commerce은 라이브 검색, AI 추천 및 유연한 결제 솔루션과 같은 컴포저블 서비스를 제공합니다.
 * API Mesh, 통합 이벤트 관리 및 원활한 Adobe Experience Platform 통합을 포함한 고급 통합.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433435?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433442?captions=kor&learn=on)
