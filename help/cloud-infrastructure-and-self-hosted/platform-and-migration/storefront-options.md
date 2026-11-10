@@ -1,0 +1,68 @@
+---
+title: Edge Delivery Services과 Adobe Commerce 상점
+description: Adobe Commerce에서 SEO에 최적화된 빠른 전자 상거래를 경험하십시오. Edge Delivery Services을 통해 트래픽을 높이고 비용을 절감하며 상점을 손쉽게 관리할 수 있습니다.
+feature: Marketing Tools, Site Management, Storefront
+topic: Architecture, Commerce, Performance
+role: Admin, User
+level: Beginner
+doc-type: Technical Video
+duration: 338
+last-substantial-update: 2024-11-09T00:00:00.000Z
+jira: KT-16193
+exl-id: 1c4c2a64-f610-4079-8491-a61b2b8a1a92
+TQID: 'https://experienceleague.adobe.com/TQTaeNBBe5tctuhgHpDjzG4pLaYmYCH9Fu0W-G6IZR0'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+  - id: 938d2364-5176-55ec-80f1-9415253e5e51
+    internal-label: Site Management
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+workflow-type: tm+mt
+source-wordcount: '167'
+ht-degree: 0%
+---
+# Adobe Commerce Storefront 옵션
+
+Adobe Commerce의 Edge Delivery Services은 빠르고 효율적이며 사용자 정의가 뛰어난 전자 상거래 상점 솔루션을 제공합니다.
+Adobe의 디지털 경험 도구와 원활하게 통합되므로 기업이 유기적 트래픽을 높이고 비용을 절감하며 새로운 사이트를 빠르게 시작할 수 있습니다. Edge Delivery Services은 콘텐츠 업데이트를 위해 사전 최적화된 구성 요소, 실시간 개인화 및 코드 없는 환경을 통해 개발자와 비즈니스 사용자 모두 시각적으로 호소력 있는 고성능 온라인 스토어를 만들고 관리할 수 있도록 합니다.
+
+## 이 비디오는 누구의 것입니까
+
+* 기업 및 전자 상거래 리더들은 온라인 상점을 강화하고자 합니다.
+* IT 리더, 개발자 및 마케터.
+* 회사는 사이트 성능을 향상시키고, 유기적인 트래픽을 증가시키며, 개인화된 쇼핑 경험을 제공하는 것을 목표로 합니다.
+
+## 비디오 콘텐츠
+
+* Adobe Commerce용 Edge Delivery Services을 사용하여 신속한 배포 및 최적화
+* 다른 Adobe 솔루션과 기본적으로 통합되는 원활한 통합 및 Personalization
+* 디지털 에셋의 실시간 개인화 및 효율적인 관리 활성화
+* 비기술 사용자의 권한 부여
+
+>[!VIDEO](https://video.tv.adobe.com/v/3431725?learn=on)

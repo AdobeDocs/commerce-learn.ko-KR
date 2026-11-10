@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
+source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1024'
 ht-degree: 3%
 ---
 
@@ -37,6 +37,26 @@ ht-degree: 3%
     + [Target 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
     + [단일 단계 마이그레이션](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
     + [다단계 마이그레이션](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
++ 클라우드 인프라 및 자체 호스팅 {#cloud-infrastructure-and-self-hosted}
+  + 플랫폼 및 마이그레이션 {#platform-and-migration}
+    + [마케팅 기법](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketecture.md)
+    + [글로벌 게재 모델](../cloud-infrastructure-and-self-hosted/platform-and-migration/global-delivery-model.md)
+    + [관리자 역할](../cloud-infrastructure-and-self-hosted/platform-and-migration/admin-roles.md)
+    + [마케팅 흐름](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketing-flows.md)
+    + [Storefront 옵션](../cloud-infrastructure-and-self-hosted/platform-and-migration/storefront-options.md)
+    + [데이터 공유](../cloud-infrastructure-and-self-hosted/platform-and-migration/data-sharing.md)
+    + [여러 웹 사이트](../cloud-infrastructure-and-self-hosted/platform-and-migration/multiple-websites.md)
+    + [경험 리드 데이터 및 프로모션](../cloud-infrastructure-and-self-hosted/platform-and-migration/experience-lead-data-promoitions.md)
+    + [AEM Assets](../cloud-infrastructure-and-self-hosted/platform-and-migration/aem-assets.md)
+    + [자체 호스팅 솔루션에서 마이그레이션](../cloud-infrastructure-and-self-hosted/platform-and-migration/overview.md)
+    + Adobe Commerce으로 마이그레이션 {#migrating-to-adobe-commerce}
+      + [개요](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/overview.md)
+      + 준비 {#preparation}
+        + [팀 및 프로젝트 평가](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
+      + 사용자 정의 {#customizations}
+        + [In-Process 코드 표준](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
+      + QA {#qa}
+        + [코드 고정](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/qa/code-freeze.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
   + 문제 해결 {#troubleshooting}
     + [잘못된 SSL](../cloud/troubleshooting/invalid-ssl.md)
@@ -47,16 +67,6 @@ ht-degree: 3%
   + [Adobe Commerce Cloud의 확장 방법](../cloud/how-adobe-commerce-cloud-scales.md)
   + [HIPAA 지원 호스팅](../cloud/hippa-ready-hosting.md)
   + [IP 주소 감지](../cloud/detect-ip-address.md)
-  + [마케팅 기법](../cloud/marketecture.md)
-  + [글로벌 게재 모델](../cloud/global-delivery-model.md)
-  + [관리자 역할](../cloud/admin-roles.md)
-  + [마케팅 흐름](../cloud/marketing-flows.md)
-  + [Storefront 옵션](../cloud/storefront-options.md)
-  + [데이터 공유](../cloud/data-sharing.md)
-  + [여러 웹 사이트](../cloud/multiple-websites.md)
-  + [경험 리드 데이터 및 프로모션](../cloud/experience-lead-data-promoitions.md)
-  + [AEM Assets](../cloud/aem-assets.md)
-  + [자체 호스팅 솔루션에서 마이그레이션](../cloud/overview.md)
   + [Fastly를 사용하여 액세스 제한](../cloud/limit-website-access-using-fastly.md)
   + 기술 온보딩 및 하드웨어 핸드오프 {#technical-onboarding-hardware-handoff}
     + [인프라 및 개발 모범 사례](../cloud/infrastructure-development-best-practices.md)
@@ -68,15 +78,6 @@ ht-degree: 3%
     + [지원 요청](../cloud/best-practices/support-request.md)
     + [실행 전 검사 목록](../cloud/best-practices/pre-launch-checklist.md)
 + 시작 {#getting-started}
-  + Adobe Commerce으로 마이그레이션{#migrating-to-adobe-commerce}
-    + [개요](../migrating-to-adobe-commerce/overview.md)
-    + 준비{#preparation}
-      + [팀 및 프로젝트 평가](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
-    + 사용자 정의{#customizations}
-      + [In-Process 코드 표준](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
-    + QA{#qa}
-      + [코드 고정](../migrating-to-adobe-commerce/qa/code-freeze.md)
-
   + Commerce 기능 {#capabilities}
     + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
     + [데이터 연결](../capabilities/data-connection.md)
@@ -114,7 +115,7 @@ ht-degree: 3%
     + [결론](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder 시험 실행](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 백엔드 개발 {#backend-development}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../backend-development/create-module.md)
     + [제품 속성 추가](../backend-development/add-product-attribute.md)
     + [종속성 삽입 예](../backend-development/dependency-injection.md)

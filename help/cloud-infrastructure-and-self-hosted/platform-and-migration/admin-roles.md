@@ -1,0 +1,63 @@
+---
+title: 백 오피스 사용자에 대한 관리자 역할
+description: 비즈니스 사용자가 Adobe Commerce Admin Portal에 로그인하는 방법과 저장소 관리자가 역할 기반 액세스 권한을 생성, 관리 및 사용자에게 할당하는 방법을 알아봅니다.
+feature: Admin Workspace, Roles/Permissions, Security
+topic: Administration, Commerce, Security
+role: Admin, User
+level: Beginner
+doc-type: Technical Video
+duration: 299
+last-substantial-update: 2024-10-09T00:00:00.000Z
+jira: KT-16186
+exl-id: 490cf618-9ebe-478d-9e12-49dde50ceae8
+TQID: 'https://experienceleague.adobe.com/emyoykUc8mJE8X4HtksnPJrYJ6QeoTVyTvOY-yqmL80'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
+  - id: e439352c-5b67-587d-b34e-d2a0aa5a0242
+    internal-label: Roles/Permissions
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+workflow-type: tm+mt
+source-wordcount: '192'
+ht-degree: 0%
+---
+# Adobe Commerce 관리자 역할
+
+Adobe ID 또는 Federated ID을 사용하여 Adobe Commerce Admin Portal에 로그인하는 프로세스에 대해 알아보고 스토어 관리자가 역할 기반 액세스를 만들고 관리하는 방법을 자세히 알아봅니다. 고객 견적 및 템플릿 관리를 담당하는 &quot;영업사원&quot; 역할과 같은 특정 권한을 가진 새 역할을 만드는 단계를 이해합니다. 적절한 액세스 수준을 갖도록 이러한 역할에 사용자를 할당하는 방법을 이해하고, 새로 생성된 역할에 사용자를 할당하고 할당을 확인하는 데모를 포함합니다.
+
+## 이 비디오는 누구의 것입니까
+
+* 액세스 및 권한 관리를 담당하는 저장소 관리자 및 비즈니스 사용자.
+* 특정 권한을 가진 역할을 만들고 이러한 역할에 사용자를 지정하는 데 대한 지침이 필요한 새 저장소 소유자
+* Adobe Commerce 프로젝트에서 Adobe Commerce 관리자에서 수행되는 관리 작업을 안전하고 효율적으로 관리하는 데 관심이 있습니다.
+
+## 비디오 콘텐츠
+
+* 최신 로그인 방법에 대해 알아봅니다.
+* 역할 생성 및 관리 이해
+* 사용자 할당 및 액세스 수준을 이해합니다. &#x200B;
+
+>[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)
