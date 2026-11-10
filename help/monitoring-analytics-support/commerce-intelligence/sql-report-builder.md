@@ -1,14 +1,15 @@
 ---
 title: COMMERCE INTELLIGENCE - SQL REPORT BUILDER
-description: 보고서 업데이트 주기를 기다리지 않고 Adobe Commerce Intelligence SQL Report Builder을 사용하여 데이터 웨어하우스를 쿼리하고 결과를 보고 차트를 작성하는 방법을 알아봅니다.
+description: 보고서 업데이트 주기를 기다리지 않고 Adobe Commerce Intelligence SQL Report Builder을 사용하여 데이터 웨어하우스를 쿼리하고 결과를 검토하고 차트를 빌드하는 방법에 대해 알아봅니다.
 feature: Commerce Intelligence
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 259
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 last-substantial-update: 2023-02-10T00:00:00.000Z
+jira: KT-10287
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 TQID: https://experienceleague.adobe.com/o4S12aA7X2D-PGFY6r0rvFrWLqazLakOFrA5S8TnPhE
 product_v2:
@@ -36,13 +37,11 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
-source-wordcount: 214
+source-wordcount: '212'
 ht-degree: 0%
-
 ---
-
 # SQL REPORT BUILDER
 
 Adobe Commerce Intelligence SQL Report Builder을 사용하면 데이터 웨어하우스를 쿼리하고 결과를 검토하고 차트로 변환할 수 있습니다. SQL을 사용하여 보고서를 작성할 때 갱신 주기를 기다리지 않고 생성한 열을 세분화합니다. 결과가 해제되면 결과가 예상과 일치할 때까지 쿼리를 편집하고 다시 실행하십시오.

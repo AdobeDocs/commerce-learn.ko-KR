@@ -3,10 +3,10 @@ title: Commerce Intelligence - 미래를 위한 준비
 description: 이 비디오 시리즈를 시청하여 디지털 상거래의 미래를 형성하는 전례 없는 변화에 대한 이해를 명확히 하십시오.
 landing-page-description: 이 비디오 시리즈를 시청하여 디지털 상거래의 미래를 형성하는 전례 없는 변화에 대한 이해를 명확히 하십시오.
 short-description: 이 비디오 시리즈를 시청하여 디지털 상거래의 미래를 형성하는 전례 없는 변화에 대한 이해를 명확히 하십시오.
-kt: 10411
-doc-type: feature video
+jira: KT-10411
+doc-type: Technical Video
 duration: 1516
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%

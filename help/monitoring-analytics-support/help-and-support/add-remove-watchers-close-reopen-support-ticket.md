@@ -1,16 +1,16 @@
 ---
-title: 지원 티켓 검색, 검토, 주석 달기 및 에스컬레이션
-description: 사례를 확대하는 이유를 포함하여 Adobe Commerce용 Adobe Experience League에서 지원 티켓을 검색, 검토, 댓글 달기 및 에스컬레이션하는 방법을 알아봅니다.
+title: 감시자 추가 또는 제거, 티켓 닫기 또는 다시 열기
+description: Adobe Commerce용 Adobe Experience League에서 14일 이내에 감시자를 추가 및 제거하고, 지원 티켓을 닫았으며, 닫힌 티켓을 다시 여는 방법에 대해 알아봅니다.
 feature: Customer Service, Support
 topic: Commerce
 role: Admin
 level: Beginner
 doc-type: Tutorial
-duration: 209
+duration: 173
 last-substantial-update: 2024-08-23T00:00:00.000Z
-jira: KT-16049
-exl-id: 15b560bd-29f7-4866-86a4-ef548a5ac953
-TQID: 'https://experienceleague.adobe.com/-ATvMO7lsgqxCIZpBJTYLFeDrWYKRKgZPaZMk-aSsoQ'
+jira: KT-16050
+exl-id: 15212a32-5b6b-4b49-8bf7-acc3bf39b6fa
+TQID: 'https://experienceleague.adobe.com/oMaFarsBJxR0XQzrXGDV0Ry4ZGBKU0EzUMFHIQe7S54'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -30,14 +30,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 ---
-# 지원 티켓 검색, 검토, 주석 달기 및 에스컬레이션
+# 감시자 관리, 티켓 닫기 및 다시 열기
 
-Adobe Experience League for Adobe Commerce 내에서 지원 티켓을 검색, 검토, 댓글을 달고 에스컬레이션하는 방법을 알아봅니다.
+Adobe Experience League for Adobe Commerce 내에서 지원 티켓을 닫거나 다시 열 수 있을 뿐만 아니라 감시자를 추가 및 제거하는 방법에 대해 알아봅니다.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -45,11 +45,11 @@ Adobe Experience League for Adobe Commerce 내에서 지원 티켓을 검색, �
 
 ## 비디오 콘텐츠 {#video-content}
 
-* 티켓 검색 방법 알아보기
-* 개방형 지원 티켓에 댓글을 추가하는 방법 알아보기
-* 지원 티켓을 확대하는 방법 및 몇 가지 이유를 알아봅니다
+* 티켓에 대한 감시자를 추가하고 제거하는 방법에 대해 알아봅니다.
+* 지원 티켓을 닫는 방법에 대해 알아봅니다.
+* 지원 티켓을 다시 여는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3445318?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441359?captions=kor&learn=on)
 
 ## Commerce 기술 자료 Adobe 도움말 센터 안내서
 

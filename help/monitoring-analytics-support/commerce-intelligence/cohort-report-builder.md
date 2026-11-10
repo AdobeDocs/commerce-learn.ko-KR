@@ -3,10 +3,10 @@ title: Commerce Intelligence - 집단 Report Builder
 description: Commerce Intelligence Cohort Report Builder을 사용하여 비즈니스와 관련된 최적화된 보고 및 분석을 만드는 방법을 알아봅니다.
 landing-page-description: 이 비디오를 통해 Commerce Intelligence Cohort Report Builder을 사용하여 비즈니스와 관련된 최적화된 보고 및 분석을 만드는 방법에 대해 알아보십시오.
 short-description: 이 비디오를 통해 Commerce Intelligence Cohort Report Builder을 사용하여 비즈니스와 관련된 최적화된 보고 및 분석을 만드는 방법에 대해 알아보십시오.
-kt: 10288
-doc-type: feature video
+jira: KT-10288
+doc-type: Technical Video
 duration: 103
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
@@ -43,13 +43,11 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
-source-wordcount: 262
+source-wordcount: '262'
 ht-degree: 0%
-
 ---
-
 # Commerce Intelligence - 집단 Report Builder
 
 사용자의 다양한 하위 집합이 시간에 따라 어떻게 행동하는지 연구하고 싶습니까? 예를 들어 프로모션 기간 동안 등록한 사용자가 등록하지 않은 사용자보다 평균 라이프타임 수익이 더 높은지 생각해 본 적이 있습니까? 답변이 _예_&#x200B;이면 집단 Report Builder이 완벽한 도구입니다. Commerce Intelligence은 이 분석을 수행하고 비즈니스와 관련이 있도록 최적화되었습니다.

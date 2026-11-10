@@ -1,9 +1,9 @@
 ---
 title: Adobe Commerce Intelligence 시작하기
-description: Adobe Commerce Intelligence, 이름 지정 규칙, 데이터 통합, 초기 대시보드 설정, 데이터 소스, 데이터 웨어하우징, 보고 및 사용자 관리에 대해 알아봅니다.
+description: 이름 지정 규칙, 데이터 통합, 대시보드 설정, 데이터 소스, 데이터 웨어하우징, 보고 및 사용자 관리와 같은 Adobe Commerce Intelligence 기본 사항에 대해 알아봅니다.
 feature: Cloud
 topic: Commerce, Administration
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 old-role: Architect, Developer
 role: Developer
 level: Intermediate
@@ -11,7 +11,6 @@ doc-type: Technical Video
 duration: 429
 last-substantial-update: 2024-03-25T00:00:00.000Z
 jira: KT-15141
-kt: 15141
 exl-id: 26bc788c-0fc8-405b-a99e-0d202ac18ab8
 TQID: 'https://experienceleague.adobe.com/NOyB9qyx8Q8jY9LjBi2S6GB-9QR90ZXm4NLZgkxzIZ8'
 product_v2:
@@ -46,9 +45,9 @@ topic_v2:
     internal-label: Data integration
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '145'
 ht-degree: 0%
 ---
 # Adobe Commerce Intelligence 시작하기

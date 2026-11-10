@@ -4,15 +4,39 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 43c67e910e10d5db0f8c14ea24ba97ba89bd35d2
+source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
 workflow-type: tm+mt
-source-wordcount: '1006'
+source-wordcount: '1016'
 ht-degree: 3%
 ---
 
 # Adobe Commerce 비디오 및 자습서 {#tutorials}
 
 + [[!DNL Commerce] 튜토리얼](overview.md)
++ Adobe Commerce as a Cloud Service {#commerce-as-a-cloud-service}
+  + [개요](../commerce-as-a-cloud-service/overview.md)
+  + [아키텍처](../commerce-as-a-cloud-service/architecture.md)
+  + 제품 둘러보기 {#product-overview}
+    + [소개](../commerce-as-a-cloud-service/product-overview/introduction.md)
+    + [환경 설정](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
+    + [컨텐츠 작성](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+    + [콘텐츠 현지화 및 예약](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
+    + [GenAI 기반 콘텐츠 제작](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
+    + [카탈로그 관리 및 머천다이징 서비스](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
+    + [Commerce storefront 실험](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
+    + [Commerce 상점 속도](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
+    + [Commerce storefront full shopper 여정](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
+    + [컴포저블 상점 및 모듈식 아키텍처](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
+    + [확장성](../commerce-as-a-cloud-service/product-overview/extensibility.md)
+    + [현대화 및 마이그레이션](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
+    + [닫는 중](../commerce-as-a-cloud-service/product-overview/closing.md)
+  + 대량 데이터 마이그레이션 도구 {#bulk-data-migration-tool}
+    + [소개](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
+    + [Source 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
+    + [DB 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
+    + [Target 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
+    + [단일 단계 마이그레이션](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
+    + [다단계 마이그레이션](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
   + 문제 해결 {#troubleshooting}
     + [잘못된 SSL](../cloud/troubleshooting/invalid-ssl.md)
@@ -44,32 +68,6 @@ ht-degree: 3%
     + [지원 요청](../cloud/best-practices/support-request.md)
     + [실행 전 검사 목록](../cloud/best-practices/pre-launch-checklist.md)
 + 시작 {#getting-started}
-  + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
-    + [개요](../commerce-as-a-cloud-service/overview.md)
-    + [아키텍처](../commerce-as-a-cloud-service/architecture.md)
-    + Webapi-rest{#webapi-rest}
-      + [고객](../commerce-as-a-cloud-service/webapi-rest/customer.md)
-    + 제품 개요{#product-overview}
-      + [소개](../commerce-as-a-cloud-service/product-overview/introduction.md)
-      + [환경 설정](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
-      + [콘텐츠 작성](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
-      + [콘텐츠 현지화 및 예약](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
-      + [GenAI 기반 콘텐츠 제작](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
-      + [카탈로그 관리 및 머천다이징 서비스](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
-      + [Commerce storefront 실험](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
-      + [Commerce 상점 속도](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
-      + [Commerce 상점 전체 쇼핑객 여정](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
-      + [컴포저블 상점 및 모듈식 아키텍처](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
-      + [확장성](../commerce-as-a-cloud-service/product-overview/extensibility.md)
-      + [현대화 및 마이그레이션](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
-      + [닫기](../commerce-as-a-cloud-service/product-overview/closing.md)
-    + 대량 데이터 마이그레이션 도구{#bulk-data-migration-tool}
-      + [소개](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
-      + [Source 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
-      + [DB 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
-      + [Target 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
-      + [단일 단계 마이그레이션](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
-      + [다단계 마이그레이션](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
   + Adobe Commerce으로 마이그레이션{#migrating-to-adobe-commerce}
     + [개요](../migrating-to-adobe-commerce/overview.md)
     + 준비{#preparation}
@@ -100,6 +98,10 @@ ht-degree: 3%
     + [마지막 마일 통합](../back-office-integrations/last-mile-integration.md)
     + [Webhook 수집](../back-office-integrations/webhook-ingestion.md)
     + [재시도 메커니즘](../back-office-integrations/retry-mechanism.md)
+
++ API 및 통합 {#apis-and-integration}
+  + Practical REST 및 GraphQL 예 {#examples}
+    + [REST 사용 고객](../apis-and-integration/examples/customer.md)
 
 + 확장성 {#extensibility}
   + Commerce 개발자 에이전트 {#commerce-developer-agent}
@@ -210,21 +212,30 @@ ht-degree: 3%
     + [단일 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-single-source.md)
     + [여러 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-multiple-source.md)
 
-+ 가시성 {#observability}
-  + [가시성 개요](../observability/overview.md)
-  + [원격 분석 열기](../observability/open-telemetry.md)
-  + [데모 설정 및 구성](../observability/demo-setup-configuration.md)
-  + [데모](../observability/demo.md)
 + 글로벌 참조 아키텍처 {#global-reference-architecture-implementation-techniques}
   + [개요](../global-reference-architecture/overview.md)
   + [Git 분할](../global-reference-architecture/split-git.md)
   + [대량 패키지](../global-reference-architecture/bulk-packages.md)
   + [개별 패키지](../global-reference-architecture/separate-packages.md)
   + [모노레포](../global-reference-architecture/monorepo.md)
-+ 도움말 및 지원 {#help-and-support}
-  + [지원 티켓 만들기](../help-and-support/create-a-support-ticket.md)
-  + [지원 티켓 검색, 추적, 댓글 달기 및 에스컬레이션](../help-and-support/search-track-comment-escalate-support-ticket.md)
-  + [감시자 추가 및 제거, 티켓 닫기 및 다시 열기](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ 모니터링, 분석 및 지원 {#monitoring-analytics-support}
+  + 가시성 {#observability}
+    + [가시성 개요](../monitoring-analytics-support/observability/overview.md)
+    + [원격 분석 열기](../monitoring-analytics-support/observability/open-telemetry.md)
+    + [데모 설정 및 구성](../monitoring-analytics-support/observability/demo-setup-configuration.md)
+    + [데모](../monitoring-analytics-support/observability/demo.md)
+  + Commerce Intelligence {#commerce-intelligence}
+    + [시작](../monitoring-analytics-support/commerce-intelligence/getting-started.md)
+    + [통합 및 구성](../monitoring-analytics-support/commerce-intelligence/integrations-configurations.md)
+    + [보고서 및 대시보드](../monitoring-analytics-support/commerce-intelligence/reports-and-dashboards.md)
+    + [필터 세트](../monitoring-analytics-support/commerce-intelligence/filter-sets.md)
+    + [코호트 Report Builder](../monitoring-analytics-support/commerce-intelligence/cohort-report-builder.md)
+    + [SQL REPORT BUILDER](../monitoring-analytics-support/commerce-intelligence/sql-report-builder.md)
+    + [미래를 위한 준비](../monitoring-analytics-support/commerce-intelligence/prepare-for-future.md)
+  + 도움말 및 지원 {#help-and-support}
+    + [지원 티켓 만들기](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
+    + [지원 티켓 검색, 검토, 주석 달기 및 에스컬레이션](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
+    + [지원 티켓 감시자 및 상태 관리](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
 + 저장소 관리 {#admin}
   + [사용자 역할 및 권한 관리](../site-management/users-roles-permissions.md)
@@ -296,11 +307,3 @@ ht-degree: 3%
     + [악성 IP 찾기](../new-relic/malicious-ip.md)
     + [경고 알림 설정](../new-relic/new-relic-alert-notification-setup.md)
     + [사용자 지정 경고](../new-relic/custom-alerts.md)
-+ Commerce Intelligence {#mbi}
-  + [시작](../business-intelligence/getting-started.md)
-  + [통합 및 구성](../business-intelligence/integrations-configurations.md)
-  + [보고서 및 대시보드](../business-intelligence/reports-and-dashboards.md)
-  + [필터 세트](../business-intelligence/filter-sets.md)
-  + [코호트 Report Builder](../business-intelligence/cohort-report-builder.md)
-  + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-  + [미래를 준비하는 중](../business-intelligence/prepare-for-future.md)
