@@ -1,0 +1,70 @@
+---
+title: '[!DNL Page Builder] 개요'
+description: '[!DNL Page Builder]을(를) 사용하여 [!DNL Commerce] 페이지를 빌드하고 관리자의 페이지를 저장하는 방법에 대해 알아봅니다.'
+jira: KT-5563
+doc-type: Feature Video
+duration: 317
+audience: all
+activity: use
+last-substantial-update: 2023-04-27T00:00:00.000Z
+feature: Configuration, System, Native Luma Frontend Development, Page Content
+topic: Commerce, Administration, Content Management
+role: Admin, User
+level: Beginner, Intermediate
+exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
+badgePaas: label="PaaS만" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Adobe Commerce 온 클라우드 프로젝트(Adobe 관리 PaaS 인프라) 및 온프레미스 프로젝트에만 적용됩니다."
+TQID: https://experienceleague.adobe.com/ydFn1DpgMmq8KVWcSS91-E-0ZUggI-FQPd6-SC-GrYM
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+    internal-label: Customer engagement
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+workflow-type: tm+mt
+source-wordcount: '177'
+ht-degree: 1%
+---
+# [!DNL Page Builder] 개요
+
+[!DNL Page Builder]을(를) 사용하면 시각적 storytelling을 강화하고 고객 참여도와 충성도를 높이는 사용자 지정 레이아웃으로 콘텐츠가 풍부한 페이지를 쉽게 만들 수 있습니다.
+
+2.4.3 릴리스부터 [!DNL Page Builder]은(는) 기본적으로 Adobe Commerce 및 Magento Open Source 모두에서 사용할 수 있습니다. Adobe Commerce의 [!DNL Page Builder]을(를) 사용하면 스테이징 및 미리 보기, 개인화된 콘텐츠 및 제품 권장 사항을 향후 추가 기능과 통합할 수 있습니다.
+
+이 비디오에서는 다음 방법을 알아봅니다.
+
+* 기존 페이지 편집
+* 새 페이지 편집
+* 기존 페이지에 제품 추가
+* 행 및 열 추가 및 서식 지정
+* 열과 행에 미디어 및 요소 추가
+* 슬라이더 추가 및 포맷
+
+## 이 비디오는 누구의 것입니까?
+
+* 웹 사이트 디자이너
+* 머천다이저 저장
+
+## 비디오 콘텐츠
+
+>[!VIDEO](https://video.tv.adobe.com/v/343781?learn=on)
+
+## 추가 리소스
+
+* [페이지 빌더 사용 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
+* [페이지 빌더 개발자 안내서](https://developer.adobe.com/commerce/frontend-core/page-builder/)

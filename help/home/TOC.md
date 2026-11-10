@@ -4,7 +4,7 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
 source-wordcount: '1022'
 ht-degree: 3%
@@ -128,6 +128,13 @@ ht-degree: 3%
     + [SEO에 대한 URL 재작성 관리](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-url-rewrites.md)
     + [AR 뷰어](../cloud-infrastructure-and-self-hosted/catalog-and-products/augmented-reality.md)
     + [카탈로그 가져오기 및 업데이트](../cloud-infrastructure-and-self-hosted/catalog-and-products/catalog-import.md)
+  + 콘텐츠 관리 {#content-management}
+    + [페이지 빌더 개요](../cloud-infrastructure-and-self-hosted/content-management/page-builder-overview.md)
+    + [정적 및 동적 블록 만들기](../cloud-infrastructure-and-self-hosted/content-management/static-dynamic-blocks.md)
+    + [위젯 만들기](../cloud-infrastructure-and-self-hosted/content-management/widgets.md)
+    + [콘텐츠 템플릿 사용](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
+    + [컨텐츠 스테이징](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
+    + [미디어 갤러리 관리](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
 + 시작 {#getting-started}
   + Commerce 기능 {#capabilities}
     + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
@@ -157,7 +164,7 @@ ht-degree: 3%
     + [결론](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder 시험 실행](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 백엔드 개발 {#backend-development}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../backend-development/create-module.md)
     + [제품 속성 추가](../backend-development/add-product-attribute.md)
     + [종속성 삽입 예](../backend-development/dependency-injection.md)
@@ -280,13 +287,6 @@ ht-degree: 3%
     + [지원 티켓 검색, 검토, 주석 달기 및 에스컬레이션](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [지원 티켓 감시자 및 상태 관리](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ 콘텐츠 관리 {#content}
-  + [페이지 빌더 개요](../site-management/page-builder-overview.md)
-  + [정적 및 동적 블록 만들기](../site-management/static-dynamic-blocks.md)
-  + [위젯 만들기](../site-management/widgets.md)
-  + [콘텐츠 템플릿 사용](../site-management/content-templates.md)
-  + [컨텐츠 스테이징](../site-management/content-staging.md)
-  + [미디어 갤러리 관리](../site-management/media-gallery.md)
 + 마케팅 도구 {#marketing}
   + [카탈로그 가격 규칙 만들기](../site-management/catalog-price-rules.md)
   + [장바구니 가격 규칙 만들기](../site-management/cart-price-rules.md)
