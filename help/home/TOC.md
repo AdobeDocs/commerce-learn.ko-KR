@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
 workflow-type: tm+mt
-source-wordcount: '1021'
+source-wordcount: '1022'
 ht-degree: 3%
 ---
 
@@ -110,20 +110,30 @@ ht-degree: 3%
     + 주문 및 이행 {#orders}
       + [주문 상태 관리](../cloud-infrastructure-and-self-hosted/store-administration/orders/order-status.md)
       + [재고 상태 확인](../cloud-infrastructure-and-self-hosted/store-administration/orders/checking-inventory-status.md)
+  + 카탈로그 및 제품 {#catalog-and-products}
+    + 제품 만들기 {#create-products}
+      + [단순 제품](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-simple-product.md)
+      + [가상 제품](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-virtual-product.md)
+      + [다운로드 가능한 제품](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-downloadable-product.md)
+      + [그룹화된 제품](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-grouped-product.md)
+      + [구성 가능한 제품](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-configurable-product.md)
+      + [번들 제품](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-bundle-product.md)
+      + [기프트 카드 제품](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-gift-card-product.md)
+    + [범주 만들기](../cloud-infrastructure-and-self-hosted/catalog-and-products/category-create.md)
+    + [범주의 제품 관리](../cloud-infrastructure-and-self-hosted/catalog-and-products/category-products.md)
+    + [Inventory management](../cloud-infrastructure-and-self-hosted/catalog-and-products/inventory-management.md)
+    + [제품 속성 만들기](../cloud-infrastructure-and-self-hosted/catalog-and-products/product-attributes-create.md)
+    + [PWA Studio에서 제품 속성 사용](../cloud-infrastructure-and-self-hosted/catalog-and-products/product-attributes-pwa.md)
+    + [SEO 메타데이터 관리](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-metadata.md)
+    + [SEO에 대한 URL 재작성 관리](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-url-rewrites.md)
+    + [AR 뷰어](../cloud-infrastructure-and-self-hosted/catalog-and-products/augmented-reality.md)
+    + [카탈로그 가져오기 및 업데이트](../cloud-infrastructure-and-self-hosted/catalog-and-products/catalog-import.md)
 + 시작 {#getting-started}
   + Commerce 기능 {#capabilities}
     + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
     + [데이터 연결](../capabilities/data-connection.md)
     + [라이브 검색 전체 데모](../capabilities/live-search-full-demonstration.md)
     + [구성 가능한 Commerce](../capabilities/what-is-composable-commerce.md)
-  + 제품 만들기 {#create-products}
-    + [간단한 제품](../site-management/create-simple-product.md)
-    + [가상 제품](../site-management/create-virtual-product.md)
-    + [다운로드 가능한 제품](../site-management/create-downloadable-product.md)
-    + [그룹화된 제품](../site-management/create-grouped-product.md)
-    + [구성 가능한 제품](../site-management/create-configurable-product.md)
-    + [번들 제품](../site-management/create-bundle-product.md)
-    + [기프트 카드 제품](../site-management/create-gift-card-product.md)
   + 백오피스 통합 시작 키트 {#back-office-integration-starter-kit}
     + [스타터 키트 데모](../back-office-integrations/starter-kit-demo.md)
     + [통합](../back-office-integrations/integrations.md)
@@ -147,7 +157,7 @@ ht-degree: 3%
     + [결론](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder 시험 실행](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 백엔드 개발 {#backend-development}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../backend-development/create-module.md)
     + [제품 속성 추가](../backend-development/add-product-attribute.md)
     + [종속성 삽입 예](../backend-development/dependency-injection.md)
@@ -270,16 +280,6 @@ ht-degree: 3%
     + [지원 티켓 검색, 검토, 주석 달기 및 에스컬레이션](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [지원 티켓 감시자 및 상태 관리](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ 카탈로그 관리 {#catalog}
-  + [범주 만들기](../site-management/category-create.md)
-  + [범주의 제품 관리](../site-management/category-products.md)
-  + [Inventory management](../site-management/inventory-management.md)
-  + [제품 속성 만들기](../site-management/product-attributes-create.md)
-  + [PWA Studio에서 제품 속성 사용](../site-management/product-attributes-pwa.md)
-  + [SEO 메타데이터 관리](../site-management/seo-metadata.md)
-  + [SEO에 대한 URL 재작성 관리](../site-management/seo-url-rewrites.md)
-  + [AR 뷰어](../site-management/augmented-reality.md)
-  + [카탈로그 가져오기 및 업데이트](../site-management/catalog-import.md)
 + 콘텐츠 관리 {#content}
   + [페이지 빌더 개요](../site-management/page-builder-overview.md)
   + [정적 및 동적 블록 만들기](../site-management/static-dynamic-blocks.md)
