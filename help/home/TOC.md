@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
+source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1022'
 ht-degree: 3%
 ---
 
@@ -37,52 +37,62 @@ ht-degree: 3%
     + [Target 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
     + [단일 단계 마이그레이션](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
     + [다단계 마이그레이션](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
-+ Adobe Commerce Cloud {#adobe-commerce-cloud}
-  + 문제 해결 {#troubleshooting}
-    + [잘못된 SSL](../cloud/troubleshooting/invalid-ssl.md)
-    + [2가지 일반적인 사이트 오류를 분류하고 해결합니다.](../cloud/troubleshooting/triage-two-common-site-errors.md)
-    + [구성 값](../cloud/troubleshooting/config-values.md)
-    + [로그 자르기](../cloud/troubleshooting/truncate-logs.md)
-  + [프로젝트 및 환경 관리](../cloud/project-environment-management.md)
-  + [Adobe Commerce Cloud의 확장 방법](../cloud/how-adobe-commerce-cloud-scales.md)
-  + [HIPAA 지원 호스팅](../cloud/hippa-ready-hosting.md)
-  + [IP 주소 감지](../cloud/detect-ip-address.md)
-  + [마케팅 기법](../cloud/marketecture.md)
-  + [글로벌 게재 모델](../cloud/global-delivery-model.md)
-  + [관리자 역할](../cloud/admin-roles.md)
-  + [마케팅 흐름](../cloud/marketing-flows.md)
-  + [Storefront 옵션](../cloud/storefront-options.md)
-  + [데이터 공유](../cloud/data-sharing.md)
-  + [여러 웹 사이트](../cloud/multiple-websites.md)
-  + [경험 리드 데이터 및 프로모션](../cloud/experience-lead-data-promoitions.md)
-  + [AEM Assets](../cloud/aem-assets.md)
-  + [자체 호스팅 솔루션에서 마이그레이션](../cloud/overview.md)
-  + [Fastly를 사용하여 액세스 제한](../cloud/limit-website-access-using-fastly.md)
-  + 기술 온보딩 및 하드웨어 핸드오프 {#technical-onboarding-hardware-handoff}
-    + [인프라 및 개발 모범 사례](../cloud/infrastructure-development-best-practices.md)
-    + [Fastly](../cloud/fastly.md)
-    + [구성 및 디버깅](../cloud/configuration-and-debugging.md)
-    + [배포, 테스트, 모니터링 및 보안](../cloud/deployments-testing-monitoring-security.md)
-    + [SaaS 서비스, 지원 및 커뮤니케이션 및 다음 단계](../cloud/saas-offerings-support-communications-next-steps.md)
-  + 우수 사례 {#commerce-cloud-best-practices}
-    + [지원 요청](../cloud/best-practices/support-request.md)
-    + [실행 전 검사 목록](../cloud/best-practices/pre-launch-checklist.md)
++ 클라우드 인프라 및 자체 호스팅 {#cloud-infrastructure-and-self-hosted}
+  + 플랫폼 및 마이그레이션 {#platform-and-migration}
+    + [마케팅 기법](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketecture.md)
+    + [글로벌 게재 모델](../cloud-infrastructure-and-self-hosted/platform-and-migration/global-delivery-model.md)
+    + [관리자 역할](../cloud-infrastructure-and-self-hosted/platform-and-migration/admin-roles.md)
+    + [마케팅 흐름](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketing-flows.md)
+    + [Storefront 옵션](../cloud-infrastructure-and-self-hosted/platform-and-migration/storefront-options.md)
+    + [데이터 공유](../cloud-infrastructure-and-self-hosted/platform-and-migration/data-sharing.md)
+    + [여러 웹 사이트](../cloud-infrastructure-and-self-hosted/platform-and-migration/multiple-websites.md)
+    + [경험 리드 데이터 및 프로모션](../cloud-infrastructure-and-self-hosted/platform-and-migration/experience-lead-data-promoitions.md)
+    + [AEM Assets](../cloud-infrastructure-and-self-hosted/platform-and-migration/aem-assets.md)
+    + [자체 호스팅 솔루션에서 마이그레이션](../cloud-infrastructure-and-self-hosted/platform-and-migration/overview.md)
+    + Adobe Commerce으로 마이그레이션 {#migrating-to-adobe-commerce}
+      + [개요](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/overview.md)
+      + 준비 {#preparation}
+        + [팀 및 프로젝트 평가](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
+      + 사용자 정의 {#customizations}
+        + [In-Process 코드 표준](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
+      + QA {#qa}
+        + [코드 고정](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/qa/code-freeze.md)
+  + 클라우드 작업 {#cloud-operations}
+    + 문제 해결 {#troubleshooting}
+      + [잘못된 SSL](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/invalid-ssl.md)
+      + [2가지 일반적인 사이트 오류를 분류하고 해결합니다.](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/triage-two-common-site-errors.md)
+      + [구성 값](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/config-values.md)
+      + [로그 자르기](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/truncate-logs.md)
+    + [프로젝트 및 환경 관리](../cloud-infrastructure-and-self-hosted/cloud-operations/project-environment-management.md)
+    + [Adobe Commerce Cloud의 확장 방법](../cloud-infrastructure-and-self-hosted/cloud-operations/how-adobe-commerce-cloud-scales.md)
+    + [HIPAA 지원 호스팅](../cloud-infrastructure-and-self-hosted/cloud-operations/hippa-ready-hosting.md)
+    + [IP 주소 감지](../cloud-infrastructure-and-self-hosted/cloud-operations/detect-ip-address.md)
+    + [Fastly를 사용하여 액세스 제한](../cloud-infrastructure-and-self-hosted/cloud-operations/limit-website-access-using-fastly.md)
+    + 기술 온보딩 및 하드웨어 핸드오프 {#technical-onboarding-hardware-handoff}
+      + [인프라 및 개발 모범 사례](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/infrastructure-development-best-practices.md)
+      + [Fastly](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/fastly.md)
+      + [구성 및 디버깅](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/configuration-and-debugging.md)
+      + [배포, 테스트, 모니터링 및 보안](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security.md)
+      + [SaaS 서비스, 지원 및 커뮤니케이션 및 다음 단계](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/saas-offerings-support-communications-next-steps.md)
+    + 우수 사례 {#commerce-cloud-best-practices}
+      + [지원 요청](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
+      + [실행 전 검사 목록](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
+    + 작업 도구 {#tools}
+      + [사이트 전체 분석 도구 대시보드](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/site-wide-analysis-tool.md)
+      + [Cloud Automation 패치 서비스](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/cloud-automation-patching-service.md)
+      + [Adobe Commerce 관찰](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/observation-tool.md)
+      + [품질 패치 도구 개요](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool-overview.md)
+      + [품질 패치 도구](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool.md)
+      + New Relic {#new-relic}
+        + [악성 IP 찾기](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip.md)
+        + [경고 알림 설정](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup.md)
+        + [사용자 지정 경고](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/custom-alerts.md)
 + 시작 {#getting-started}
-  + Adobe Commerce으로 마이그레이션{#migrating-to-adobe-commerce}
-    + [개요](../migrating-to-adobe-commerce/overview.md)
-    + 준비{#preparation}
-      + [팀 및 프로젝트 평가](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
-    + 사용자 정의{#customizations}
-      + [In-Process 코드 표준](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
-    + QA{#qa}
-      + [코드 고정](../migrating-to-adobe-commerce/qa/code-freeze.md)
-
   + Commerce 기능 {#capabilities}
     + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
     + [데이터 연결](../capabilities/data-connection.md)
     + [라이브 검색 전체 데모](../capabilities/live-search-full-demonstration.md)
     + [구성 가능한 Commerce](../capabilities/what-is-composable-commerce.md)
-    + [품질 패치 도구](../capabilities/quality-patch-tool.md)
   + 제품 만들기 {#create-products}
     + [간단한 제품](../site-management/create-simple-product.md)
     + [가상 제품](../site-management/create-virtual-product.md)
@@ -298,12 +308,3 @@ ht-degree: 3%
     + [견적 라인 항목 노트](../b2b/quote-line-item-notes.md)
     + [견적 라인 항목 할인 GraphQL](../b2b/quote-graphql-line-item-discount.md)
     + [견적 라인 항목 할인 REST API](../b2b/quote-rest-api-line-item-notes.md)
-+ 도구 및 외부 서비스 {#tools}
-  + [사이트 전체 분석 도구 대시보드](../tools/site-wide-analysis-tool.md)
-  + [Cloud Automation 패치 서비스](../tools/cloud-automation-patching-service.md)
-  + [Adobe Commerce 관찰](../tools/observation-tool.md)
-  + [품질 패치 도구](../tools/quality-patch-tool.md)
-  + New Relic {#new-relic}
-    + [악성 IP 찾기](../new-relic/malicious-ip.md)
-    + [경고 알림 설정](../new-relic/new-relic-alert-notification-setup.md)
-    + [사용자 지정 경고](../new-relic/custom-alerts.md)

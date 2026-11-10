@@ -1,0 +1,69 @@
+---
+title: 클라우드 인프라 및 개발 모범 사례
+description: Adobe Commerce Cloud 기술 온보딩 인프라 및 개발 모범 사례에 대해 알아봅니다.
+feature: Cloud
+topic: Commerce, Architecture, Development
+old-role: Architect, Developer
+role: Developer
+level: Intermediate
+doc-type: Technical Video
+duration: 781
+last-substantial-update: 2024-03-04T00:00:00.000Z
+jira: KT-15017
+exl-id: 097561c7-5198-4544-985d-255c80a9648b
+TQID: 'https://experienceleague.adobe.com/u4qsJEDOyDOduZMPQTWNuybWGiRn-cnt3hfbPiW1jVk'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+subfeature_v2:
+  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+    internal-label: Cloud architecture
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+workflow-type: tm+mt
+source-wordcount: '161'
+ht-degree: 0%
+---
+# 기술 온보딩 - 인프라 및 개발 모범 사례
+
+Adobe Commerce의 클라우드 인프라와 몇 가지 개발 모범 사례에 대해 알아봅니다.
+
+## 이 비디오는 누구의 것입니까?
+
+* 웹 사이트 관리자
+* Commerce 아키텍트
+* 전자 상거래 웹 사이트 소유자
+
+## 비디오 콘텐츠
+
+>[!VIDEO](https://video.tv.adobe.com/v/3432799?captions=kor&learn=on)
+
+## 비디오에 언급된 Experience League 설명서
+
+* [Rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html?lang=ko#migrate-files-using-rsync)
+* [SFTP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html?lang=ko#sftp)
+* [COMMERCE CLOUD CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=ko)
+* [Adobe Commerce 업그레이드 및 패치 적용](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html?lang=ko)
+* [Adobe Commerce 사전 실행 검사 목록](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html?lang=ko)
+* [지원 티켓 만들기](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ko)
+
+{{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
