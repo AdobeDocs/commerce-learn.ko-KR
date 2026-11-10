@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '1022'
 ht-degree: 3%
 ---
 
@@ -77,13 +77,22 @@ ht-degree: 3%
     + 우수 사례 {#commerce-cloud-best-practices}
       + [지원 요청](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
       + [실행 전 검사 목록](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
+    + 작업 도구 {#tools}
+      + [사이트 전체 분석 도구 대시보드](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/site-wide-analysis-tool.md)
+      + [Cloud Automation 패치 서비스](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/cloud-automation-patching-service.md)
+      + [Adobe Commerce 관찰](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/observation-tool.md)
+      + [품질 패치 도구 개요](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool-overview.md)
+      + [품질 패치 도구](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool.md)
+      + New Relic {#new-relic}
+        + [악성 IP 찾기](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip.md)
+        + [경고 알림 설정](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup.md)
+        + [사용자 지정 경고](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/custom-alerts.md)
 + 시작 {#getting-started}
   + Commerce 기능 {#capabilities}
     + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
     + [데이터 연결](../capabilities/data-connection.md)
     + [라이브 검색 전체 데모](../capabilities/live-search-full-demonstration.md)
     + [구성 가능한 Commerce](../capabilities/what-is-composable-commerce.md)
-    + [품질 패치 도구](../capabilities/quality-patch-tool.md)
   + 제품 만들기 {#create-products}
     + [간단한 제품](../site-management/create-simple-product.md)
     + [가상 제품](../site-management/create-virtual-product.md)
@@ -115,7 +124,7 @@ ht-degree: 3%
     + [결론](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder 시험 실행](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 백엔드 개발 {#backend-development}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../backend-development/create-module.md)
     + [제품 속성 추가](../backend-development/add-product-attribute.md)
     + [종속성 삽입 예](../backend-development/dependency-injection.md)
@@ -299,12 +308,3 @@ ht-degree: 3%
     + [견적 라인 항목 노트](../b2b/quote-line-item-notes.md)
     + [견적 라인 항목 할인 GraphQL](../b2b/quote-graphql-line-item-discount.md)
     + [견적 라인 항목 할인 REST API](../b2b/quote-rest-api-line-item-notes.md)
-+ 도구 및 외부 서비스 {#tools}
-  + [사이트 전체 분석 도구 대시보드](../tools/site-wide-analysis-tool.md)
-  + [Cloud Automation 패치 서비스](../tools/cloud-automation-patching-service.md)
-  + [Adobe Commerce 관찰](../tools/observation-tool.md)
-  + [품질 패치 도구](../tools/quality-patch-tool.md)
-  + New Relic {#new-relic}
-    + [악성 IP 찾기](../new-relic/malicious-ip.md)
-    + [경고 알림 설정](../new-relic/new-relic-alert-notification-setup.md)
-    + [사용자 지정 경고](../new-relic/custom-alerts.md)
