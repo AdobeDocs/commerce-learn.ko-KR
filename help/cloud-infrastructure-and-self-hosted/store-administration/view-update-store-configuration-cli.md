@@ -52,7 +52,7 @@ Commerce CLI를 사용하여 구성 값을 보고, 설정하고, 찾는 방법�
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3427123?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439977?captions=kor&learn=on)
 
 ## 자습서에서 사용되는 일부 명령
 
