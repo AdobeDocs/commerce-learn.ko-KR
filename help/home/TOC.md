@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '1025'
 ht-degree: 3%
 ---
 
@@ -144,6 +144,16 @@ ht-degree: 3%
     + [권장 사항 라이브 검색](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
     + [라이브 검색 전체 데모](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
     + [Commerce과 AJO 통합](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
+  + Adobe Commerce용 B2B {#b2b}
+    + [회사 계정 관리](../cloud-infrastructure-and-self-hosted/b2b/company-accounts.md)
+    + [공유 카탈로그 관리](../cloud-infrastructure-and-self-hosted/b2b/shared-catalogs.md)
+    + [회사 크레딧 관리](../cloud-infrastructure-and-self-hosted/b2b/company-credit.md)
+    + [구매 주문 및 승인](../cloud-infrastructure-and-self-hosted/b2b/purchase-orders.md)
+    + 따옴표 {#quotes}
+      + [영업 담당자가 견적 시작](../cloud-infrastructure-and-self-hosted/b2b/quotes/sales-rep-initiates-quote.md)
+      + [관리자의 견적 유효성 검사](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-validation-admin-panel.md)
+      + [견적 라인 항목 할인](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
+      + [견적 라인 항목 노트](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
 + 시작 {#getting-started}
   + Commerce 기능 {#capabilities}
     + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
@@ -160,6 +170,10 @@ ht-degree: 3%
 + API 및 통합 {#apis-and-integration}
   + Practical REST 및 GraphQL 예 {#examples}
     + [REST 사용 고객](../apis-and-integration/examples/customer.md)
+    + B2B 인용 {#b2b-quotes}
+      + [영업 담당자가 견적 REST API 시작](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
+      + [견적 라인 항목 할인 GraphQL](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
+      + [견적 라인 항목 노트 REST API](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
 
 + 확장성 {#extensibility}
   + Commerce 개발자 에이전트 {#commerce-developer-agent}
@@ -172,7 +186,7 @@ ht-degree: 3%
     + [결론](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder 시험 실행](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 백엔드 개발 {#backend-development}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../backend-development/create-module.md)
     + [제품 속성 추가](../backend-development/add-product-attribute.md)
     + [종속성 삽입 예](../backend-development/dependency-injection.md)
@@ -294,17 +308,3 @@ ht-degree: 3%
     + [지원 티켓 만들기](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [지원 티켓 검색, 검토, 주석 달기 및 에스컬레이션](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [지원 티켓 감시자 및 상태 관리](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-
-+ Adobe Commerce용 B2B {#b2b}
-  + [회사 계정 관리](../b2b/company-accounts.md)
-  + [공유 카탈로그 관리](../b2b/shared-catalogs.md)
-  + [회사 크레딧 관리](../b2b/company-credit.md)
-  + [구매 주문 및 승인](../b2b/purchase-orders.md)
-  + 견적 {#b2b-quote}
-    + [영업 담당자가 견적 시작](../b2b/sales-rep-initiates-quote.md)
-    + [관리자의 견적 유효성 검사](../b2b/quote-validation-admin-panel.md)
-    + [영업 담당자가 견적 REST API 시작](../b2b/sales-rep-initiates-quote-api.md)
-    + [견적 라인 항목 할인](../b2b/quote-line-item-discount.md)
-    + [견적 라인 항목 노트](../b2b/quote-line-item-notes.md)
-    + [견적 라인 항목 할인 GraphQL](../b2b/quote-graphql-line-item-discount.md)
-    + [견적 라인 항목 할인 REST API](../b2b/quote-rest-api-line-item-notes.md)
