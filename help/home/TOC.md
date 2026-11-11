@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1028'
 ht-degree: 3%
 ---
 
@@ -154,6 +154,25 @@ ht-degree: 3%
       + [관리자의 견적 유효성 검사](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-validation-admin-panel.md)
       + [견적 라인 항목 할인](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [견적 라인 항목 노트](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
+  + 애플리케이션 개발 및 업그레이드 {#application-development-and-upgrades}
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+    + [모듈 만들기](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
+    + [제품 속성 추가](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
+    + [종속성 삽입 예](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
+    + [Galera Cluster 느린 복제](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication.md)
+    + [MySQL 쿼리 캐시](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/mysql-query-cache.md)
+    + [PT 쿼리 다이제스트](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/pt-query-digest.md)
+    + [Adobe Commerce 데이터베이스에 대한 쿼리 연결 및 실행](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/remote-db-connection-execute-queries.md)
+    + Commerce 업그레이드 {#upgrades}
+      + [Adobe Commerce 2.4 업그레이드 워크숍](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/2-4-upgrade-workshop.md)
+      + [업그레이드 호환성 도구 개요](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/upgrade-compatibility-tool-overview.md)
+      + [PhpStorm에서 호환성 업그레이드 도구 사용](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/uct-phpstorm.md)
+    + 글로벌 참조 아키텍처 구현 기술 {#global-reference-architecture-implementation-techniques}
+      + [개요](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/overview.md)
+      + [Git 분할](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/split-git.md)
+      + [대량 패키지](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
+      + [개별 패키지](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
+      + [모노레포](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
 + 시작 {#getting-started}
   + Commerce 기능 {#capabilities}
     + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
@@ -185,19 +204,6 @@ ht-degree: 3%
     + [기존 코드 마이그레이션](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
     + [결론](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder 시험 실행](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-  + 백엔드 개발 {#backend-development}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
-    + [모듈 만들기](../backend-development/create-module.md)
-    + [제품 속성 추가](../backend-development/add-product-attribute.md)
-    + [종속성 삽입 예](../backend-development/dependency-injection.md)
-    + [Galera Cluster 느린 복제](../backend-development/galera-db-slow-replication.md)
-    + [MySQL 쿼리 캐시](../backend-development/mysql-query-cache.md)
-    + [PT 쿼리 다이제스트](../backend-development/pt-query-digest.md)
-    + [Adobe Commerce 데이터베이스에 대한 쿼리 연결 및 실행](../backend-development/remote-db-connection-execute-queries.md)
-    + Commerce 업그레이드 {#upgrade}
-      + [Adobe Commerce 2.4 업그레이드 워크숍](../upgrade/2-4-upgrade-workshop.md)
-      + [업그레이드 호환성 도구 개요](../upgrade/upgrade-compatibility-tool-overview.md)
-      + [PhpStorm에서 호환성 업그레이드 도구 사용](../upgrade/uct-phpstorm.md)
   + 프론트엔드 Luma 개발 {#frontend-development}
     + 개발자용 PaaS/SaaS 페이지 빌더 {#page-builder}
       + [1 - 소개](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -284,12 +290,6 @@ ht-degree: 3%
     + [단일 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-single-source.md)
     + [여러 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-multiple-source.md)
 
-+ 글로벌 참조 아키텍처 {#global-reference-architecture-implementation-techniques}
-  + [개요](../global-reference-architecture/overview.md)
-  + [Git 분할](../global-reference-architecture/split-git.md)
-  + [대량 패키지](../global-reference-architecture/bulk-packages.md)
-  + [개별 패키지](../global-reference-architecture/separate-packages.md)
-  + [모노레포](../global-reference-architecture/monorepo.md)
 + 모니터링, 분석 및 지원 {#monitoring-analytics-support}
   + 가시성 {#observability}
     + [가시성 개요](../monitoring-analytics-support/observability/overview.md)
