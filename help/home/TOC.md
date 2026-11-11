@@ -4,7 +4,7 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
+source-git-commit: 24f9e04b5b41765f855476ff2e1be648b6634d1f
 workflow-type: tm+mt
 source-wordcount: '1035'
 ht-degree: 3%
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [견적 라인 항목 할인](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [견적 라인 항목 노트](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 애플리케이션 개발 및 업그레이드 {#application-development-and-upgrades}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [제품 속성 추가](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [종속성 삽입 예](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -189,6 +189,20 @@ ht-degree: 3%
     + [App Builder URL을 사용하여 테스트](../app-builder/first-app/testing-app-builder-url.md)
     + [결론](../app-builder/first-app/conclusion.md)
     + [샘플 모듈 소스 코드](https://github.com/magento/app-builder-samples){target="_blank"}
+
+  + AI 도구를 사용하여 분할 결제 POC 만들기 {#create-a-split-payment-poc}
+    + [App Builder 및 AI 도구](../app-builder/split-payment-ai-tools/overview.md)
+    + [전체 데모](../app-builder/split-payment-ai-tools/full-demo.md)
+    + [단계별 구현 안내서](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
+    + [아키텍처 및 설계 결정](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
+    + [사전 요구 사항 및 환경 설정](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
+    + [테스트 및 확인](../app-builder/split-payment-ai-tools/testing-and-verification.md)
+    + [다음 단계](../app-builder/split-payment-ai-tools/next-steps.md)
+    + 참조 리소스 {#split-payment-resources}
+      + [환경 변수 참조](../app-builder/split-payment-ai-tools/env-reference.md)
+      + [Commerce 모듈 AI 프롬프트](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
+      + [App Builder orchestrator AI 프롬프트](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
+      + [Experience Cloud UI 확장 AI 프롬프트](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
 
 + 시작 {#getting-started}
   + Commerce 기능 {#capabilities}
@@ -258,19 +272,6 @@ ht-degree: 3%
     + [돌연변이](../graphql-rest/graphql-mutations.md)
     + [스키마](../graphql-rest/graphql-schema.md)
   + 더 많은 App Builder 자습서 및 I/O 이벤트 {#adobe-developer-app-builder}
-    + AI 도구를 사용하여 분할 결제 POC 만들기 {#create-a-split-payment-poc}
-      + [App Builder 및 AI 도구](../app-builder/split-payment-ai-tools/overview.md)
-      + [전체 데모](../app-builder/split-payment-ai-tools/full-demo.md)
-      + [단계별 구현 안내서](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
-      + [아키텍처 및 설계 결정](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
-      + [사전 요구 사항 및 환경 설정](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
-      + [테스트 및 확인](../app-builder/split-payment-ai-tools/testing-and-verification.md)
-      + [다음 단계](../app-builder/split-payment-ai-tools/next-steps.md)
-      + 참조 리소스 {#split-payment-resources}
-        + [환경 변수 참조](../app-builder/split-payment-ai-tools/env-reference.md)
-        + [Commerce 모듈 AI 프롬프트](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
-        + [App Builder orchestrator AI 프롬프트](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
-        + [Experience Cloud UI 확장 AI 프롬프트](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
     + AI 도구를 사용하여 맞춤형 배송률 만들기 {#custom-shipping-rates-ai-tools}
       + [소개 및 설정](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
       + [AI 도구 및 Adobe 스타터 키트](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
