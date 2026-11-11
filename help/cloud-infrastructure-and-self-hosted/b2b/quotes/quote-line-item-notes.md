@@ -63,6 +63,6 @@ API 워크플로에 대해서는 [REST가 있는 견적 라인 항목 메모](..
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3420417?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423695?captions=kor&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}
