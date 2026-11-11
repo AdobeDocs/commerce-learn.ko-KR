@@ -4,7 +4,7 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
 source-wordcount: '1022'
 ht-degree: 3%
@@ -87,20 +87,60 @@ ht-degree: 3%
         + [악성 IP 찾기](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip.md)
         + [경고 알림 설정](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup.md)
         + [사용자 지정 경고](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/custom-alerts.md)
+  + 저장소 관리 {#store-administration}
+    + [사용자 역할 및 권한 관리](../cloud-infrastructure-and-self-hosted/store-administration/users-roles-permissions.md)
+    + [이중 인증](../cloud-infrastructure-and-self-hosted/store-administration/two-factor-authentication.md)
+    + [통화 및 세금 규칙 관리](../cloud-infrastructure-and-self-hosted/store-administration/currency-tax-rules.md)
+    + [웹 사이트, 스토어 및 스토어 조회수 추가](../cloud-infrastructure-and-self-hosted/store-administration/add-websites-stores-views.md)
+    + [스토어 URL 변경](../cloud-infrastructure-and-self-hosted/store-administration/change-store-url.md)
+    + [관리자 URI 재설정](../cloud-infrastructure-and-self-hosted/store-administration/reset-admin-uri.md)
+    + [배송 및 배송 방법](../cloud-infrastructure-and-self-hosted/store-administration/shipping-delivery.md)
+    + [관리 그리드 및 필터](../cloud-infrastructure-and-self-hosted/store-administration/admin-grids-and-filters.md)
+    + [Commerce cli](../cloud-infrastructure-and-self-hosted/store-administration/view-update-store-configuration-cli.md)
+    + [저장소 구성 및 시스템 메뉴 탐색](../cloud-infrastructure-and-self-hosted/store-administration/store-configuration-and-system-menu.md)
+    + Commerce 서비스 설정 {#adobe-commerce-services}
+      + [Commerce 서비스 커넥터 구성](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/configure-adobe-commerce-services-connector.md)
+      + [결제 서비스 구성](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/configure-adobe-payment-services.md)
+      + [결제 서비스 사용](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/payment-services.md)
+    + 고객 {#customers}
+      + [고객 세그먼트 만들기](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-segments.md)
+      + [고객 그룹 만들기](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-groups.md)
+      + [고객 속성 만들기](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-attributes.md)
+      + [판매자 지원 쇼핑](../cloud-infrastructure-and-self-hosted/store-administration/customers/seller-assisted-shopping.md)
+    + 주문 및 이행 {#orders}
+      + [주문 상태 관리](../cloud-infrastructure-and-self-hosted/store-administration/orders/order-status.md)
+      + [재고 상태 확인](../cloud-infrastructure-and-self-hosted/store-administration/orders/checking-inventory-status.md)
+  + 카탈로그 및 제품 {#catalog-and-products}
+    + 제품 만들기 {#create-products}
+      + [단순 제품](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-simple-product.md)
+      + [가상 제품](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-virtual-product.md)
+      + [다운로드 가능한 제품](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-downloadable-product.md)
+      + [그룹화된 제품](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-grouped-product.md)
+      + [구성 가능한 제품](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-configurable-product.md)
+      + [번들 제품](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-bundle-product.md)
+      + [기프트 카드 제품](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-gift-card-product.md)
+    + [범주 만들기](../cloud-infrastructure-and-self-hosted/catalog-and-products/category-create.md)
+    + [범주의 제품 관리](../cloud-infrastructure-and-self-hosted/catalog-and-products/category-products.md)
+    + [Inventory management](../cloud-infrastructure-and-self-hosted/catalog-and-products/inventory-management.md)
+    + [제품 속성 만들기](../cloud-infrastructure-and-self-hosted/catalog-and-products/product-attributes-create.md)
+    + [PWA Studio에서 제품 속성 사용](../cloud-infrastructure-and-self-hosted/catalog-and-products/product-attributes-pwa.md)
+    + [SEO 메타데이터 관리](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-metadata.md)
+    + [SEO에 대한 URL 재작성 관리](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-url-rewrites.md)
+    + [AR 뷰어](../cloud-infrastructure-and-self-hosted/catalog-and-products/augmented-reality.md)
+    + [카탈로그 가져오기 및 업데이트](../cloud-infrastructure-and-self-hosted/catalog-and-products/catalog-import.md)
+  + 콘텐츠 관리 {#content-management}
+    + [페이지 빌더 개요](../cloud-infrastructure-and-self-hosted/content-management/page-builder-overview.md)
+    + [정적 및 동적 블록 만들기](../cloud-infrastructure-and-self-hosted/content-management/static-dynamic-blocks.md)
+    + [위젯 만들기](../cloud-infrastructure-and-self-hosted/content-management/widgets.md)
+    + [콘텐츠 템플릿 사용](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
+    + [컨텐츠 스테이징](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
+    + [미디어 갤러리 관리](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
 + 시작 {#getting-started}
   + Commerce 기능 {#capabilities}
     + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
     + [데이터 연결](../capabilities/data-connection.md)
     + [라이브 검색 전체 데모](../capabilities/live-search-full-demonstration.md)
     + [구성 가능한 Commerce](../capabilities/what-is-composable-commerce.md)
-  + 제품 만들기 {#create-products}
-    + [간단한 제품](../site-management/create-simple-product.md)
-    + [가상 제품](../site-management/create-virtual-product.md)
-    + [다운로드 가능한 제품](../site-management/create-downloadable-product.md)
-    + [그룹화된 제품](../site-management/create-grouped-product.md)
-    + [구성 가능한 제품](../site-management/create-configurable-product.md)
-    + [번들 제품](../site-management/create-bundle-product.md)
-    + [기프트 카드 제품](../site-management/create-gift-card-product.md)
   + 백오피스 통합 시작 키트 {#back-office-integration-starter-kit}
     + [스타터 키트 데모](../back-office-integrations/starter-kit-demo.md)
     + [통합](../back-office-integrations/integrations.md)
@@ -247,43 +287,6 @@ ht-degree: 3%
     + [지원 티켓 검색, 검토, 주석 달기 및 에스컬레이션](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [지원 티켓 감시자 및 상태 관리](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ 저장소 관리 {#admin}
-  + [사용자 역할 및 권한 관리](../site-management/users-roles-permissions.md)
-  + [이중 인증](../site-management/two-factor-authentication.md)
-  + [통화 및 세금 규칙 관리](../site-management/currency-tax-rules.md)
-  + [웹 사이트, 스토어 및 스토어 조회수 추가](../site-management/add-websites-stores-views.md)
-  + [스토어 URL 변경](../site-management/change-store-url.md)
-  + [관리자 URI 재설정](../site-management/reset-admin-uri.md)
-  + [배송 및 배송 방법](../site-management/shipping-delivery.md)
-  + [관리 그리드 및 필터](../site-management/admin-grids-and-filters.md)
-  + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
-  + [저장소 구성 및 시스템 메뉴 탐색](../site-management/store-configuration-and-system-menu.md)
-  + Adobe Commerce 서비스 {#adobe-commerce-services}
-    + [Commerce 서비스 커넥터 구성](../site-management/configure-adobe-commerce-services-connector.md)
-    + [결제 서비스 구성](../site-management/configure-adobe-payment-services.md)
-    + [결제 서비스 사용](../site-management/payment-services.md)
-+ 고객 관리 {#customers}
-  + [고객 세그먼트 만들기](../site-management/customer-segments.md)
-  + [고객 그룹 만들기](../site-management/customer-groups.md)
-  + [고객 속성 만들기](../site-management/customer-attributes.md)
-  + [판매자 지원 쇼핑](../site-management/seller-assisted-shopping.md)
-+ 카탈로그 관리 {#catalog}
-  + [범주 만들기](../site-management/category-create.md)
-  + [범주의 제품 관리](../site-management/category-products.md)
-  + [Inventory management](../site-management/inventory-management.md)
-  + [제품 속성 만들기](../site-management/product-attributes-create.md)
-  + [PWA Studio에서 제품 속성 사용](../site-management/product-attributes-pwa.md)
-  + [SEO 메타데이터 관리](../site-management/seo-metadata.md)
-  + [SEO에 대한 URL 재작성 관리](../site-management/seo-url-rewrites.md)
-  + [AR 뷰어](../site-management/augmented-reality.md)
-  + [카탈로그 가져오기 및 업데이트](../site-management/catalog-import.md)
-+ 콘텐츠 관리 {#content}
-  + [페이지 빌더 개요](../site-management/page-builder-overview.md)
-  + [정적 및 동적 블록 만들기](../site-management/static-dynamic-blocks.md)
-  + [위젯 만들기](../site-management/widgets.md)
-  + [콘텐츠 템플릿 사용](../site-management/content-templates.md)
-  + [컨텐츠 스테이징](../site-management/content-staging.md)
-  + [미디어 갤러리 관리](../site-management/media-gallery.md)
 + 마케팅 도구 {#marketing}
   + [카탈로그 가격 규칙 만들기](../site-management/catalog-price-rules.md)
   + [장바구니 가격 규칙 만들기](../site-management/cart-price-rules.md)
@@ -292,9 +295,6 @@ ht-degree: 3%
   + [라이브 검색 소개](../site-management/live-search.md)
   + [권장 사항에 대한 실시간 검색](../site-management/live-search-recommendations.md)
   + [Commerce과 AJO 통합](../site-management/integrate-commerce-ajo.md)
-+ 주문 및 이행 {#orders}
-  + [주문 상태 관리](../orders-and-fulfillment/order-status.md)
-  + [재고 상태 확인](../orders-and-fulfillment/checking-inventory-status.md)
 + Adobe Commerce용 B2B {#b2b}
   + [회사 계정 관리](../b2b/company-accounts.md)
   + [공유 카탈로그 관리](../b2b/shared-catalogs.md)
