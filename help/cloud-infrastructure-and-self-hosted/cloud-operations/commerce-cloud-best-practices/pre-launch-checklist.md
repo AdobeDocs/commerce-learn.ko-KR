@@ -49,9 +49,9 @@ topic_v2:
     internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
 workflow-type: tm+mt
-source-wordcount: '2365'
+source-wordcount: '2371'
 ht-degree: 0%
 ---
 # 실행 전 검사 목록
@@ -120,7 +120,7 @@ Adobe Commerce Cloud는 스테이징 및 프로덕션 환경 모두에 대해 Ma
 * [MySQL 구성 모범 사례](https://experienceleague.adobe.com/ko/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration){target="_blank"}
 * Adobe Commerce에서 관리되는 경고: [MariaDB 경고](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-on-magento-commerce-mariadb-alerts){target="_blank"}
 * [데이터베이스 구성](https://experienceleague.adobe.com/ko/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud){target="_blank"}에 대한 모범 사례
-* [Galera 클러스터 복제 및 흐름 제어](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"}(심층 분석)
+* [Galera 클러스터 복제 및 흐름 제어](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication){target="_blank"}(심층 분석)
 
 1. 데이터베이스 로드가 많은 경우 성능을 향상시키려면 [MySQL 슬레이브 연결](https://experienceleague.adobe.com/ko/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"}을 사용하는 것이 좋습니다.
 2. 모든 데이터베이스 테이블의 행 형식이 COMPACT[&#128279;](https://experienceleague.adobe.com/ko/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"}이(가) 아닌 DYNAMIC으로 설정되어 있는지 확인하십시오(온-프레미스 대 클라우드 마이그레이션의 경우 특히 그러함).

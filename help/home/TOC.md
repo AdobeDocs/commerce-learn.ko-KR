@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
 workflow-type: tm+mt
-source-wordcount: '1022'
+source-wordcount: '1028'
 ht-degree: 3%
 ---
 
@@ -135,11 +135,48 @@ ht-degree: 3%
     + [콘텐츠 템플릿 사용](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
     + [컨텐츠 스테이징](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
     + [미디어 갤러리 관리](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
+  + 마케팅 및 머천다이징 {#marketing-and-merchandising}
+    + [카탈로그 가격 규칙 만들기](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/catalog-price-rules.md)
+    + [장바구니 가격 규칙 만들기](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/cart-price-rules.md)
+    + [관련 제품 규칙 관리](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/related-product-rules.md)
+    + [제품 추천 설정](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/product-recommendations.md)
+    + [라이브 검색 소개](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search.md)
+    + [권장 사항 라이브 검색](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
+    + [라이브 검색 전체 데모](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
+    + [Commerce과 AJO 통합](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
+  + Adobe Commerce용 B2B {#b2b}
+    + [회사 계정 관리](../cloud-infrastructure-and-self-hosted/b2b/company-accounts.md)
+    + [공유 카탈로그 관리](../cloud-infrastructure-and-self-hosted/b2b/shared-catalogs.md)
+    + [회사 크레딧 관리](../cloud-infrastructure-and-self-hosted/b2b/company-credit.md)
+    + [구매 주문 및 승인](../cloud-infrastructure-and-self-hosted/b2b/purchase-orders.md)
+    + 따옴표 {#quotes}
+      + [영업 담당자가 견적 시작](../cloud-infrastructure-and-self-hosted/b2b/quotes/sales-rep-initiates-quote.md)
+      + [관리자의 견적 유효성 검사](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-validation-admin-panel.md)
+      + [견적 라인 항목 할인](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
+      + [견적 라인 항목 노트](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
+  + 애플리케이션 개발 및 업그레이드 {#application-development-and-upgrades}
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [모듈 만들기](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
+    + [제품 속성 추가](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
+    + [종속성 삽입 예](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
+    + [Galera Cluster 느린 복제](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication.md)
+    + [MySQL 쿼리 캐시](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/mysql-query-cache.md)
+    + [PT 쿼리 다이제스트](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/pt-query-digest.md)
+    + [Adobe Commerce 데이터베이스에 대한 쿼리 연결 및 실행](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/remote-db-connection-execute-queries.md)
+    + Commerce 업그레이드 {#upgrades}
+      + [Adobe Commerce 2.4 업그레이드 워크숍](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/2-4-upgrade-workshop.md)
+      + [업그레이드 호환성 도구 개요](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/upgrade-compatibility-tool-overview.md)
+      + [PhpStorm에서 호환성 업그레이드 도구 사용](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/uct-phpstorm.md)
+    + 글로벌 참조 아키텍처 구현 기술 {#global-reference-architecture-implementation-techniques}
+      + [개요](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/overview.md)
+      + [Git 분할](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/split-git.md)
+      + [대량 패키지](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
+      + [개별 패키지](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
+      + [모노레포](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
 + 시작 {#getting-started}
   + Commerce 기능 {#capabilities}
     + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
     + [데이터 연결](../capabilities/data-connection.md)
-    + [라이브 검색 전체 데모](../capabilities/live-search-full-demonstration.md)
     + [구성 가능한 Commerce](../capabilities/what-is-composable-commerce.md)
   + 백오피스 통합 시작 키트 {#back-office-integration-starter-kit}
     + [스타터 키트 데모](../back-office-integrations/starter-kit-demo.md)
@@ -152,6 +189,10 @@ ht-degree: 3%
 + API 및 통합 {#apis-and-integration}
   + Practical REST 및 GraphQL 예 {#examples}
     + [REST 사용 고객](../apis-and-integration/examples/customer.md)
+    + B2B 인용 {#b2b-quotes}
+      + [영업 담당자가 견적 REST API 시작](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
+      + [견적 라인 항목 할인 GraphQL](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
+      + [견적 라인 항목 노트 REST API](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
 
 + 확장성 {#extensibility}
   + Commerce 개발자 에이전트 {#commerce-developer-agent}
@@ -163,19 +204,6 @@ ht-degree: 3%
     + [기존 코드 마이그레이션](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
     + [결론](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder 시험 실행](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-  + 백엔드 개발 {#backend-development}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
-    + [모듈 만들기](../backend-development/create-module.md)
-    + [제품 속성 추가](../backend-development/add-product-attribute.md)
-    + [종속성 삽입 예](../backend-development/dependency-injection.md)
-    + [Galera Cluster 느린 복제](../backend-development/galera-db-slow-replication.md)
-    + [MySQL 쿼리 캐시](../backend-development/mysql-query-cache.md)
-    + [PT 쿼리 다이제스트](../backend-development/pt-query-digest.md)
-    + [Adobe Commerce 데이터베이스에 대한 쿼리 연결 및 실행](../backend-development/remote-db-connection-execute-queries.md)
-    + Commerce 업그레이드 {#upgrade}
-      + [Adobe Commerce 2.4 업그레이드 워크숍](../upgrade/2-4-upgrade-workshop.md)
-      + [업그레이드 호환성 도구 개요](../upgrade/upgrade-compatibility-tool-overview.md)
-      + [PhpStorm에서 호환성 업그레이드 도구 사용](../upgrade/uct-phpstorm.md)
   + 프론트엔드 Luma 개발 {#frontend-development}
     + 개발자용 PaaS/SaaS 페이지 빌더 {#page-builder}
       + [1 - 소개](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -262,12 +290,6 @@ ht-degree: 3%
     + [단일 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-single-source.md)
     + [여러 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-multiple-source.md)
 
-+ 글로벌 참조 아키텍처 {#global-reference-architecture-implementation-techniques}
-  + [개요](../global-reference-architecture/overview.md)
-  + [Git 분할](../global-reference-architecture/split-git.md)
-  + [대량 패키지](../global-reference-architecture/bulk-packages.md)
-  + [개별 패키지](../global-reference-architecture/separate-packages.md)
-  + [모노레포](../global-reference-architecture/monorepo.md)
 + 모니터링, 분석 및 지원 {#monitoring-analytics-support}
   + 가시성 {#observability}
     + [가시성 개요](../monitoring-analytics-support/observability/overview.md)
@@ -286,25 +308,3 @@ ht-degree: 3%
     + [지원 티켓 만들기](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [지원 티켓 검색, 검토, 주석 달기 및 에스컬레이션](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [지원 티켓 감시자 및 상태 관리](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-
-+ 마케팅 도구 {#marketing}
-  + [카탈로그 가격 규칙 만들기](../site-management/catalog-price-rules.md)
-  + [장바구니 가격 규칙 만들기](../site-management/cart-price-rules.md)
-  + [관련 제품 규칙 관리](../site-management/related-product-rules.md)
-  + [제품 추천 설정](../site-management/product-recommendations.md)
-  + [라이브 검색 소개](../site-management/live-search.md)
-  + [권장 사항에 대한 실시간 검색](../site-management/live-search-recommendations.md)
-  + [Commerce과 AJO 통합](../site-management/integrate-commerce-ajo.md)
-+ Adobe Commerce용 B2B {#b2b}
-  + [회사 계정 관리](../b2b/company-accounts.md)
-  + [공유 카탈로그 관리](../b2b/shared-catalogs.md)
-  + [회사 크레딧 관리](../b2b/company-credit.md)
-  + [구매 주문 및 승인](../b2b/purchase-orders.md)
-  + 견적 {#b2b-quote}
-    + [영업 담당자가 견적 시작](../b2b/sales-rep-initiates-quote.md)
-    + [관리자의 견적 유효성 검사](../b2b/quote-validation-admin-panel.md)
-    + [영업 담당자가 견적 REST API 시작](../b2b/sales-rep-initiates-quote-api.md)
-    + [견적 라인 항목 할인](../b2b/quote-line-item-discount.md)
-    + [견적 라인 항목 노트](../b2b/quote-line-item-notes.md)
-    + [견적 라인 항목 할인 GraphQL](../b2b/quote-graphql-line-item-discount.md)
-    + [견적 라인 항목 할인 REST API](../b2b/quote-rest-api-line-item-notes.md)

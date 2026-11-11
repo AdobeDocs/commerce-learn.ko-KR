@@ -1,0 +1,256 @@
+---
+title: 제품 속성 만들기
+description: 사용자 지정 백엔드, 프론트엔드 및 소스 모델과 함께 드롭다운 유형 속성을 포함하여 Adobe Commerce에서 프로그래밍 방식으로 제품 속성을 만드는 방법을 알아봅니다.
+doc-type: Tutorial
+duration: 491
+last-substantial-update: 2023-02-10T00:00:00.000Z
+feature: Configuration, System, Backend Development
+topic: Commerce, Development
+role: Admin, User
+level: Beginner, Intermediate
+jira: KT-14131
+exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
+TQID: 'https://experienceleague.adobe.com/nK2d0LjWl88FCVRW6IRCa-euZ8cTawlY3YOzjMyNq-Y'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+    internal-label: Order Management System
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+autotag-review: '2026-11-11T17:28:59.031Z'
+source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+workflow-type: tm+mt
+source-wordcount: '337'
+ht-degree: 0%
+---
+# 제품 속성 만들기
+
+제품 특성을 추가하는 작업은 [!DNL Commerce]에서 가장 많이 사용되는 작업 중 하나입니다. 속성은 제품과 관련된 다양한 실제 작업을 해결하는 효과적인 방법입니다. 제품에 드롭다운 유형 속성을 추가하는 간단한 프로세스를 사용할 수 있습니다.
+
+이 비디오에서:
+
+* cotton, Leather, Silk, Denim, Fur 및 Wool 과 같은 값을 사용하여 clothing_material 이라는 속성을 추가합니다.
+* 이 속성을 제품 보기 페이지에 굵은 텍스트로 표시합니다.
+* Default 속성 세트에 지정하고 제한을 추가합니다.
+* 새 속성 추가
+
+## 이 비디오는 누구의 것입니까?
+
+* 프로그래밍 방식으로 제품 특성을 만드는 방법을 학습해야 하는 [!DNL Commerce]을(를) 처음 사용하는 개발자
+
+## 비디오 콘텐츠
+
+>[!VIDEO](https://video.tv.adobe.com/v/3412442?captions=kor&learn=on)
+
+## 코드 샘플
+
+먼저 필요한 폴더, xml 및 PHP 파일을 만듭니다.
+
+* app/code/Learning/ClothingMaterial/registration.php
+* app/code/Learning/ClothingMaterial/etc/module.xml
+* app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
+* app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
+* app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
+* app/code/Learning/ClothingMaterial/Setup/InstallData.php
+
+### app/code/Learning/ClothingMaterial/registration.php
+
+```php
+<?php
+
+use Magento\Framework\Component\ComponentRegistrar;
+
+ComponentRegistrar::register(
+    ComponentRegistrar::MODULE,
+    'Learning_ClothingMaterial',
+    __DIR__);
+```
+
+### app/code/Learning/ClothingMaterial/etc/module.xml
+
+>[!NOTE]
+>
+>모듈에서 선언적 스키마를 사용하는 경우 및 대부분의 모듈에 2.3.0 이후 버전이 있는 경우 setup_version 을 생략해야 합니다. 그러나 일부 레거시 프로젝트가 있는 경우 이 메서드가 사용되는 것을 볼 수 있습니다.  자세한 내용은 [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name#add-a-modulexml-file){target="_blank"}을(를) 참조하십시오.\
+>참고: 이 예제 코드가 작동하려면 setup_version을 포함해야 합니다. 그렇지 않으면 InstallData.php가 실행되지 않습니다.
+
+
+
+```xml
+<?xml version="1.0"?>
+<config xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Learning_ClothingMaterial" setup_version="0.0.1"/>
+</config>
+```
+
+### app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
+
+>[!NOTE]
+>
+>프로젝트에 있는 속성 세트 ID를 사용해야 합니다. 이 예에서는 숫자 9입니다.
+
+```php
+<?php
+declare(strict_types=1);
+
+namespace Learning\ClothingMaterial\Model\Attribute\Backend;
+
+use Magento\Catalog\Model\Product;
+use Magento\Eav\Model\Entity\Attribute\Backend\AbstractBackend;
+use Magento\Framework\Exception\LocalizedException;
+
+class Material extends AbstractBackend
+{
+    /**
+     * @param Product @object
+     * @throws LocalizedException
+     */
+    public function validate($object)
+    {
+        $value =$object->getData($this->getAttribute()->getAttributeCode());
+        // Be sure to validate that your ID number it is likely to be different
+
+        if (($object->getAttributeSetId() == 9) && ($value == 'fur')) {
+            throw new LocalizedException(__('Bottoms cannot be fur'));
+        }
+    }
+}
+```
+
+### app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
+
+```php
+<?php
+declare(strict_types=1);
+
+namespace Learning\ClothingMaterial\Model\Attribute\Frontend;
+
+use Magento\Eav\Model\Entity\Attribute\Frontend\AbstractFrontend;
+use Magento\Framework\DataObject;
+
+class Material extends AbstractFrontend
+{
+
+    public function getValue(DataObject $object): string
+    {
+        $value = $object->getData($this->getAttribute()->getAttributeCode());
+        return "<b>$value</b>";
+    }
+
+}
+```
+
+### app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
+
+```php
+<?php
+declare(strict_types=1);
+
+namespace Learning\ClothingMaterial\Model\Attribute\Source;
+
+use Magento\Eav\Model\Entity\Attribute\Source\AbstractSource;
+
+class Material extends AbstractSource
+{
+    /**
+     * Get all options
+     *
+     * @retrun array
+     */
+    public function getAllOptions(): array
+    {
+       if(!$this->_options){
+           $this->_options = [
+               ['label'    => __('Cotton'),     'value' => 'cotton'],
+               ['label'    => __('Leather'),    'value' => 'leather'],
+               ['label'    => __('Silk'),       'value' => 'silk'],
+               ['label'    => __('Fur'),        'value' => 'fur'],
+               ['label'    => __('Wool'),       'value' => 'wool'],
+           ];
+       }
+       return $this->_options;
+    }
+}
+```
+
+### app/code/Learning/ClothingMaterial/Setup/InstallData.php
+
+```php
+<?php
+declare(strict_types=1);
+
+namespace Learning\ClothingMaterial\Setup;
+
+use Learning\ClothingMaterial\Model\Attribute\Frontend\Material as Frontend;
+use Learning\ClothingMaterial\Model\Attribute\Source\Material as Source;
+use Learning\ClothingMaterial\Model\Attribute\Backend\Material as Backend;
+use Magento\Catalog\Model\Product;
+use Magento\Eav\Model\Entity\Attribute\ScopedAttributeInterface;
+use Magento\Framework\Setup\InstallDataInterface;
+use Magento\Framework\Setup\ModuleContextInterface;
+use Magento\Framework\Setup\ModuleDataSetupInterface;
+
+class InstallData implements InstallDataInterface
+{
+    protected $eavSetupFactory;
+
+    public function __construct(
+        \Magento\Eav\Setup\EavSetupFactory $eavSetupFactory
+    )
+    {
+        $this->eavSetupFactory = $eavSetupFactory;
+    }
+
+    /**
+     * @param ModuleDataSetupInterface $setup
+     * @param ModuleContextInterface $context
+     * {@inheritDoc}
+     *
+     * @SuppressWarnings(PHPMD.CyclomaticComplexity)
+     * @suppressWarnings(PHPMD.ExessiveMethodLength)
+     * @SuppressWarnings(PHPMD.NPathComplexity)
+     */
+    public function install(ModuleDataSetupInterface $setup, ModuleContextInterface $context)
+    {
+        $eavSetup = $this->eavSetupFactory->create();
+        $eavSetup->addAttribute(
+            Product::ENTITY,
+            'clothing_material',
+            [
+                'group'         => 'Product Details',
+                'type'          => 'varchar',
+                'label'         => 'Clothing Material',
+                'input'         => 'select',
+                'source'        => Source::class,
+                'frontend'      => Frontend::class,
+                'backend'       => Backend::class,
+                'required'      => false,
+                'sort_order'    => 50,
+                'global'        => ScopedAttributeInterface::SCOPE_GLOBAL,
+                'is_used_in_grid'               => false,
+                'is_visible_in_grid'            => false,
+                'is_filterable_in_grid'         => false,
+                'visible'                       => true,
+                'is_html_allowed_on_frontend'   => true,
+                'visible_on_front'              => true,
+            ]
+        );
+    }
+}
+```
+
+## 유용한 리소스
+
+[사용자 정의 텍스트 필드 속성 추가](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute)
