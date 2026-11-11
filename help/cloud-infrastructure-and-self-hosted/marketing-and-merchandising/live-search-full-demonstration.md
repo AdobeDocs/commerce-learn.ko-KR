@@ -78,4 +78,4 @@ Adobe Live 검색 구성 및 설정을 사용하는 방법을 알아봅니다. �
 * 규칙 기반 순위 유형 설명
 * GraphQL API 자체 검사
 
->[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454463?captions=kor&learn=on)
