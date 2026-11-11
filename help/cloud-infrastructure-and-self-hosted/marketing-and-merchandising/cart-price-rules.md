@@ -1,0 +1,158 @@
+---
+title: 장바구니 가격 규칙 만들기
+description: 정의한 조건이 충족될 때 장바구니에서 할인을 적용하는 장바구니 가격 규칙을 만드는 방법을 알아봅니다.
+doc-type: Tutorial
+last-substantial-update: 2022-12-28T00:00:00.000Z
+feature: Configuration, System, Customers, Shopping Cart
+topic: Commerce, Administration
+role: User
+level: Beginner
+duration: 353
+jira: KT-17148
+exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
+TQID: 'https://experienceleague.adobe.com/2gmoGQBVz2foQwnGJRlXzWF-OkNGZtiJkQWy0F-0utg'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: 22bad240-8308-569b-a9d5-578f1ff890ca
+    internal-label: Customers
+  - id: df8eaa0e-dd74-553a-8ad5-28129f8e8d3d
+    internal-label: Shopping Cart
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+workflow-type: tm+mt
+source-wordcount: '680'
+ht-degree: 0%
+---
+# 장바구니 가격 규칙 만들기
+
+장바구니 가격 규칙은 사용자가 설정한 조건에 따라 장바구니의 항목에 할인을 적용합니다. 조건이 충족되거나 고객이 유효한 쿠폰 코드를 입력하면 할인이 적용됩니다. 할인액은 소계 아래의 장바구니에 표시됩니다. 상태 및 날짜 범위를 변경하여 시즌 또는 프로모션에 대한 규칙을 켜거나 끕니다.
+
+## 이 비디오는 누구의 것입니까?
+
+* eCommerce 마케터
+* 웹 사이트 관리자
+
+## 비디오 콘텐츠
+
+* 장바구니 가격 규칙 및 선택적 쿠폰 코드를 만듭니다.
+* 장바구니에 할인이 표시되는 방법 및 프로모션을 확인하십시오.
+
+>[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
+
+## 가격 표시 문제
+
+반올림으로 인해 표시되는 라인 항목 할인이 다를 수 있습니다. 이 차이는 장바구니 가격 규칙이 여러 제품에 대해 하나의 할인을 적용하고 분할에서 소수점 이하 두 자리 이상이 되는 금액을 생성할 때 발생합니다.
+
+>[!BEGINSHADEBOX]
+
+장바구니 가격 규칙 = 장바구니에 있는 2개 제품에 적용되는 10% 할인
+가격 규칙이 적용되는 조건: 장바구니의 총 항목은 2입니다.
+조치는 제품 가격 할인의 퍼센트를 적용하며 해당 할인 금액은 10입니다.
+
+장바구니에 2개의 항목이 추가되며, 각각 $19.95입니다.
+
+할인 금액에 0.1을 곱한 값을 구하려면
+
+19.95 x 0.1 = 1.995
+
+이것이 문제입니다. 우리는 소수점 이하 세 자리를 가지고 있습니다. 두 자리가 아니라. 이것을 달러로 바꾸는 것은 이제 문제가 됩니다
+
+>[!ENDSHADEBOX]
+
+### 솔루션
+
+관리자의 판매자의 경우, 가장 명확한 접근 방법은 각 주문 라인을 달러로 할인된 가격으로 표시하는 것입니다. 주문 합계를 정확하게 유지하려면 첫 번째 라인 항목을 위로 반올림하고 나머지 라인 항목에 소수점 세 번째 값을 드롭합니다. 이 시나리오를 검토하십시오.
+
+>[!BEGINSHADEBOX]
+
+적용 중인 장바구니 규칙과 동일한 10% 할인
+장바구니에 19.95 제품 2개 추가
+
+각 제품은 1달러 995센트를 할인해 드립니다
+제품 1 - 19.95 x 0.1 = 1.995
+2 - 19.95 x 0.1 = 1.995
+
+총 3.99개가 고객에게 할인으로 제공된다
+
+관리자의 스토어 소유자에게 라인 항목을 표시할 때,
+첫 번째 항목을 조정하여 2.000으로 반올림해야 합니다. 두 번째 항목의 경우 소수점 세 번째 값을 드롭합니다.
+제품 1 = 2.00
+제품 2 = 1.99
+
+두 제품의 총 할인액을 합하면 고객에게 제공된 실제 할인액과 일치합니다.
+>[!ENDSHADEBOX]
+
+아래 관리 스크린샷에는 이 예제에 대한 라인 항목 할인이 표시됩니다.
+
+![값이 다른 항목들을 표시하는 관리자 보기](../../assets/commerce-admin-cart-price-rule-values-different.png)
+
+### 기타 잠재적 솔루션 및 사용되지 않은 이유
+
+>[!BEGINSHADEBOX]
+
+적용 중인 장바구니 규칙과 동일한 10% 할인
+장바구니에 19.95 제품 2개 추가
+
+각 제품은 1달러 995센트를 할인해 주셔야 합니다
+하지만 그냥 묶어놓으면 할인이 너무 많이 돼.
+
+제품 1 - 19.95 x 0.1 = 1.995
+제품 2 - 19.95 x 0.1 = 1.995
+
+모든 항목을 반올림하도록 변환
+제품 1 새 값은 2.00입니다.
+제품 2 새 값은 2.00입니다.
+
+총 3.99개가 실제로 고객에게 할인으로 제공되었습니다.
+그러나 반올림하면 4달러가 주어지는 것으로 보일 것이고, 그것은 잘못된 것이다.
+
+2.00 + 2.00 = $4.00
+
+>[!ENDSHADEBOX]
+
+모든 항목에 대해 소수 셋째 값을 떨어뜨리면 너무 작은 총 할인 금액이 생성됩니다.
+
+>[!BEGINSHADEBOX]
+
+적용 중인 장바구니 규칙과 동일한 10% 할인
+장바구니에 19.95 제품 2개 추가
+
+각 제품은 $1.995의 할인을 받을 수 있지만 소수점 셋째 자리만 내려가면 다음과 같은 일이 발생합니다.
+제품 1 - 19.95 x 0.1 = 1.995
+제품 2 - 19.95 x 0.1 = 1.995
+
+모든 항목에 대해 소수 셋째 자리로 전환합니다.
+제품 1 새 값은 1.99입니다.
+제품 2 새 값 1.99
+
+총 3.99개가 실제로 고객에게 할인으로 제공되었습니다.
+그러나 소수점 세 번째 숫자를 놓으면 $3.98이 주어지는 것으로 나타나며 이는 잘못된 것입니다.
+
+1.99 + 1.99 = $3.98
+
+>[!ENDSHADEBOX]
+
+## 추가 리소스
+
+* [장바구니 가격 규칙 만들기 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
+* [쿠폰 코드 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}

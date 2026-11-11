@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
 workflow-type: tm+mt
-source-wordcount: '1022'
+source-wordcount: '1023'
 ht-degree: 3%
 ---
 
@@ -135,11 +135,19 @@ ht-degree: 3%
     + [콘텐츠 템플릿 사용](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
     + [컨텐츠 스테이징](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
     + [미디어 갤러리 관리](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
+  + 마케팅 및 머천다이징 {#marketing-and-merchandising}
+    + [카탈로그 가격 규칙 만들기](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/catalog-price-rules.md)
+    + [장바구니 가격 규칙 만들기](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/cart-price-rules.md)
+    + [관련 제품 규칙 관리](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/related-product-rules.md)
+    + [제품 추천 설정](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/product-recommendations.md)
+    + [라이브 검색 소개](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search.md)
+    + [권장 사항 라이브 검색](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
+    + [라이브 검색 전체 데모](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
+    + [Commerce과 AJO 통합](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
 + 시작 {#getting-started}
   + Commerce 기능 {#capabilities}
     + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
     + [데이터 연결](../capabilities/data-connection.md)
-    + [라이브 검색 전체 데모](../capabilities/live-search-full-demonstration.md)
     + [구성 가능한 Commerce](../capabilities/what-is-composable-commerce.md)
   + 백오피스 통합 시작 키트 {#back-office-integration-starter-kit}
     + [스타터 키트 데모](../back-office-integrations/starter-kit-demo.md)
@@ -164,7 +172,7 @@ ht-degree: 3%
     + [결론](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder 시험 실행](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 백엔드 개발 {#backend-development}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../backend-development/create-module.md)
     + [제품 속성 추가](../backend-development/add-product-attribute.md)
     + [종속성 삽입 예](../backend-development/dependency-injection.md)
@@ -287,14 +295,6 @@ ht-degree: 3%
     + [지원 티켓 검색, 검토, 주석 달기 및 에스컬레이션](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [지원 티켓 감시자 및 상태 관리](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ 마케팅 도구 {#marketing}
-  + [카탈로그 가격 규칙 만들기](../site-management/catalog-price-rules.md)
-  + [장바구니 가격 규칙 만들기](../site-management/cart-price-rules.md)
-  + [관련 제품 규칙 관리](../site-management/related-product-rules.md)
-  + [제품 추천 설정](../site-management/product-recommendations.md)
-  + [라이브 검색 소개](../site-management/live-search.md)
-  + [권장 사항에 대한 실시간 검색](../site-management/live-search-recommendations.md)
-  + [Commerce과 AJO 통합](../site-management/integrate-commerce-ajo.md)
 + Adobe Commerce용 B2B {#b2b}
   + [회사 계정 관리](../b2b/company-accounts.md)
   + [공유 카탈로그 관리](../b2b/shared-catalogs.md)
