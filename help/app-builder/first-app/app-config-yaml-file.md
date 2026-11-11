@@ -1,6 +1,6 @@
 ---
 title: app.config.yaml 파일
-description: app.config.yaml 파일이 애플리케이션 구성을 결정하는 방법과 해당 정의가 Adobe Developer App Builder 샘플 애플리케이션에서 JavaScript 파일에 연결되는 방법을 알아봅니다.
+description: app.config.yaml이 Adobe Developer App Builder 애플리케이션을 정의하는 방법과 샘플 앱에서 해당 구성이 JavaScript 파일에 연결되는 방법을 알아봅니다.
 jira: KT-12929
 doc-type: Tutorial
 duration: 136
@@ -26,13 +26,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:16.146Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 96
+source-wordcount: '94'
 ht-degree: 0%
-
 ---
-
 # app.config.yaml 파일에 대한 설명 및 사용 {#app-config-yaml}
 
 이 파일은 응용 프로그램의 구성을 결정합니다.
@@ -46,7 +44,7 @@ ht-degree: 0%
 * `app.config.yaml` 파일이 논의되었습니다.
 * 다른 `.js`개 파일에 연결된 정의 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3430841?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416592?learn=on)
 
 ## 코드 샘플
 

@@ -1,6 +1,6 @@
 ---
 title: 첫 번째 App Builder 앱 만들기
-description: 첫 번째 프로세스 외부 애플리케이션 구축에 필요한 사전 요구 사항, 기대 사항 및 재사용 가능한 패턴을 포함하여 Adobe Commerce을 사용한 Adobe Developer App Builder에 대해 알아봅니다.
+description: 사전 요구 사항, 예상 및 재사용 가능한 프로세스 외부 패턴을 다루는 Adobe Commerce용 첫 번째 Adobe Developer App Builder 애플리케이션을 빌드합니다.
 jira: KT-21679
 doc-type: Tutorial
 duration: 197
@@ -28,13 +28,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:23.176Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 332
+source-wordcount: '329'
 ht-degree: 0%
-
 ---
-
 # 개요 {#overview}
 
 이 자습서에는 다음 사전 요구 사항이 포함되어 있습니다.
@@ -67,7 +65,7 @@ ht-degree: 0%
 * 샘플 모듈 사용에 대한 기대치
 * 샘플 모듈의 재사용 가능한 부분
 
->[!VIDEO](https://video.tv.adobe.com/v/3421027?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416740?learn=on)
 
 {{avoid-400-error}}
 

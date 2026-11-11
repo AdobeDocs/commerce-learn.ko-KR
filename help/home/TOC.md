@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '1035'
 ht-degree: 3%
 ---
 
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [견적 라인 항목 할인](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [견적 라인 항목 노트](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 애플리케이션 개발 및 업그레이드 {#application-development-and-upgrades}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [제품 속성 추가](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [종속성 삽입 예](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -173,6 +173,23 @@ ht-degree: 3%
       + [대량 패키지](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
       + [개별 패키지](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
       + [모노레포](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
++ App Builder {#app-builder}
+  + 기초 {#foundations}
+    + [App Builder 소개](../app-builder/foundations/introduction-to-app-builder.md)
+    + [확장성 프레임워크 및 Commerce 이벤트](../app-builder/foundations/extensibility-framework-commerce-eventing.md)
+    + [Adobe Exchange에서 App Builder 앱 설치](../app-builder/foundations/install-app-builder-app.md)
+  + 첫 번째 애플리케이션 구축 {#first-app}
+    + [개요](../app-builder/first-app/overview.md)
+    + [.env 파일 생성 및 구성](../app-builder/first-app/env-file.md)
+    + [app.config.yaml 파일에 대한 설명 및 사용](../app-builder/first-app/app-config-yaml-file.md)
+    + [작업 폴더에 대해 알아보기](../app-builder/first-app/actions-folder.md)
+    + [테스트 폴더에 대해 알아보기](../app-builder/first-app/test-folder.md)
+    + [web-src 폴더의 목적 살펴보기](../app-builder/first-app/web-src-folder.md)
+    + [로컬에서 테스트](../app-builder/first-app/testing-locally.md)
+    + [App Builder URL을 사용하여 테스트](../app-builder/first-app/testing-app-builder-url.md)
+    + [결론](../app-builder/first-app/conclusion.md)
+    + [샘플 모듈 소스 코드](https://github.com/magento/app-builder-samples){target="_blank"}
+
 + 시작 {#getting-started}
   + Commerce 기능 {#capabilities}
     + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
@@ -240,10 +257,7 @@ ht-degree: 3%
     + [쿼리](../graphql-rest/graphql-queries.md)
     + [돌연변이](../graphql-rest/graphql-mutations.md)
     + [스키마](../graphql-rest/graphql-schema.md)
-  + Adobe Developer App Builder {#adobe-developer-app-builder}
-    + [Adobe Exchange에서 앱 설치](../app-builder/install-app-builder-app.md)
-    + [App Builder 소개](../app-builder/introduction-to-app-builder.md)
-    + [App Builder용 확장성 프레임워크](../app-builder/extensibility-framework-commerce-eventing.md)
+  + 더 많은 App Builder 자습서 및 I/O 이벤트 {#adobe-developer-app-builder}
     + AI 도구를 사용하여 분할 결제 POC 만들기 {#create-a-split-payment-poc}
       + [App Builder 및 AI 도구](../app-builder/split-payment-ai-tools/overview.md)
       + [전체 데모](../app-builder/split-payment-ai-tools/full-demo.md)
@@ -262,17 +276,6 @@ ht-degree: 3%
       + [AI 도구 및 Adobe 스타터 키트](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
       + [구현 및 테스트](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
       + [Adobe에 피드백 제공](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-    + 첫 번째 App Builder 앱 빌드 {#first-app}
-      + [개요](../app-builder/first-app/overview.md)
-      + [.env 파일 생성 및 구성](../app-builder/first-app/env-file.md)
-      + [app.config.yaml 파일에 대한 설명 및 사용](../app-builder/first-app/app-config-yaml-file.md)
-      + [작업 폴더에 대해 알아보기](../app-builder/first-app/actions-folder.md)
-      + [테스트 폴더에 대해 알아보기](../app-builder/first-app/test-folder.md)
-      + [web-src 폴더의 목적 살펴보기](../app-builder/first-app/web-src-folder.md)
-      + [로컬에서 테스트](../app-builder/first-app/testing-locally.md)
-      + [App Builder URL을 사용하여 테스트](../app-builder/first-app/testing-app-builder-url.md)
-      + [결론](../app-builder/first-app/conclusion.md)
-      + [샘플 모듈 소스 코드](https://github.com/magento/app-builder-samples){target="_blank"}
     + Adobe Commerce에 대한 IO 이벤트 {#io-events}
       + [IO 이벤트 시작](../io-events/getting-started-io-events.md)
       + [Adobe Commerce 2.4.5 설치](../io-events/2-4-5-installation.md)

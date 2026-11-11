@@ -1,6 +1,6 @@
 ---
 title: 로컬에서 테스트
-description: Adobe Developer App Builder 개발자를 위한 단위 테스트, 엔드 투 엔드 테스트 및 수동 테스트 접근 방식을 다루는 Commerce 애플리케이션을 로컬에서 테스트하는 방법을 알아봅니다.
+description: 단위 테스트, 전체 테스트 및 Commerce에 대한 수동 테스트 접근 방식을 사용하여 로컬에서 Adobe Developer App Builder 애플리케이션을 테스트하는 방법에 대해 알아봅니다.
 jira: KT-21685
 doc-type: Tutorial
 duration: 85
@@ -26,13 +26,11 @@ feature_v2:
   - id: c1256247-af4b-46d8-9dca-0c654ecfa157
     internal-label: Order Management System
 autotag-review: '2026-08-11T19:18:29.253Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 82
+source-wordcount: '80'
 ht-degree: 0%
-
 ---
-
 # 로컬에서 테스트 {#testing-locally}
 
 새 Adobe Developer App Builder 애플리케이션을 로컬에서 테스트하는 방법을 알아봅니다.
@@ -48,7 +46,7 @@ ht-degree: 0%
 * E2E 테스트
 * 수동 테스트
 
->[!VIDEO](https://video.tv.adobe.com/v/3421058?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416594?learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
 

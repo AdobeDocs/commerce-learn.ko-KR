@@ -1,6 +1,6 @@
 ---
 title: 작업 폴더
-description: 샘플 애플리케이션에 대한 OAuth 인증 및 JavaScript 연결 패턴을 포함하여 App Builder 작업 폴더의 Commerce 파일 및 폴더에 대해 알아봅니다.
+description: 샘플 애플리케이션의 OAuth 인증 및 App Builder 연결 패턴을 포함하여 Commerce 작업 폴더 및 해당 JavaScript 파일을 살펴봅니다.
 jira: KT-21680
 doc-type: Tutorial
 duration: 465
@@ -28,13 +28,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:13.310Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: '196'
 ht-degree: 0%
-
 ---
-
 # 작업 폴더에 대해 알아보기 {#actions-folder}
 
 이 샘플 앱의 `actions` 폴더에는 몇 개의 JavaScript 파일과 `commerce` 폴더가 있습니다. 표시된 JavaScript은 작업과 관련된 경우 재사용할 수 있는 유용한 예제 파일입니다. 이 폴더는 OAuth 및 REST를 사용하여 Adobe Commerce 애플리케이션에 연결할 때 개발 시간을 절약할 수 있습니다.
@@ -52,7 +50,7 @@ ht-degree: 0%
 * `actions` 및 `commerce` 폴더에 있는 JavaScript 파일의 용도
 * OAuth 인증 파일에 대한 빠른 개요
 
->[!VIDEO](https://video.tv.adobe.com/v/3421082?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416590?learn=on)
 
 ## 코드 샘플
 
