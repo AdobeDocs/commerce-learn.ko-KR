@@ -4,7 +4,7 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: db62654c7e54e2026395cc9278ca12ecbff778ee
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '1029'
 ht-degree: 3%
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [견적 라인 항목 할인](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [견적 라인 항목 노트](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 애플리케이션 개발 및 업그레이드 {#application-development-and-upgrades}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [제품 속성 추가](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [종속성 삽입 예](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -215,13 +215,6 @@ ht-degree: 3%
     + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
     + [데이터 연결](../capabilities/data-connection.md)
     + [구성 가능한 Commerce](../capabilities/what-is-composable-commerce.md)
-  + 백오피스 통합 시작 키트 {#back-office-integration-starter-kit}
-    + [스타터 키트 데모](../back-office-integrations/starter-kit-demo.md)
-    + [통합](../back-office-integrations/integrations.md)
-    + [Source 코드 조직](../back-office-integrations/source-code-organization.md)
-    + [마지막 마일 통합](../back-office-integrations/last-mile-integration.md)
-    + [Webhook 수집](../back-office-integrations/webhook-ingestion.md)
-    + [재시도 메커니즘](../back-office-integrations/retry-mechanism.md)
 
 + API 및 통합 {#apis-and-integration}
   + GraphQL 재단 {#graphql-rest}
@@ -254,6 +247,14 @@ ht-degree: 3%
       + [Adobe Commerce 구성](../io-events/configure-commerce.md)
       + [Adobe Commerce 모듈 개발](../io-events/commerce-module-development.md)
       + [Adobe Commerce 조건부 이벤트](../io-events/conditional-events.md)
+
+  + 백오피스 통합 시작 키트 {#back-office-integration-starter-kit}
+    + [스타터 키트 데모](../back-office-integrations/starter-kit-demo.md)
+    + [통합](../back-office-integrations/integrations.md)
+    + [Source 코드 조직](../back-office-integrations/source-code-organization.md)
+    + [마지막 마일 통합](../back-office-integrations/last-mile-integration.md)
+    + [Webhook 수집](../back-office-integrations/webhook-ingestion.md)
+    + [재시도 메커니즘](../back-office-integrations/retry-mechanism.md)
 
 + 확장성 {#extensibility}
   + Commerce 개발자 에이전트 {#commerce-developer-agent}

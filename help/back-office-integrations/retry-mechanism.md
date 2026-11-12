@@ -3,7 +3,7 @@ title: 재시도 메커니즘의 기본 기능 사용
 description: Adobe I/O Events의 재시도 메커니즘을 사용하여 재시도 조건, 백오프 전략 및 시각적 표시기를 다루는 복원 애플리케이션을 빌드하는 방법에 대해 알아봅니다.
 doc-type: Technical Video
 duration: 402
-last-substantial-update: 2024-07-31T00:00:00.000Z
+last-substantial-update: 2024-07-31
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -29,9 +29,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '377'
 ht-degree: 0%
 ---
 # 애플리케이션 복원력을 위해 Adobe I/O Events 재시도 메커니즘 사용
@@ -53,11 +53,11 @@ ht-degree: 0%
 * 실패한 이벤트에 대한 경고 아이콘 및 재시도된 이벤트에 대한 원형 화살표 아이콘과 같은 개발자 콘솔의 시각적 표시기.
 * &#39;소비자&#39; 런타임 작업은 이벤트 처리에 적합한 HTTP 응답 상태 코드를 결정하는 데 중요한 역할을 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449080?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 
 ## 관련 설명서
 
-* [Webhook에서 이벤트를 처리할 수 없음](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-unable-to-handle-a-specific-event-but-handles-all-other-events-gracefully)
-* [Webhook을 종료하고 불안정하게 표시됨](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstable)
+* [Webhook에서 이벤트를 처리할 수 없음](https://developer.adobe.com/events/docs/support/faq#what-happens-if-my-webhook-cannot-handle-a-specific-event-but-handles-others)
+* [Webhook을 종료하고 불안정하게 표시됨](https://developer.adobe.com/events/docs/support/faq#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstabledisabled)

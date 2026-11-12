@@ -3,7 +3,7 @@ title: 백 오피스 통합용 Adobe Commerce 스타터 키트
 description: 백오피스 통합을 위한 Adobe Commerce 스타터 키트에 대해 알아보고 Commerce을 외부 백엔드 시스템에 연결하는 방법을 알아봅니다.
 doc-type: Technical Video
 duration: 502
-last-substantial-update: 2024-04-19T00:00:00.000Z
+last-substantial-update: 2024-04-19
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -36,7 +36,7 @@ level_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
     internal-label: Metadata
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -60,4 +60,4 @@ Adobe Commerce 백오피스 통합 시작 키트에 대해 알아봅니다. 이 
 * I/O 이벤트 구성
 * 데이터를 동기화하기 위해 서드파티에 연결
 
->[!VIDEO](https://video.tv.adobe.com/v/3452021?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428629?learn=on)

@@ -3,7 +3,7 @@ title: 수집 Webhook 구성, 배포 및 사용자 정의
 description: 수집 웹후크를 구성, 배포 및 사용자 정의하여 Adobe Commerce을 서드파티 백 오피스 시스템과 연결하고 이벤트 번역을 처리하는 방법에 대해 알아봅니다.
 doc-type: Technical Video
 duration: 697
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -38,7 +38,7 @@ topic_v2:
     internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
