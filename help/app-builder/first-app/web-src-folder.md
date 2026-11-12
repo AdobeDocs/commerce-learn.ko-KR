@@ -1,6 +1,6 @@
 ---
 title: web-src 폴더
-description: web-src 폴더 구조, 해당 JavaScript 파일 및 중첩 폴더, 그리고 이 폴더가 App Builder 샘플 애플리케이션에서 사용자 인터페이스를 지원하는 방법에 대해 알아봅니다.
+description: App Builder web-src 폴더, 해당 JavaScript 파일 및 중첩된 폴더와 샘플 애플리케이션에서 사용자 인터페이스를 지원하는 방법을 살펴봅니다.
 jira: KT-21683
 doc-type: Tutorial
 duration: 285
@@ -29,13 +29,11 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-08-11T19:18:31.875Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 179
+source-wordcount: '176'
 ht-degree: 0%
-
 ---
-
 # web-src 폴더의 목적 살펴보기 {#web-src-folder}
 
 이 샘플 앱의 web-src 폴더에는 많은 JavaScript 파일과 폴더가 있습니다. 이 폴더는 사용자 인터페이스가 있는 애플리케이션에 사용됩니다. 일부 애플리케이션에서는 이 기능을 사용하지 않습니다. 예를 들어 외부 재고 관리 시스템과 Commerce 통합에는 프론트엔드 인터페이스와 코드가 필요하지 않습니다.

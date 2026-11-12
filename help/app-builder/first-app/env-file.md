@@ -1,6 +1,6 @@
 ---
 title: .env 파일
-description: 암호 관리 및 소스 제어에 대한 우발적인 커밋 방지를 포함하여 Adobe Developer App Builder 애플리케이션에 대한 .env 파일을 생성하고 구성하는 방법에 대해 알아봅니다.
+description: App Builder 애플리케이션에 대한 .env 파일을 생성 및 구성하고, 비밀을 관리하며, 소스 제어에 대한 우발적인 커밋을 방지하는 방법에 대해 알아봅니다.
 jira: KT-21681
 doc-type: Tutorial
 duration: 177
@@ -33,13 +33,11 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
 autotag-review: '2026-08-11T19:18:20.957Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 147
+source-wordcount: '143'
 ht-degree: 0%
-
 ---
-
 # .env 파일 생성 및 구성 {#env-file}
 
 `.env`은(는) 샘플 모듈의 일부가 아니지만 Adobe Developer App Builder 응용 프로그램에서 사용하는 데 중요한 특수 파일입니다. 이 파일에는 비밀 및 기타 정보가 포함되어 있습니다. 이 파일을 코드 저장소에 커밋하지 마십시오.

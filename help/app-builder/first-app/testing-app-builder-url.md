@@ -1,6 +1,6 @@
 ---
 title: Adobe Developer App Builder URL을 사용하여 테스트
-description: 성공적인 배포 후 URL을 찾을 위치를 포함하여 프로젝트 URL을 사용하여 첫 번째 Adobe Developer App Builder 애플리케이션을 배포하고 테스트하는 방법에 대해 알아봅니다.
+description: 배포 후 URL을 찾을 위치를 포함하여 프로젝트 URL을 사용하여 Adobe Developer App Builder 애플리케이션을 배포하고 테스트하는 방법에 대해 알아봅니다.
 jira: KT-21684
 doc-type: Tutorial
 duration: 78
@@ -23,13 +23,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:26.961Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: '96'
 ht-degree: 0%
-
 ---
-
 # App Builder URL을 사용하여 테스트 {#testing-app-builder-url}
 
 프로젝트의 URL을 사용하여 새 Adobe Developer App Builder 애플리케이션을 테스트하는 방법을 알아봅니다.

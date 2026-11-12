@@ -1,6 +1,6 @@
 ---
 title: 테스트 폴더
-description: App Builder 테스트 폴더의 JavaScript 단위 테스트 파일과 Adobe Commerce 샘플 애플리케이션의 포괄적인 테스트를 위해 확장 가능한 방법에 대해 알아봅니다.
+description: App Builder 샘플 애플리케이션의 JavaScript 단위 테스트를 살펴보고 Adobe Commerce 통합을 위한 포괄적인 테스트로 확장하는 방법을 알아봅니다.
 jira: KT-21682
 doc-type: Tutorial
 duration: 233
@@ -23,13 +23,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:25.321Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 122
+source-wordcount: '116'
 ht-degree: 0%
-
 ---
-
 # 테스트 폴더에 대해 알아보기 {#test-folder}
 
 이 샘플 앱의 `test` 폴더에는 응용 프로그램에서 단위 테스트를 실행할 때 사용되는 단일 JavaScript 파일이 포함되어 있습니다.

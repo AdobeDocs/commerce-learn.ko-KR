@@ -48,9 +48,9 @@ topic_v2:
     internal-label: Machine learning
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '417'
 ht-degree: 0%
 ---
 # 기술 온보딩 - SaaS 서비스
@@ -113,9 +113,8 @@ Adobe Commerce Cloud SaaS 서비스, 지원 및 기타 커뮤니케이션 및 �
 * [제품 추천](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=ko)
 * [라이브 검색 및 카탈로그 서비스](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2023/nov2023/nov-commerce/commerce-search-and-catalog-service.html?lang=ko)
 * [카탈로그 서비스 가격 색인화](https://experienceleague.adobe.com/docs/commerce-merchant-services/price-indexer/price-indexing.html?lang=ko)
-* [App Builder](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/extensibility/adobe-developer-app-builder/introduction-to-app-builder)
+* [App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 * [공동 책임](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html?lang=ko)
-* [고객 데이터 액세스 및 개인 정보 보호](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
 * [Commerce 인증](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html?lang=ko)
 * [Commerce 학습 과정](https://learning.adobe.com/catalog.html?products=Commerce)
 * [Commerce 커뮤니티 포럼](https://community.magento.com/)

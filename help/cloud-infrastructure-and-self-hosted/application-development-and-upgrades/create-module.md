@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-11-11T17:28:59.029Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 튜토리얼에서는 클라우드 인프라 및 자체 호스팅 배포에서 Adobe Commerce의 기존 프로세스 내 개발 및 업그레이드를 다룹니다. 새로운 기능 개발 또는 적합한 사용자 지정 마이그레이션의 경우 [App Builder 소개](../../app-builder/introduction-to-app-builder.md)부터 시작하십시오.
+>이 튜토리얼에서는 클라우드 인프라 및 자체 호스팅 배포에서 Adobe Commerce의 기존 프로세스 내 개발 및 업그레이드를 다룹니다. 새로운 기능 개발 또는 적합한 사용자 지정 마이그레이션의 경우 [App Builder 소개](../../app-builder/foundations/introduction-to-app-builder.md)부터 시작하십시오.
 
 모듈은 시스템의 기초를 이루는 [!DNL Commerce]의 구조적 요소입니다. 일반적으로 모듈을 빌드하여 사용자 지정을 시작합니다.
 

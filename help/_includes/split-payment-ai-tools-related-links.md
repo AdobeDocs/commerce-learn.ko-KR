@@ -1,13 +1,11 @@
 ---
 title: 분할 결제 POC AI 도구 관련 페이지
-description: 확장 기능 - Adobe Developer App Builder의 관련 페이지 링크 - AI 도구를 사용하여 분할 결제 POC를 만듭니다
-source-git-commit: dfb2e7146ddb881646a3d219282e36056f246824
+description: App Builder 분할 결제 개념 증명 튜토리얼 및 참조 리소스에 대한 링크입니다.
+source-git-commit: 24f9e04b5b41765f855476ff2e1be648b6634d1f
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '76'
 ht-degree: 0%
-
 ---
-
 # 분할 결제 POC 관련 링크
 
 ## 이 시리즈의 모든 리소스

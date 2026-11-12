@@ -1,10 +1,10 @@
 ---
 title: Adobe Commerce을 위한 프로세스 외부 확장성
-description: Adobe Developer App Builder에 대해 알아보고 프로세스 외 확장성을 통해 프로세스 내 호환성 문제 없이 안전하고 확장 가능한 Commerce 확장을 구축하는 방법을 알아봅니다.
+description: Adobe Developer App Builder을 통해 프로세스 내 호환성 문제를 줄이면서 안전하고 확장 가능한 프로세스 외 Commerce 확장을 활성화하는 방법에 대해 알아봅니다.
 jira: KT-11433
 doc-type: Tutorial
 duration: 300
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -34,13 +34,11 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 761
+source-wordcount: '757'
 ht-degree: 0%
-
 ---
-
 # App Builder 소개
 
 지금까지 Adobe Commerce 개발에서는 처리 중 확장성을 사용했습니다. 처리 중인 모델에는 업그레이드, 서버의 PHP 버전 및 Commerce에서 사용하는 기타 필수 서버 애플리케이션 및 서비스와 호환될 수 있는 모든 새 코드가 필요합니다. Adobe Developer App Builder은 이러한 호환성 문제를 방지하기 위해 프로세스 외부 확장성을 사용합니다.

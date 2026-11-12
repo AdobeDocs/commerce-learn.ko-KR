@@ -1,10 +1,10 @@
 ---
 title: 확장성 프레임워크 및 상거래 이벤트
-description: Adobe Developer App Builder 확장성 프레임워크, 주요 기능 및 상거래 이벤트를 통해 Adobe Commerce과의 실시간 통합을 구현하는 방법에 대해 알아봅니다.
+description: Adobe Developer App Builder 확장성 프레임워크, 해당 기능 및 Commerce 이벤트가 실시간 Adobe Commerce 통합을 지원하는 방법을 살펴봅니다.
 jira: KT-11740
 doc-type: Tutorial
 duration: 228
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Eventing, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -37,13 +37,11 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
 autotag-review: '2026-08-11T19:18:10.558Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 65
+source-wordcount: '62'
 ht-degree: 0%
-
 ---
-
 # App Builder용 확장성 프레임워크
 
 이 기능 데모에서는 App Builder 및 Adobe Commerce에 대한 잠재적인 애플리케이션에 대해 설명합니다. 이 비디오에서는 확장성 프레임워크, 주요 고객 이점 및 기능에 대해 소개합니다.

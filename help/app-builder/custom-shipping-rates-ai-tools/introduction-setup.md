@@ -1,22 +1,20 @@
 ---
 title: AI 기반 배송률 소개 및 설정
-description: 스타터 키트 복제, 프로젝트 구조 검토, 환경 준비 등 사용자 정의 배송률 생성을 위한 AI 도구를 설정하는 방법에 대해 알아봅니다.
+description: 사용자 정의 배송비에 대한 AI 도구를 설정하고, 체크아웃 스타터 키트를 복제하고, 프로젝트 구조를 검토하고, 개발 환경을 준비하는 방법에 대해 알아봅니다.
 feature: Install
 topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 180
-last-substantial-update: 2026-03-11T00:00:00Z
+last-substantial-update: 2026-03-11
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
+source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
-
 ---
-
 # AI 도구를 사용하여 맞춤형 배송 요금 만들기 - 소개 및 설정
 
 맞춤형 배송 요금을 생성하는 AI 도구를 설정하는 방법에 대해 알아보십시오. 이 튜토리얼에서는 체크아웃 스타터 키트 복제, 구조 검토 및 로컬 환경 준비에 대해 설명합니다. 이 토대를 통해 외부 배송률을 워크플로우에 원활하게 통합할 수 있습니다. 시작하려면 아래 비디오를 시청하십시오.
