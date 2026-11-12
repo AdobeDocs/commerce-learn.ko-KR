@@ -3,11 +3,11 @@ title: GraphQL을 사용한 스키마 언어
 description: GraphQL과 관련된 스키마에 대해 알아봅니다. 몇 가지 흥미로운 패턴 및 스키마 읽기 방법과 함께 스키마에 대한 설명을 읽으십시오.
 landing-page-description: GraphQL에 대한 소개입니다. 스키마 이해 및 일부 요소 해석 방법
 short-description: GraphQL에 대한 소개입니다. 스키마 이해 및 일부 요소 해석 방법
-kt: 13939
-doc-type: video
+jira: KT-13939
+doc-type: Tutorial
 duration: 363
 audience: all
-last-substantial-update: 2023-10-12T00:00:00.000Z
+last-substantial-update: 2023-10-12
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
@@ -37,7 +37,7 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: de9e426dad620ff9f242454e069e44919be39884
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 GraphQL 및 Adobe Commerce 시리즈 4부입니다. 사용된 쿼리 및 돌연변이는 GraphQL 런타임에서 쿼리를 해결하기 위해 사용하고 서버에서 구현하는 특정 데이터 그래프를 사용합니다. GraphQL 사양은 데이터 그래프의 유형 및 관계를 표현하기 위한 불가지론적 언어를 정의합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446617?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
 
 ## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
 

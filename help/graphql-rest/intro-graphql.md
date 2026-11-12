@@ -2,11 +2,11 @@
 title: GraphQL 소개
 description: Adobe Commerce 및 [!DNL Magento Open Source]에서 GraphQL을 사용하는 방법에 대해 알아봅니다. Adobe Commerce 및 [!DNL Magento Open Source]에 GraphQL GET 및 POST 호출을 사용합니다.
 short-description: Adobe Commerce 및 [!DNL Magento Open Source]에 GraphQL GET 및 POST 호출을 사용하는 방법을 알아봅니다.
-kt: 11524
-doc-type: video
+jira: KT-11524
+doc-type: Tutorial
 duration: 286
 audience: all
-last-substantial-update: 2023-10-12T00:00:00.000Z
+last-substantial-update: 2023-10-12
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
@@ -30,7 +30,7 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: de9e426dad620ff9f242454e069e44919be39884
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 6%
@@ -41,7 +41,7 @@ GraphQL 및 Adobe Commerce에 대한 시리즈 중 1부입니다. GraphQL은 클
 
 GraphQL을 처음 사용하는 경우 이 섹션에서는 기본 개념과 사용법을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443948?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
 
 ## 이 시리즈의 GraphQL 관련 비디오 및 튜토리얼
 

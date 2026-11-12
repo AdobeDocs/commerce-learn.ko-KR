@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
+source-git-commit: de9e426dad620ff9f242454e069e44919be39884
 workflow-type: tm+mt
-source-wordcount: '1035'
+source-wordcount: '1034'
 ht-degree: 3%
 ---
 
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [견적 라인 항목 할인](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [견적 라인 항목 노트](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 애플리케이션 개발 및 업그레이드 {#application-development-and-upgrades}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [제품 속성 추가](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [종속성 삽입 예](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -224,12 +224,26 @@ ht-degree: 3%
     + [재시도 메커니즘](../back-office-integrations/retry-mechanism.md)
 
 + API 및 통합 {#apis-and-integration}
+  + GraphQL 재단 {#graphql-rest}
+    + [GraphQL 기본 사항](../graphql-rest/intro-graphql.md)
+    + [쿼리](../graphql-rest/graphql-queries.md)
+    + [돌연변이](../graphql-rest/graphql-mutations.md)
+    + [스키마](../graphql-rest/graphql-schema.md)
   + Practical REST 및 GraphQL 예 {#examples}
     + [REST 사용 고객](../apis-and-integration/examples/customer.md)
     + B2B 인용 {#b2b-quotes}
       + [영업 담당자가 견적 REST API 시작](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
       + [견적 라인 항목 할인 GraphQL](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
       + [견적 라인 항목 노트 REST API](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
+
+  + API 메쉬 {#api-mesh}
+    + [GitHub Codespaces를 사용한 API Mesh 스타터 키트](../api-mesh/starter-kit-github-codespaces.md)
+    + [API Mesh 스타터 키트 워크플로](../api-mesh/starter-kit-workflows.md)
+    + [API Mesh 시작](../api-mesh/getting-started-api-mesh.md)
+    + [Adobe IO 및 메쉬 플러그인 설치](../api-mesh/installing-aio-mesh-plugin.md)
+    + [프로젝트 및 작업 공간 작업](../api-mesh/aio-projects-workspaces.md)
+    + [단일 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-single-source.md)
+    + [여러 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-multiple-source.md)
 
 + 확장성 {#extensibility}
   + Commerce 개발자 에이전트 {#commerce-developer-agent}
@@ -272,11 +286,6 @@ ht-degree: 3%
         + [페레그린](../pwa/introduction/6-peregrine.md)
       + [PWA Docker 개발](../pwa/pwa-docker-development.md)
       + [개발을 위한 Venia 설정](../pwa/set-up-venia-for-dev.md)
-  + GraphQL 및 REST {#graphql-rest}
-    + [GraphQL 기본 사항](../graphql-rest/intro-graphql.md)
-    + [쿼리](../graphql-rest/graphql-queries.md)
-    + [돌연변이](../graphql-rest/graphql-mutations.md)
-    + [스키마](../graphql-rest/graphql-schema.md)
   + 더 많은 App Builder 자습서 및 I/O 이벤트 {#adobe-developer-app-builder}
     + Adobe Commerce에 대한 IO 이벤트 {#io-events}
       + [IO 이벤트 시작](../io-events/getting-started-io-events.md)
@@ -286,14 +295,6 @@ ht-degree: 3%
       + [Adobe Commerce 구성](../io-events/configure-commerce.md)
       + [Adobe Commerce 모듈 개발](../io-events/commerce-module-development.md)
       + [Adobe Commerce 조건부 이벤트](../io-events/conditional-events.md)
-  + API 메쉬 {#api-mesh}
-    + [GitHub Codespaces를 사용한 API Mesh 스타터 키트](../api-mesh/starter-kit-github-codespaces.md)
-    + [API Mesh 스타터 키트 워크플로](../api-mesh/starter-kit-workflows.md)
-    + [API Mesh 시작](../api-mesh/getting-started-api-mesh.md)
-    + [Adobe IO 및 메쉬 플러그인 설치](../api-mesh/installing-aio-mesh-plugin.md)
-    + [프로젝트 및 작업 공간 작업](../api-mesh/aio-projects-workspaces.md)
-    + [단일 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-single-source.md)
-    + [여러 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-multiple-source.md)
 
 + 모니터링, 분석 및 지원 {#monitoring-analytics-support}
   + 가시성 {#observability}
