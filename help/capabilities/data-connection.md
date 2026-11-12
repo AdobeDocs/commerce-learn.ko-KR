@@ -1,8 +1,8 @@
 ---
 title: 데이터 연결 전체 데모
 description: Adobe Commerce Data Connection의 기능에 대한 전체 데모 보기
-kt: 14364
-doc-type: tutorial
+jira: KT-14364
+doc-type: Feature Video
 duration: 783
 audience: all
 last-substantial-update: 2023-11-08T00:00:00.000Z
@@ -22,10 +22,6 @@ feature_v2:
     internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
-  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
-    internal-label: System
-  - id: f37757d8-3174-5335-b977-1161792f965d
-    internal-label: Personalization
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -45,7 +41,8 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+autotag-review: '2026-11-12T20:16:22.359Z'
+source-git-commit: 0e7e27e92c07b0d809668489e267749311fd2285
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -68,4 +65,4 @@ Adobe Commerce 데이터 연결에 대한 전체 데모입니다.
 * Real-Time CDP 대상 은 브라우저 데이터, 서버측 데이터(주문 내역 포함) 및 다른 소스의 데이터(즉, 충성도 데이터)를 기반으로 실시간으로 세그먼테이션을 업데이트하고 수정합니다.
 * Real-Time CDP 대상을 활용하여 Adobe Commerce의 장바구니 가격 규칙과 동적 블록을 모두 개인화합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453825?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)

@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
+source-git-commit: 0e7e27e92c07b0d809668489e267749311fd2285
 workflow-type: tm+mt
-source-wordcount: '1029'
+source-wordcount: '1031'
 ht-degree: 3%
 ---
 
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [견적 라인 항목 할인](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [견적 라인 항목 노트](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 애플리케이션 개발 및 업그레이드 {#application-development-and-upgrades}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [제품 속성 추가](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [종속성 삽입 예](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -213,7 +213,6 @@ ht-degree: 3%
 + 시작 {#getting-started}
   + Commerce 기능 {#capabilities}
     + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
-    + [데이터 연결](../capabilities/data-connection.md)
     + [구성 가능한 Commerce](../capabilities/what-is-composable-commerce.md)
 
 + API 및 통합 {#apis-and-integration}
@@ -255,6 +254,9 @@ ht-degree: 3%
     + [마지막 마일 통합](../back-office-integrations/last-mile-integration.md)
     + [Webhook 수집](../back-office-integrations/webhook-ingestion.md)
     + [재시도 메커니즘](../back-office-integrations/retry-mechanism.md)
+
+  + 데이터 통합 {#data-integrations}
+    + [데이터 연결](../capabilities/data-connection.md)
 
 + 확장성 {#extensibility}
   + Commerce 개발자 에이전트 {#commerce-developer-agent}
