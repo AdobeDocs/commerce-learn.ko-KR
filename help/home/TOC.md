@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: de9e426dad620ff9f242454e069e44919be39884
+source-git-commit: db62654c7e54e2026395cc9278ca12ecbff778ee
 workflow-type: tm+mt
-source-wordcount: '1034'
+source-wordcount: '1029'
 ht-degree: 3%
 ---
 
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [견적 라인 항목 할인](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [견적 라인 항목 노트](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 애플리케이션 개발 및 업그레이드 {#application-development-and-upgrades}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [제품 속성 추가](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [종속성 삽입 예](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -245,6 +245,16 @@ ht-degree: 3%
     + [단일 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-single-source.md)
     + [여러 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-multiple-source.md)
 
+  + 이벤트 및 웹후크 {#events-and-webhooks}
+    + Adobe Commerce에 대한 IO 이벤트 {#io-events}
+      + [IO 이벤트 시작](../io-events/getting-started-io-events.md)
+      + [Adobe Commerce 2.4.5 설치](../io-events/2-4-5-installation.md)
+      + [Adobe Commerce 2.4.6 설치](../io-events/2-4-6-installation.md)
+      + [App Builder 프로젝트 만들기](../io-events/create-app-builder-project.md)
+      + [Adobe Commerce 구성](../io-events/configure-commerce.md)
+      + [Adobe Commerce 모듈 개발](../io-events/commerce-module-development.md)
+      + [Adobe Commerce 조건부 이벤트](../io-events/conditional-events.md)
+
 + 확장성 {#extensibility}
   + Commerce 개발자 에이전트 {#commerce-developer-agent}
     + [개요](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
@@ -286,15 +296,6 @@ ht-degree: 3%
         + [페레그린](../pwa/introduction/6-peregrine.md)
       + [PWA Docker 개발](../pwa/pwa-docker-development.md)
       + [개발을 위한 Venia 설정](../pwa/set-up-venia-for-dev.md)
-  + 더 많은 App Builder 자습서 및 I/O 이벤트 {#adobe-developer-app-builder}
-    + Adobe Commerce에 대한 IO 이벤트 {#io-events}
-      + [IO 이벤트 시작](../io-events/getting-started-io-events.md)
-      + [Adobe Commerce 2.4.5 설치](../io-events/2-4-5-installation.md)
-      + [Adobe Commerce 2.4.6 설치](../io-events/2-4-6-installation.md)
-      + [App Builder 프로젝트 만들기](../io-events/create-app-builder-project.md)
-      + [Adobe Commerce 구성](../io-events/configure-commerce.md)
-      + [Adobe Commerce 모듈 개발](../io-events/commerce-module-development.md)
-      + [Adobe Commerce 조건부 이벤트](../io-events/conditional-events.md)
 
 + 모니터링, 분석 및 지원 {#monitoring-analytics-support}
   + 가시성 {#observability}
