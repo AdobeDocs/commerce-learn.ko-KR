@@ -1,8 +1,8 @@
 ---
 title: PWA 개발을 위한 Venia 설정
 description: PWA 개발 프로젝트를 위해 Venia Storefront를 설정하는 방법에 대해 알아봅니다.
-kt: 5565
-doc-type: video
+jira: KT-5565
+doc-type: Technical Video
 duration: 212
 activity: use
 last-substantial-update: 2023-5-28
@@ -49,7 +49,7 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3430957?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35785?learn=on)
 
 ## 유용한 리소스
 

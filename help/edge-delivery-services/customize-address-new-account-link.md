@@ -45,9 +45,9 @@ topic_v2:
     internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '323'
 ht-degree: 0%
 ---
 # 주소 레이아웃 사용자 지정
@@ -72,8 +72,8 @@ ht-degree: 0%
 * 주소 입력 필드에 대한 유효성 검사 및 오류 처리를 통해 사용자가 잘못되거나 불완전한 항목에 대한 즉각적인 피드백을 받을 수 있으므로 사용자 경험이 향상됩니다.
 * 새 사이드바 메뉴 항목을 사용자 계정 대시보드에 추가하는 사용자 계정 대시보드 확장입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442913?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## 추가 설명서
 
-* [사용자 계정](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account?lang=ko)
+* [사용자 계정](https://experienceleague.adobe.com/en/tools/commerce-storefront/dropins/user-account)

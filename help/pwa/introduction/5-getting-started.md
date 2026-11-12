@@ -1,8 +1,8 @@
 ---
 title: 개발자용 PWA Studio - 프로젝트 설정
 description: 로컬 SSL 인증서 생성 및 빌드 팩 CLI 명령을 포함하여 새 PWA Studio 프로젝트를 시작합니다.
-kt: 5648
-doc-type: video
+jira: KT-5648
+doc-type: Technical Video
 duration: 968
 activity: use
 last-substantial-update: 2023-5-28
@@ -42,7 +42,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -63,4 +63,4 @@ ht-degree: 0%
 
 ## 비디오 컨텐츠:
 
->[!VIDEO](https://video.tv.adobe.com/v/3507664?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35719?learn=on)

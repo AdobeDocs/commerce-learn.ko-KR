@@ -1,8 +1,8 @@
 ---
 title: 개발자용 PWA Studio - 상향
 description: 상향식(통합 점진적 웹 앱 응답 정의)에 대해 알아봅니다.
-kt: 5647
-doc-type: video
+jira: KT-5647
+doc-type: Technical Video
 duration: 159
 activity: use
 last-substantial-update: 2023-5-28
@@ -42,7 +42,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
@@ -60,4 +60,4 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3507757?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35718?learn=on)

@@ -1,8 +1,8 @@
 ---
 title: PWA Docker 개발
 description: 프론트엔드 개발자가 PWA과 함께 개발작업을 수행할 수 있는 도커용 Adobe Commerce 개발에 대해 알아봅니다.
-kt: 5564
-doc-type: video
+jira: KT-5564
+doc-type: Technical Video
 duration: 1122
 activity: use
 last-substantial-update: 2023-5-28
@@ -44,7 +44,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3430972?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35784?learn=on)
 
 ## 유용한 리소스
 
