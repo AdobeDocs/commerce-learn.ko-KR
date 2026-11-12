@@ -155,7 +155,7 @@ ht-degree: 3%
       + [견적 라인 항목 할인](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [견적 라인 항목 노트](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 애플리케이션 개발 및 업그레이드 {#application-development-and-upgrades}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
     + [모듈 만들기](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [제품 속성 추가](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [종속성 삽입 예](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
