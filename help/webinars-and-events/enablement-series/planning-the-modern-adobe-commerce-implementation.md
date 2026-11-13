@@ -86,8 +86,8 @@ ht-degree: 0%
 
 ## 관련 자습서
 
-* [Edge Delivery Services의 Commerce 상점: 쇼핑객 경험](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [데이터 연결](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
-* [App Builder 소개](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Edge Delivery Services의 Commerce 상점: 쇼핑객 경험](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [데이터 연결](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [App Builder 소개](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

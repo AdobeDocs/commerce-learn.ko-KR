@@ -56,9 +56,9 @@ Adobe Commerce이 전환율을 최대 8%까지 과급하도록 설계된 첨단 
 
 ## 관련 자습서
 
-* [Edge Delivery Services의 Commerce 상점: 쇼핑객 경험](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [Adobe Commerce as a Cloud Service: 생성 AI 콘텐츠 제작](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/genai-powered-content-creation)
-* [Adobe Commerce as a Cloud Service: storefront 실험](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation)
+* [Edge Delivery Services의 Commerce 상점: 쇼핑객 경험](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Adobe Commerce as a Cloud Service: 생성 AI 콘텐츠 제작](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/genai-powered-content-creation)
+* [Adobe Commerce as a Cloud Service: storefront 실험](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation)
 
 ## 이 시리즈의 추가 비디오
 

@@ -85,7 +85,7 @@ ht-degree: 0%
 
 ## 관련 자습서
 
-* [Edge Delivery Services의 Commerce 상점: 쇼핑객 경험](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [Edge Delivery Services에서 체크아웃 맞춤화](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/customize-checkout)
+* [Edge Delivery Services의 Commerce 상점: 쇼핑객 경험](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Edge Delivery Services에서 체크아웃 맞춤화](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/customize-checkout)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

@@ -75,6 +75,6 @@ Adobe Commerce이 첨단 AI 솔루션과 SaaS 우선 전략을 통해 전자 상
 
 ## 관련 자습서
 
-* [Commerce MCP 개요](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
-* [Commerce 개발자 에이전트 학습 경로](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
-* [Adobe Commerce Optimizer: 구성 가능한 카탈로그 데이터 모델](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)
+* [Commerce MCP 개요](https://experienceleague.adobe.com/ko/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+* [Commerce 개발자 에이전트 학습 경로](https://experienceleague.adobe.com/ko/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+* [Adobe Commerce Optimizer: 구성 가능한 카탈로그 데이터 모델](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)

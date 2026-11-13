@@ -67,6 +67,6 @@ Adobe Commerce은 단계적 접근 방식으로 Adobe Commerce as a Cloud Servic
 
 ## 관련 자습서
 
-* [Adobe Commerce as a Cloud Service으로 마이그레이션](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
-* [App Builder 소개](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
-* [Edge Delivery Services의 Commerce 상점: 쇼핑객 경험](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Adobe Commerce as a Cloud Service으로 마이그레이션](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
+* [App Builder 소개](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Edge Delivery Services의 Commerce 상점: 쇼핑객 경험](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
