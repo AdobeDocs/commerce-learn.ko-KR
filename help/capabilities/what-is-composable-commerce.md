@@ -86,7 +86,7 @@ Adobe Commerce as a Cloud Service은 관리형 SaaS 상거래 플랫폼입니다
 
 지원되는 확장 지점이 있는 관리되는 상거래 기반을 평가할 때 이 옵션을 사용합니다. 사용자 정의 비즈니스 논리의 경우, 기존 PHP 확장을 변경되지 않고 배포할 수 있다고 가정하는 대신 지원되는 프로세스 외부 확장성에 대한 계획을 수립하십시오. ACCS는 Luma 상점 전면을 지원하지 않습니다. 해당되는 경우 구현 계획에 상점 마이그레이션을 포함하십시오.
 
-[Adobe Commerce as a Cloud Service 개요](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)를 참조하세요.
+[Adobe Commerce as a Cloud Service 개요](https://experienceleague.adobe.com/ko/docs/commerce/cloud-service/overview)를 참조하세요.
 
 ### Adobe Commerce Optimizer
 
@@ -94,13 +94,13 @@ Adobe Commerce Optimizer은 카탈로그 관리, 제품 검색, 검색, 권장 �
 
 고객 대면 현대화가 목표이고 트랜잭션 백엔드를 교체할 필요가 없는 경우 이 옵션을 사용합니다. 카탈로그 수집 및 장바구니와 체크아웃 통합을 명시적으로 계획합니다. ACCS와 ACO는 필수 조합 스택이 아닌 별도의 아키텍처 옵션입니다. 구현에 대한 서비스를 선택하기 전에 현재 통합 지원을 확인하십시오.
 
-[Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview)를 참조하세요.
+[Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview)를 참조하세요.
 
 ### 기존 Adobe Commerce 배포
 
 Adobe Commerce on cloud infrastructure 및 온프레미스 배포는 headless 상점 및 지원되는 API 기반 통합을 점진적으로 채택할 수 있습니다. 배포에 따라 기존 Storefront를 유지하거나 지원되는 Headless Storefront를 채택할 수 있습니다. 기존 상거래 기능을 함께 유지하면 통합 작업을 줄이는 동시에 선택한 서비스를 별도로 발전시킬 수 있습니다.
 
-기능 가용성, 확장 호환성, 라이선스 및 설정 요구 사항은 서비스 및 버전에 따라 다릅니다. 아키텍처를 선택하기 전에 [Adobe Commerce 플랫폼 및 서비스를 비교](https://experienceleague.adobe.com/en/docs/commerce/information-center/explore-platforms-and-services/platform-and-services)하십시오.
+기능 가용성, 확장 호환성, 라이선스 및 설정 요구 사항은 서비스 및 버전에 따라 다릅니다. 아키텍처를 선택하기 전에 [Adobe Commerce 플랫폼 및 서비스를 비교](https://experienceleague.adobe.com/ko/docs/commerce/information-center/explore-platforms-and-services/platform-and-services)하십시오.
 
 ## Edge Delivery Services 기반 Commerce Storefront
 
@@ -172,11 +172,11 @@ Commerce 개발 MCP는 Storefront 게재, 장바구니, 체크아웃 또는 주�
 
 ### 아키텍처 및 개발 설명서
 
-* [Adobe Commerce as a Cloud Service으로 마이그레이션](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/migration/overview)
-* [Adobe Commerce Optimizer 통합](https://experienceleague.adobe.com/en/docs/commerce/optimizer/integrations-overview)
+* [Adobe Commerce as a Cloud Service으로 마이그레이션](https://experienceleague.adobe.com/ko/docs/commerce/cloud-service/migration/overview)
+* [Adobe Commerce Optimizer 통합](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/integrations-overview)
 * [Commerce Storefront 개발 시작](https://experienceleague.adobe.com/en/tools/commerce-storefront/get-started/)
 * [Commerce 개발 MCP 및 기술에 대한 우수 사례](https://developer.adobe.com/commerce/extensibility/developer-agent/best-practices)
 
 ### 재생 목록
 
-* [Adobe App Builder 및 Adobe Commerce을 사용하여 API Mesh 시작](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Adobe App Builder 및 Adobe Commerce을 사용하여 API Mesh 시작](https://experienceleague.adobe.com/ko/playlists/commerce-get-started-app-builder-and-api-mesh)
