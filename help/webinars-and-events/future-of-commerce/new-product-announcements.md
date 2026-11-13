@@ -28,9 +28,9 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '281'
 ht-degree: 0%
 ---
 # 새 제품 공지
@@ -52,6 +52,12 @@ ht-degree: 0%
 * 기존 솔루션에 대한 지속적인 지원과 확장된 버전 지원 타임라인을 통해 유연한 증분 채택 경로를 통해 기업이 원하는 속도로 전환할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458484?learn=on)
+
+## 관련 자습서
+
+* [Adobe Commerce 비교 옵션](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [Adobe Commerce as a Cloud Service 개요](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
+* [Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/overview)
 
 ## 이 시리즈의 추가 비디오
 

@@ -34,9 +34,9 @@ topic_v2:
     internal-label: Data modeling
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '234'
 ht-degree: 0%
 ---
 # 빠른 경로 확장
@@ -58,7 +58,12 @@ Adobe Commerce이 카탈로그 관리, B2B 상거래 및 다중 채널 확장성
 * 자사 및 타사 제품 분류의 원활한 통합
 * 드롭인 및 테마로 상점 개발 가속화
 
->[!VIDEO](https://video.tv.adobe.com/v/3505305?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3458518?learn=on)
+
+## 관련 자습서
+
+* [Adobe Commerce Optimizer: 카탈로그 보기](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
+* [Adobe Commerce as a Cloud Service: 카탈로그 관리 및 머천다이징](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services)
 
 ## 이 시리즈의 추가 비디오
 

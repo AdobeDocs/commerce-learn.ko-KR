@@ -1,6 +1,6 @@
 ---
-title: Success Accelerators Technical Readiness
-description: Learn about Commerce Success Accelerator Technical readiness, solution review, event planning, and 24/7 monitoring for optimal performance.
+title: Success Accelerator 기술 준비
+description: Commerce Success Accelerator 기술 준비, 솔루션 검토, 이벤트 계획 및 최적의 성능을 위한 연중무휴 모니터링에 대해 알아봅니다.
 topic: Administration, Commerce
 role: User
 level: Beginner
@@ -26,30 +26,34 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: 151
+source-wordcount: '217'
 ht-degree: 0%
-
 ---
+# Success Accelerator 기술 준비
 
-# Success Accelerators technical readiness
-
-Adobe Commerce Success Accelerators include services like technical readiness, which covers launch advisory, upgrade/migration readiness, environment review, and solution troubleshooting. Additionally, they offer solution and adoption reviews to enhance product usage and performance. Event planning and monitoring services provide guidance and 24/7 support for critical campaigns and product launches, ensuring optimal performance and proactive issue identification. These accelerators aim to maximize the effectiveness and adoption of Adobe Commerce products
+Adobe Commerce Success Accelerator에는 출시 자문, 업그레이드/마이그레이션 준비, 환경 검토 및 솔루션 문제 해결을 다루는 기술 준비 와 같은 서비스가 포함되어 있습니다. 또한 솔루션 및 채택 검토를 제공하여 제품 사용 및 성능을 향상시킵니다. 이벤트 계획 및 모니터링 서비스는 주요 캠페인 및 제품 출시에 대한 지침과 연중무휴 지원을 제공하여 최적의 성능과 사전 예방적 문제 식별을 보장합니다. 이러한 액셀러레이터는 Adobe Commerce 제품의 효과와 채택을 극대화하는 것을 목표로 합니다
 
 ## 이 비디오는 누구의 것입니까?
 
-* E-commerce Managers
-* Technical Leads
+* 전자 상거래 관리자
+* 기술 리드
 * 프로젝트 관리자
-* Customer Support Specialists
+* 고객 지원 전문가
 * 비즈니스 분석가
 
 ## 비디오 콘텐츠 {#video-content}
 
-* Launch advisory, upgrade/migration readiness, and environment review.
-* Post-implementation guidance for resolving issues outside regular customer support.
-* Product usage, performance, and overall adoption.
-* Guidance and 24/7 support for critical campaigns and product launches.
+* 출시 자문, 업그레이드/마이그레이션 준비 및 환경 검토.
+* 일반 고객 지원 외부의 문제 해결을 위한 구현 후 지침.
+* 제품 사용, 성능 및 전체 채택
+* 중요한 캠페인 및 제품 출시에 대한 지침 및 연중무휴 지원.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457655?learn=on)
+
+## 관련 자습서
+
+* [클라우드 인프라 및 자체 호스팅: 사전 실행 검사 목록](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [가시성 개요](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [지원 티켓 만들기](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)

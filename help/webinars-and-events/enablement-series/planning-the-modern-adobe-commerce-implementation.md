@@ -1,6 +1,6 @@
 ---
 title: 최신 Adobe Commerce 구현 계획
-description: 이 웨비나는 최신 상거래 시스템, 특히 Adobe Commerce의 구현을 계획하는 것이며 검색 단계, 서비스, 글로벌 참조 아키텍처, 프론트엔드 개발 사례 및 모범 사례에 대한 논의를 포함합니다.
+description: 검색, 서비스, 글로벌 참조 아키텍처, 프론트엔드 개발 및 모범 사례를 다루는 Adobe Commerce 구현을 계획하는 방법을 알아봅니다.
 feature: API Mesh, App Builder, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 old-role: Architect, Data Architect, Leader
@@ -52,9 +52,9 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '457'
 ht-degree: 0%
 ---
 # 최신 Adobe Commerce 구현 계획
@@ -83,5 +83,11 @@ ht-degree: 0%
 * 프로젝트의 가장 어려운 부분부터 시작하고 재사용 가능한 구성 요소에 대한 GRA 사용을 고려하는 것을 포함하여 작업의 적절한 계획, 구성 및 우선 순위 지정의 중요성.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428987?learn=on)
+
+## 관련 자습서
+
+* [Edge Delivery Services의 Commerce 상점: 쇼핑객 경험](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [데이터 연결](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [App Builder 소개](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 
 {{$include /help/_includes/enablement-series-related-links.md}}
