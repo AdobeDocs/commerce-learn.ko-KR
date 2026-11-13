@@ -7,7 +7,7 @@ role: Admin, User
 level: Beginner
 doc-type: Technical Video
 duration: 340
-last-substantial-update: 2024-10-09T00:00:00.000Z
+last-substantial-update: 2024-10-09
 jira: KT-16185
 exl-id: b8636a20-4e1e-479a-9e86-9e43efd3c5db
 TQID: 'https://experienceleague.adobe.com/UsYDjLhPMDrZBX6g5InoFcYiIS6DL8Qp03fIiY6Gs1U'
@@ -67,7 +67,7 @@ topic_v2:
     internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -88,4 +88,4 @@ Adobe Commerce은 AWS 및 Azure에서 사용할 수 있는 하이브리드 클�
 * 고급 AI 기반 서비스. 라이브 검색, AI 기반 제품 추천, 카탈로그 서비스 등 지능적이고 API 우선 서비스를 이해하여 고객 경험과 운영 효율성을 높일 수 있습니다.
 * 포괄적인 개발자 도구. API Mesh 및 App Builder과 같은 클라우드 기반의 서버리스 개발자 도구 세트에 대해 알아보고 원활한 통합 및 맞춤화를 통해 상거래 기능을 확장할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433507?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)

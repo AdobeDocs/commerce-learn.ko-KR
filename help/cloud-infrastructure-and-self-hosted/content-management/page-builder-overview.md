@@ -6,13 +6,13 @@ doc-type: Feature Video
 duration: 317
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Native Luma Frontend Development, Page Content
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
-badgePaas: label="PaaS만" type="Informative" url="https://experienceleague.adobe.com/ko/docs/commerce/user-guides/product-solutions" tooltip="Adobe Commerce 온 클라우드 프로젝트(Adobe 관리 PaaS 인프라) 및 온프레미스 프로젝트에만 적용됩니다."
+badgePaas: label="PaaS만" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Adobe Commerce 온 클라우드 프로젝트(Adobe 관리 PaaS 인프라) 및 온프레미스 프로젝트에만 적용됩니다."
 TQID: https://experienceleague.adobe.com/ydFn1DpgMmq8KVWcSS91-E-0ZUggI-FQPd6-SC-GrYM
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -35,7 +35,7 @@ topic_v2:
     internal-label: Customer engagement
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 1%
@@ -62,9 +62,9 @@ ht-degree: 1%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3447901?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343781?learn=on)
 
 ## 추가 리소스
 
-* [페이지 빌더 사용 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html?lang=ko)
+* [페이지 빌더 사용 안내서](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
 * [페이지 빌더 개발자 안내서](https://developer.adobe.com/commerce/frontend-core/page-builder/)

@@ -7,7 +7,7 @@ role: Admin, User
 level: Beginner
 doc-type: Technical Video
 duration: 299
-last-substantial-update: 2024-10-09T00:00:00.000Z
+last-substantial-update: 2024-10-09
 jira: KT-16186
 exl-id: 490cf618-9ebe-478d-9e12-49dde50ceae8
 TQID: 'https://experienceleague.adobe.com/emyoykUc8mJE8X4HtksnPJrYJ6QeoTVyTvOY-yqmL80'
@@ -39,7 +39,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -60,4 +60,4 @@ Adobe ID 또는 Federated ID을 사용하여 Adobe Commerce Admin Portal에 로�
 * 역할 생성 및 관리 이해
 * 사용자 할당 및 액세스 수준을 이해합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3433520?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)

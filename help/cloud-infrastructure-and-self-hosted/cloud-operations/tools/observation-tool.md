@@ -6,7 +6,7 @@ jira: KT-10677
 duration: 214
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Security, Tools and External Services
 topic: Commerce, Administration
 old-role: Architect, Developer
@@ -48,7 +48,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -64,9 +64,9 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3410750?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344444?learn=on)
 
 ## 추가 리소스
 
-* [Adobe Commerce 관찰 - 지원 문서](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?lang=ko&)
-* [Adobe Commerce에 Observation 사용](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html?lang=ko)
+* [Adobe Commerce 관찰 - 지원 문서](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
+* [Adobe Commerce에 Observation 사용](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)

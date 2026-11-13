@@ -8,7 +8,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 336
-last-substantial-update: 2024-10-24T00:00:00.000Z
+last-substantial-update: 2024-10-24
 jira: KT-16275
 exl-id: 7b521465-db0b-4755-91bd-013368a9fe5e
 TQID: 'https://experienceleague.adobe.com/-1BqPg0V0-13eK-Xv8dr1IWslRuxgST7HQhcc-GGrKE'
@@ -44,7 +44,7 @@ topic_v2:
     internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -69,8 +69,8 @@ Adobe Commerce으로 이동할 때는 팀과 프로젝트를 철저히 평가하
 * 프론트엔드 및 백엔드 고려 사항에 대해 알아봅니다.
 * 기존 모듈을 평가하고, 핵심 애플리케이션을 업그레이드하고, 다른 Adobe 솔루션과 통합하여 원활한 마이그레이션을 계획합니다.
  
->[!VIDEO](https://video.tv.adobe.com/v/3447452?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435682?learn=on)
 
 ## 관련 설명서
 
-[Adobe Commerce 소개](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/about)
+[Adobe Commerce 소개](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)

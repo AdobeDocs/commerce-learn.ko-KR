@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 218
-last-substantial-update: 2024-11-22T00:00:00.000Z
+last-substantial-update: 2024-11-22
 jira: KT-16565
 exl-id: 70b66d2a-7f20-49de-ad4e-c0f665ca7eba
 TQID: 'https://experienceleague.adobe.com/RpNu5edLjqpVIhSl0G5md-sO7xheP9f7YPRdUS9pnnA'
@@ -35,7 +35,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -54,4 +54,4 @@ Adobe Commerce 관리자에서 사용할 필터를 찾고 조정하는 방법을
 * 필터를 사용하여 관리자 격자의 결과를 제한하는 방법을 이해합니다
 * 필터가 Adobe Commerce Admin Console의 다른 관리자에게 어떻게 영향을 미치는지 알아봅니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3440389?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440382?learn=on)

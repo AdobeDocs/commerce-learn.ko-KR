@@ -7,7 +7,7 @@ jira: KT-15984
 doc-type: Technical Video
 duration: 162
 audience: all
-last-substantial-update: 2024-08-14T00:00:00.000Z
+last-substantial-update: 2024-08-14
 feature: Tools and External Services, Communications, Security
 topic: Commerce, Architecture
 old-role: Architect, Developer
@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -61,4 +61,4 @@ New Relic에서 경고, 정책, 워크플로우 및 대상을 찾는 방법을 �
 * 경고 알림, 정책 및 워크플로에 대해 알아보기
 * 대상을 저장하고 새 이메일이 정책에 추가되었는지 확인하는 중
 
->[!VIDEO](https://video.tv.adobe.com/v/3441210?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)

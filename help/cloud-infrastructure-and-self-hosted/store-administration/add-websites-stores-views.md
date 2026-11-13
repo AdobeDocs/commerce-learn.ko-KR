@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 464
 audience: all
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -43,7 +43,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -61,11 +61,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 비디오의 콘텐츠는 2.1.0 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/overview)를 참조하세요.
+>이 비디오의 콘텐츠는 2.1.0 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview)를 참조하세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507659?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35787?learn=on)
 
 ## 추가 리소스
 
-* [웹 사이트, 스토어 및 보기 - [!DNL Commerce] 시작 안내서](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/setup/websites-stores-views)
-* [루트 범주 및 계층 구조 - [!DNL Commerce] 카탈로그 관리 안내서](https://experienceleague.adobe.com/ko/docs/commerce-admin/catalog/categories/category-root)
+* [웹 사이트, 스토어 및 보기 - [!DNL Commerce] 시작 안내서](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
+* [루트 범주 및 계층 구조 - [!DNL Commerce] 카탈로그 관리 안내서](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/categories/category-root)

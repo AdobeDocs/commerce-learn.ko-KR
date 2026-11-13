@@ -8,7 +8,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 352
-last-substantial-update: 2024-10-02T00:00:00.000Z
+last-substantial-update: 2024-10-02
 jira: KT-15994
 exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
 TQID: 'https://experienceleague.adobe.com/Lw-nsZI59iSM1yOjOP5L8FK-yEEsJ1QE25pnbYjAGNs'
@@ -35,7 +35,7 @@ topic_v2:
     internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -56,4 +56,4 @@ PHP, JavaScript 및 사용자 지정에 대한 몇 가지 필수 코딩 표준�
 * 원활한 마이그레이션을 보장하기 위한 PHP, JavaScript 및 사용자 지정에 대한 모범 사례에 대해 알아봅니다.
 * 성공적인 Adobe Commerce 프로젝트를 위한 준비, 성능 및 보안에 대해 Adobe 전문가로부터 통찰력을 얻으십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434864?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on)

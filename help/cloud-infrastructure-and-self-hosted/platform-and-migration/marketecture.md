@@ -7,7 +7,7 @@ role: Admin, User
 level: Beginner
 doc-type: Technical Video
 duration: 477
-last-substantial-update: 2024-09-09T00:00:00.000Z
+last-substantial-update: 2024-09-09
 jira: KT-16061
 exl-id: 3044550b-12ad-41d5-ad2f-cc3759867e40
 TQID: 'https://experienceleague.adobe.com/HFWzBQqgD0RvutRjqTbN0TXGpUSi7wFKijQZVhHK9Sc'
@@ -49,7 +49,7 @@ topic_v2:
     internal-label: Insights
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
     internal-label: Customer profiles
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -72,4 +72,4 @@ API Mesh 및 통합 이벤트 관리와 같은 확장성 도구는 개발 및 �
 * Adobe Commerce은 라이브 검색, AI 추천 및 유연한 결제 솔루션과 같은 컴포저블 서비스를 제공합니다.
 * API Mesh, 통합 이벤트 관리 및 원활한 Adobe Experience Platform 통합을 포함한 고급 통합.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433442?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433435?learn=on)

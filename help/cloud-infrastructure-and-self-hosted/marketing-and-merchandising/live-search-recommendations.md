@@ -6,7 +6,7 @@ duration: 1897
 audience: all
 activity: use
 jira: KT-13792
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration
 role: Admin, User
@@ -55,7 +55,7 @@ topic_v2:
     internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -73,12 +73,12 @@ Adobe Commerce의 [!DNL Live Search]은(는) 추가 비용 없이 Adobe Commerce
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3432507?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412586?learn=on)
 
 
 ## 추가 리소스
 
-* [&#x200B; [!DNL Live Search] 소개](live-search.md)
-* [[!DNL Live Search] 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=ko)
-* [Commerce 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=ko)
-* [제품 추천 소개](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=ko)
+* [ [!DNL Live Search] 소개](live-search.md)
+* [[!DNL Live Search] 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+* [Commerce 서비스 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+* [제품 추천 소개](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)

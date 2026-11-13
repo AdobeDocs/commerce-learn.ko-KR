@@ -7,7 +7,7 @@ role: Admin, User
 level: Beginner
 doc-type: Technical Video
 duration: 637
-last-substantial-update: 2024-10-09T00:00:00.000Z
+last-substantial-update: 2024-10-09
 jira: KT-16188
 exl-id: b5a9a043-0420-4096-b915-565eaf37a288
 TQID: 'https://experienceleague.adobe.com/HnxOSOfyjXHEW-DIvyHo-G6p1-bRCScWYBdlc7jWg1Q'
@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Experimentation
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -61,4 +61,4 @@ Adobe Commerce의 Edge 게재 매장을 둘러보는 신규 고객 및 기존 �
 * A/B 테스트를 통해 최적화에 대한 이해를 얻으십시오.
 * 콘텐츠를 세분화하고, 변형을 생성하고, 전반적인 홍보 전략을 개선하기 위한 몇 가지 고급 도구와 AI 통합에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433539?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)

@@ -8,7 +8,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 201
-last-substantial-update: 2024-10-02T00:00:00.000Z
+last-substantial-update: 2024-10-02
 jira: KT-11767
 exl-id: 9b9504c1-0888-46da-b25e-0a5e16833d84
 TQID: 'https://experienceleague.adobe.com/qozc7AyTn20uLGoouMVGr8lLchGR7jAvXqf-dNViP7U'
@@ -31,7 +31,7 @@ topic_v2:
     internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -54,4 +54,4 @@ ht-degree: 0%
 * Adobe Commerce으로의 성공적인 마이그레이션을 위한 필수 단계 및 모범 사례에 대해 알아봅니다.
 * 사용자 지정 코드, 타사 모듈을 평가 및 최적화하고 주요 QA 개념을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444327?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432846?learn=on)

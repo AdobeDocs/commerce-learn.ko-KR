@@ -3,7 +3,7 @@ title: 위젯 만들기
 description: 스토어 전체에서 콘텐츠가 자동으로 업데이트되도록 위젯을 만들고 편집하는 방법을 알아봅니다.
 doc-type: Tutorial
 duration: 236
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System
 topic: Commerce, Administration
 role: Developer, User
@@ -34,7 +34,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -53,9 +53,9 @@ ht-degree: 0%
 * 위젯이 무엇이고 어디에 표시되는지 이해합니다.
 * 관리자에서 위젯을 만들고 관리합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411059?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343786?learn=on)
 
 ## 추가 리소스
 
-* [위젯 - [!DNL Commerce] 콘텐츠 및 디자인 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html?lang=ko){target="_blank"}
-* [위젯 만들기 및 관리 - [!DNL Commerce] 콘텐츠 및 디자인 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html?lang=ko){target="_blank"}
+* [위젯 - [!DNL Commerce] 콘텐츠 및 디자인 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
+* [위젯 만들기 및 관리 - [!DNL Commerce] 콘텐츠 및 디자인 안내서](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html){target="_blank"}

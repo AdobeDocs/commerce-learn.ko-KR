@@ -4,7 +4,7 @@ description: 정의된 조건 집합을 기준으로 할인된 가격으로 구�
 doc-type: Feature Video
 audience: all
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers, Personalization, Shopping Cart, Price Rules
 topic: Commerce, Administration
 role: Admin, User
@@ -42,7 +42,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -58,9 +58,9 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3410851?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343834?learn=on)
 
 ## 추가 리소스
 
-* [카탈로그 가격 규칙 만들기 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html?lang=ko)
-* [여러 SKU가 있는 카탈로그 가격 규칙 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html?lang=ko)
+* [카탈로그 가격 규칙 만들기 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
+* [여러 SKU가 있는 카탈로그 가격 규칙 - [!DNL Commerce] 머천다이징 및 프로모션 안내서](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)
