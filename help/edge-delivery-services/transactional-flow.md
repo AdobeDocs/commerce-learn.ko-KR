@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 525
-last-substantial-update: 2024-12-16T00:00:00.000Z
+last-substantial-update: 2024-12-16
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
 TQID: 'https://experienceleague.adobe.com/w2hP8PL0E4TWrDAcvF4F79z2IoYGKu7Rsvc9wEFZSfg'
@@ -38,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -63,7 +63,7 @@ Adobe Commerce 장바구니 드롭인을 사용하고 트랜잭션 흐름을 조
 * A/B 테스트 유연성. SharePoint을 통해 구성을 활성화하여 마케터가 이러한 기능을 제어하고 테스트할 수 있도록 했습니다.
 * 향상된 마케팅 제어. 구성을 쉽게 관리 및 테스트하여 사용자 경험과 마케팅 효과를 개선합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442358?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
 ## 추가 설명서
 

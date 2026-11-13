@@ -4,7 +4,7 @@ description: Adobe Developer App Builder에서 사용할 조건부 이벤트를 
 jira: KT-11890
 doc-type: Tutorial
 duration: 387
-last-substantial-update: 2023-02-21T00:00:00.000Z
+last-substantial-update: 2023-02-21
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
 role: Developer
@@ -36,7 +36,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Adobe Developer App Builder에서 사용할 수 있는 Adobe Commerce의 조건�
 * 조건부 이벤트에 사용할 규칙 정의
 * Commerce 인스턴스 `app/etc/config.php`에서 이벤트를 등록하는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3419802?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415806?learn=on)
 
 ## 유용한 명령 {#useful-commands}
 

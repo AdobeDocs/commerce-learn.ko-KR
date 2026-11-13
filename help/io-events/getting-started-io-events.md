@@ -4,7 +4,7 @@ description: Adobe Commerce 이벤트에 대한 App Builder 런타임 작업을 
 jira: KT-14583
 doc-type: Tutorial
 duration: 725
-last-substantial-update: 2023-11-27T00:00:00.000Z
+last-substantial-update: 2023-11-27
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
 role: Developer
@@ -36,7 +36,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%

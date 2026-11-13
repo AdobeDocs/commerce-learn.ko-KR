@@ -4,7 +4,7 @@ description: Adobe Developer App Builder에서 사용하기 위해 Adobe Commerc
 jira: KT-11886
 doc-type: Tutorial
 duration: 179
-last-substantial-update: 2023-02-22T00:00:00.000Z
+last-substantial-update: 2023-02-22
 badge: Adobe Commerce 2.4.5
 feature: App Builder, Eventing
 topic: Commerce, Architecture
@@ -35,7 +35,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -55,7 +55,7 @@ ht-degree: 0%
 * Adobe Commerce Cloud에 대해 실행되는 명령
 * Adobe Commerce Cloud yaml 필수 편집
 
->[!VIDEO](https://video.tv.adobe.com/v/3419830?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415794?learn=on)
 
 ## 사용 가능한 명령 {#useful-commands}
 

@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 430
-last-substantial-update: 2024-12-16T00:00:00.000Z
+last-substantial-update: 2024-12-16
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
 TQID: 'https://experienceleague.adobe.com/Scjl9nt8Oai2tM3y2eTEbxUYWACzoJgAY9U2-bBK4rY'
@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -67,7 +67,7 @@ Adobe Commerce 장바구니를 사용자 정의하고 확장하는 방법을 알
 * 이 정보를 효과적으로 표시하기 위해 장바구니 규칙 및 바닥글 슬롯을 사용하여 표시되는 쿠폰 할인.
 * 제품 속성 및 슬롯을 사용하여 장바구니 기능을 확장하고 사용자 정의하여 모든 프로젝트 요구 사항이 충족되도록 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441123?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
 
 
 ## 추가 설명서

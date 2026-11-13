@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 856
-last-substantial-update: 2025-01-13T00:00:00.000Z
+last-substantial-update: 2025-01-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
 TQID: 'https://experienceleague.adobe.com/QnipDRCT13r3KSOOZj3G8A8EoAZNET6Y823qbjDAXE8'
@@ -45,7 +45,7 @@ topic_v2:
     internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
@@ -72,7 +72,7 @@ ht-degree: 0%
 * 주소 입력 필드에 대한 유효성 검사 및 오류 처리를 통해 사용자가 잘못되거나 불완전한 항목에 대한 즉각적인 피드백을 받을 수 있으므로 사용자 경험이 향상됩니다.
 * 새 사이드바 메뉴 항목을 사용자 계정 대시보드에 추가하는 사용자 계정 대시보드 확장입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442913?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## 추가 설명서
 

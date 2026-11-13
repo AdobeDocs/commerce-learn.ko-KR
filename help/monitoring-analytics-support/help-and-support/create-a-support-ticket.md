@@ -7,7 +7,7 @@ role: Admin, Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 355
-last-substantial-update: 2024-08-23T00:00:00.000Z
+last-substantial-update: 2024-08-23
 jira: KT-15165
 exl-id: f1ade4e9-f6c3-4498-afad-27c0120242be
 TQID: 'https://experienceleague.adobe.com/S2bl2x6FNq0bvaWUlTMoCHWSYaxmwLliNVewsDxKNh4'
@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -61,8 +61,8 @@ Adobe Experience League for Adobe Commerce 내에서 지원 티켓을 만드는 
 * 양식에 사용된 정보에 따라 권장 문서가 어떻게 변경되는지 알아봅니다
 * 양식 필드에 있는 자리 표시자 텍스트가 올바른 지원 요청에 필요한 정보 유형을 이해하는 데 어떻게 도움이 되는지 알아봅니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3449560?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
 
 ## Commerce 기술 자료 Adobe 도움말 센터 안내서
 
-[지원 사례 제출](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[지원 사례 제출](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)

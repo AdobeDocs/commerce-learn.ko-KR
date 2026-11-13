@@ -4,7 +4,7 @@ description: 이벤트를 사용할 Commerce 모듈을 만드는 방법을 알�
 jira: KT-11891
 doc-type: Tutorial
 duration: 314
-last-substantial-update: 2023-02-21T00:00:00.000Z
+last-substantial-update: 2023-02-21
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
 role: Developer
@@ -36,7 +36,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -57,7 +57,7 @@ ht-degree: 0%
 * Commerce 인스턴스 `app/etc/config.php`에서 이벤트를 등록하는 방법 알아보기
 * 이벤트에서 구독을 취소하는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3419838?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415802?learn=on)
 
 ## 유용한 명령 {#useful-commands}
 
