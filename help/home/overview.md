@@ -68,9 +68,9 @@ ht-degree: 0%
 * **계획 및 현대화:** Commerce 옵션을 비교하고, 아키텍처 및 배포 접근 방식을 살펴보고, 마이그레이션, 프로젝트 계획 및 구현 모범 사례에 대해 알아봅니다.
 * **빌드 및 통합:** App Builder, GraphQL, REST, API Mesh, 이벤트 및 웹후크를 사용하여 개발합니다. Edge Delivery Services을 포함한 백오피스 통합 및 상점 전면 개발에 대해 살펴봅니다.
 * **관리 및 운영:** 스토어 관리, 카탈로그, 콘텐츠, 마케팅, 머천다이징, B2B 워크플로 및 결제에 대해 알아봅니다. 클라우드 작업, 모니터링, 분석, 성능 및 문제 해결에 대한 지침을 확인하십시오.
-* **최적화 프로그램 및 AI 탐색:** 카탈로그 및 상점 기능에 대한 [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview) 튜토리얼을 탐색하십시오. 시맨틱 검색, Commerce MCP 및 개발자 워크플로에 대한 [AI 및 Agentic Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview) 안내서를 따르십시오.
+* **최적화 프로그램 및 AI 탐색:** 카탈로그 및 상점 기능에 대한 [Adobe Commerce Optimizer](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview) 튜토리얼을 탐색하십시오. 시맨틱 검색, Commerce MCP 및 개발자 워크플로에 대한 [AI 및 Agentic Commerce](https://experienceleague.adobe.com/ko/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview) 안내서를 따르십시오.
 
-자세한 구현 관점, 제품 업데이트 및 비즈니스 논의를 보려면 [웨비나 및 이벤트](https://experienceleague.adobe.com/en/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation) 안내서를 살펴보십시오. 자세한 요구 사항 및 참조 정보는 [Commerce 설명서](https://experienceleague.adobe.com/en/docs/commerce)와 함께 비디오 및 튜토리얼을 사용하십시오.
+자세한 구현 관점, 제품 업데이트 및 비즈니스 논의를 보려면 [웨비나 및 이벤트](https://experienceleague.adobe.com/ko/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation) 안내서를 살펴보십시오. 자세한 요구 사항 및 참조 정보는 [Commerce 설명서](https://experienceleague.adobe.com/ko/docs/commerce)와 함께 비디오 및 튜토리얼을 사용하십시오.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -81,12 +81,12 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[Commerce 이벤트](https://experienceleague.adobe.com/en/events) 스페이스에서는 요청 시 볼 수 있는 기록된 이벤트 콘텐츠에 액세스할 수 있습니다.
+>[Commerce 이벤트](https://experienceleague.adobe.com/ko/events) 스페이스에서는 요청 시 볼 수 있는 기록된 이벤트 콘텐츠에 액세스할 수 있습니다.
 
 ## 추가 리소스
 
-* [Commerce 설명서](https://experienceleague.adobe.com/en/docs/commerce) - Commerce 오퍼링에 대한 제품 안내서 및 참조 정보입니다.
-* [판매자 설명서](https://experienceleague.adobe.com/en/docs/commerce-admin/user-guides/home) - 클라우드 인프라 및 자체 호스팅 배포에 대한 설정 및 관리를 저장합니다.
+* [Commerce 설명서](https://experienceleague.adobe.com/ko/docs/commerce) - Commerce 오퍼링에 대한 제품 안내서 및 참조 정보입니다.
+* [판매자 설명서](https://experienceleague.adobe.com/ko/docs/commerce-admin/user-guides/home) - 클라우드 인프라 및 자체 호스팅 배포에 대한 설정 및 관리를 저장합니다.
 * [개발자 설명서](https://developer.adobe.com/commerce/) - API, SDK, 통합 및 확장성 리소스.
-* [Commerce 기술 자료](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/overview) - 문서 문제 해결, 알려진 문제 및 지원 지침.
-* [Experience League 교육 과정](https://experienceleague.adobe.com/en/courses?product=Commerce) - Experience League의 구조화된 학습.
+* [Commerce 기술 자료](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/overview) - 문서 문제 해결, 알려진 문제 및 지원 지침.
+* [Experience League 교육 과정](https://experienceleague.adobe.com/ko/courses?product=Commerce) - Experience League의 구조화된 학습.

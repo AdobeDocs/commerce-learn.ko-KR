@@ -109,6 +109,6 @@ App Builder은 사용자 정의 애플리케이션을 개발하는 데 도움이
 
 ## 오퍼링별 예
 
-App Builder을 기반으로 구축된 Adobe Commerce Optimizer 통합의 경우 [Salesforce Commerce Cloud 시작 키트](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/sfcc-starter-kit/overview)를 따르십시오. 이 시리즈는 아키텍처, Salesforce 카트리지 설치, App Builder 스타터 키트 및 전체적인 데모를 다룹니다.
+App Builder을 기반으로 구축된 Adobe Commerce Optimizer 통합의 경우 [Salesforce Commerce Cloud 시작 키트](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/adobe-commerce-optimizer/sfcc-starter-kit/overview)를 따르십시오. 이 시리즈는 아키텍처, Salesforce 카트리지 설치, App Builder 스타터 키트 및 전체적인 데모를 다룹니다.
 
 {{$include /help/_includes/app-builder-related-links.md}}
