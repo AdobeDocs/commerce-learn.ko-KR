@@ -58,7 +58,7 @@ Adobe Commerce이 카탈로그 관리, B2B 상거래 및 다중 채널 확장성
 * 자사 및 타사 제품 분류의 원활한 통합
 * 드롭인 및 테마로 상점 개발 가속화
 
->[!VIDEO](https://video.tv.adobe.com/v/3458518?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505305?captions=kor&learn=on)
 
 ## 관련 자습서
 
