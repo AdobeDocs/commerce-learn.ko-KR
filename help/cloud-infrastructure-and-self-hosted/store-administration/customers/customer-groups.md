@@ -4,7 +4,7 @@ description: Adobe Commerce 고객 그룹과 가격, 프로모션, 세금 분류
 jira: KT-19057
 doc-type: Feature Video
 duration: 97
-last-substantial-update: 2026-10-07T00:00:00.000Z
+last-substantial-update: 2026-10-07
 feature: Configuration, System, Personalization, Taxes, Price Rules
 topic: Commerce, Administration
 role: Admin, Developer, User
@@ -46,7 +46,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -62,8 +62,8 @@ Adobe Commerce의 고객 그룹을 사용하면 타깃팅된 판촉 행사 및 �
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3473329?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473262?learn=on)
 
 ## 추가 리소스
 
-* [고객 그룹 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/ko/docs/commerce-admin/customers/customer-groups)
+* [고객 그룹 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/en/docs/commerce-admin/customers/customer-groups)

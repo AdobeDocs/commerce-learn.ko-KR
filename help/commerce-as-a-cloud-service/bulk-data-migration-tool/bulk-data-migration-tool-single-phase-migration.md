@@ -7,7 +7,7 @@ doc-type: Technical Video
 topic: Migration
 feature: Data Import/Export
 duration: 737
-last-substantial-update: 2026-07-24T00:00:00.000Z
+last-substantial-update: 2026-07-24
 jira: KT-22139
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -44,4 +44,4 @@ ht-degree: 0%
 * 마이그레이션 요약 보고서 확인 — 8단계(데이터 무결성 확인)에서는 파이프라인을 중지하지 않고 오류를 기록하므로 완료된 실행이 깔끔한 확인을 보장하지는 않습니다.
 * 이 단일 단계 명령은 완벽한 자체 포함 파이프라인이며, 자체 전용 명령이 있는 유지 관리 모드(단계별 마이그레이션) 워크플로우의 내부 단계로 사용하지 마십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496321?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496316?learn=on)

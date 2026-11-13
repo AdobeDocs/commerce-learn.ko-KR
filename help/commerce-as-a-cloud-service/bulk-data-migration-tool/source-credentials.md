@@ -7,7 +7,7 @@ doc-type: Technical Video
 topic: Migration
 feature: Data Import/Export
 duration: 238
-last-substantial-update: 2026-07-21T00:00:00.000Z
+last-substantial-update: 2026-07-21
 jira: KT-22095
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -43,4 +43,4 @@ ht-degree: 0%
 * 4개의 필수 토큰을 생성하려면 통합을 활성화합니다.
 * 소스가 Adobe Commerce as a Cloud Service(PaaS)인 경우 account.magento.cloud에서 Magento CLI 토큰을 검색합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496147?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496142?learn=on)

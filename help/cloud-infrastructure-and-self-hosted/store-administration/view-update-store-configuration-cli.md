@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 510
-last-substantial-update: 2024-01-31T00:00:00.000Z
+last-substantial-update: 2024-01-31
 jira: KT-14877
 exl-id: 6cecba51-8d39-46f5-9864-80126d8ca3da
 TQID: 'https://experienceleague.adobe.com/W0kaFd-DJAPA1kFO0hWaBZXsSarojbt5Hnv3QkW85hA'
@@ -37,7 +37,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Commerce CLI를 사용하여 구성 값을 보고, 설정하고, 찾는 방법�
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3439977?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427123?learn=on)
 
 ## 자습서에서 사용되는 일부 명령
 
@@ -87,5 +87,5 @@ SELECT * FROM core_config_data WHERE path = 'trans_email/ident_sales/email';
 
 ## 추가 리소스
 
-* [명령줄 도구](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html?lang=ko){target="_blank"}
-* [관리자 보안 구성](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html?lang=ko){target="_blank"}
+* [명령줄 도구](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+* [관리자 보안 구성](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}

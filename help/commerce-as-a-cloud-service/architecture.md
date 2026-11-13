@@ -4,7 +4,7 @@ description: 확장 가능하고 안전하며 유연한 전자 상거래 솔루�
 jira: KT-17220
 doc-type: Technical Video
 duration: 235
-last-substantial-update: 2025-01-30T00:00:00.000Z
+last-substantial-update: 2025-01-30
 feature: Catalog Management, Catalog Service, Services
 topic: Architecture, Commerce, Headless, Performance
 role: Developer
@@ -46,7 +46,7 @@ topic_v2:
     internal-label: Customer experience
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -73,4 +73,4 @@ Adobe Commerce as a Cloud Service의 아키텍처 및 주요 기능에 대해 �
 * 포괄적인 API 범위: 이 플랫폼은 GraphQL 및 REST API를 사용하여 광범위한 API 범위를 지원하므로 서드파티 시스템과의 원활한 통합이 가능합니다.
 * 분리된 아키텍처: 완전히 분리된 아키텍처를 통해 개발자는 다양한 프론트엔드 프레임워크를 사용하여 유연성과 성능을 제공할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443274?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)

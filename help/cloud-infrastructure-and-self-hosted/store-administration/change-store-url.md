@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 136
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Native Luma Frontend Development
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -59,11 +59,11 @@ Adobe Commerce 또는 Magento Open Source 설치의 각 웹 사이트에는 상�
 
 >[!NOTE]
 >
->이 비디오의 콘텐츠는 2.1.0 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/overview)를 참조하세요.
+>이 비디오의 콘텐츠는 2.1.0 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview)를 참조하세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507856?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35488?learn=on)
 
 ## 추가 리소스
 
-* [URL 저장 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/ko/docs/commerce-admin/stores-sales/site-store/store-urls)
-* [사용자 지정 관리자 URL 사용 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/ko/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url)
+* [URL 저장 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-urls)
+* [사용자 지정 관리자 URL 사용 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url)

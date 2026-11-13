@@ -3,7 +3,7 @@ title: 고객 세그먼트 만들기
 description: 주소, 주문 내역, 장바구니 데이터 등을 사용하여 콘텐츠 및 프로모션을 타겟팅할 수 있도록 고객 세그먼트를 만드는 방법을 알아봅니다.
 doc-type: Technical Video
 duration: 221
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Price Rules
 topic: Commerce, Administration, Content Management
 role: Admin, User
@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -61,9 +61,9 @@ ht-degree: 0%
 * 고객 속성, 주문 및 장바구니 데이터에서 세그먼트를 작성합니다.
 * 세그먼트를 프로모션 및 장바구니 가격 규칙에 연결합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410192?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343659?learn=on)
 
 ## 추가 리소스
 
-* [고객 세그먼트 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html?lang=ko){target="_blank"}
-* [가격 규칙 - [!DNL Commerce] 고객 관리 안내서의 고객 세그먼트](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html?lang=ko){target="_blank"}
+* [고객 세그먼트 - [!DNL Commerce] 고객 관리 안내서](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html){target="_blank"}
+* [가격 규칙 - [!DNL Commerce] 고객 관리 안내서의 고객 세그먼트](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html){target="_blank"}

@@ -4,7 +4,7 @@ description: Adobe Commerce as a Cloud Service에 대해 알아봅니다. 구성
 jira: KT-17219
 doc-type: Technical Video
 duration: 231
-last-substantial-update: 2025-02-03T00:00:00.000Z
+last-substantial-update: 2025-02-03
 feature: Auto Scaling, Cloud, Services
 topic: Architecture, Commerce, Headless, Performance
 role: Developer
@@ -38,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
@@ -65,8 +65,8 @@ Adobe Commerce as a Cloud Service은 자동 업데이트 및 구성 가능한 �
 * 샌드박스 또는 프로덕션 인스턴스를 빠르고 효율적으로 설정할 수 있도록 간소화된 온보딩 및 셀프서비스 프로비저닝.
 * API 우선 확장성을 통해 서비스의 독립적인 배포, 확장 및 업데이트를 위한 구성 가능한 아키텍처입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443318?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
 
 ## 관련 설명서
 
-* [Adobe Commerce as a Cloud Service 안내서](https://experienceleague.adobe.com/ko/docs/commerce/cloud-service/overview)
+* [Adobe Commerce as a Cloud Service 안내서](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)

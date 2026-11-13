@@ -7,7 +7,7 @@ doc-type: Technical Video
 topic: Migration
 feature: Data Import/Export
 duration: 226
-last-substantial-update: 2026-07-21T00:00:00.000Z
+last-substantial-update: 2026-07-21
 jira: KT-22107
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -43,4 +43,4 @@ ht-degree: 0%
 * Adobe Developer Console의 **프로젝트** > **OAuth 서버 간**&#x200B;에서 Adobe IMS 클라이언트 ID 및 클라이언트 암호를 검색합니다.
 * 대상 조직 ID를 복사하고 사용자 환경에 맞게 CDMS 호스트, 포트 및 로컬 서버 설정을 구성합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496172?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496167?learn=on)

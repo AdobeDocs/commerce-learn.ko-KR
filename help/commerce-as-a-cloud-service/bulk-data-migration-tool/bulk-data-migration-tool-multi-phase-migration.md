@@ -6,7 +6,7 @@ topic: Migration
 role: Developer
 doc-type: Technical Video
 duration: 211
-last-substantial-update: 2026-07-27T00:00:00.000Z
+last-substantial-update: 2026-07-27
 jira: KT-22157
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -17,7 +17,7 @@ feature_v2:
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -39,4 +39,4 @@ ht-degree: 0%
 * 소스가 아직 라이브 상태인 동안 1단계가 실행됩니다. `bin console migration:before-maintenance`이(가) 구성을 확인하고 환경을 초기화하며 CDMS에 연결하고 마이그레이션을 등록하고 기능 테스트를 실행하고 합성 테스트 데이터를 만듭니다. 이 단계가 완료될 때까지 유지 관리 모드를 활성화하지 마십시오.
 * 3단계는 동결 환경에서 추출하는 것입니다. `bin/console migration:during-maintenance`은(는) 필요한 경우 PaaS 터널을 다시 열고, 소스에서 추출하고, 스테이징 보기를 정리하고, ACCS 대상으로 로드하고, 확인을 실행하고, 대상의 테스트 데이터를 정리합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496418?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496413?learn=on)
