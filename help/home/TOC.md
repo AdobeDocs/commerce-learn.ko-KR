@@ -4,15 +4,20 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 1e3b88ec32913a3f7c47490b0140d86eb3be4f18
+source-git-commit: ed6305c5f9feda262b5985886b1889c6eae55108
 workflow-type: tm+mt
-source-wordcount: '1042'
+source-wordcount: '1090'
 ht-degree: 2%
 ---
 
 # Adobe Commerce 비디오 및 자습서 {#tutorials}
 
 + [[!DNL Commerce] 튜토리얼](overview.md)
++ 시작 {#getting-started}
+  + Commerce 기능 {#capabilities}
+    + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
+    + [구성 가능한 Commerce](../capabilities/what-is-composable-commerce.md)
+
 + Adobe Commerce as a Cloud Service {#commerce-as-a-cloud-service}
   + [개요](../commerce-as-a-cloud-service/overview.md)
   + [아키텍처](../commerce-as-a-cloud-service/architecture.md)
@@ -155,7 +160,7 @@ ht-degree: 2%
       + [견적 라인 항목 할인](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [견적 라인 항목 노트](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 애플리케이션 개발 및 업그레이드 {#application-development-and-upgrades}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [제품 속성 추가](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [종속성 삽입 예](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -173,6 +178,8 @@ ht-degree: 2%
       + [대량 패키지](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
       + [개별 패키지](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
       + [모노레포](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
++ [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/overview)
+
 + App Builder {#app-builder}
   + 기초 {#foundations}
     + [App Builder 소개](../app-builder/foundations/introduction-to-app-builder.md)
@@ -209,11 +216,6 @@ ht-degree: 2%
     + [AI 도구 및 Adobe 스타터 키트](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
     + [구현 및 테스트](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
     + [Adobe에 피드백 제공](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-
-+ 시작 {#getting-started}
-  + Commerce 기능 {#capabilities}
-    + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
-    + [구성 가능한 Commerce](../capabilities/what-is-composable-commerce.md)
 
 + API 및 통합 {#apis-and-integration}
   + GraphQL 재단 {#graphql-rest}
@@ -295,6 +297,8 @@ ht-degree: 2%
     + [PWA Docker 개발](../pwa/pwa-docker-development.md)
     + [개발을 위한 Venia 설정](../pwa/set-up-venia-for-dev.md)
 
++ [AI 및 아젠틱 상거래](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+
 + 모니터링, 분석 및 지원 {#monitoring-analytics-support}
   + 가시성 {#observability}
     + [가시성 개요](../monitoring-analytics-support/observability/overview.md)
@@ -313,3 +317,5 @@ ht-degree: 2%
     + [지원 티켓 만들기](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [지원 티켓 검색, 검토, 주석 달기 및 에스컬레이션](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [지원 티켓 감시자 및 상태 관리](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
+
++ [웨비나 및 이벤트](https://experienceleague.adobe.com/en/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)
