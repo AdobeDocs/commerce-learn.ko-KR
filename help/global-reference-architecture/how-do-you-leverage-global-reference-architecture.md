@@ -44,12 +44,16 @@ topic_v2:
     internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '125'
 ht-degree: 0%
 ---
 # 글로벌 참조 아키텍처 활용
+
+>[!NOTE]
+>
+>이 시리즈에서는 클라우드 인프라 및 자체 호스팅 배포에 대한 Adobe Commerce을 다룹니다.
 
 글로벌 참조 아키텍처 또는 GRA를 활용하는 방법을 알아봅니다. 성공적인 구현을 위한 GRA를 보다 잘 준비하기 위해 Adobe 전문가들은 프로젝트의 다양한 단계에 대해 논의하고 검색 단계에 대해 자세히 설명합니다. QA 리소스에 대해 논의하고 GRA 구현에 귀중한 리소스인 이유를 설명합니다.
 
