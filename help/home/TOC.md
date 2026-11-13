@@ -4,10 +4,10 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: de9e426dad620ff9f242454e069e44919be39884
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
-source-wordcount: '1034'
-ht-degree: 3%
+source-wordcount: '1039'
+ht-degree: 2%
 ---
 
 # Adobe Commerce 비디오 및 자습서 {#tutorials}
@@ -213,15 +213,7 @@ ht-degree: 3%
 + 시작 {#getting-started}
   + Commerce 기능 {#capabilities}
     + [사용 가능한 상거래 옵션](../capabilities/adobes-available-commerce-options.md)
-    + [데이터 연결](../capabilities/data-connection.md)
     + [구성 가능한 Commerce](../capabilities/what-is-composable-commerce.md)
-  + 백오피스 통합 시작 키트 {#back-office-integration-starter-kit}
-    + [스타터 키트 데모](../back-office-integrations/starter-kit-demo.md)
-    + [통합](../back-office-integrations/integrations.md)
-    + [Source 코드 조직](../back-office-integrations/source-code-organization.md)
-    + [마지막 마일 통합](../back-office-integrations/last-mile-integration.md)
-    + [Webhook 수집](../back-office-integrations/webhook-ingestion.md)
-    + [재시도 메커니즘](../back-office-integrations/retry-mechanism.md)
 
 + API 및 통합 {#apis-and-integration}
   + GraphQL 재단 {#graphql-rest}
@@ -245,6 +237,27 @@ ht-degree: 3%
     + [단일 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-single-source.md)
     + [여러 소스 GraphQL API 메쉬 만들기](../api-mesh/graphql-multiple-source.md)
 
+  + 이벤트 및 웹후크 {#events-and-webhooks}
+    + Adobe Commerce에 대한 IO 이벤트 {#io-events}
+      + [IO 이벤트 시작](../io-events/getting-started-io-events.md)
+      + [Adobe Commerce 2.4.5 설치](../io-events/2-4-5-installation.md)
+      + [Adobe Commerce 2.4.6 설치](../io-events/2-4-6-installation.md)
+      + [App Builder 프로젝트 만들기](../io-events/create-app-builder-project.md)
+      + [Adobe Commerce 구성](../io-events/configure-commerce.md)
+      + [Adobe Commerce 모듈 개발](../io-events/commerce-module-development.md)
+      + [Adobe Commerce 조건부 이벤트](../io-events/conditional-events.md)
+
+  + 백오피스 통합 시작 키트 {#back-office-integration-starter-kit}
+    + [스타터 키트 데모](../back-office-integrations/starter-kit-demo.md)
+    + [통합](../back-office-integrations/integrations.md)
+    + [Source 코드 조직](../back-office-integrations/source-code-organization.md)
+    + [마지막 마일 통합](../back-office-integrations/last-mile-integration.md)
+    + [Webhook 수집](../back-office-integrations/webhook-ingestion.md)
+    + [재시도 메커니즘](../back-office-integrations/retry-mechanism.md)
+
+  + 데이터 통합 {#data-integrations}
+    + [데이터 연결](../capabilities/data-connection.md)
+
 + 확장성 {#extensibility}
   + Commerce 개발자 에이전트 {#commerce-developer-agent}
     + [개요](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
@@ -255,8 +268,19 @@ ht-degree: 3%
     + [기존 코드 마이그레이션](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
     + [결론](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder 시험 실행](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-  + 프론트엔드 Luma 개발 {#frontend-development}
-    + 개발자용 PaaS/SaaS 페이지 빌더 {#page-builder}
+
++ Storefront 개발 {#storefront-development}
+  + Edge Delivery Services의 Commerce 상점 {#edge-delivery-services}
+    + 시작 {#getting-started}
+      + [트랜잭션 플로우 변경](../edge-delivery-services/transactional-flow.md)
+      + [장바구니 항목에 대한 제품 속성 사용](../edge-delivery-services/product-attributes-cart-items.md)
+      + [체크아웃 시 주문 요약 업데이트](../edge-delivery-services/update-order-summary.md)
+      + [체크아웃에 BOPI 추가](../edge-delivery-services/add-bopis-to-checkout.md)
+      + [사용자 지정 체크아웃](../edge-delivery-services/customize-checkout.md)
+      + [주소 레이아웃 사용자 지정](../edge-delivery-services/customize-address-new-account-link.md)
+      + [쇼핑객 경험](../edge-delivery-services/shopper-experience.md)
+  + Luma 및 PHP 기반 상점 개발 {#frontend-development}
+    + 개발자용 페이지 빌더 {#page-builder}
       + [1 - 소개](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 - 구성 및 콘텐츠](../frontend-development/page-builder/2-config-create-content.md)
       + [3 - 테마](../frontend-development/page-builder/3-themes.md)
@@ -265,36 +289,18 @@ ht-degree: 3%
       + [6 - 사용자 지정 콘텐츠 유형](../frontend-development/page-builder/6-custom-content-types.md)
     + [JavaScript 모듈 추가](../frontend-development/add-javascript-module.md)
     + [페이지 만들기](../frontend-development/create-page.md)
-    + Edge Delivery Services {#edge-delivery-services}
-      + 시작 {#getting-started}
-        + [트랜잭션 플로우 변경](../edge-delivery-services/transactional-flow.md)
-        + [장바구니 항목에 대한 제품 속성 사용](../edge-delivery-services/product-attributes-cart-items.md)
-        + [체크아웃 시 주문 요약 업데이트](../edge-delivery-services/update-order-summary.md)
-        + [체크아웃에 BOPI 추가](../edge-delivery-services/add-bopis-to-checkout.md)
-        + [사용자 지정 체크아웃](../edge-delivery-services/customize-checkout.md)
-        + [주소 레이아웃 사용자 지정](../edge-delivery-services/customize-address-new-account-link.md)
-        + [쇼핑객 경험](../edge-delivery-services/shopper-experience.md)
-    + 헤드리스 아키텍처 {#headless-architecture}
-      + Headless 소개 {#introduction-to-headless}
-        + [헤드리스 아키텍처 - 세션 1](../headless/session-1.md)
-      + PWA Studio 소개 {#introduction}
-        + [개요](../pwa/introduction/1-overview.md)
-        + [PWA Studio 도구](../pwa/introduction/2-pwa-studio-tools.md)
-        + [시작](../pwa/introduction/3-launch.md)
-        + [위로](../pwa/introduction/4-upward.md)
-        + [시작](../pwa/introduction/5-getting-started.md)
-        + [페레그린](../pwa/introduction/6-peregrine.md)
-      + [PWA Docker 개발](../pwa/pwa-docker-development.md)
-      + [개발을 위한 Venia 설정](../pwa/set-up-venia-for-dev.md)
-  + 더 많은 App Builder 자습서 및 I/O 이벤트 {#adobe-developer-app-builder}
-    + Adobe Commerce에 대한 IO 이벤트 {#io-events}
-      + [IO 이벤트 시작](../io-events/getting-started-io-events.md)
-      + [Adobe Commerce 2.4.5 설치](../io-events/2-4-5-installation.md)
-      + [Adobe Commerce 2.4.6 설치](../io-events/2-4-6-installation.md)
-      + [App Builder 프로젝트 만들기](../io-events/create-app-builder-project.md)
-      + [Adobe Commerce 구성](../io-events/configure-commerce.md)
-      + [Adobe Commerce 모듈 개발](../io-events/commerce-module-development.md)
-      + [Adobe Commerce 조건부 이벤트](../io-events/conditional-events.md)
+  + 헤드리스 아키텍처 및 PWA Studio {#headless-architecture}
+    + Headless 소개 {#introduction-to-headless}
+      + [헤드리스 아키텍처 - 세션 1](../headless/session-1.md)
+    + PWA Studio 소개 {#introduction}
+      + [개요](../pwa/introduction/1-overview.md)
+      + [PWA Studio 도구](../pwa/introduction/2-pwa-studio-tools.md)
+      + [시작](../pwa/introduction/3-launch.md)
+      + [위로](../pwa/introduction/4-upward.md)
+      + [시작](../pwa/introduction/5-getting-started.md)
+      + [페레그린](../pwa/introduction/6-peregrine.md)
+    + [PWA Docker 개발](../pwa/pwa-docker-development.md)
+    + [개발을 위한 Venia 설정](../pwa/set-up-venia-for-dev.md)
 
 + 모니터링, 분석 및 지원 {#monitoring-analytics-support}
   + 가시성 {#observability}

@@ -1,9 +1,9 @@
 ---
 title: Commerce 스타터 키트의 Source 코드 조직
-description: 작업 및 스크립트, 자동화 스크립트, 이벤트 처리와 같은 주요 폴더를 포함하여 Commerce 통합 시작 키트의 소스 코드 구성에 대해 알아봅니다.
+description: 작업 및 스크립트 폴더, 자동화 스크립트, 이벤트 처리를 포함하여 Commerce 통합 시작 키트의 소스 코드 구성에 대해 알아봅니다.
 doc-type: Technical Video
 duration: 534
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -34,9 +34,9 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '367'
 ht-degree: 0%
 ---
 # Adobe 시작 키트에 대한 Source 코드 조직
