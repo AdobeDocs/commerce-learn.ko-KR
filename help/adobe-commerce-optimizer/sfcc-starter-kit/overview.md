@@ -27,9 +27,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '209'
 ht-degree: 0%
 ---
 # Salesforce Commerce Cloud 스타터 키트에 대해 알아보기
@@ -47,5 +47,14 @@ SFCC(Commerce Optimizer Commerce Cloud)를 Adobe의 Commerce Optimizer과 통합
 * Salesforce Commerce Cloud 통합 시작 키트의 목적에 대해 알아봅니다.
 * Starter Kit의 설치 위치 이해
 
->[!VIDEO](https://video.tv.adobe.com/v/3473985?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473977?learn=on)
 
+
+## Starter-kit 시리즈 계속
+
+1. [아키텍처 개요](./architecture-overview.md)
+2. [SFCC 카트리지 설치](./installation-sfcc-cartridge.md)
+3. [App Builder 스타터 키트](./app-builder-starter-kit.md)
+4. [엔드투엔드 데모](./end-to-end-demo.md)
+
+공유된 App Builder 개념에 대해서는 [App Builder 소개](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)를 참조하십시오.

@@ -32,9 +32,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '213'
 ht-degree: 0%
 ---
 # Adobe Commerce Optimizer 개요
@@ -53,9 +53,19 @@ Adobe Commerce Optimizer은 유기 트래픽을 강화하고 A/B 테스트와 �
 * 플랫폼을 다시 구축할 필요 없이 기존 ERP, CRM, OMS 및 기타 시스템과의 원활한 통합
 * 디지털 운영 확장
 
->[!VIDEO](https://video.tv.adobe.com/v/3450470?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
+
+## 학습 계속
+
+* [Adobe Commerce 비교 옵션](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [Adobe Commerce Optimizer의 첫 번째 인스턴스 만들기](./create-first-instance.md)
+* [Adobe Commerce Optimizer 인스턴스 관리](./managing-instances.md)
+* [샘플 데이터 수집](./ingest-sample-data.md)
+* [첫 번째 GraphQL 쿼리 실행](./first-query.md)
+* [Salesforce Commerce Cloud 스타터 키트](./sfcc-starter-kit/overview.md)
+* [구성 가능한 카탈로그 데이터 모델](./composable-catalog-data-model/why-ccdm-exists.md)
 
 ## 추가 리소스
 
-[[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
+[[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 
