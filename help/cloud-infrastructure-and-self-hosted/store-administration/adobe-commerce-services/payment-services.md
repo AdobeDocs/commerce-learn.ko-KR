@@ -58,7 +58,7 @@ Adobe Commerce 및 Magento Open Source을 위한 결제 서비스는 중소기�
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/343990?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410792?captions=kor&learn=on)
 
 ## 추가 리소스
 

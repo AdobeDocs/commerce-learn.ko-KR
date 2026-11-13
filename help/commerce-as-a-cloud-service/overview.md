@@ -65,7 +65,7 @@ Adobe Commerce as a Cloud Service은 자동 업데이트 및 구성 가능한 �
 * 샌드박스 또는 프로덕션 인스턴스를 빠르고 효율적으로 설정할 수 있도록 간소화된 온보딩 및 셀프서비스 프로비저닝.
 * API 우선 확장성을 통해 서비스의 독립적인 배포, 확장 및 업데이트를 위한 구성 가능한 아키텍처입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443318?captions=kor&learn=on)
 
 ## 관련 설명서
 

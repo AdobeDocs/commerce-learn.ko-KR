@@ -46,7 +46,7 @@ ht-degree: 0%
 
 잘못된 URL 변경 후 관리자에 다시 액세스하려면 Adobe Commerce Cloud CLI를 사용하여 관리자 URI를 재설정하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435066?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439699?captions=kor&learn=on)
 
 ## 자습서에서 사용되는 일부 명령
 

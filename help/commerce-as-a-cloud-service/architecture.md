@@ -73,4 +73,4 @@ Adobe Commerce as a Cloud Service의 아키텍처 및 주요 기능에 대해 �
 * 포괄적인 API 범위: 이 플랫폼은 GraphQL 및 REST API를 사용하여 광범위한 API 범위를 지원하므로 서드파티 시스템과의 원활한 통합이 가능합니다.
 * 분리된 아키텍처: 완전히 분리된 아키텍처를 통해 개발자는 다양한 프론트엔드 프레임워크를 사용하여 유연성과 성능을 제공할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443274?captions=kor&learn=on)
