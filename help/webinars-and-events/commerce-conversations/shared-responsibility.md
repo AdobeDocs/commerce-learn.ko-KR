@@ -61,12 +61,12 @@ Adobe 및 판매자가 Adobe Commerce Cloud의 보안을 유지하기 위한 책
 
 ## 추가 설명서
 
-* [보안 패치 릴리스 노트](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
+* [보안 패치 릴리스 노트](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/security-patches/overview)
 * [알림 채널](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
-* [Adobe 보안 게시판](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
-* [상거래 사이트 및 인프라 보호](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+* [Adobe 보안 게시판](https://helpx.adobe.com/kr/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [상거래 사이트 및 인프라 보호](https://experienceleague.adobe.com/ko/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
 
 ## 관련 자습서
 
-* [클라우드 인프라 및 자체 호스팅: 배포, 테스트, 모니터링 및 보안](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security)
-* [클라우드 인프라 및 자체 호스팅: 사전 실행 검사 목록](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [클라우드 인프라 및 자체 호스팅: 배포, 테스트, 모니터링 및 보안](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security)
+* [클라우드 인프라 및 자체 호스팅: 사전 실행 검사 목록](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)

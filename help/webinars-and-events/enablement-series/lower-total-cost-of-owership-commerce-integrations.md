@@ -115,9 +115,9 @@ Adobe Commerce과 다른 Adobe 제품 간의 원활한 데이터 흐름을 위�
 
 ## 관련 자습서
 
-* [App Builder 소개](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
-* [API Mesh 시작](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
-* [Adobe I/O Events 시작](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/events-and-webhooks/io-events/getting-started-io-events)
-* [데이터 연결](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [App Builder 소개](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [API Mesh 시작](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
+* [Adobe I/O Events 시작](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/apis-and-integration/events-and-webhooks/io-events/getting-started-io-events)
+* [데이터 연결](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

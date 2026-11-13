@@ -54,6 +54,6 @@ Adobe Commerce Success Accelerator에는 출시 자문, 업그레이드/마이�
 
 ## 관련 자습서
 
-* [클라우드 인프라 및 자체 호스팅: 사전 실행 검사 목록](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
-* [가시성 개요](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
-* [지원 티켓 만들기](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
+* [클라우드 인프라 및 자체 호스팅: 사전 실행 검사 목록](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [가시성 개요](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [지원 티켓 만들기](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)

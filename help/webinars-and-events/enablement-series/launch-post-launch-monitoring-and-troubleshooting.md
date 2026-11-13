@@ -69,8 +69,8 @@ ht-degree: 0%
 
 ## 관련 자습서
 
-* [클라우드 인프라 및 자체 호스팅: 사전 실행 검사 목록](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
-* [클라우드 인프라 및 자체 호스팅: New Relic 경고](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup)
-* [지원 티켓 만들기](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
+* [클라우드 인프라 및 자체 호스팅: 사전 실행 검사 목록](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [클라우드 인프라 및 자체 호스팅: New Relic 경고](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup)
+* [지원 티켓 만들기](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

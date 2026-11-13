@@ -55,9 +55,9 @@ Adobe Commerce의 클라우드 기반 플랫폼은 완벽하게 관리되는 인
 
 ## 관련 자습서
 
-* [Adobe Commerce as a Cloud Service 개요](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
-* [App Builder 소개](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
-* [API Mesh 시작](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
+* [Adobe Commerce as a Cloud Service 개요](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
+* [App Builder 소개](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [API Mesh 시작](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
 
 ## 이 시리즈의 추가 비디오
 

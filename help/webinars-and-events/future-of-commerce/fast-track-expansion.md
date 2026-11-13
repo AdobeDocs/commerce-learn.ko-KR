@@ -62,8 +62,8 @@ Adobe Commerce이 카탈로그 관리, B2B 상거래 및 다중 채널 확장성
 
 ## 관련 자습서
 
-* [Adobe Commerce Optimizer: 카탈로그 보기](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
-* [Adobe Commerce as a Cloud Service: 카탈로그 관리 및 머천다이징](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services)
+* [Adobe Commerce Optimizer: 카탈로그 보기](https://experienceleague.adobe.com/ko/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
+* [Adobe Commerce as a Cloud Service: 카탈로그 관리 및 머천다이징](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services)
 
 ## 이 시리즈의 추가 비디오
 

@@ -55,9 +55,9 @@ ht-degree: 0%
 
 ## 관련 자습서
 
-* [Adobe Commerce 비교 옵션](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
-* [Adobe Commerce as a Cloud Service 개요](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
-* [Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/overview)
+* [Adobe Commerce 비교 옵션](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [Adobe Commerce as a Cloud Service 개요](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
+* [Adobe Commerce Optimizer 개요](https://experienceleague.adobe.com/ko/docs/commerce-learn/adobe-commerce-optimizer/overview)
 
 ## 이 시리즈의 추가 비디오
 

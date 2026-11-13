@@ -89,6 +89,6 @@ Adobe Commerce의 2026년 로드맵에서는 실시간 데이터 공유, 개인�
 
 ## 관련 자습서
 
-* [데이터 연결](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
-* [가시성 개요](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
-* [App Builder 소개](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [데이터 연결](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [가시성 개요](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [App Builder 소개](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
