@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
+source-git-commit: 1e3b88ec32913a3f7c47490b0140d86eb3be4f18
 workflow-type: tm+mt
-source-wordcount: '1039'
+source-wordcount: '1042'
 ht-degree: 2%
 ---
 
@@ -155,7 +155,7 @@ ht-degree: 2%
       + [견적 라인 항목 할인](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [견적 라인 항목 노트](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 애플리케이션 개발 및 업그레이드 {#application-development-and-upgrades}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [제품 속성 추가](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [종속성 삽입 예](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -260,14 +260,7 @@ ht-degree: 2%
 
 + 확장성 {#extensibility}
   + Commerce 개발자 에이전트 {#commerce-developer-agent}
-    + [개요](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
-    + [블루프린트 및 개발 단계](../commerce-developer-agent/adobe-commerce-developer-agent-blueprint-and-develop-stages-technical-video.md)
-    + [통합 연결](../commerce-developer-agent/adobe-commerce-developer-agent-connect-integrations-technical-video.md)
-    + [배포, 연결, 설치](../commerce-developer-agent/adobe-commerce-developer-agent-deploy-associate-and-install-technical-video.md)
-    + [구성 및 테스트](../commerce-developer-agent/adobe-commerce-developer-agent-configure-and-test-technical-video.md)
-    + [기존 코드 마이그레이션](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
-    + [결론](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
-    + [App Builder 시험 실행](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
+    + [개발자 에이전트 학습 경로](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
 
 + Storefront 개발 {#storefront-development}
   + Edge Delivery Services의 Commerce 상점 {#edge-delivery-services}
