@@ -64,6 +64,6 @@ API 워크플로에 대해서는 [영업 담당자가 REST로 견적 시작](../
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3420390?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430580?captions=kor&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}
