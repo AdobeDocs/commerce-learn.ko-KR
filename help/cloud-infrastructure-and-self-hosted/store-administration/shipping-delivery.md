@@ -60,6 +60,6 @@ ht-degree: 0%
 
 ## 추가 리소스
 
-* [배송 설정 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-settings)
-* [기본 제공 방법 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/delivery#basic-delivery-methods)
-* [운송 회사 설정 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers)
+* [배송 설정 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/ko/docs/commerce-admin/stores-sales/delivery/shipping-settings)
+* [기본 제공 방법 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/ko/docs/commerce-admin/stores-sales/delivery/delivery#basic-delivery-methods)
+* [운송 회사 설정 - [!DNL Commerce] 경험 저장 및 구매 안내서](https://experienceleague.adobe.com/ko/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers)
