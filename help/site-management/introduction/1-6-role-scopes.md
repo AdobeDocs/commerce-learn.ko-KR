@@ -1,11 +1,11 @@
 ---
-title: 비즈니스 사용자용 [!DNL Commerce] - 역할 범위 및 권한
+title: 비즈니스 사용자 [!DNL Commerce]명 - 역할 범위 및 권한
 description: 사이트 또는 스토어별로 역할 범위(Adobe Commerce 전용) 및 관련 권한을 정의하는 방법을 알아봅니다.
 kt: 5763
-doc-type: video
+doc-type: Technical Video
 duration: 290
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Security, Roles/Permissions
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -35,9 +35,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 ---
 # 비즈니스 사용자용 [!DNL Commerce] - 역할 범위 및 권한
@@ -54,12 +54,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=ko)를 참조하세요.
+>이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)를 참조하세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/330045?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35948?learn=on)
 
 ## 추가 리소스
 
-[관리 사용자 계정 관리 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=ko)
+[관리 사용자 계정 관리 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[사용자 역할 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=ko)
+[사용자 역할 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

@@ -7,7 +7,7 @@ role: User
 level: Beginner
 doc-type: Value Video
 duration: 214
-last-substantial-update: 2025-04-08T00:00:00.000Z
+last-substantial-update: 2025-04-08
 jira: KT-17714
 exl-id: 5863babd-bab2-4ccd-8978-c9bb379500b7
 TQID: 'https://experienceleague.adobe.com/lHugngNcvU2CNxc49jPDsXajipcu8Y2bayQwd-YDe7E'
@@ -31,7 +31,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -52,4 +52,4 @@ Adobe Commerce 전문가 success plan에 대해 알아봅니다. 세 가지 지�
 * 3개의 지원 채널.
 * 서비스 수준 타겟.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505672?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457508?learn=on)

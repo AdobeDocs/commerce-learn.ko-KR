@@ -1,11 +1,11 @@
 ---
-title: 비즈니스 사용자용 [!DNL Commerce] - 저장소 보기 및 캐시 지우기
+title: 비즈니스 사용자 [!DNL Commerce]명 - 보기 저장 및 캐시 지우기
 description: 저장소 보기를 만들고 캐시를 지우는 방법을 알아봅니다.
 kt: 5761
-doc-type: video
+doc-type: Technical Video
 duration: 490
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -31,9 +31,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '76'
 ht-degree: 0%
 ---
 # 비즈니스 사용자용 [!DNL Commerce] - 저장소 보기 및 캐시 지우기
@@ -49,10 +49,10 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/330061?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35946?learn=on)
 
 ## 추가 리소스
 
-[웹 사이트, 스토어 및 보기 - [!DNL Commerce] 시작 안내서](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=ko)
+[웹 사이트, 스토어 및 보기 - [!DNL Commerce] 시작 안내서](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
-[캐시 관리 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html?lang=ko)
+[캐시 관리 - [!DNL Commerce] 관리 시스템 안내서](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)

@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 195
-last-substantial-update: 2025-05-12T00:00:00.000Z
+last-substantial-update: 2025-05-12
 jira: KT-18082
 exl-id: 8a109d90-a11c-4323-9486-abe48a2e1bff
 TQID: 'https://experienceleague.adobe.com/WU72DxFpsonlMV5EJSs6YK1nY8HeEnBrX-fFumYQib0'
@@ -36,7 +36,7 @@ topic_v2:
     internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -61,12 +61,12 @@ Adobe 및 판매자가 Adobe Commerce Cloud의 보안을 유지하기 위한 책
 
 ## 추가 설명서
 
-* [보안 패치 릴리스 노트](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/security-patches/overview)
+* [보안 패치 릴리스 노트](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
 * [알림 채널](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
-* [Adobe 보안 게시판](https://helpx.adobe.com/kr/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
-* [상거래 사이트 및 인프라 보호](https://experienceleague.adobe.com/ko/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+* [Adobe 보안 게시판](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [상거래 사이트 및 인프라 보호](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
 
 ## 관련 자습서
 
-* [클라우드 인프라 및 자체 호스팅: 배포, 테스트, 모니터링 및 보안](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security)
-* [클라우드 인프라 및 자체 호스팅: 사전 실행 검사 목록](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [클라우드 인프라 및 자체 호스팅: 배포, 테스트, 모니터링 및 보안](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security)
+* [클라우드 인프라 및 자체 호스팅: 사전 실행 검사 목록](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)

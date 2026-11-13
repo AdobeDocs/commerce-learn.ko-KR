@@ -1,11 +1,11 @@
 ---
 title: 비즈니스 사용자용 [!DNL Commerce] - 스토어 설정
-description: 로케일 설정, 저장 정보, 보안 및 비보안 URL, 웹 사이트 제목, 로고, 저작권 정보, 커뮤니케이션 이메일 로고, 저장 이메일 주소, 통화 옵션 및 환율에 대해 알아봅니다.
+description: 로케일, 스토어 정보, 보안/비보안 URL, 사이트 제목, 로고, 저작권, 이메일 로고 및 주소, 통화 옵션 및 환율에 대해 알아봅니다.
 kt: 5764
-doc-type: video
+doc-type: Technical Video
 duration: 390
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -31,9 +31,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '117'
 ht-degree: 0%
 ---
 # 비즈니스 사용자용 [!DNL Commerce] - 스토어 설정
@@ -58,10 +58,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=ko)를 참조하세요.
+>이 비디오의 콘텐츠는 2.3.1 릴리스에 반영됩니다. 이후 릴리스의 업데이트에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)를 참조하세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/330037?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35949?learn=on)
 
 ## 추가 리소스
 
-[스토어 세부 정보 - [!DNL Commerce] 시작 안내서](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html?lang=ko)
+[스토어 세부 정보 - [!DNL Commerce] 시작 안내서](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)

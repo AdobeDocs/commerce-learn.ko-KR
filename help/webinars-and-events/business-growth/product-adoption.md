@@ -8,7 +8,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 743
-last-substantial-update: 2025-10-13T00:00:00.000Z
+last-substantial-update: 2025-10-13
 jira: KT-19378
 exl-id: 9326f53d-e3aa-421f-bdaa-7be523a0ecd8
 TQID: 'https://experienceleague.adobe.com/1T7uFUgF8d70ZYRwYg3D6lv8Oegx3YFXBcO6CAZmO-s'
@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -63,10 +63,10 @@ Adobe Commerce은 단계적 접근 방식으로 Adobe Commerce as a Cloud Servic
 * App Builder 확장성을 사용하면 사용자 정의 논리를 서버리스 함수로 분리하여 간편하게 유지 관리할 수 있습니다.
 * Storefront 개선 사항은 드롭인 구성 요소 및 Edge 전달을 통해 성능과 콘텐츠 생성을 개선합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475755?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737?learn=on)
 
 ## 관련 자습서
 
-* [Adobe Commerce as a Cloud Service으로 마이그레이션](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
-* [App Builder 소개](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
-* [Edge Delivery Services의 Commerce 상점: 쇼핑객 경험](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Adobe Commerce as a Cloud Service으로 마이그레이션](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
+* [App Builder 소개](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Edge Delivery Services의 Commerce 상점: 쇼핑객 경험](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
