@@ -1,6 +1,6 @@
 ---
 title: 글로벌 참조 아키텍처를 설계하는 방법
-description: 글로벌 참조 아키텍처를 설계하는 방법을 알아봅니다. 글로벌 참조 아키텍처 프로젝트가 올바른 방향으로 시작되도록 하는 기술과 아이디어를 배웁니다.
+description: 코드 관리 기법, 설명서, 도구 및 팀 책임을 포함하여 Adobe Commerce을 위한 글로벌 참조 아키텍처를 설계하는 방법을 알아봅니다.
 jira: KT-14041
 doc-type: Value Video
 duration: 3108
@@ -42,12 +42,16 @@ topic_v2:
     internal-label: Implementation
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '158'
 ht-degree: 0%
 ---
 # GRA를 위한 설계
+
+>[!NOTE]
+>
+>이 시리즈에서는 클라우드 인프라 및 자체 호스팅 배포에 대한 Adobe Commerce을 다룹니다.
 
 간략히 글로벌 참조 아키텍처 또는 GRA를 설계하는 방법에 대해 알아봅니다. 성공적인 구현을 위해 GRA를 더 잘 준비하기 위해 Adobe 전문가들은 GRA가 무엇이고 무엇이 아닌지 논의합니다. 별도의 패키지, 분할 git 및 모노레포를 사용한 코드 관리에 대한 자세한 논의입니다. 성공적인 GRA 구현을 위해 설명서, 도구 및 인력 기대에 대한 다른 주제에서는 해당 부분을 자세히 설명합니다.
 

@@ -40,12 +40,16 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '86'
 ht-degree: 1%
 ---
 # 글로벌 참조 아키텍처
+
+>[!NOTE]
+>
+>이 시리즈에서는 클라우드 인프라 및 자체 호스팅 배포에 대한 Adobe Commerce을 다룹니다.
 
 글로벌 참조 아키텍처, 몇 가지 핵심 개념 및 이 접근 방식의 이점에 대해 알아봅니다.
 

@@ -1,6 +1,6 @@
 ---
 title: 글로벌 참조 아키텍처를 구현하는 방법
-description: 글로벌 참조 아키텍처를 구현하는 방법에 대해 알아봅니다. 웹 사이트, 성공 키 및 글로벌 참조 아키텍처 프로젝트가 올바른 방향으로 시작되도록 하는 데 필요한 역할을 배포하는 데 필요한 아이디어를 알아봅니다.
+description: 웹 사이트 배포, 성공 요소, 기능 개발 및 팀 역할을 포함하여 Adobe Commerce을 위한 글로벌 참조 아키텍처를 구현하는 방법을 알아봅니다.
 jira: KT-14042
 doc-type: Value Video
 duration: 2273
@@ -40,12 +40,16 @@ topic_v2:
     internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 ---
 # 글로벌 참조 아키텍처 구현
+
+>[!NOTE]
+>
+>이 시리즈에서는 클라우드 인프라 및 자체 호스팅 배포에 대한 Adobe Commerce을 다룹니다.
 
 글로벌 참조 아키텍처 또는 GRA를 구현하는 방법을 알아봅니다. 성공적인 GRA를 설정하는 데 도움이 되는 초기 결정에 대해 알아봅니다. 웹 사이트, 성공의 주요 요소 및 기능을 체계적으로 개발하기 위한 몇 가지 개념을 분리하는 방법에 대한 아이디어를 얻을 수 있습니다.
 
@@ -65,6 +69,6 @@ ht-degree: 0%
 * 글로벌 컨트롤 보드 - 작업 기능
 * 모듈 마켓플레이스로 GRA를 사용하기 위한 대체 개념
 
->[!VIDEO](https://video.tv.adobe.com/v/3457215?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}
