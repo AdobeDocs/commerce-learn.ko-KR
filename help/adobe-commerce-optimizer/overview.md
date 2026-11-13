@@ -57,7 +57,7 @@ Adobe Commerce Optimizer은 유기 트래픽을 강화하고 A/B 테스트와 �
 
 ## 학습 계속
 
-* [Adobe Commerce 비교 옵션](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [Adobe Commerce 비교 옵션](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
 * [Adobe Commerce Optimizer의 첫 번째 인스턴스 만들기](./create-first-instance.md)
 * [Adobe Commerce Optimizer 인스턴스 관리](./managing-instances.md)
 * [샘플 데이터 수집](./ingest-sample-data.md)
@@ -67,5 +67,5 @@ Adobe Commerce Optimizer은 유기 트래픽을 강화하고 A/B 테스트와 �
 
 ## 추가 리소스
 
-[[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+[[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
 

@@ -57,4 +57,4 @@ SFCC(Commerce Optimizer Commerce Cloud)를 Adobe의 Commerce Optimizer과 통합
 3. [App Builder 스타터 키트](./app-builder-starter-kit.md)
 4. [엔드투엔드 데모](./end-to-end-demo.md)
 
-공유된 App Builder 개념에 대해서는 [App Builder 소개](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)를 참조하십시오.
+공유된 App Builder 개념에 대해서는 [App Builder 소개](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)를 참조하십시오.
