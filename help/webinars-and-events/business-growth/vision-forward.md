@@ -2,7 +2,7 @@
 title: Adobe의 Vision Forward 로드맵을 통한 비즈니스 성장
 description: Adobe Commerce의 B2B 상점 로드맵, 실시간 개인화, 결제, AI 기반 판매자 및 개발자 경험을 살펴보십시오.
 feature: App Builder,  B2B, Catalog Management,  Cloud,  Extensibility, Observability, Payments, Personalization, Storefront, Saas
-topic: Administration, Artificial Intelligence,  Commerce,  Development, Headless,  Performance, Personalization, Security
+topic: Administration, Commerce, Development, Headless, Performance, Personalization, Security
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -62,9 +62,9 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '221'
 ht-degree: 0%
 ---
 # Adobe의 Vision Forward 로드맵을 통한 비즈니스 성장
@@ -86,3 +86,9 @@ Adobe Commerce의 2026년 로드맵에서는 실시간 데이터 공유, 개인�
 * 개발자 경험 및 가시성 개선 사항
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475713?captions=kor&learn=on)
+
+## 관련 자습서
+
+* [데이터 연결](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [가시성 개요](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [App Builder 소개](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)

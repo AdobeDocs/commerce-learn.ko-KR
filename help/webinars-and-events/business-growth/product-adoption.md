@@ -2,7 +2,7 @@
 title: AI 도구를 사용하여 Adobe Commerce 마이그레이션 간소화
 description: Adobe Commerce이 확장 가능한 비즈니스 성장을 위해 AI 도구, 모듈식 채택 및 신속한 개발을 통해 클라우드 마이그레이션을 간소화하는 방법에 대해 알아봅니다.
 feature: App Builder, Storefront, Extensions, Merchandising
-topic: Artificial Intelligence, Migration, Commerce
+topic: Migration, Commerce
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -40,9 +40,9 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '283'
 ht-degree: 0%
 ---
 # 신제품 채택을 단순화하여 비즈니스 성장
@@ -64,3 +64,9 @@ Adobe Commerce은 단계적 접근 방식으로 Adobe Commerce as a Cloud Servic
 * Storefront 개선 사항은 드롭인 구성 요소 및 Edge 전달을 통해 성능과 콘텐츠 생성을 개선합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475755?captions=kor&learn=on)
+
+## 관련 자습서
+
+* [Adobe Commerce as a Cloud Service으로 마이그레이션](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
+* [App Builder 소개](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Edge Delivery Services의 Commerce 상점: 쇼핑객 경험](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)

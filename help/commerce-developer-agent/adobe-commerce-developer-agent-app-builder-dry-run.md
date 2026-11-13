@@ -7,14 +7,13 @@ role: Developer
 level: Intermediate
 doc-type: Tutorial
 duration: 438
-last-substantial-update: 2026-08-28T00:00:00Z
-source-git-commit: 92af5355fa31c1ce9e627679b0a1bb92cce0e1d8
+last-substantial-update: 2026-08-28
+jira: KT-23144
+source-git-commit: 1e3b88ec32913a3f7c47490b0140d86eb3be4f18
 workflow-type: tm+mt
 source-wordcount: '1700'
 ht-degree: 0%
-
 ---
-
 # Adobe Commerce 개발자 에이전트 App Builder dry run
 
 Adobe Commerce 개발자 에이전트(CDA)를 사용하여 Commerce 확장성 사용 사례를 구축, 배포 및 테스트하는 실습 워크플로우입니다. 이 드라이 실행은 블루프린트에서 기능 테스트에 이르기까지 장바구니 수량 제한 웹후크, 고가치 주문 보류 및 보류된 주문에 대한 이벤트 기반 보관 등 세 가지 사용 사례를 다룹니다.

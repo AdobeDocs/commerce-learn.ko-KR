@@ -52,10 +52,10 @@ topic_v2:
     internal-label: Accessibility
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '389'
-ht-degree: 1%
+source-wordcount: '437'
+ht-degree: 0%
 ---
 # Edge Delivery Services과 Adobe Commerce
 
@@ -82,5 +82,10 @@ ht-degree: 1%
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429059?learn=on)
+
+## 관련 자습서
+
+* [Edge Delivery Services의 Commerce 상점: 쇼핑객 경험](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Edge Delivery Services에서 체크아웃 맞춤화](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/customize-checkout)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

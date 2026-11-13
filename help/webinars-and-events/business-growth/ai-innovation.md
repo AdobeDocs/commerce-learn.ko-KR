@@ -2,7 +2,7 @@
 title: AI 혁신을 통한 비즈니스 성장
 description: Adobe Commerce을 통해 AI 기반의 전자 상거래 성장을 탐색하여 검색 기능을 강화하고, 매장을 최적화하고, 전 세계로 확장할 수 있습니다.
 feature: App Builder, Catalog Service, Extensibility, Observability,  Personalization, Reporting, Saas, Storefront
-topic: Artificial Intelligence, Migration, Commerce
+topic: Migration, Commerce
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -50,9 +50,9 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '207'
 ht-degree: 0%
 ---
 # AI 혁신을 통한 비즈니스 성장
@@ -72,3 +72,9 @@ Adobe Commerce이 첨단 AI 솔루션과 SaaS 우선 전략을 통해 전자 상
 * 대화형 Commerce을 통해 Storefront 경험 향상
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475702?captions=kor&learn=on)
+
+## 관련 자습서
+
+* [Commerce MCP 개요](https://experienceleague.adobe.com/ko/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+* [Commerce 개발자 에이전트 학습 경로](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+* [Adobe Commerce Optimizer: 구성 가능한 카탈로그 데이터 모델](https://experienceleague.adobe.com/ko/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)

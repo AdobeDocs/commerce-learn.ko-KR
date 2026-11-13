@@ -83,9 +83,9 @@ topic_v2:
     internal-label: Insights
   - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
     internal-label: Content and assets
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '375'
 ht-degree: 0%
 ---
 # Adobe Commerce 통합을 위한 TOC 낮추기
@@ -112,5 +112,12 @@ Adobe Commerce과 다른 Adobe 제품 간의 원활한 데이터 흐름을 위�
 * 디지털 상거래 환경에서 다양한 시스템 및 접점을 통합하는 것과 관련된 당면 과제 및 비용에 대한 설명.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428768?learn=on)
+
+## 관련 자습서
+
+* [App Builder 소개](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [API Mesh 시작](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
+* [Adobe I/O Events 시작](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/apis-and-integration/events-and-webhooks/io-events/getting-started-io-events)
+* [데이터 연결](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce 출시, 출시 후 및 지속적인 모니터링과 문제 해결
-description: 웹 사이트를 준비하고 시작하는 모범 사례와 팁에 대해 알아봅니다. 올바른 스테이징 환경을 선택하고, 지원 티켓에 관련 세부 정보를 제공하며, 지원 팀과 동일한 모니터링 도구를 사용하여 커뮤니케이션을 향상시키는 방법에 대해 알아봅니다.
+title: Adobe Commerce Cloud 시작, 모니터링 및 문제 해결
+description: 스테이징 환경, 세부 지원 티켓 및 공유 모니터링 도구를 사용하여 Adobe Commerce Cloud를 준비, 시작, 모니터링 및 해결하는 방법에 대해 알아봅니다.
 feature: Best Practices, Cloud
 topic: Architecture, Commerce, Performance
 old-role: Architect, Data Architect, Leader
@@ -41,9 +41,9 @@ topic_v2:
     internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '388'
 ht-degree: 0%
 ---
 # Adobe Commerce Cloud 시작, 모니터링 및 문제 해결
@@ -66,5 +66,11 @@ ht-degree: 0%
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428990?learn=on)
+
+## 관련 자습서
+
+* [클라우드 인프라 및 자체 호스팅: 사전 실행 검사 목록](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [클라우드 인프라 및 자체 호스팅: New Relic 경고](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup)
+* [지원 티켓 만들기](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

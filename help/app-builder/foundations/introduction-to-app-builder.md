@@ -34,9 +34,9 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
+source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '808'
 ht-degree: 0%
 ---
 # App Builder 소개
@@ -106,5 +106,9 @@ App Builder은 사용자 정의 애플리케이션을 개발하는 데 도움이
 개발을 시작할 준비가 되셨습니까? 다음 링크에는 시작하는 데 도움이 되는 샘플 응용 프로그램이 포함되어 있습니다.
 
 * [Adobe Developer 웹 사이트의 App Builder 코드 랩](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
+
+## 오퍼링별 예
+
+App Builder을 기반으로 구축된 Adobe Commerce Optimizer 통합의 경우 [Salesforce Commerce Cloud 시작 키트](https://experienceleague.adobe.com/ko/docs/commerce-learn/adobe-commerce-optimizer/sfcc-starter-kit/overview)를 따르십시오. 이 시리즈는 아키텍처, Salesforce 카트리지 설치, App Builder 스타터 키트 및 전체적인 데모를 다룹니다.
 
 {{$include /help/_includes/app-builder-related-links.md}}

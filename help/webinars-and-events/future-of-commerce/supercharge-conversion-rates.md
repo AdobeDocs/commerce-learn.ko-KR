@@ -28,9 +28,9 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '235'
 ht-degree: 0%
 ---
 # 수퍼차지 전환율
@@ -53,6 +53,12 @@ Adobe Commerce이 전환율을 최대 8%까지 과급하도록 설계된 첨단 
 * 통합된 비주얼 편집 도구
 
 >[!VIDEO](https://video.tv.adobe.com/v/3505717?captions=kor&learn=on)
+
+## 관련 자습서
+
+* [Edge Delivery Services의 Commerce 상점: 쇼핑객 경험](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Adobe Commerce as a Cloud Service: 생성 AI 콘텐츠 제작](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/genai-powered-content-creation)
+* [Adobe Commerce as a Cloud Service: storefront 실험](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation)
 
 ## 이 시리즈의 추가 비디오
 
