@@ -52,4 +52,4 @@ Adobe Commerce 전문가 success plan에 대해 알아봅니다. 세 가지 지�
 * 3개의 지원 채널.
 * 서비스 수준 타겟.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457508?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505672?captions=kor&learn=on)

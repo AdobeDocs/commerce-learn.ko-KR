@@ -57,4 +57,4 @@ Adobe의 조직 준비 성공 가속기에 대해 알아봅니다. 몇 가지 �
 * 변경 관리 및 커뮤니케이션 전략
 * 디지털 리뷰 및 벤치마킹
 
->[!VIDEO](https://video.tv.adobe.com/v/3457892?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505735?captions=kor&learn=on)

@@ -52,7 +52,7 @@ Adobe Commerce이 전환율을 최대 8%까지 과급하도록 설계된 첨단 
 * 개발자 지원 구성 요소 및 SDK
 * 통합된 비주얼 편집 도구
 
->[!VIDEO](https://video.tv.adobe.com/v/3458517?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505717?captions=kor&learn=on)
 
 ## 관련 자습서
 
