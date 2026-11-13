@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 624
-last-substantial-update: 2025-04-07T00:00:00.000Z
+last-substantial-update: 2025-04-07
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
 TQID: 'https://experienceleague.adobe.com/evduXZiZpjjhXbDahgpPjmemxRYcMhFJIwfu4GsYI9c'
@@ -32,7 +32,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '1127'
 ht-degree: 0%
@@ -70,7 +70,7 @@ magento-cloud CLI 도구는 개발자와 시스템 관리자가 Adobe Commerce C
 
 예제 코드의 이 초기 섹션 `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1`에서 환경에 대한 URL을 요청하고 있습니다. 반환된 값은 이 `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`과(와) 비슷합니다. 가끔씩 이 `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`과(와) 비슷하게 보입니다.  이 첫 번째 명령은 다소 간단하며, 이제 다음 명령으로 이동할 차례입니다.
 
-자세한 내용은 [Cloud CLI 개요](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}를 참조하십시오.
+자세한 내용은 [Cloud CLI 개요](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}를 참조하십시오.
 
 ## 검색 및 바꾸기에 `sed` 사용
 
@@ -140,4 +140,4 @@ dig +short 6.abcikdxbg789.ent.magento.cloud
 
 ## 관련 설명서
 
-* [지역 IP 주소](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [지역 IP 주소](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}

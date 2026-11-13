@@ -7,7 +7,7 @@ role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 324
-last-substantial-update: 2025-05-30T00:00:00.000Z
+last-substantial-update: 2025-05-30
 jira: KT-14593
 exl-id: 60314a97-1922-490f-be18-e5e5998075e2
 TQID: 'https://experienceleague.adobe.com/m1MKUwzUn4qsOhqnFYo94qaO9o9jA5tsrTyEHxtPlno'
@@ -50,7 +50,7 @@ topic_v2:
     internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -71,10 +71,10 @@ Adobe Commerce은 의료 기업이 HIPAA 규정을 준수할 수 있도록 설�
 * 이 솔루션에는 PHI를 위한 향상된 로깅 메커니즘이 포함되어 있으며 내부 Adobe 제품 및 외부 서드파티 서비스 모두와 통합 기능을 제공합니다.
 * Adobe Commerce은 지원 및 문제 해결을 위한 특수 스테이징 환경을 제공하여 민감한 데이터를 보호하고 환경이 프로덕션을 면밀히 미러링하도록 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463184?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463177?learn=on)
 
 ## 추가 설명서
 
-* [HIPAA 준비 - 데이터 연결](https://experienceleague.adobe.com/ko/docs/commerce/data-connection/hipaa-readiness)
-* [HIPAA 준비 - 규정 준수](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
-* [데이터 연결 설치](https://experienceleague.adobe.com/ko/docs/commerce/data-connection/fundamentals/install)
+* [HIPAA 준비 - 데이터 연결](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
+* [HIPAA 준비 - 규정 준수](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
+* [데이터 연결 설치](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)

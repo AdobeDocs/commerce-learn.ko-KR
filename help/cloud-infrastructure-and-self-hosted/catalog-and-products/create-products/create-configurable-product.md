@@ -6,7 +6,7 @@ doc-type: Tutorial
 duration: 1760
 audience: all
 activity: use
-last-substantial-update: 2023-12-15T00:00:00.000Z
+last-substantial-update: 2023-12-15
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
@@ -42,7 +42,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '998'
 ht-degree: 0%
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 REST API를 사용하여 구성 가능한 제품을 만듭니다.
 
-1. 후속 API 호출에 ID 번호를 사용하려면 [특성 집합](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=ko)의 특성을 가져옵니다.
+1. 후속 API 호출에 ID 번호를 사용하려면 [특성 집합](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)의 특성을 가져옵니다.
 1. 구성 가능한 제품에서 사용할 간단한 제품을 만듭니다.
 1. 구성 가능한 빈 제품을 만들고 간단한 제품을 연결합니다.
 1. 구성 가능한 제품에 대한 제품 속성을 설정합니다.
@@ -377,6 +377,6 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 ## 추가 리소스
 
 * [구성 가능한 제품 튜토리얼 만들기](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-* [구성 가능한 제품](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=ko){target="_blank"}
+* [구성 가능한 제품](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
 * [Adobe Developer REST 자습서](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

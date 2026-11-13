@@ -7,7 +7,7 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 581
-last-substantial-update: 2024-06-25T00:00:00.000Z
+last-substantial-update: 2024-06-25
 jira: KT-14910
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
 TQID: 'https://experienceleague.adobe.com/9jR79l0ERhs4UsQ9da2juigSktpcVE5IsiBnk83gCzc'
@@ -29,7 +29,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-11-11T17:29:20.958Z'
-source-git-commit: 20b453fcf567eee25d70450bdc9b739f16623f68
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '1105'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Adobe Commerce on cloud 프로젝트에 연결하고, 오프사이트 사용을 
 * MySQL Workbench 또는 TablePlus와 같은 데이터베이스 관리 도구를 사용하여 원격 Adobe Commerce 클라우드 프로젝트에 연결합니다.
 * 프로젝트에 연결하고 명령줄에서 SQL을 실행합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450043?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
 
 다음 방법 중 하나를 사용하여 클라우드 프로젝트에서 Adobe Commerce 데이터에 액세스할 수 있습니다.
 
@@ -55,7 +55,7 @@ Adobe Commerce on cloud 프로젝트에 연결하고, 오프사이트 사용을 
 
 ## Adobe Commerce Cloud CLI 도구 사용
 
-데이터베이스 덤프를 만들려면 [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview)가 설치되어 있어야 합니다. 로컬 컴퓨터에서 디렉터리를 열고 다음 명령을 실행합니다. `your-project-id`을(를) 프로젝트 ID(`asasdasd45q`과(와) 유사)로 바꿉니다. `your-environment-name`을(를) `master` 또는 `staging` 같은 환경 이름으로 바꾸십시오.
+데이터베이스 덤프를 만들려면 [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview)가 설치되어 있어야 합니다. 로컬 컴퓨터에서 디렉터리를 열고 다음 명령을 실행합니다. `your-project-id`을(를) 프로젝트 ID(`asasdasd45q`과(와) 유사)로 바꿉니다. `your-environment-name`을(를) `master` 또는 `staging` 같은 환경 이름으로 바꾸십시오.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -291,7 +291,7 @@ MariaDB 데이터베이스에 직접 액세스하려면 SSH를 사용하여 원�
    magento-cloud ssh
    ```
 
-2. [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/configure/app/properties/properties#relationships) 변수의 `database` 및 `type` 속성에서 MySQL 로그인 자격 증명을 검색합니다.
+2. [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/app/properties/properties#relationships) 변수의 `database` 및 `type` 속성에서 MySQL 로그인 자격 증명을 검색합니다.
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -337,7 +337,7 @@ MariaDB 데이터베이스에 직접 액세스하려면 SSH를 사용하여 원�
 
 ## SQL을 실행하기 위해 클라우드 프로젝트 데이터베이스에 직접 연결
 
-다음 메서드는 `magento-cloud` CLI를 사용하여 MySQL 데이터베이스에 직접 연결하고 SQL을 실행하여 쿼리를 빠르게 실행합니다. 이 데이터베이스의 복사본이 필요한 경우 [데이터베이스 덤프를 만들기](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud)하는 다른 방법 중 하나를 사용하십시오.
+다음 메서드는 `magento-cloud` CLI를 사용하여 MySQL 데이터베이스에 직접 연결하고 SQL을 실행하여 쿼리를 빠르게 실행합니다. 이 데이터베이스의 복사본이 필요한 경우 [데이터베이스 덤프를 만들기](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud)하는 다른 방법 중 하나를 사용하십시오.
 
 ```bash
 magento-cloud db:sql    
@@ -397,7 +397,7 @@ MariaDB [main]>
 
 ## 추가 리소스
 
-* [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview)
-* [MySQL 서비스 설정](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/configure/service/mysql)
-* [원격 MySQL 데이터베이스 연결 설정](https://experienceleague.adobe.com/ko/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote)
-* [클라우드 인프라의 Adobe Commerce에서 데이터베이스 덤프 만들기](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud)
+* [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview)
+* [MySQL 서비스 설정](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/service/mysql)
+* [원격 MySQL 데이터베이스 연결 설정](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote)
+* [클라우드 인프라의 Adobe Commerce에서 데이터베이스 덤프 만들기](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud)

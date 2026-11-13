@@ -8,7 +8,7 @@ doc-type: Technical Video
 duration: 4306
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Upgrade
 topic: Commerce, Administration
 old-role: Architect, Developer
@@ -44,7 +44,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-11-11T17:29:20.960Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 30%
@@ -69,10 +69,10 @@ ht-degree: 30%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3432519?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340038?learn=on)
 
 ## 추가 리소스
 
-* [업그레이드 안내서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=ko)
-* [릴리스된 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=ko)
-* [릴리스 일정](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=ko)
+* [업그레이드 안내서](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+* [릴리스된 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+* [릴리스 일정](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

@@ -7,7 +7,7 @@ role: Admin, Developer, Leader
 level: Intermediate
 doc-type: Tutorial
 duration: 285
-last-substantial-update: 2026-03-26T00:00:00.000Z
+last-substantial-update: 2026-03-26
 jira: KT-15161
 exl-id: 8ab5050c-61d5-4029-acb0-06043842b64f
 product_v2:
@@ -26,7 +26,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -43,10 +43,10 @@ ht-degree: 0%
 
 ## 비디오
 
->[!VIDEO](https://video.tv.adobe.com/v/3482043?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3482031?learn=on)
 
 ## 관련 설명서
 
-* [Commerce on Cloud — 프로젝트 개요](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/project/overview)
-* [성능 테스트 지침](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/develop/test/guidance)
+* [Commerce on Cloud — 프로젝트 개요](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
+* [성능 테스트 지침](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/guidance)
 * [사전 실행 검사 목록](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)

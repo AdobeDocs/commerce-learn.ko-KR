@@ -3,7 +3,7 @@ title: PhpStorm에서 호환성 업그레이드 도구 사용
 description: 업그레이드 전에 PhpStorm 플러그인과 함께 호환성 업그레이드 도구를 사용하여 비호환성을 찾고 해결하는 방법에 대해 알아봅니다.
 doc-type: Technical Video
 duration: 416
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Upgrade, Tools and External Services
 topic: Commerce, Administration
 role: Developer
@@ -32,7 +32,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-11-11T17:29:20.964Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -58,10 +58,10 @@ ht-degree: 0%
 * PhpStorm에서 UCT를 설치하고 실행합니다.
 * HTML 보고서를 검토하고 수정 사항의 우선 순위를 지정합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/344408?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
 
 ## 추가 리소스
 
-* [업그레이드 호환성 도구](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=ko){target="_blank"}
+* [업그레이드 호환성 도구](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html){target="_blank"}
 * [Magento PhpStorm 플러그인](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm){target="_blank"}
-* [릴리스된 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=ko){target="_blank"}
+* [릴리스된 버전](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html){target="_blank"}

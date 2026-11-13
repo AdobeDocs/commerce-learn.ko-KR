@@ -6,7 +6,7 @@ doc-type: Tutorial
 duration: 211
 audience: all
 activity: use
-last-substantial-update: 2023-8-15
+last-substantial-update: 2023-08-15
 feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
@@ -45,7 +45,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '846'
 ht-degree: 0%
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ## 수동으로 제품 만들기 {#manual-import}
 
-자주 업데이트하지 않는 소규모 카탈로그에 대해 수동으로 제품을 만드는 것이 좋습니다. 각 제품을 입력하는 데 시간이 걸리고 Commerce 관리자에 대한 기본 교육이 필요합니다. 수동 카탈로그 관리는 대부분의 스토어가 아닌 특정 상황에 적합합니다. 자세한 지침은 [제품 만들기](https://experienceleague.adobe.com/ko/docs/commerce-admin/catalog/products/product-create){target="_blank"}를 참조하세요. 카탈로그 관리 방법을 결합하는 경우 자동화를 도입하면 수동 편집을 제한합니다. 자동 업데이트는 수동 변경 내용을 덮어쓰고 혼동을 일으킬 위험이 있습니다. 통합에서 자동화 및 API를 통해 카탈로그를 관리하는 경우 [사용자 역할 및 권한](https://experienceleague.adobe.com/ko/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"}을 통해 관리자의 카탈로그 관리를 제한하십시오.
+자주 업데이트하지 않는 소규모 카탈로그에 대해 수동으로 제품을 만드는 것이 좋습니다. 각 제품을 입력하는 데 시간이 걸리고 Commerce 관리자에 대한 기본 교육이 필요합니다. 수동 카탈로그 관리는 대부분의 스토어가 아닌 특정 상황에 적합합니다. 자세한 지침은 [제품 만들기](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/products/product-create){target="_blank"}를 참조하세요. 카탈로그 관리 방법을 결합하는 경우 자동화를 도입하면 수동 편집을 제한합니다. 자동 업데이트는 수동 변경 내용을 덮어쓰고 혼동을 일으킬 위험이 있습니다. 통합에서 자동화 및 API를 통해 카탈로그를 관리하는 경우 [사용자 역할 및 권한](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"}을 통해 관리자의 카탈로그 관리를 제한하십시오.
 
 ### 이 접근 방식을 고려해야 하는 경우
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 ## 관리 CSV 가져오기 도구 {#admin-csv}
 
 이 도구를 사용하면 스토어 소유자가 상거래 관리자의 CSV 권한을 사용하여 카탈로그를 가져올 수 있습니다.
-[Commerce 관리자로부터 데이터 가져오기](https://experienceleague.adobe.com/ko/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+[Commerce 관리자로부터 데이터 가져오기](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
 
 장점:
 관리자로부터 CSV를 업로드하는 것은 카탈로그 관리에 대한 직접적인 접근 방식입니다. 이를 통해 중간 크기의 카탈로그에 대한 카탈로그 제품 업데이트를 더 빠르게 수행할 수 있습니다.
@@ -171,6 +171,6 @@ CSV 형식이 아닌 대용량 데이터 세트를 가져오는 기능.
 ## 추가 리소스
 
 * [새 REST CSV를 사용하여 데이터 가져오기](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-* [데이터 주 설명서 가져오기](https://experienceleague.adobe.com/ko/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
-* [Adobe Commerce 버전 2.4.6 릴리스 노트](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
+* [데이터 주 설명서 가져오기](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+* [Adobe Commerce 버전 2.4.6 릴리스 노트](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
 * [사용자, 역할 및 권한](../store-administration/users-roles-permissions.md){target="_blank"}

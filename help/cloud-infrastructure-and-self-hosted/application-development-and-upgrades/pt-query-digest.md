@@ -3,7 +3,7 @@ title: Percona Toolkit pt-query-digest를 사용하여 MySQL 쿼리 분석
 description: pt-query-digest를 사용하여 느린 로그, 일반 로그 및 이진 로그 파일에서 MySQL 쿼리, SHOW PROCESSLIST 및 tcpdump의 MySQL 프로토콜 데이터를 분석하는 방법에 대해 알아봅니다.
 doc-type: Technical Video
 duration: 506
-last-substantial-update: 2023-08-28T00:00:00.000Z
+last-substantial-update: 2023-08-28
 feature: Backend Development, Tools and External Services, Logs
 topic: Commerce, Development
 role: Developer
@@ -29,7 +29,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-11-11T17:29:20.956Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -50,7 +50,7 @@ pt-query-digest를 사용하는 이유와 분석을 개선하는 데 도움이 �
 * 이 Percona Toolkit 기능의 장점과 단점에 대해 알아보십시오
 * 결과를 이해하고 가능한 성능 단계를 고려해야 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452301?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
 
 ## 코드 참조
 
