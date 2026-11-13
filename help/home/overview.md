@@ -1,14 +1,14 @@
 ---
 title: '[!DNL Commerce]개의 비디오 및 튜토리얼'
 description: Adobe Commerce 및 Magento Open Source에 대한 비디오 및 자습서 모음입니다
-last-substantial-update: 2023-01-19T00:00:00.000Z
+last-substantial-update: 2026-11-13
 feature: B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder
 topic: Commerce, Architecture
 old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-duration: 29
+duration: 76
 TQID: 'https://experienceleague.adobe.com/vKBZdCBWH5s8AspGVsCkbJ2cDD-L81ZFxbMjbt3X7Uc'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -54,14 +54,23 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '387'
 ht-degree: 0%
 ---
 # Commerce 자습서 {#videos}
 
-[!DNL Commerce] 비디오 및 튜토리얼 컬렉션을 시작합니다. [설명서](https://experienceleague.adobe.com/docs/commerce.html?lang=ko)와 함께 이러한 리소스를 사용하면 Adobe Commerce 및 Magento Open Source을 사용하여 전자 상거래 비즈니스를 지원하는 방법을 배울 수 있습니다. 컬렉션은 백엔드 개발자, 프론트엔드 개발자, 시스템 관리자, 판매자 및 조직 내의 기타 역할에 유용한 콘텐츠를 제공하도록 설계되었습니다.
+[!DNL Commerce] 비디오 및 튜토리얼 컬렉션을 시작합니다. 제품 워크스루, 실제 데모, 단계별 기술 튜토리얼 및 Commerce 전문가와의 기록된 토론을 살펴보십시오. 이러한 리소스는 개발자, 설계자, 시스템 관리자 및 상인이 기능을 이해하고 솔루션을 구현하며 상거래 비즈니스를 관리하는 데 도움이 됩니다.
+
+프로젝트에 적합한 오퍼링으로 시작하십시오. Adobe Commerce as a Cloud Service, Adobe Commerce Optimizer, 클라우드 인프라의 Adobe Commerce, 자체 호스팅되는 Adobe Commerce 또는 Magento Open Source. 목차를 사용하여 제공 또는 공유 항목을 탐색합니다. 기능, 사전 요구 사항 및 구현 단계는 제공에 따라 다릅니다.
+
+* **계획 및 현대화:** Commerce 옵션을 비교하고, 아키텍처 및 배포 접근 방식을 살펴보고, 마이그레이션, 프로젝트 계획 및 구현 모범 사례에 대해 알아봅니다.
+* **빌드 및 통합:** App Builder, GraphQL, REST, API Mesh, 이벤트 및 웹후크를 사용하여 개발합니다. Edge Delivery Services을 포함한 백오피스 통합 및 상점 전면 개발에 대해 살펴봅니다.
+* **관리 및 운영:** 스토어 관리, 카탈로그, 콘텐츠, 마케팅, 머천다이징, B2B 워크플로 및 결제에 대해 알아봅니다. 클라우드 작업, 모니터링, 분석, 성능 및 문제 해결에 대한 지침을 확인하십시오.
+* **최적화 프로그램 및 AI 탐색:** 카탈로그 및 상점 기능에 대한 [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview) 튜토리얼을 탐색하십시오. 시맨틱 검색, Commerce MCP 및 개발자 워크플로에 대한 [AI 및 Agentic Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview) 안내서를 따르십시오.
+
+자세한 구현 관점, 제품 업데이트 및 비즈니스 논의를 보려면 [웨비나 및 이벤트](https://experienceleague.adobe.com/en/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation) 안내서를 살펴보십시오. 자세한 요구 사항 및 참조 정보는 [Commerce 설명서](https://experienceleague.adobe.com/en/docs/commerce)와 함께 비디오 및 튜토리얼을 사용하십시오.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -72,11 +81,12 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[Commerce 이벤트](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html?lang=ko) 스페이스에서는 요청 시 볼 수 있는 기록된 이벤트 콘텐츠에 액세스할 수 있습니다.
+>[Commerce 이벤트](https://experienceleague.adobe.com/en/events) 스페이스에서는 요청 시 볼 수 있는 기록된 이벤트 콘텐츠에 액세스할 수 있습니다.
 
 ## 추가 리소스
 
-* [판매자 설명서](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=ko)
-* [개발자 설명서](https://developer.adobe.com/commerce)
-* [Adobe 디지털 학습 서비스 - Adobe Commerce 교육 과정 카탈로그](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
-
+* [Commerce 설명서](https://experienceleague.adobe.com/en/docs/commerce) - Commerce 오퍼링에 대한 제품 안내서 및 참조 정보입니다.
+* [판매자 설명서](https://experienceleague.adobe.com/en/docs/commerce-admin/user-guides/home) - 클라우드 인프라 및 자체 호스팅 배포에 대한 설정 및 관리를 저장합니다.
+* [개발자 설명서](https://developer.adobe.com/commerce/) - API, SDK, 통합 및 확장성 리소스.
+* [Commerce 기술 자료](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/overview) - 문서 문제 해결, 알려진 문제 및 지원 지침.
+* [Experience League 교육 과정](https://experienceleague.adobe.com/en/courses?product=Commerce) - Experience League의 구조화된 학습.

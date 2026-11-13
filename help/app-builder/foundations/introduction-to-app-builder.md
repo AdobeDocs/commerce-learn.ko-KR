@@ -34,9 +34,9 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '809'
 ht-degree: 0%
 ---
 # App Builder 소개
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ## Adobe Commerce용 App Builder {#app-builder}
 
->[!VIDEO](https://video.tv.adobe.com/v/3432205?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412839?learn=on)
 
 Adobe Developer App Builder은 Adobe 솔루션을 확장하기 위해 사용자 정의 경험을 통합하고 만들기 위한 서버리스 확장성 플랫폼이며 이제 Adobe Commerce에서 사용할 수 있습니다. App Builder을 사용하면 Commerce 기본 기능을 확장하고 서드파티 솔루션과 통합하는 안전하고 확장 가능한 앱을 구축할 수 있습니다. 이제 개발자로서 Adobe Commerce을 통해 프로세스 외부 확장성을 활용할 수 있으며, 이를 통해 즉각적이고 장기적인 이점을 제공합니다.
 
@@ -109,6 +109,6 @@ App Builder은 사용자 정의 애플리케이션을 개발하는 데 도움이
 
 ## 오퍼링별 예
 
-App Builder을 기반으로 구축된 Adobe Commerce Optimizer 통합의 경우 [Salesforce Commerce Cloud 시작 키트](https://experienceleague.adobe.com/ko/docs/commerce-learn/adobe-commerce-optimizer/sfcc-starter-kit/overview)를 따르십시오. 이 시리즈는 아키텍처, Salesforce 카트리지 설치, App Builder 스타터 키트 및 전체적인 데모를 다룹니다.
+App Builder을 기반으로 구축된 Adobe Commerce Optimizer 통합의 경우 [Salesforce Commerce Cloud 시작 키트](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/sfcc-starter-kit/overview)를 따르십시오. 이 시리즈는 아키텍처, Salesforce 카트리지 설치, App Builder 스타터 키트 및 전체적인 데모를 다룹니다.
 
 {{$include /help/_includes/app-builder-related-links.md}}

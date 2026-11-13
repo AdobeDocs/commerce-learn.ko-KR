@@ -50,9 +50,9 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '208'
 ht-degree: 0%
 ---
 # AI 혁신을 통한 비즈니스 성장
@@ -71,10 +71,10 @@ Adobe Commerce이 첨단 AI 솔루션과 SaaS 우선 전략을 통해 전자 상
 * 카탈로그 혁신을 통한 글로벌 확장 가속화
 * 대화형 Commerce을 통해 Storefront 경험 향상
 
->[!VIDEO](https://video.tv.adobe.com/v/3475702?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475691?learn=on)
 
 ## 관련 자습서
 
-* [Commerce MCP 개요](https://experienceleague.adobe.com/ko/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+* [Commerce MCP 개요](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
 * [Commerce 개발자 에이전트 학습 경로](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
-* [Adobe Commerce Optimizer: 구성 가능한 카탈로그 데이터 모델](https://experienceleague.adobe.com/ko/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)
+* [Adobe Commerce Optimizer: 구성 가능한 카탈로그 데이터 모델](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)

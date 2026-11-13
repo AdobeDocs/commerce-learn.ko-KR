@@ -4,9 +4,9 @@ user-guide-description: 비디오 및 튜토리얼을 통해 Adobe Commerce 및 
 breadcrumb-title: 비디오 및 튜토리얼
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: ed6305c5f9feda262b5985886b1889c6eae55108
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '1090'
+source-wordcount: '1137'
 ht-degree: 2%
 ---
 
@@ -42,6 +42,23 @@ ht-degree: 2%
     + [Target 자격 증명](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
     + [단일 단계 마이그레이션](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
     + [다단계 마이그레이션](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
++ Adobe Commerce Optimizer {#adobe-commerce-optimizer}
+  + [개요](../adobe-commerce-optimizer/overview.md)
+  + [Adobe Commerce Optimizer의 첫 번째 인스턴스 만들기](../adobe-commerce-optimizer/create-first-instance.md)
+  + [Adobe Commerce Optimizer 인스턴스 관리](../adobe-commerce-optimizer/managing-instances.md)
+  + [샘플 데이터 수집](../adobe-commerce-optimizer/ingest-sample-data.md)
+  + [GraphQL을 사용한 첫 번째 쿼리](../adobe-commerce-optimizer/first-query.md)
+  + Salesforce Commerce Cloud 스타터 키트 {#sfcc-starter-kit}
+    + [개요](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
+    + [아키텍처 개요](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
+    + [SFCC 카트리지 설치](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
+    + [App Builder 시작 키트](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
+    + [엔드투엔드 데모](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
+  + 구성 가능한 카탈로그 데이터 모델 {#composable-catalog-data-model}
+    + [CCDM이 존재하는 이유](../adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists.md)
+    + [카탈로그 보기에 대해 알아보기](../adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views.md)
+    + [CCDM 정책에 대해 알아보기](../adobe-commerce-optimizer/composable-catalog-data-model/learn-about-ccdm-policies.md)
+
 + 클라우드 인프라 및 자체 호스팅 {#cloud-infrastructure-and-self-hosted}
   + 플랫폼 및 마이그레이션 {#platform-and-migration}
     + [마케팅 기법](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketecture.md)
@@ -160,7 +177,7 @@ ht-degree: 2%
       + [견적 라인 항목 할인](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [견적 라인 항목 노트](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 애플리케이션 개발 및 업그레이드 {#application-development-and-upgrades}
-    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=ko)
+    + [데이터베이스 테이블 수정 우수 사례](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [모듈 만들기](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [제품 속성 추가](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [종속성 삽입 예](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -178,7 +195,6 @@ ht-degree: 2%
       + [대량 패키지](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
       + [개별 패키지](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
       + [모노레포](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
-+ [Adobe Commerce Optimizer](https://experienceleague.adobe.com/ko/docs/commerce-learn/adobe-commerce-optimizer/overview)
 
 + App Builder {#app-builder}
   + 기초 {#foundations}
@@ -262,7 +278,7 @@ ht-degree: 2%
 
 + 확장성 {#extensibility}
   + Commerce 개발자 에이전트 {#commerce-developer-agent}
-    + [개발자 에이전트 학습 경로](https://experienceleague.adobe.com/ko/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+    + [개발자 에이전트 학습 경로](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
 
 + Storefront 개발 {#storefront-development}
   + Edge Delivery Services의 Commerce 상점 {#edge-delivery-services}
@@ -297,7 +313,7 @@ ht-degree: 2%
     + [PWA Docker 개발](../pwa/pwa-docker-development.md)
     + [개발을 위한 Venia 설정](../pwa/set-up-venia-for-dev.md)
 
-+ [AI 및 아젠틱 상거래](https://experienceleague.adobe.com/ko/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
++ [AI 및 아젠틱 상거래](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
 
 + 모니터링, 분석 및 지원 {#monitoring-analytics-support}
   + 가시성 {#observability}
@@ -318,4 +334,4 @@ ht-degree: 2%
     + [지원 티켓 검색, 검토, 주석 달기 및 에스컬레이션](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [지원 티켓 감시자 및 상태 관리](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ [웨비나 및 이벤트](https://experienceleague.adobe.com/ko/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)
++ [웨비나 및 이벤트](https://experienceleague.adobe.com/en/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)
