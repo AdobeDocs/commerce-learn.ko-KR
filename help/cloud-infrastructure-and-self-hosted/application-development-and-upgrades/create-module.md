@@ -4,7 +4,7 @@ description: Adobe Commerce에서 모듈을 생성 및 등록하고, 설정을 �
 jira: KT-5614
 doc-type: Technical Video
 duration: 958
-last-substantial-update: 2026-03-23T00:00:00.000Z
+last-substantial-update: 2026-03-23
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, Developer
@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-11-11T17:28:59.029Z'
-source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -53,7 +53,7 @@ ht-degree: 0%
 4. 모듈을 등록하고 설치하려면 `bin/magento setup:upgrade`을(를) 실행하십시오.
 5. 모듈이 작동하는지 확인합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412457?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
 
 ### module.xml 파일
 

@@ -3,7 +3,7 @@ title: 종속성 삽입 예
 description: 개체가 외부 삽입에 대한 종속성을 선언하고 유연성을 향상시키는 디자인 패턴인 Adobe Commerce의 종속성 삽입에 대해 알아봅니다.
 doc-type: Technical Video
 duration: 313
-last-substantial-update: 2026-06-19T00:00:00.000Z
+last-substantial-update: 2026-06-19
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Developer
@@ -33,7 +33,7 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
 autotag-review: '2026-11-11T17:28:59.032Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ## 비디오 콘텐츠
 
->[!VIDEO](https://video.tv.adobe.com/v/3412449?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35799?learn=on)
 
 ## 유용한 리소스
 

@@ -4,7 +4,7 @@ description: Experience Workspace이 Agentic AI Assistant를 사용하여 라이
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00.000Z
+last-substantial-update: 2026-06-11
 jira: KT-21574
 duration: 376
 product_v2:
@@ -16,7 +16,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Experience Workspace은 마케터와 개발자에게 파일 구조, 페이지 �
 * 카탈로그를 쿼리하고 전체 캠페인 페이지를 생성하라는 자연어 프롬프트
 * 게시 전 블록 수준 편집 및 라이브 에지 렌더링 미리 보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3492301?captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3492281)
 
 <!-- ## Additional resources -->
 

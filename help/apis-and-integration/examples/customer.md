@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 457
-last-substantial-update: 2026-01-27T00:00:00.000Z
+last-substantial-update: 2026-01-27
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
 TQID: 'https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0'
@@ -43,7 +43,7 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '509'
 ht-degree: 0%
@@ -63,7 +63,7 @@ Adobe Commerce as a Cloud Service에서 새로운 고객 REST API를 사용하�
 * Commerce as a Cloud Service에 올바른 REST API 끝점 형식 사용
 * 적절한 JSON 페이로드가 있는 POST 및 PUT 요청을 사용하여 프로그래밍 방식으로 고객 계정을 만들고 업데이트합니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3479369?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
 
 ## 코드 샘플
 
@@ -276,6 +276,6 @@ curl -s -X PUT \
 
 ## 참조
 
-* [Adobe Commerce as a Cloud Service 릴리스 노트](https://experienceleague.adobe.com/ko/docs/commerce/cloud-service/release-notes)
+* [Adobe Commerce as a Cloud Service 릴리스 노트](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
 * [SaaS REST API 참조](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [사용자 인증 안내서](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)

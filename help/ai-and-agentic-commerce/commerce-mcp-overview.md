@@ -4,7 +4,7 @@ description: Commerce MCP와 Adobe Commerce이 전체 카탈로그 및 장바구
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00.000Z
+last-substantial-update: 2026-06-11
 jira: KT-21570
 duration: 303
 product_v2:
@@ -16,7 +16,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -41,4 +41,4 @@ Adobe Commerce용 Commerce MCP는 개발자가 실시간 상거래 데이터 및
 * 다른 곳으로 이동하지 않고 대화 내에서 체크아웃 완료됨
 * 구매한 제품에 대한 구매 후 컨텍스트 기반 지침
 
->[!VIDEO](https://video.tv.adobe.com/v/3492319?captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3492285)

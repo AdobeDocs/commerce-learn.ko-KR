@@ -2,9 +2,9 @@
 title: Adobe 사용 가능한 상거래 옵션
 description: 온프레미스, 클라우드, SaaS 및 Commerce Optimizer과 같은 Adobe Commerce 배포 옵션을 비교하고 비즈니스에 적합한 모델을 선택하는 방법에 대해 알아봅니다.
 jira: KT-20236
-doc-type: tutorial
+doc-type: Tutorial
 duration: 360
-last-substantial-update: 2026-2-25
+last-substantial-update: 2026-02-25
 feature: Paas, Saas
 topic: Commerce, Architecture
 role: Admin, Leader, Developer
@@ -28,7 +28,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -51,10 +51,10 @@ Adobe의 상거래 옵션에 대해 알아봅니다. 몇 가지 주요 기능에
 * 백엔드를 교체하지 않고 상점 프론트를 현대화할 시기를 이해합니다.
 * DevOps 리소스, 확장성 및 비즈니스 목표를 기반으로 최적의 솔루션 파악
 
->[!VIDEO](https://video.tv.adobe.com/v/3480250?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480242?learn=on)
 
 ## 관련 설명서
 
-* [Adobe Commerce Cloud](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/overview){target=_blank}
-* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/ko/docs/commerce/cloud-service/overview){target="_blank"}
-* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview){target=&quot;_blank}
+* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview){target="_blank"}
+* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}

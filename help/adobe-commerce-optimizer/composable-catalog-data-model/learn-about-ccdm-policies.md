@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 349
-last-substantial-update: 2026-05-21T00:00:00.000Z
+last-substantial-update: 2026-05-21
 jira: KT-21258
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -44,7 +44,7 @@ ht-degree: 0%
 * API 요청 헤더에 의해 활성화된 트리거 정책(예: `AC-Policy-Brand`)
 * 카탈로그 재구축 없이 일상적인 작업에서 정책 업데이트
 
->[!VIDEO](https://video.tv.adobe.com/v/3491431?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
 
 **정책**&#x200B;은(는) **데이터 액세스 필터**&#x200B;입니다. 제품 속성을 검사하고 카탈로그 보기에서 노출할 수 있는 제품을 결정하는 규칙을 적용합니다. 정책은 공유 구성 가능한 카탈로그의 맨 위에 있으며 카탈로그 데이터를 복제하지 않습니다.
 
@@ -91,7 +91,7 @@ Celport 시나리오에서 STATIC 규칙은 다음과 같습니다.
 
 * [구성 가능한 카탈로그 데이터 모델이 있는 이유](./why-ccdm-exists.md)
 * [카탈로그 보기에 대해 알아보기](./learn-about-the-ccdm-feature-catalog-views.md)
-* [머천다이징 서비스에 대한 카탈로그 보기](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/overview){target="_blank"}
+* [머천다이징 서비스에 대한 카탈로그 보기](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 안내서](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [머천다이징 API 시작하기](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
 

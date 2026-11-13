@@ -3,7 +3,7 @@ title: MySQL 쿼리 캐싱 작동 방식 알아보기
 description: MySQL 쿼리 캐싱의 작동 방식, 느린 쿼리 로그에서 "쿼리 캐시 잠금 대기 중"을 찾아 캐싱 문제를 감지하는 방법 및 구성 팁에 대해 알아봅니다.
 doc-type: Technical Video
 duration: 444
-last-substantial-update: 2023-07-27T00:00:00.000Z
+last-substantial-update: 2023-07-27
 feature: Backend Development, Cache, Logs
 topic: Commerce, Development
 role: Developer
@@ -29,7 +29,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-11-11T17:29:20.954Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -51,9 +51,9 @@ MySQL 쿼리 캐시가 무엇이며 작동 방식에 대한 기본적인 이해�
 * SQL을 저장하고 일치하는 쿼리 캐시를 찾는 데 사용하는 방법을 확인하십시오.
 * 구성 설정에 대한 몇 가지 팁
 
->[!VIDEO](https://video.tv.adobe.com/v/3423387?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
 
 ## 유용한 리소스
 
-* [일반 MySQL 지침](https://experienceleague.adobe.com/ko/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
+* [일반 MySQL 지침](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
 * [Galera 복제 및 느린 쿼리](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication){target="_blank"}

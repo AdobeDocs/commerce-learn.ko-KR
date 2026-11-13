@@ -4,7 +4,7 @@ description: API Mesh 스타터 키트에서 GitHub 워크플로우를 사용하
 jira: KT-18388
 doc-type: Tutorial
 duration: 351
-last-substantial-update: 2025-06-27T00:00:00.000Z
+last-substantial-update: 2025-06-27
 feature: API Mesh, Tools and External Services, Backend Development, GraphQL, Storefront
 topic: App Builder, Commerce, Development, Integrations
 role: Developer
@@ -42,7 +42,7 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -62,10 +62,10 @@ ht-degree: 0%
 * 메쉬를 자동으로 배포하거나 업데이트하는 deployMesh 워크플로
 * K6 부하 테스트 워크플로우를 사용한 부하 테스트
 
->[!VIDEO](https://video.tv.adobe.com/v/3464531?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on)
 
 ## 관련 설명서
 
 * [API 메쉬 스타터 키트 GitHub 리포지토리](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Adobe Developer OAuth 서버-서버 구현 안내서](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
-* [API Mesh 비디오 재생 목록](https://experienceleague.adobe.com/ko/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [API Mesh 비디오 재생 목록](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)

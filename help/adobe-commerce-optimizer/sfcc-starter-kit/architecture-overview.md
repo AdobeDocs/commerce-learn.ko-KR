@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 288
-last-substantial-update: 2025-10-20T00:00:00.000Z
+last-substantial-update: 2025-10-20
 jira: KT-19014
 exl-id: 1e0edcbb-5619-45c2-b06d-9133f23a634f
 product_v2:
@@ -27,7 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -47,5 +47,5 @@ SFCC(Salesforce Commerce Cloud)와 Commerce Optimizer App Builder을 통합하�
 * 사용자 지정 SFCC 카트리지 및 API는 델타 내보내기를 통해 카탈로그 변경 사항을 감지하므로 Adobe App Builder과의 효율적인 데이터 동기화를 지원합니다.
 * App Builder 런타임 작업은 전체 및 델타 동기화, 유효성 검사 및 상태 추적을 관리하여 정확하고 충돌이 없는 Commerce Optimizer 업데이트를 보장합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476058?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)
 

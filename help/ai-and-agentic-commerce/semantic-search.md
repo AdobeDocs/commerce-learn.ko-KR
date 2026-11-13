@@ -4,7 +4,7 @@ description: Adobe Commerce 의미 체계 검색이 구매자 의도를 해석�
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00.000Z
+last-substantial-update: 2026-06-11
 jira: KT-21573
 duration: 192
 product_v2:
@@ -16,7 +16,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -40,9 +40,9 @@ ht-degree: 0%
 * 쇼핑객 의도와 향상된 검색 관련성의 실제 예
 * 주요 이점: 관련성 향상, 결과 없는 검색 횟수 감소, 쇼핑객 경험 개선
 
->[!VIDEO](https://video.tv.adobe.com/v/3492310?captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3492286)
 
 ## 추가 리소스
 
-- Adobe Commerce on Cloud, on-prem 및 Adobe Commerce as a Cloud Service에 대한 배포는 _실시간 검색 안내서_&#x200B;에서 [[!DNL Live Search] 의미 체계 검색](https://experienceleague.adobe.com/ko/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"}을 참조하십시오.
-- Adobe Commerce Optimizer을 사용하는 배포의 경우 _Commerce Optimizer 안내서_&#x200B;에서 [의미 체계 검색](https://experienceleague.adobe.com/ko/docs/commerce/optimizer/setup/semantic-search){target="_blank"}을 참조하십시오.
+- Adobe Commerce on Cloud, on-prem 및 Adobe Commerce as a Cloud Service에 대한 배포는 _실시간 검색 안내서_&#x200B;에서 [[!DNL Live Search] 의미 체계 검색](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"}을 참조하십시오.
+- Adobe Commerce Optimizer을 사용하는 배포의 경우 _Commerce Optimizer 안내서_&#x200B;에서 [의미 체계 검색](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/semantic-search){target="_blank"}을 참조하십시오.
