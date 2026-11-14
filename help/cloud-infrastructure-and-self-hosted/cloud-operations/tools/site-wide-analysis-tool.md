@@ -4,7 +4,7 @@ description: 사이트 전체 분석 도구 대시보드를 사용하여 Adobe C
 doc-type: Technical Video
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Security, Tools and External Services
 topic: Commerce, Administration
 old-role: Architect, Developer
@@ -46,7 +46,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%

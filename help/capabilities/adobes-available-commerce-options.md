@@ -2,9 +2,9 @@
 title: Adobe 사용 가능한 상거래 옵션
 description: 온프레미스, 클라우드, SaaS 및 Commerce Optimizer과 같은 Adobe Commerce 배포 옵션을 비교하고 비즈니스에 적합한 모델을 선택하는 방법에 대해 알아봅니다.
 jira: KT-20236
-doc-type: tutorial
+doc-type: Tutorial
 duration: 360
-last-substantial-update: 2026-2-25
+last-substantial-update: 2026-02-25
 feature: Paas, Saas
 topic: Commerce, Architecture
 role: Admin, Leader, Developer
@@ -28,7 +28,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%

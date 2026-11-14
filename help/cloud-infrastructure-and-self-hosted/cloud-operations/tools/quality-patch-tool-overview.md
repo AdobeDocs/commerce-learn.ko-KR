@@ -7,7 +7,7 @@ role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 903
-last-substantial-update: 2024-07-17T00:00:00.000Z
+last-substantial-update: 2024-07-17
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
 TQID: 'https://experienceleague.adobe.com/GpcJqSCn3XqLZtm-QdQ-ka9c-RdkG-C6Hd3FpXrh8-I'
@@ -51,7 +51,7 @@ topic_v2:
     internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -114,4 +114,4 @@ Quality Patches Tool을 사용하면 전자 상거래 플랫폼에서 패치를 
 * [릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [패치용 Github](https://github.com/magento/quality-patches/blob/master/patches/os/)
 * [품질 패치 도구 사용](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [QPT에 대한 기술 비디오](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool)
+* [QPT에 대한 기술 비디오](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool)

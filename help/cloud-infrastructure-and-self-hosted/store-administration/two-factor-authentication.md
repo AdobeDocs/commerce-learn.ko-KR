@@ -3,7 +3,7 @@ title: 이중 인증
 description: 2FA가 여러 공급자와 팀에 필요할 수 있는 로그인 메서드를 사용하여 Adobe Commerce 및 Magento Open Source의 관리자를 보호하는 방법을 알아봅니다.
 doc-type: Feature Video
 duration: 422
-last-substantial-update: 2026-03-26T00:00:00.000Z
+last-substantial-update: 2026-03-26
 feature: Configuration, System, Security
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -38,7 +38,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%

@@ -3,7 +3,7 @@ title: MySQL 느린 쿼리 로그에서 Galera DB 복제 진단
 description: Galera DB의 복제 설계가 보조 데이터베이스 동기화를 늦추는 방법, MySQL 느린 쿼리 로그에서 이러한 이벤트를 식별하는 방법 및 영향을 최소화하는 방법에 대해 알아봅니다.
 doc-type: Technical Video
 duration: 452
-last-substantial-update: 2023-07-18T00:00:00.000Z
+last-substantial-update: 2023-07-18
 feature: Backend Development, Logs, Services
 topic: Commerce, Development
 role: Developer
@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%

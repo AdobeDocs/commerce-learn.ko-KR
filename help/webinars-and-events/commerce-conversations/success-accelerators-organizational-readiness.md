@@ -1,13 +1,13 @@
 ---
 title: Success Accelerator 조직 준비
-description: Adobe의 조직 준비 성공 가속기에 대해 알아봅니다. Commerce Success Accelerator 조직 준비 는 전략적 계획, 워크플로, 변경 관리 및 디지털 검토에 도움이 됩니다.
+description: Adobe Commerce Success Accelerator가 전략적 계획, 워크플로, 변경 관리 및 디지털 검토를 통해 조직의 준비 상태를 지원하는 방법에 대해 알아봅니다.
 feature: Site Management, Support
 topic: Administration, Commerce
 role: User
 level: Beginner
 doc-type: Value Video
 duration: 133
-last-substantial-update: 2025-04-29T00:00:00.000Z
+last-substantial-update: 2025-04-29
 jira: KT-17904
 exl-id: 29e2a11b-1bbe-4975-a5c1-d86355e858a0
 TQID: 'https://experienceleague.adobe.com/BJ-tD-V23BCBSzyEcjDryOsdeskr0LwjYzPCHx5ercU'
@@ -35,9 +35,9 @@ topic_v2:
     internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '120'
 ht-degree: 0%
 ---
 # Success Accelerator 조직 준비

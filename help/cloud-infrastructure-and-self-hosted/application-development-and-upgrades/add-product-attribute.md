@@ -3,7 +3,7 @@ title: 제품 속성 만들기
 description: 사용자 지정 백엔드, 프론트엔드 및 소스 모델과 함께 드롭다운 유형 속성을 포함하여 Adobe Commerce에서 프로그래밍 방식으로 제품 속성을 만드는 방법을 알아봅니다.
 doc-type: Tutorial
 duration: 491
-last-substantial-update: 2023-02-10T00:00:00.000Z
+last-substantial-update: 2023-02-10
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, User
@@ -30,7 +30,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-11-11T17:28:59.031Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
